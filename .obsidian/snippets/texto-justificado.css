@@ -1,0 +1,13 @@
+/* Justificação na visualização de leitura */
+.markdown-preview-view p {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
+
+/* Justificação na visualização de edição e live preview */
+.markdown-source-view.mod-cm6 .cm-line {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
