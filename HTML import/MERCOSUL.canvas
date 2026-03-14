@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"9254987b3d3dff26","type":"text","text":"MERCOSUL\n","x":90,"y":-360,"width":395,"height":120,"color":"5"},
+		{"id":"e74cba2d99631d58","type":"text","text":"Conselho do Mercado Comum (CMC)","x":157,"y":33,"width":250,"height":87},
+		{"id":"60477570fdd606a5","x":-520,"y":-140,"width":250,"height":60,"type":"text","text":"MEMBROS"},
+		{"id":"43830f96bd578f0c","x":540,"y":33,"width":250,"height":87,"type":"text","text":"Tribunal Permanente de Revisão (TPR)"},
+		{"id":"81f330e06b01d6f9","x":-160,"y":33,"width":250,"height":87,"type":"text","text":"PARLASUL"},
+		{"id":"0c720bc5513f0b01","x":157,"y":400,"width":250,"height":85,"type":"text","text":"GRUPO MERCADO COMUM (GMC)"},
+		{"id":"a37f08d3d464582c","x":-285,"y":400,"width":250,"height":85,"type":"text","text":"Reunião de Ministros e Altas Autoridades"},
+		{"id":"1a61937ce2b44991","x":-820,"y":400,"width":250,"height":85,"type":"text","text":"GRUPOS"},
+		{"id":"bedecbb2fb67b3ee","x":700,"y":200,"width":250,"height":80,"type":"text","text":"Secretaria do Tribunal (ST)"},
+		{"id":"6e9522853524d8df","x":360,"y":240,"width":250,"height":85,"type":"text","text":"Tribunal Administrativo Trabalhista (TAL)"},
+		{"id":"485612cdd3612b31","x":758,"y":400,"width":250,"height":85,"type":"text","text":"Foro de Consultas e Concertação Política (FCCP)"},
+		{"id":"3f492834e1972415","x":1200,"y":400,"width":333,"height":86,"type":"text","text":"Comissão de Representantes Permanentes do Mercosul (CRPM)"},
+		{"id":"29968296e677a78e","x":90,"y":800,"width":409,"height":141,"type":"text","text":"Comissão de Comércio do Mercosul (CCM)"},
+		{"id":"7eba4c6ec7cc743e","type":"text","text":"ESTRUTURA","x":157,"y":-200,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"4797f7546326ce2e","fromNode":"7eba4c6ec7cc743e","fromSide":"bottom","toNode":"e74cba2d99631d58","toSide":"top"},
+		{"id":"f6028af03a40f641","fromNode":"e74cba2d99631d58","fromSide":"left","toNode":"81f330e06b01d6f9","toSide":"right","toEnd":"none"},
+		{"id":"b1fbece879b4c6d8","fromNode":"e74cba2d99631d58","fromSide":"right","toNode":"43830f96bd578f0c","toSide":"left","toEnd":"none"},
+		{"id":"68dae26a46701ae0","fromNode":"1a61937ce2b44991","fromSide":"top","toNode":"e74cba2d99631d58","toSide":"bottom","toEnd":"none"},
+		{"id":"ebf2ab5b9ad4f812","fromNode":"e74cba2d99631d58","fromSide":"bottom","toNode":"a37f08d3d464582c","toSide":"top","toEnd":"none"},
+		{"id":"28df634ef35a4ac4","fromNode":"e74cba2d99631d58","fromSide":"bottom","toNode":"0c720bc5513f0b01","toSide":"top","toEnd":"none"},
+		{"id":"a56f3d027eabce44","fromNode":"43830f96bd578f0c","fromSide":"bottom","toNode":"bedecbb2fb67b3ee","toSide":"top"},
+		{"id":"ef0665a1c04073d5","fromNode":"6e9522853524d8df","fromSide":"bottom","toNode":"0c720bc5513f0b01","toSide":"top"},
+		{"id":"7c2e30641a6d4553","fromNode":"485612cdd3612b31","fromSide":"top","toNode":"e74cba2d99631d58","toSide":"bottom","toEnd":"none"},
+		{"id":"175d5d3ce697e71c","fromNode":"e74cba2d99631d58","fromSide":"bottom","toNode":"3f492834e1972415","toSide":"top","toEnd":"none"},
+		{"id":"95e48199c0380544","fromNode":"e74cba2d99631d58","fromSide":"bottom","toNode":"29968296e677a78e","toSide":"top"}
+	]
+}

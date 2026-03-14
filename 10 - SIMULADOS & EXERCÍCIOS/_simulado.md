@@ -1,0 +1,994 @@
+# Simulado do Concurso de Admissão à Carreira de Diplomata – Prova da Manhã
+
+## Instruções
+
+- O candidato receberá do fiscal um caderno de prova contendo 36 (trinta e seis) questões e uma folha de respostas.
+    
+- Cada questão é composta por 4 (quatro) itens, que devem ser julgados como **CERTOS (C)** ou **ERRADOS (E)**.
+    
+- O candidato dispõe de 3 (três) horas para a realização da prova, incluindo o preenchimento da folha de respostas.
+    
+- Utilize apenas caneta esferográfica de tinta preta, fabricada em material transparente.
+    
+- A folha de respostas não poderá ser rasurada, dobrada, amassada ou manchada.
+    
+- O candidato somente poderá se retirar do local de provas após 1 (uma) hora do início da aplicação.
+    
+- O caderno de provas somente poderá ser levado pelo candidato nos últimos 15 (quinze) minutos do tempo de prova.
+    
+
+---
+
+## LÍNGUA PORTUGUESA
+
+**Texto I para as questões 1 e 2.**
+
+Quando retirei a faca da mala de roupas, embrulhada em um pedaço de tecido antigo e encardido, com nódoas escuras e um nó no meio, tinha pouco mais de sete anos. Minha irmã, Belonísia, que estava comigo, era mais nova um ano. Pouco antes daquele evento estávamos no terreiro da casa antiga, brincando com bonecas feitas de espigas de milho colhidas na semana anterior. Aproveitávamos as palhas que já amarelavam para vestir feito roupas nos sabugos. Falávamos que as bonecas eram nossas filhas, filhas de Bibiana e Belonísia. Ao percebermos nossa avó se afastar da casa pela lateral do terreiro, nos olhamos em sinal de que o terreno estava livre, para em seguida dizer que era hora de descobrir o que havia na mala que ela guardava com tanto esmero debaixo de sua cama.
+
+[...]
+
+Vi parte de meu rosto refletido como num espelho, assim como vi o rosto de minha irmã, mais distante. Belonísia tentou tirar a faca de minha mão e eu recuei. “Me deixa pegar, Bibiana.” “Espere.” Foi quando coloquei o metal na boca, tamanha era vontade de sentir seu gosto, e, quase ao mesmo tempo, a faca foi retirada de forma violenta. Meus olhos ficaram perplexos, vidrados nos de Belonísia, que agora também levava o metal à boca. Junto com o sabor de metal que ficou em meu paladar se juntou o gosto do sangue quente, que escorria pelo canto de minha boca semiaberta, e passou a gotejar pelo meu queixo. O sangue se pôs a embotar de novo o tecido encardido e de nódoas escuras que recobria a faca. Belonísia também retirou a faca da boca, mas levou a mão até ela como se quisesse segurar algo. Seus lábios ficaram tingidos de vermelho, não sabia se tinha sido a emoção de sentir a prata, ou se, assim como eu, tinha se ferido, porque dela também escorria sangue.
+
+Itamar Vieira Junior. _Torto Arado_. Todavia, 2019 (com adaptações).
+
+### Questão 1
+
+Com base na leitura do Texto I, julgue (C ou E) os itens a seguir.
+
+1. A faca, objeto central da cena, funciona como um símbolo polissêmico, representando simultaneamente a herança familiar, a violência latente na vida das personagens e o elo de silêncio e cumplicidade que se estabelece entre as irmãs a partir do incidente.
+    
+2. A narrativa constrói a tensão por meio da oposição entre a inocência da brincadeira infantil com bonecas de milho e a transgressão do ato de explorar os pertences da avó, culminando em uma experiência de descoberta marcada pela dor e pelo sangue.
+    
+3. O emprego de linguagem sensorial, como em "sabor de metal" e "gosto do sangue quente", é um recurso estilístico que intensifica a experiência das personagens, transferindo a dimensão física do acontecimento para o leitor.
+    
+4. O excerto contém uma crítica social implícita à negligência parental, uma vez que o acidente ocorre em um momento de distração da avó, que se afasta da casa e deixa as crianças sem supervisão.
+    
+
+### Questão 2
+
+No que se refere aos aspectos linguísticos do Texto I, julgue (C ou E) os itens a seguir.
+
+1. No trecho "para em seguida dizer que era hora de descobrir o que havia na mala", a locução "para em seguida" expressa uma relação de finalidade, indicando o propósito da ação anterior das meninas.
+    
+2. A forma verbal "amarelavam" está empregada com sentido conotativo, sugerindo que as palhas de milho estavam envelhecidas e perdendo a vitalidade, assim como a infância das personagens estava prestes a ser interrompida.
+    
+3. No período "O sangue se pôs a embotar de novo o tecido encardido e de nódoas escuras que recobria a faca", o pronome relativo "que" introduz uma oração adjetiva restritiva, essencial para a identificação do tecido em questão.
+    
+4. A estrutura sintática do último período é marcada pela coordenação e pela subordinação, em que a conjunção adversativa "mas" contrapõe a ação de retirar a faca da boca à de levar a mão até ela, e a conjunção causal "porque" explica o motivo do sangue escorrer também dos lábios de Belonísia.
+    
+
+**Texto II para as questões 3 e 4.**
+
+Já se disse, numa expressão feliz, que a contribuição brasileira para a civilização será de cordialidade — daremos ao mundo o “homem cordial”. A lhaneza no trato, a hospitalidade, a generosidade, virtudes tão gabadas por estrangeiros que nos visitam, representam, com efeito, um traço definido do caráter brasileiro, na medida, ao menos, em que permanece ativa e fecunda a influência ancestral dos padrões de convívio humano, informados no meio rural e patriarcal. Seria engano supor que essas virtudes possam significar “boas maneiras”, civilidade. O “homem cordial” é, antes de tudo, um ser no qual a esfera do privado tem um peso decisivo. Suas relações com os outros homens são, antes de tudo, de natureza pessoal e emotiva. A polidez, ao contrário, é uma forma de convívio social que implica a neutralização das emoções, a criação de uma barreira defensiva entre o indivíduo e a sociedade.
+
+Nossa forma ordinária de convívio social é, no fundo, justamente o contrário da polidez. Ela pode iludir na aparência — e isso se explica pelo fato de a atitude polida consistir precisamente em uma espécie de mímica deliberada de manifestações que são espontâneas no “homem cordial”: é a forma natural e viva que se converteu em fórmula. Além disso a polidez é, de algum modo, organização de defesa ante a sociedade. Detém-se na parte exterior, epidérmica do indivíduo, podendo mesmo servir, quando necessário, de peça de resistência. Equivale a um disfarce que permitirá a cada qual preservar intatas sua sensibilidade e suas emoções. No “homem cordial”, a vida em sociedade é, de certo modo, uma verdadeira libertação do pavor que ele sente em viver consigo mesmo.
+
+Sérgio Buarque de Holanda. _Raízes do Brasil_. Companhia das Letras, 1995 (com adaptações).
+
+### Questão 3
+
+Em relação às ideias e à estrutura argumentativa do Texto II, julgue (C ou E) os itens a seguir.
+
+1. O autor utiliza o conceito de "homem cordial" em seu sentido etimológico, derivado do latim _cordis_ (coração), para descrever um tipo humano que age primariamente com base na emoção e nos afetos, e não necessariamente com gentileza ou cortesia. 1
+    
+2. Segundo o texto, a cordialidade brasileira, manifesta na hospitalidade e na generosidade, é um legado direto da vida urbana e industrial, onde as relações impessoais exigem uma compensação afetiva.
+    
+3. A principal tese do autor é que a cordialidade, ao priorizar a esfera privada e as relações pessoais, representa um obstáculo à consolidação de uma esfera pública impessoal e de instituições baseadas em regras universais, o que constitui um traço problemático da formação social brasileira.
+    
+4. O autor estabelece uma clara oposição entre "cordialidade" e "polidez", definindo a segunda como um mecanismo de defesa do indivíduo perante a sociedade, que permite a preservação da interioridade por meio de um formalismo exterior.
+    
+
+### Questão 4
+
+No que concerne aos aspectos linguísticos e semânticos do Texto II, julgue (C ou E) os itens a seguir.
+
+1. A expressão "A lhaneza no trato", no primeiro parágrafo, pode ser substituída, sem prejuízo de sentido, por "A franqueza no tratamento", mantendo a ideia de sinceridade e simplicidade nas interações.
+    
+2. No trecho "Seria engano supor que essas virtudes possam significar 'boas maneiras', civilidade", o verbo "suportar" poderia substituir "supor" sem alterar a estrutura sintática ou o significado da frase.
+    
+3. O uso do travessão em "— daremos ao mundo o 'homem cordial' —" tem a função de intercalar um aposto explicativo que esclarece o conteúdo da "expressão feliz" mencionada anteriormente.
+    
+4. A palavra "epidérmica" é empregada em sentido figurado para caracterizar a polidez como algo superficial, que se atém à aparência externa do indivíduo, em contraste com a natureza visceral da cordialidade.
+    
+
+**Texto III para as questões 5 e 6.**
+
+**Motivo**
+
+Eu canto porque o instante existe
+
+e a minha vida está completa.
+
+Não sou alegre nem sou triste:
+
+sou poeta.
+
+Irmão das coisas fugidias,
+
+não sinto gozo nem tormento.
+
+Atravesso noites e dias
+
+no vento.
+
+Se desmorono ou se edifico,
+
+se permaneço ou me desfaço,
+
+— não sei, não sei. Não sei se fico
+
+ou passo.
+
+Sei que canto. E a canção é tudo.
+
+Tem sangue eterno a asa ritmada.
+
+E um dia sei que estarei mudo:
+
+— mais nada.
+
+Cecília Meireles. _Viagem_. 1939.
+
+### Questão 5
+
+Acerca da interpretação do poema (Texto III), julgue (C ou E) os itens a seguir.
+
+1. O poema é um exemplo de metapoesia, pois reflete sobre a própria natureza do fazer poético e a condição do poeta, que se define não por estados de ânimo, mas pela sua dedicação à arte. 3
+    
+2. A primeira estrofe estabelece que a motivação do eu lírico para o canto é a plenitude do momento presente, dissociando a criação poética de sentimentos como alegria ou tristeza.
+    
+3. Na segunda estrofe, a expressão "Irmão das coisas fugidias" e a imagem de atravessar "noites e dias no vento" reforçam o tema da efemeridade e da transitoriedade da vida e da própria arte.
+    
+4. A última estrofe expressa uma visão otimista da posteridade, na qual a "asa ritmada" com "sangue eterno" garante a imortalidade da obra poética, mesmo após o silêncio final do poeta.
+    
+
+### Questão 6
+
+Quanto aos recursos expressivos e à estrutura do Texto III, julgue (C ou E) os itens a seguir.
+
+1. Os dois-pontos no terceiro verso ("Não sou alegre nem sou triste: sou poeta") introduzem uma explicação que redefine a identidade do eu lírico, deslocando-a do campo emocional para o da vocação artística.
+    
+2. A antítese é uma figura de linguagem central no poema, presente em pares como "alegre/triste", "gozo/tormento", "desmorono/edifico" e "fico/passo", construindo a imagem de um ser que transcende as dualidades.
+    
+3. A repetição anafórica do "Se" no início dos versos da terceira estrofe cria um efeito de hesitação e incerteza, que é resolvido pela afirmação categórica "Sei que canto" no início da última estrofe.
+    
+4. O uso do travessão no último verso ("— mais nada.") serve para enfatizar a ideia de finitude e encerrar o poema de forma abrupta e conclusiva, reforçando a resignação do eu lírico diante da morte.
+    
+
+**Texto IV para as questões 7 e 8.**
+
+O espaço geográfico não é uma moldura inerte da vida social, mas um híbrido, uma mistura indissociável de materialidade e ação humana, de objetos e de relações. Nesse espaço, alguns lugares são dotados de "luminosidade", enquanto outros permanecem na "opacidade". A luminosidade não é apenas a luz física, mas a presença densa de técnica, de informação, de capital e de organização, que permite a certos pontos do território comandar os fluxos e as decisões. A opacidade, por sua vez, caracteriza as áreas onde esses elementos são rarefeitos, onde a informação chega com atraso ou de forma distorcida, e onde as possibilidades de ação são limitadas pela carência de meios técnicos e financeiros.
+
+Essa distribuição desigual de luminosidade e opacidade define uma cidadania mutilada. O cidadão que habita as áreas opacas, embora formalmente detentor de direitos, tem sua capacidade de exercê-los plenamente cerceada pela falta de acesso à informação qualificada, à mobilidade eficiente e às infraestruturas que são a base da vida moderna. A informação, hoje, é um recurso produtivo e um elemento fundamental da cidadania. Sem ela, o indivíduo torna-se um "cego" no território, incapaz de participar efetivamente da vida econômica, política e cultural. O espaço, portanto, qualifica ou desqualifica o cidadão.
+
+Milton Santos. _O Espaço do Cidadão_. Edusp, 2007 (com adaptações).
+
+### Questão 7
+
+Com base nas ideias do Texto IV, julgue (C ou E) os itens a seguir.
+
+1. Para o autor, o espaço geográfico é um agente passivo, servindo apenas como palco para as ações humanas, que são as verdadeiras responsáveis pelas desigualdades sociais.
+    
+2. Os conceitos de "luminosidade" e "opacidade" são utilizados metaforicamente para descrever, respectivamente, as áreas urbanas centrais, ricas em infraestrutura e informação, e as áreas periféricas, carentes desses recursos. 4
+    
+3. O autor argumenta que a cidadania é um conceito puramente jurídico e abstrato, cujo exercício independe das condições materiais e espaciais em que o indivíduo está inserido.
+    
+4. A tese central do texto é que a desigualdade na distribuição de técnica e informação no território cria diferentes "qualidades" de cidadania, limitando o exercício dos direitos para aqueles que vivem em áreas "opacas".
+    
+
+### Questão 8
+
+No que diz respeito aos aspectos linguísticos do Texto IV, julgue (C ou E) os itens a seguir.
+
+1. No primeiro período, a expressão "mas um híbrido" introduz uma retificação que corrige e aprofunda a definição de espaço geográfico apresentada na negação inicial ("não é uma moldura inerte").
+    
+2. O trecho "onde esses elementos são rarefeitos, onde a informação chega com atraso ou de forma distorcida, e onde as possibilidades de ação são limitadas" é composto por três orações subordinadas adjetivas coordenadas entre si, que caracterizam as "áreas" mencionadas anteriormente.
+    
+3. A expressão "embora formalmente detentor de direitos" introduz uma oração subordinada adverbial concessiva, que estabelece um contraste com a ideia de que a capacidade de exercer esses direitos é cerceada.
+    
+4. A palavra "portanto" estabelece uma relação de conclusão, indicando que a afirmação "o espaço [...] qualifica ou desqualifica o cidadão" é uma consequência lógica da argumentação desenvolvida no parágrafo.
+    
+
+**Texto V para as questões 9 e 10.**
+
+A ironia é frequente em Os Maias, de Eça de Queirós, servindo como ferramenta para a crítica social e para a caracterização das personagens. Um exemplo notável ocorre no episódio do jantar no Hotel Central, em que João da Ega, com grande pompa, defende a ideia de que Portugal precisava ser invadido e governado por uma nação estrangeira para se regenerar.
+
+"Era mister uma invasão, uma conquista, uma outra raça mais forte, de mais dura disciplina, que nos impusesse as suas leis, os seus costumes, a sua administração! Ega citava a Prússia. Ah, a Prússia! Um povo educado para a obediência e para o dever. Uma administração que era um modelo de precisão e honestidade. Um exército que era a encarnação da força consciente. E em Portugal? Em Portugal, dizia Ega, tínhamos a 'choldra ignóbil', a desordem, a corrupção, a fraqueza sentimental. Era preciso que um chicote prussiano estalasse sobre as nossas costas para nos ensinar a ordem e o progresso."
+
+A cena é construída de forma a expor o ridículo da personagem e da elite que ela representa. O exagero retórico de Ega, sua admiração acrítica por um modelo estrangeiro autoritário e seu desprezo pelo próprio país são apresentados pelo narrador com uma distância crítica que convida o leitor a perceber a superficialidade e o diletantismo daquela "inteligência" lisboeta.
+
+Texto adaptado de fontes críticas sobre a obra de Eça de Queirós.
+
+### Questão 9
+
+Considerando o texto e a obra _Os Maias_, julgue (C ou E) os itens a seguir.
+
+1. A ironia no discurso de João da Ega reside no contraste entre a seriedade com que ele apresenta sua tese e a natureza absurda e antipatriótica da própria proposta, revelando sua afetação intelectual.
+    
+2. A admiração de Ega pela Prússia, conforme descrita no texto, reflete um sentimento genuíno e compartilhado pelo narrador, que utiliza a personagem para expressar sua própria desesperança em relação ao futuro de Portugal.
+    
+3. O termo "choldra ignóbil", utilizado por Ega para descrever Portugal, demonstra seu profundo conhecimento da realidade social do país e sua preocupação sincera com a necessidade de reformas estruturais.
+    
+4. A cena do jantar no Hotel Central funciona como uma alegoria da própria sociedade portuguesa da época, caracterizada, na visão crítica de Eça de Queirós, pela imitação de modelos estrangeiros e pela incapacidade de gerar um projeto autônomo de nação.
+    
+
+### Questão 10
+
+Sobre os elementos linguísticos e estilísticos do Texto V, julgue (C ou E) os itens a seguir.
+
+1. A expressão "com grande pompa" qualifica o modo como João da Ega defende sua ideia, sugerindo uma atitude de ostentação e solenidade que contribui para a construção da ironia.
+    
+2. O uso de aspas em "'choldra ignóbil'" indica que a expressão é uma citação direta da fala da personagem, distanciando o narrador do juízo de valor contido nela.
+    
+3. A estrutura do segundo parágrafo é predominantemente descritiva, focando-se na análise do caráter de João da Ega e da função da cena no romance.
+    
+4. A palavra "diletantismo", no último período, refere-se à prática de uma arte ou ciência por mero passatempo, de forma superficial, e é usada para caracterizar negativamente a postura intelectual da elite representada por Ega.
+    
+
+## POLÍTICA INTERNACIONAL
+
+### Questão 11
+
+Sob o lema "Construindo um Mundo Justo e um Planeta Sustentável", a presidência brasileira do G20, em 2024, estabeleceu um conjunto de prioridades que buscam refletir tanto os desafios globais contemporâneos quanto a tradição da política externa do Brasil. A esse respeito, julgue (C ou E) os itens a seguir.
+
+1. As três prioridades centrais da presidência brasileira são: (I) a inclusão social e o combate à fome e à pobreza; (II) a transição energética e o desenvolvimento sustentável em suas dimensões social, econômica e ambiental; e (III) a reforma das instituições de governança global. 
+    
+2. A "Aliança Global contra a Fome e a Pobreza" é uma das principais iniciativas propostas pelo Brasil, visando criar um mecanismo prático para mobilizar recursos e conhecimentos para a implementação de políticas públicas eficazes, sem, contudo, prever a criação de um novo fundo financeiro.
+    
+3. A iniciativa do "G20 Social" representa um espaço inédito de participação da sociedade civil, que, por meio de seus grupos de engajamento, pode dialogar e apresentar propostas diretamente aos grupos de trabalho e às reuniões ministeriais do G20, aumentando a legitimidade do processo. 
+    
+4. No eixo da reforma da governança global, o Brasil defende a ampliação do Conselho de Segurança da ONU, mas considera que tal debate deve ocorrer exclusivamente no âmbito das Nações Unidas, sem conexão com as discussões econômicas e financeiras do G20.
+    
+
+### Questão 12
+
+A política externa brasileira contemporânea é frequentemente analisada sob a ótica de sua atuação como uma potência média (_middle power_), que busca maximizar sua influência e autonomia em um cenário internacional complexo e competitivo. Julgue (C ou E) os itens a seguir, relativos a essa caracterização.
+
+1. A atuação do Brasil como potência média se caracteriza pelo uso predominante de _soft power_ e pela construção de coalizões, como o BRICS e o IBAS, em detrimento do uso da força militar, para projetar seus interesses e defender uma ordem internacional multipolar. 
+    
+2. A estratégia de "autonomia pela diversificação", notável durante os primeiros governos do presidente Lula, consiste em aprofundar relações com uma variedade de parceiros, incluindo potências ocidentais, a China e países do Sul Global, a fim de evitar a dependência excessiva de um único polo de poder. 
+    
+3. A relutância histórica da Argentina em aceitar uma liderança singular do Brasil na América do Sul e as acusações ocasionais de comportamento "imperialista" por parte do Brasil na região são exemplos dos constrangimentos e desafios que o país enfrenta para consolidar seu papel de líder regional. 
+    
+4. No contexto da rivalidade sino-americana, o Brasil busca uma posição de equidistância pragmática, utilizando sua relevância como grande fornecedor de commodities para a China e seus laços históricos com os Estados Unidos como ativos para manter sua autonomia estratégica. 
+    
+
+### Questão 13
+
+O Acordo de Associação entre o Mercosul e a União Europeia, cujas negociações se estendem por mais de duas décadas, representa um marco potencial nas relações entre os dois blocos, mas enfrenta significativos obstáculos políticos e econômicos para sua ratificação. A esse respeito, julgue (C ou E) os itens a seguir.
+
+1. A conclusão da revisão jurídica do acordo em 2024 representou um avanço técnico importante; no entanto, a ratificação final depende da aprovação política de todos os parlamentos nacionais dos Estados-membros de ambos os blocos, processo que se encontra paralisado. 
+    
+2. Do lado europeu, a principal resistência ao acordo provém de setores agrícolas, notadamente na França e na Polônia, que temem a concorrência dos produtos agropecuários do Mercosul, e de grupos políticos que expressam preocupações com as políticas ambientais sul-americanas. 
+    
+3. Um dos principais pontos de discórdia recentes foi a exigência europeia de um anexo ao acordo (o chamado _side letter_), com novas obrigações ambientais e climáticas consideradas pelos países do Mercosul como excessivas e potencialmente protecionistas.
+    
+4. A estratégia do Mercosul de concluir acordos com outros parceiros, como Singapura e a Associação Europeia de Livre Comércio (EFTA), é vista como uma forma de diversificar suas parcerias comerciais e reduzir a dependência da conclusão do acordo com a União Europeia. 
+    
+
+### Questão 14
+
+A reforma do Conselho de Segurança das Nações Unidas (CSNU) é uma pauta histórica da diplomacia brasileira e um dos pilares da proposta de reforma da governança global. Julgue (C ou E) os itens a seguir sobre o tema.
+
+1. O Brasil, juntamente com Alemanha, Índia e Japão, forma o G4, grupo que defende a expansão do CSNU tanto na categoria de membros permanentes quanto na de não permanentes, com o objetivo de tornar o órgão mais representativo da realidade geopolítica do século XXI. 
+    
+2. A principal proposta do G4 prevê a adição de seis novos assentos permanentes (dois para a África, dois para a Ásia, um para a América Latina e Caribe, e um para a Europa Ocidental) e quatro novos assentos não permanentes, mas não aborda a questão do poder de veto.
+    
+3. A reivindicação brasileira por um assento permanente é fundamentada em sua importância demográfica e econômica, em sua tradição de participação em operações de paz da ONU e em seu histórico de defesa do multilateralismo e da solução pacífica de controvérsias. 
+    
+4. Um dos maiores entraves à reforma é o procedimento de emenda à Carta da ONU, que exige a aprovação de dois terços dos membros da Assembleia Geral e a ratificação por todos os cinco membros permanentes do CSNU, que possuem poder de veto sobre qualquer alteração. 
+    
+
+### Questão 15
+
+A Cooperação Sul-Sul (CSS) é um instrumento central da política externa brasileira para o relacionamento com países em desenvolvimento, especialmente na África e na América Latina. Sobre a CSS brasileira, julgue (C ou E) os itens.
+
+1. A CSS brasileira se distingue do modelo tradicional de cooperação Norte-Sul por se basear nos princípios da não ingerência em assuntos internos, da solidariedade, da ausência de condicionalidades políticas e da busca por benefícios mútuos. 23
+    
+2. A Agência Brasileira de Cooperação (ABC), vinculada ao Ministério das Relações Exteriores, é o órgão central responsável pela coordenação, negociação e execução dos programas de cooperação técnica internacional do Brasil. 24
+    
+3. A transferência de tecnologias e conhecimentos em áreas nas quais o Brasil possui expertise reconhecida, como agricultura tropical (via Embrapa) e saúde pública (via Fiocruz), constitui o principal pilar da cooperação técnica brasileira.
+    
+4. Embora priorize a cooperação técnica, o Brasil também atua na cooperação financeira, principalmente por meio de financiamentos do Banco Nacional de Desenvolvimento Econômico e Social (BNDES) para projetos de infraestrutura em países parceiros.
+    
+
+### Questão 16
+
+Diante de intervenções humanitárias controversas, o Brasil propôs o conceito de "Responsabilidade ao Proteger" (RwP) como um complemento à doutrina da "Responsabilidade de Proteger" (R2P). Julgue (C ou E) os itens a seguir sobre esses conceitos.
+
+1. A doutrina da "Responsabilidade de Proteger" (R2P), adotada pela ONU em 2005, baseia-se em três pilares: a responsabilidade primária do Estado de proteger sua população; a assistência internacional para que os Estados cumpram essa responsabilidade; e a intervenção da comunidade internacional caso o Estado falhe em seu dever.
+    
+2. A proposta brasileira da "Responsabilidade ao Proteger" (RwP) surgiu em 2011, em resposta à intervenção militar na Líbia, e reflete a preocupação do Brasil com o uso da força de maneira desproporcional e com a possibilidade de que intervenções humanitárias mascarem outros interesses. 25
+    
+3. A principal contribuição da RwP é focar nos critérios e na prudência que devem guiar uma intervenção militar autorizada pelo CSNU, enfatizando que a ação militar deve ser o último recurso e que aqueles que intervêm têm a responsabilidade de evitar mais danos do que os que pretendem prevenir. 27
+    
+4. A proposta da RwP foi amplamente rechaçada pela comunidade internacional e rapidamente abandonada pela diplomacia brasileira, não gerando qualquer debate significativo no âmbito das Nações Unidas. 28
+    
+
+### Questão 17
+
+O Consenso de Brasília, adotado em maio de 2023, marcou a retomada de um esforço de diálogo e cooperação entre os doze países da América do Sul. A respeito dessa iniciativa, julgue (C ou E) os itens.
+
+1. A reunião de cúpula que resultou no Consenso de Brasília foi uma iniciativa do governo brasileiro com o objetivo de revitalizar a integração sul-americana, que se encontrava fragmentada após o esvaziamento de mecanismos como a UNASUL. 30
+    
+2. O Consenso estabeleceu a criação de um grupo de contato, liderado pelos ministros das Relações Exteriores, com a tarefa de elaborar um "mapa do caminho" para a integração, identificando áreas prioritárias para a cooperação. 32
+    
+3. Entre as áreas prioritárias de cooperação identificadas no âmbito do Consenso de Brasília e de seu "mapa do caminho" estão a integração de infraestrutura, a saúde, a defesa, a energia e o combate ao crime organizado transnacional. 30
+    
+4. Uma das propostas concretas que surgiram no contexto do Consenso de Brasília foi o projeto das "Rotas de Integração e Desenvolvimento Sul-Americano", coordenado pelo Ministério do Planejamento e Orçamento do Brasil, que visa aprimorar a conectividade física e logística do país com seus vizinhos. 34
+    
+
+### Questão 18
+
+A reforma do sistema de solução de controvérsias da Organização Mundial do Comércio (OMC) é uma prioridade para o Brasil, um dos maiores usuários do mecanismo. Julgue (C ou E) os itens a seguir sobre a crise do Órgão de Apelação e as propostas de reforma.
+
+1. A crise do sistema de solução de controvérsias foi desencadeada pelo bloqueio, por parte dos Estados Unidos, à nomeação de novos membros para o Órgão de Apelação, o que o tornou inoperante desde o final de 2019 por falta de quórum.
+    
+2. A ausência de um Órgão de Apelação funcional permite que um país perdedor em uma disputa no nível de painel possa, na prática, vetar a adoção do relatório ao simplesmente apelar "para o vácuo", gerando insegurança jurídica no sistema multilateral de comércio.
+    
+3. O Brasil tem defendido ativamente a restauração de um sistema de apelação de dois estágios, que seja vinculante, imparcial e independente, considerando-o essencial para a previsibilidade e a estabilidade das regras comerciais globais. 35
+    
+4. Como medida paliativa, o Brasil aderiu ao Arranjo Provisório Multipartes para Apelação e Arbitragem (MPIA), um mecanismo alternativo criado por um grupo de membros da OMC para replicar a função do Órgão de Apelação entre os participantes do arranjo.
+    
+
+### Questão 19
+
+As relações bilaterais entre Brasil e Argentina são marcadas por uma densa interdependência econômica e por uma complexa dinâmica política, sendo um eixo estruturante da integração sul-americana. A esse respeito, julgue (C ou E) os itens.
+
+1. Historicamente, o comércio bilateral Brasil-Argentina caracteriza-se por uma elevada participação de produtos industrializados e de alto valor agregado, o que o torna estratégico para as cadeias produtivas de ambos os países, diferentemente do padrão de comércio do Brasil com a China, por exemplo. 37
+    
+2. O projeto do gasoduto Néstor Kirchner, destinado a transportar gás natural da formação de Vaca Muerta, na Argentina, representa uma oportunidade para o Brasil diversificar suas fontes de energia e fortalecer a segurança energética regional, além de possibilitar a exportação de bens e serviços brasileiros para a obra. 37
+    
+3. Apesar da parceria estratégica no âmbito do Mercosul, as relações bilaterais são frequentemente afetadas por divergências políticas decorrentes de diferentes orientações ideológicas dos governos de plantão, o que gera instabilidade e desafios para a cooperação.
+    
+4. A Argentina é o principal destino das exportações brasileiras na América do Sul e, consistentemente, figura entre os três maiores parceiros comerciais do Brasil em nível global, ao lado de China e Estados Unidos. 37
+    
+
+### Questão 20
+
+A agenda de segurança internacional do Brasil na América do Sul envolve o enfrentamento a ameaças transnacionais, com destaque para o narcotráfico e o crime organizado. Julgue (C ou E) os itens sobre o tema.
+
+1. A atuação de organizações criminosas transnacionais na região amazônica e nas fronteiras do Brasil representa uma ameaça complexa que envolve não apenas o tráfico de drogas, mas também crimes ambientais, como o garimpo e a extração ilegal de madeira.
+    
+2. A cooperação policial e de inteligência com países vizinhos, como Colômbia, Peru e Paraguai, é um elemento fundamental da estratégia brasileira para combater o crime organizado transnacional, sendo formalizada por meio de acordos bilaterais e regionais.
+    
+3. O Brasil defende, nos foros regionais, uma abordagem ao problema mundial das drogas que equilibre as medidas de repressão ao tráfico com políticas de saúde pública, prevenção e desenvolvimento alternativo, em linha com o princípio da responsabilidade comum e compartilhada.
+    
+4. A chamada "rota caipira" é um exemplo da complexidade do crime organizado na América do Sul, envolvendo a atuação de facções brasileiras em território paraguaio e boliviano para o controle de rotas de tráfico de drogas e armas com destino ao Brasil. 37
+    
+
+## GEOGRAFIA
+
+### Questão 21
+
+A rede urbana brasileira, hierarquizada e complexa, tem passado por transformações significativas nas últimas décadas. A pesquisa Regiões de Influência das Cidades (REGIC), do IBGE, é um instrumento fundamental para a análise dessas dinâmicas. Com base nesse contexto, julgue (C ou E) os itens.
+
+1. A REGIC classifica os centros urbanos brasileiros em níveis hierárquicos, como Metrópoles, Capitais Regionais e Centros Sub-regionais, com base na oferta de bens e serviços e na capacidade de atrair fluxos de pessoas e capitais de outras cidades. 38
+    
+2. Um dos fenômenos mais relevantes identificados por estudos recentes é a desconcentração da atividade econômica e populacional das grandes metrópoles em direção às cidades médias, que se tornam novos polos de dinamismo regional. 40
+    
+3. As cidades médias que mais crescem e ganham relevância na rede urbana são aquelas que se articulam com a expansão do agronegócio, funcionando como centros de gestão, comércio e serviços para as áreas rurais modernizadas.
+    
+4. Apesar do dinamismo das cidades médias, as grandes metrópoles como São Paulo e Rio de Janeiro mantêm sua primazia no topo da hierarquia urbana, concentrando as funções de gestão empresarial e financeira de mais alto nível e comandando a rede em escala nacional.
+    
+
+### Questão 22
+
+A Amazônia Legal é palco de complexas dinâmicas de ocupação e uso do solo, com o desmatamento sendo um dos seus processos mais críticos. Dados de sistemas de monitoramento como o PRODES (INPE) e o SAD (Imazon) são essenciais para compreender esse fenômeno. Julgue (C ou E) os itens a seguir.
+
+1. Dados recentes do PRODES/INPE indicam uma tendência de queda nas taxas anuais de desmatamento por corte raso na Amazônia Legal, revertendo a trajetória de alta observada no período anterior, o que é atribuído à intensificação das ações de fiscalização. 41
+    
+2. A expansão da pecuária bovina e o avanço da fronteira agrícola, principalmente para o cultivo de soja, continuam sendo os principais vetores de desmatamento na região, convertendo grandes áreas de floresta em pastagens e lavouras. 43
+    
+3. O "Arco do Desmatamento", área que concentra historicamente a maior parte da derrubada da floresta, tem mostrado sinais de expansão para novas frentes, como o sul do estado do Amazonas e o oeste do Acre, indicando uma pressão contínua sobre a floresta. 44
+    
+4. É fundamental distinguir os conceitos de "desmatamento" (ou corte raso), que implica a remoção completa da cobertura florestal, e "degradação", que se refere à perda gradual da qualidade da floresta por meio de incêndios ou extração seletiva de madeira, embora ambos os processos representem perda de biodiversidade. 45
+    
+
+### Questão 23
+
+A geopolítica dos recursos naturais é um tema central para o Brasil, detentor de vastas reservas hídricas e energéticas que são estratégicas para seu desenvolvimento e sua inserção internacional. A esse respeito, julgue (C ou E) os itens.
+
+1. A descoberta das reservas de petróleo na camada pré-sal conferiu ao Brasil maior segurança energética e o projetou como um ator relevante no mercado global de energia, levantando debates sobre o papel do Estado e da Petrobras na gestão desses recursos estratégicos para a soberania nacional. 46
+    
+2. A matriz elétrica brasileira se destaca pela alta participação de fontes renováveis, com predomínio da energia hidrelétrica. Essa característica cria uma sinergia positiva com a expansão das fontes eólica e solar, pois os reservatórios das hidrelétricas podem compensar a intermitência da geração dessas outras fontes. 48
+    
+3. A gestão de bacias hidrográficas transfronteiriças, como a Bacia do Prata, exige complexos arranjos de cooperação internacional. O Tratado da Bacia do Prata e a construção da Usina de Itaipu são exemplos históricos da interação, por vezes conflituosa, entre os países da região para o aproveitamento dos recursos hídricos compartilhados. 50
+    
+4. O Brasil abriga a maior parte do Aquífero Guarani, um dos maiores reservatórios de água subterrânea do mundo, cuja gestão compartilhada com Argentina, Paraguai e Uruguai representa um desafio e uma oportunidade para a cooperação regional em segurança hídrica.
+    
+
+### Questão 24
+
+A Caatinga, único bioma exclusivamente brasileiro, enfrenta um grave processo de desertificação, que ameaça sua biodiversidade e as condições de vida de sua população. Sobre este tema, julgue (C ou E) os itens a seguir.
+
+1. A desertificação é um processo de degradação da terra em áreas áridas, semiáridas e subúmidas secas, resultante de fatores climáticos e, principalmente, de atividades humanas insustentáveis, não devendo ser confundida com a expansão natural de desertos.
+    
+2. Na Caatinga, as principais causas antrópicas da desertificação são o desmatamento para a produção de lenha e carvão, o sobrepastoreio (especialmente de caprinos) e práticas agrícolas inadequadas que levam à exaustão e erosão do solo. 52
+    
+3. Segundo dados do Instituto Nacional do Semiárido (INSA), uma parcela significativa do bioma Caatinga já se encontra em estágio moderado ou grave de desertificação, com consequências socioeconômicas como a perda da produtividade agrícola, o êxodo rural e o aumento da pobreza. 53
+    
+4. Políticas públicas e iniciativas da sociedade civil, como a construção de cisternas, a disseminação de tecnologias sociais de convivência com o semiárido e projetos de restauração florestal, são estratégias fundamentais para combater a desertificação e promover o desenvolvimento sustentável na região. 55
+    
+
+### Questão 25
+
+A estrutura do agronegócio brasileiro é marcada pela coexistência de diferentes sistemas produtivos e por sua forte inserção nas cadeias globais de commodities. Julgue (C ou E) os itens.
+
+1. O agronegócio brasileiro é caracterizado por um modelo dual, no qual coexistem, de um lado, a agricultura familiar, voltada principalmente para o mercado interno e responsável por grande parte dos alimentos consumidos no país, e, de outro, o agronegócio de exportação, baseado em grandes propriedades monocultoras e de alta tecnologia.
+    
+2. A expansão da fronteira agrícola moderna no Brasil, especialmente no Cerrado, foi impulsionada por políticas governamentais, pelo desenvolvimento de tecnologias adaptadas pela Embrapa e por investimentos em infraestrutura de transporte e armazenamento. 37
+    
+3. Apesar de sua alta produtividade e competitividade internacional, o agronegócio brasileiro enfrenta críticas e barreiras comerciais relacionadas a questões ambientais, como o desmatamento, e a questões sociais, como conflitos por terra.
+    
+4. O Brasil se destaca como um dos maiores produtores e exportadores mundiais de commodities como soja, milho, carne bovina, carne de frango, café e açúcar, sendo a China o principal destino de suas exportações agrícolas.
+    
+
+### Questão 26
+
+A formação do território brasileiro é um processo histórico complexo, marcado pela sucessão de ciclos econômicos e pela atuação do Estado na organização do espaço. A esse respeito, julgue (C ou E) os itens a seguir.
+
+1. No período colonial, a organização do espaço brasileiro esteve subordinada aos interesses da metrópole portuguesa, com a economia agroexportadora (cana-de-açúcar e, posteriormente, mineração) estruturando uma rede de cidades litorâneas e um interior pouco povoado.
+    
+2. A marcha da cafeicultura pelo Vale do Paraíba e pelo Oeste Paulista, no século XIX, foi um fator decisivo para a consolidação de São Paulo como polo econômico do país e para a criação de uma densa infraestrutura de ferrovias e portos.
+    
+3. A partir da década de 1930, o Estado brasileiro assume um papel central no planejamento territorial, com políticas de industrialização por substituição de importações, integração nacional (como a construção de Brasília e de rodovias) e ocupação da Amazônia.
+    
+4. O conceito de "meio técnico-científico-informacional", de Milton Santos, descreve o estágio atual da organização do espaço, no qual o território é dotado de uma densidade de tecnologia, informação e ciência que comanda os fluxos e as atividades, mas de forma extremamente desigual.
+    
+
+### Questão 27
+
+A respeito das fronteiras e das formas de apropriação política do espaço geográfico, julgue (C ou E) os itens.
+
+1. A teoria da mundialização, popularizada a partir da década de 1990, previa o enfraquecimento das fronteiras nacionais em favor de um mercado global integrado; contudo, a realidade contemporânea mostra um reforço das funções de controle e segurança das fronteiras, especialmente para barrar fluxos migratórios. 37
+    
+2. A Zona Franca de Manaus é um exemplo de política de desenvolvimento regional que utiliza incentivos fiscais para atrair indústrias para uma área de fronteira, buscando promover a ocupação e a integração econômica da Amazônia Ocidental.
+    
+3. A Faixa de Fronteira, definida em lei como uma área de 150 km de largura ao longo das fronteiras terrestres do Brasil, está sujeita a um regime jurídico específico, com restrições à propriedade e ao uso do solo por estrangeiros e com atuação reforçada das Forças Armadas.
+    
+4. A cooperação transfronteiriça, por meio de iniciativas como as "cidades-gêmeas", busca facilitar a integração local e a gestão conjunta de serviços públicos (saúde, educação, saneamento) entre municípios brasileiros e de países vizinhos.
+    
+
+### Questão 28
+
+O pensamento geográfico clássico legou conceitos e métodos que ainda hoje influenciam a análise do espaço. Julgue (C ou E) os itens a seguir sobre as matrizes da geografia.
+
+1. Para o geógrafo francês Paul Vidal de La Blache, expoente do Possibilismo, o conceito de "gênero de vida" é central para explicar como um grupo humano, com suas técnicas e cultura, interage com o meio natural e o transforma, criando uma paisagem particular ou uma região. 37
+    
+2. A geografia de Élisée Reclus, marcada por suas convicções anarquistas, destacou-se por sua crítica às desigualdades sociais e à degradação ambiental provocadas pelo avanço do capitalismo e da tecnologia em sua época. 37
+    
+3. O Determinismo Geográfico, associado a Friedrich Ratzel, defendia que as condições naturais (clima, relevo) eram o fator preponderante na determinação do desenvolvimento e do caráter das sociedades humanas, uma visão hoje amplamente criticada.
+    
+4. O conceito de "paisagem", para a geografia humanista, não se resume à dimensão material do espaço, mas incorpora os significados, valores e sentimentos que os indivíduos e grupos atribuem aos lugares, constituindo o "espaço vivido".
+    
+
+## DIREITO
+
+### Questão 29
+
+A Convenção de Viena sobre o Direito dos Tratados de 1969, da qual o Brasil é parte, codifica as principais normas consuetudinárias que regem os acordos internacionais entre Estados. A esse respeito, julgue (C ou E) os itens a seguir.
+
+1. Conforme o artigo 31 da Convenção, a regra geral de interpretação de um tratado estabelece que ele deve ser interpretado de boa-fé, segundo o sentido comum atribuível aos seus termos em seu contexto e à luz de seu objeto e finalidade. 56
+    
+2. Um Estado pode, ao assinar ou ratificar um tratado, formular uma reserva, a menos que a reserva seja proibida pelo tratado, que o tratado autorize apenas reservas específicas que não incluam a reserva em questão, ou que a reserva seja incompatível com o objeto e a finalidade do tratado. 56
+    
+3. A Convenção prevê a nulidade de um tratado se, no momento de sua conclusão, ele conflitar com uma norma imperativa de direito internacional geral (_jus cogens_), definida como uma norma aceita e reconhecida pela comunidade internacional dos Estados como um todo, da qual nenhuma derrogação é permitida.
+    
+4. O Brasil, ao ratificar a Convenção de Viena de 1969, formulou reservas aos artigos 25 (aplicação provisória de tratados) e 66 (procedimentos obrigatórios de solução de controvérsias), o que reflete uma posição tradicional da diplomacia brasileira de cautela em relação a mecanismos que possam limitar sua soberania. 57
+    
+
+### Questão 30
+
+A Convenção das Nações Unidas sobre o Direito do Mar (CNUDM), de 1982, estabelece um regime jurídico abrangente para os oceanos e mares. Julgue (C ou E) os itens a seguir sobre os direitos e deveres dos Estados segundo a Convenção.
+
+1. A Convenção estabelece uma distinção clara entre o Mar Territorial, que se estende até 12 milhas marítimas da costa e sobre o qual o Estado costeiro exerce plena soberania, e a Zona Econômica Exclusiva (ZEE), que vai até 200 milhas marítimas. 58
+    
+2. Na sua Zona Econômica Exclusiva (ZEE), o Estado costeiro possui direitos de soberania para fins de exploração e aproveitamento dos recursos naturais, vivos e não vivos, das águas sobrejacentes ao leito do mar, do leito do mar e seu subsolo. 60
+    
+3. Na ZEE de um Estado costeiro, todos os demais Estados, sejam eles costeiros ou sem litoral, gozam das liberdades de navegação e sobrevoo, bem como da liberdade de colocar cabos e dutos submarinos, desde que compatíveis com a Convenção. 61
+    
+4. A Plataforma Continental de um Estado costeiro compreende o leito e o subsolo das áreas submarinas que se estendem além do seu mar territorial, em toda a extensão do prolongamento natural de seu território terrestre, até o bordo exterior da margem continental, ou até uma distância de 200 milhas marítimas, caso o bordo exterior não atinja essa distância.
+    
+
+### Questão 31
+
+O ordenamento jurídico brasileiro possui normas específicas para a proteção de migrantes, refugiados e apátridas, alinhadas ao direito internacional. Julgue (C ou E) os itens a seguir sobre o tema.
+
+1. A Lei nº 9.474/97 define como refugiado o indivíduo que, devido a fundados temores de perseguição por motivos de raça, religião, nacionalidade, grupo social ou opiniões políticas, ou em razão de grave e generalizada violação de direitos humanos, se encontra fora de seu país de nacionalidade e não pode ou não quer a ele regressar. 62
+    
+2. A principal diferença jurídica entre o migrante e o refugiado reside no caráter voluntário do deslocamento do primeiro, que mantém o vínculo e a proteção de seu Estado de origem, e no caráter forçado do deslocamento do segundo, que não pode contar com tal proteção. 63
+    
+3. O princípio do _non-refoulement_ (não devolução), consagrado na Convenção de 1951 e na lei brasileira, é a pedra angular do direito dos refugiados, proibindo que um refugiado seja expulso ou devolvido para um território onde sua vida ou liberdade estejam ameaçadas. 64
+    
+4. O Comitê Nacional para os Refugiados (CONARE), órgão colegiado interministerial, é a instância responsável no Brasil por analisar os pedidos e declarar o reconhecimento da condição de refugiado, bem como por decidir sobre a cessação ou a perda dessa condição.
+    
+
+### Questão 32
+
+A jurisdição da Corte Internacional de Justiça (CIJ), principal órgão judiciário da ONU, possui características específicas que definem sua atuação. Julgue (C ou E) os itens a seguir.
+
+1. A jurisdição contenciosa da CIJ é baseada no princípio do consentimento, o que significa que a Corte só pode julgar uma disputa entre Estados se estes tiverem, de alguma forma, consentido com sua jurisdição. 65
+    
+2. O Brasil não fez a declaração de aceitação da jurisdição obrigatória da Corte, prevista no artigo 36, parágrafo 2º, de seu Estatuto (a chamada "cláusula facultativa"), mas pode ser parte em um caso perante a CIJ por meio de um compromisso arbitral (_compromis_) ou de uma cláusula compromissória presente em um tratado.
+    
+3. A CIJ possui também competência consultiva, podendo emitir pareceres sobre qualquer questão jurídica, a pedido da Assembleia Geral ou do Conselho de Segurança da ONU, ou de outros órgãos e agências especializadas autorizadas pela Assembleia Geral.
+    
+4. Recentemente, a Assembleia Geral da ONU solicitou à CIJ uma opinião consultiva sobre as obrigações dos Estados sob o direito internacional para garantir a proteção do sistema climático contra as emissões antropogênicas de gases de efeito estufa, refletindo a crescente judicialização das questões climáticas. 66
+    
+
+### Questão 33
+
+A Lei nº 11.440/2006 institui o Regime Jurídico dos Servidores do Serviço Exterior Brasileiro e estabelece as bases da carreira diplomática. A respeito de suas disposições, julgue (C ou E) os itens a seguir.
+
+1. Conforme o artigo 3º da referida lei, aos servidores da Carreira de Diplomata incumbem atividades de natureza diplomática e consular, especificamente nos aspectos de representação, negociação, informação e proteção de interesses brasileiros no campo internacional. 68
+    
+2. A carreira de diplomata é estruturada em uma hierarquia de classes que se inicia com o cargo de Terceiro-Secretário, ao qual se acede por meio de concurso público, e progride para Segundo-Secretário, Primeiro-Secretário, Conselheiro, Ministro de Segunda Classe e Ministro de Primeira Classe.
+    
+3. A lei estabelece a obrigatoriedade de serviço no exterior, determinando tempos mínimos de permanência em postos para a progressão na carreira, como forma de garantir a experiência internacional dos diplomatas.
+    
+4. O regime disciplinar dos servidores do Serviço Exterior Brasileiro prevê, entre os deveres do diplomata, a observância de conduta pessoal e profissional ilibada e a guarda de sigilo sobre assuntos de natureza confidencial a que tenha acesso em razão do cargo.
+    
+
+### Questão 34
+
+A Convenção de Viena sobre Relações Diplomáticas de 1961 é o principal tratado que regula a condução das relações diplomáticas entre os Estados e define os privilégios e imunidades das missões diplomáticas. Julgue (C ou E) os itens.
+
+1. A inviolabilidade dos locais da missão diplomática é um princípio fundamental da Convenção, estabelecendo que os agentes do Estado receptor não podem neles ingressar sem o consentimento do Chefe da Missão.
+    
+2. Um agente diplomático goza de imunidade de jurisdição penal no Estado acreditado. Goza também de imunidade de jurisdição civil e administrativa, com exceções para ações relativas a imóveis privados, ações sucessórias em que figure a título privado e ações referentes a atividade profissional ou comercial exercida fora de suas funções oficiais. 69
+    
+3. A renúncia à imunidade de jurisdição por parte do Estado acreditante deve ser sempre expressa. A renúncia à imunidade de jurisdição em relação a uma ação civil ou administrativa não implica a renúncia à imunidade quanto à execução da sentença, para a qual é necessária uma renúncia específica.
+    
+4. O Estado acreditado pode, a qualquer momento e sem necessidade de justificar sua decisão, notificar o Estado acreditante que o chefe da missão ou qualquer membro do pessoal diplomático é _persona non grata_, devendo o Estado acreditante retirar a pessoa em questão. 70
+    
+
+### Questão 35
+
+A Constituição Federal de 1988 estabelece, em seu artigo 4º, os princípios que regem as relações internacionais da República Federativa do Brasil. A esse respeito, julgue (C ou E) os itens.
+
+1. O princípio da prevalência dos direitos humanos, elencado no inciso II do artigo 4º, elevou a proteção da dignidade humana a um vetor fundamental da política externa brasileira, influenciando o posicionamento do país em foros multilaterais.
+    
+2. A solução pacífica dos conflitos é um princípio basilar da diplomacia brasileira, refletindo uma tradição histórica de recurso à negociação, à mediação e à arbitragem para resolver disputas internacionais, em oposição ao uso da força.
+    
+3. O princípio da não intervenção, também consagrado no artigo 4º, coexiste em tensão com o princípio da prevalência dos direitos humanos e com doutrinas como a Responsabilidade de Proteger, gerando debates complexos na formulação da política externa.
+    
+4. O parágrafo único do artigo 4º estabelece que a República Federativa do Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina, visando à formação de uma comunidade latino-americana de nações, o que confere status constitucional ao projeto de integração regional.
+    
+
+### Questão 36
+
+O direito administrativo brasileiro rege a atuação da Administração Pública e a relação desta com os administrados. Julgue (C ou E) os itens a seguir com base em seus princípios e normas.
+
+1. Segundo a jurisprudência consolidada do Supremo Tribunal Federal, em casos de danos a terceiros causados por agentes públicos no exercício de suas funções, a ação de responsabilidade civil deve ser ajuizada contra o Estado ou a pessoa jurídica de direito privado prestadora de serviço público, cabendo a estes o direito de regresso contra o agente responsável nos casos de dolo ou culpa. 37
+    
+2. Constitui ato de improbidade administrativa que importa enriquecimento ilícito perceber vantagem econômica para intermediar a liberação de verba pública de qualquer natureza.
+    
+3. O princípio da publicidade, um dos pilares do regime jurídico-administrativo, exige a transparência dos atos da Administração Pública como regra, sendo o sigilo a exceção, aplicável apenas nas hipóteses previstas em lei, como nos casos de segurança da sociedade e do Estado.
+    
+4. Em um processo administrativo disciplinar, são assegurados ao servidor acusado o contraditório e a ampla defesa, com os meios e recursos a ela inerentes, em observância aos preceitos constitucionais.
+    
+
+---
+
+---
+
+## Gabarito Comentado
+
+### LÍNGUA PORTUGUESA
+
+#### Questão 1
+
+1. **Certo.** A faca é mais do que um simples objeto. Ela pertence à avó e é guardada "com tanto esmero", o que lhe confere o status de **herança**. O fato de ser uma arma e de provocar um ferimento que marca as irmãs para sempre a associa à **violência** e ao trauma. O evento ocorre em segredo e o resultado (a mudez de uma e a voz compartilhada de outra, conforme o desenrolar do romance) cria um pacto de **silêncio e cumplicidade** indissolúvel. Portanto, a análise do objeto como polissêmico é correta. 71
+    
+2. **Certo.** O texto constrói a cena de forma magistral, partindo de um cenário idílico e universal da infância ("brincando com bonecas feitas de espigas de milho") para uma ação de curiosidade e desafio à autoridade ("descobrir o que havia na mala"). Essa quebra da inocência leva a um clímax que não é uma simples repreensão, mas uma experiência transformadora e violenta, marcada pela dor física e pela visão do sangue, o que confirma a progressão da tensão descrita.
+    
+3. **Certo.** O autor não se limita a descrever o que aconteceu; ele mergulha o leitor na experiência física das personagens. Expressões como "sabor de metal", "gosto do sangue quente" e "lábios tingidos de vermelho" ativam os sentidos do paladar e da visão, tornando a cena mais vívida, imediata e impactante. É um recurso característico da prosa contemporânea que busca uma apreensão mais corporal e menos distanciada da realidade narrada.
+    
+4. **Errado.** A afirmativa propõe uma interpretação que não encontra respaldo no excerto. O foco do narrador não está em julgar a conduta da avó, mas em descrever a perspectiva e a experiência das crianças. O afastamento da avó é apresentado como uma circunstância que possibilita a ação das meninas ("o terreno estava livre"), e não como a causa moral do acidente. O texto se concentra no evento em si e em suas consequências simbólicas para as irmãs, não em uma crítica à estrutura familiar.
+    
+
+#### Questão 2
+
+1. **Errado.** A locução "para em seguida" não expressa finalidade, mas sim uma relação de **temporalidade e consequência imediata**. A finalidade da ação de se olharem é indicada pela oração reduzida de infinitivo que a sucede: "(para) dizer que era hora de descobrir...". A locução "em seguida" apenas marca a sequência cronológica dos eventos: primeiro, elas percebem a avó se afastar; em seguida, elas se olham; e, como consequência, decidem agir.
+    
+2. **Errado.** O verbo "amarelavam" está empregado em seu sentido **denotativo**, literal. As palhas de milho, ao secarem, perdem a cor verde e adquirem um tom amarelado. Não há, no contexto imediato, elementos que sustentem uma interpretação conotativa de que isso simbolizaria a perda da infância das personagens, embora essa seja uma consequência posterior do evento narrado no romance. A análise aqui deve se ater ao uso linguístico no trecho.
+    
+3. **Errado.** A oração "que recobria a faca" é uma oração subordinada adjetiva **explicativa**. Ela acrescenta uma informação adicional sobre o tecido, que já foi suficientemente caracterizado como "encardido e de nódoas escuras". A presença de vírgula antes do "que" seria a marcação gráfica canônica para essa função, mas sua ausência, comum no estilo de muitos autores contemporâneos, não altera a natureza semântica da oração, que é a de acrescentar uma qualidade, e não de restringir um universo de "tecidos encardidos" a um específico. Se fosse restritiva, o sentido seria que, dentre vários tecidos, se fala daquele que recobria a faca, o que não é o caso.
+    
+4. **Certo.** A análise da estrutura do período está correta. A conjunção "mas" estabelece uma relação de **adversidade** ou contraste entre duas ações de Belonísia (retirar a faca e levar a mão à boca). A conjunção "porque" introduz uma **oração subordinada adverbial causal**, explicando a razão da dúvida da narradora ("porque dela também escorria sangue"). O período, portanto, combina eficientemente a coordenação e a subordinação para construir a cena final.
+    
+
+#### Questão 3
+
+1. **Certo.** O autor desconstrói o senso comum associado à palavra "cordial". Ele recorre à sua raiz latina (_cor, cordis_), que significa coração, para argumentar que o "homem cordial" é aquele cujas ações e relações são pautadas pela esfera do sentimento, da emoção e da pessoalidade, em oposição à racionalidade e à impessoalidade. A cordialidade, nesse sentido, pode manifestar-se tanto em gestos afetuosos quanto em explosões de violência, pois ambos são regidos pelo "coração". 1
+    
+2. **Errado.** O texto afirma exatamente o oposto. A cordialidade é um legado da "influência ancestral dos padrões de convívio humano, informados no meio rural e patriarcal". É na estrutura familiar e agrária, onde as relações são primariamente pessoais e hierárquicas, que se origina esse traço, e não no ambiente urbano e industrial, que tende a fomentar a impessoalidade.
+    
+3. **Certo.** Esta é a principal inferência crítica da obra _Raízes do Brasil_. Ao agir com base em laços pessoais e afetivos, o "homem cordial" tem dificuldade em distinguir a esfera pública da privada, tratando o Estado como uma extensão de sua casa e as leis como algo negociável entre amigos. Essa confusão, segundo a análise de Sérgio Buarque de Holanda, impede a consolidação de uma burocracia eficiente e de uma sociedade civil baseada em princípios universais e impessoais, sendo um entrave à modernização do Brasil. 73
+    
+4. **Certo.** O texto constrói a definição de "homem cordial" por meio de um contraste explícito com a "polidez". Enquanto a cordialidade é espontânea, emotiva e busca a intimidade, a polidez é descrita como uma "fórmula", uma "mímica deliberada", uma "organização de defesa" e um "disfarce". Ela serve para criar uma distância segura entre o indivíduo e o social, protegendo as emoções, algo que o "homem cordial", em sua necessidade de expansão, não faz. 1
+    
+
+#### Questão 4
+
+1. **Certo.** "Lhaneza" significa simplicidade, sinceridade, ausência de afetação. "Franqueza" e "sinceridade" são sinônimos próximos. Portanto, a substituição de "A lhaneza no trato" por "A franqueza no tratamento" preservaria o sentido original do autor, que se refere a uma forma de interação direta e sem formalismos, característica do "homem cordial".
+    
+2. **Errado.** Os verbos "supor" (imaginar, presumir) e "suportar" (aguentar, tolerar) têm significados completamente distintos. A substituição alteraria radicalmente o sentido da frase, tornando-a incoerente com o restante do texto. O autor está falando de um "engano" de presunção, não de tolerância.
+    
+3. **Certo.** O travessão duplo é utilizado para isolar um segmento que explica ou desenvolve uma ideia anterior. No caso, o trecho "daremos ao mundo o 'homem cordial'" funciona como um aposto que especifica qual é a "expressão feliz" mencionada. A função é, portanto, explicativa.
+    
+4. **Certo.** "Epidérmica" refere-se à epiderme, a camada mais externa da pele. Ao usar o termo para qualificar a polidez, o autor o emprega em sentido figurado (metafórico), sugerindo que a polidez é superficial, externa, algo que "se detém na parte exterior" do indivíduo, em oposição à cordialidade, que viria do "coração", do interior.
+    
+
+#### Questão 5
+
+1. **Certo.** O poema não narra um evento externo, mas reflete sobre o próprio ato de cantar (escrever poesia) e sobre a identidade do eu lírico como "poeta". Essa característica de a linguagem se voltar para si mesma, de o poema ter como tema o próprio fazer poético, é a definição de metapoesia ou função metalinguística da linguagem. 3
+    
+2. **Certo.** O eu lírico afirma categoricamente: "Eu canto porque o instante existe / e a minha vida está completa". A causa do canto é a percepção da existência e uma sensação de plenitude no presente. Em seguida, ele nega que sua identidade se resuma a estados emocionais ("Não sou alegre nem sou triste"), afirmando-se em sua condição essencial: "sou poeta".
+    
+3. **Certo.** A identidade do eu lírico com "as coisas fugidias" (efêmeras, passageiras) e a imagem de si mesmo movendo-se "no vento" são metáforas poderosas para a transitoriedade. Ele não se fixa, não se apega a "gozo nem tormento", apenas atravessa a existência, reforçando um dos temas centrais da poesia de Cecília Meireles.
+    
+4. **Errado.** A estrofe final, embora reconheça o poder da canção ("é tudo", "Tem sangue eterno a asa ritmada"), culmina na certeza da finitude e do silêncio: "E um dia sei que estarei mudo: — mais nada." A expressão "mais nada" é taxativa e nega qualquer transcendência ou posteridade gloriosa. A visão é de aceitação da mortalidade, onde o canto existe no instante, mas o cantor é finito. A obra pode até permanecer, mas o poeta, como ser, cessará.
+    
+
+#### Questão 6
+
+1. **Certo.** Os dois-pontos têm uma função explicativa ou de esclarecimento. O eu lírico apresenta uma negação ("Não sou alegre nem sou triste") e, em seguida, os dois-pontos introduzem a afirmação que resolve essa aparente indefinição, apresentando sua verdadeira identidade: "sou poeta". A pontuação é, portanto, crucial para a construção do argumento do poema.
+    
+2. **Certo.** A estrutura do poema é fortemente marcada pelo uso de antíteses, que expressam a superação das dualidades pelo eu lírico. Ele se posiciona para além de "alegre/triste" e "gozo/tormento". A terceira estrofe é inteiramente construída sobre pares antitéticos ("desmorono/edifico", "permaneço/desfaço", "fico/passo"), reforçando a ideia de que sua essência não se define por essas oposições, mas pelo ato de cantar.
+    
+3. **Errado.** Não se trata de uma anáfora, que é a repetição da mesma palavra ou expressão no início de versos ou frases _sucessivas_. Na terceira estrofe, a repetição do "se" ocorre no início dos versos 1 e 2 ("Se desmorono ou se edifico, / se permaneço ou me desfaço"), mas não no verso 3. A figura de linguagem presente é o paralelismo sintático, que cria o ritmo de dúvida e hesitação.
+    
+4. **Certo.** O travessão, nesse contexto, cria uma pausa dramática antes da palavra final, destacando-a. Ele serve para dar um tom de finalização categórica, quase sentenciosa, à reflexão do eu lírico. A expressão "mais nada" encerra o poema de forma lapidar, reforçando a ideia de que, após a vida e o canto, resta apenas o silêncio e a finitude.
+    
+
+#### Questão 7
+
+1. **Errado.** O texto afirma o contrário. O espaço geográfico "não é uma moldura inerte", mas sim "um híbrido, uma mistura indissociável de materialidade e ação humana". Para Milton Santos, o espaço é um agente ativo na produção das relações sociais, pois sua configuração (a presença ou ausência de técnica e informação) condiciona e é condicionada pela sociedade.
+    
+2. **Certo.** O autor utiliza os termos "luminosidade" e "opacidade" de forma metafórica e conceitual. "Luminosidade" representa as áreas do espaço que concentram infraestrutura, capital, poder e, crucialmente, informação, permitindo-lhes comandar os fluxos (os centros). "Opacidade" descreve as áreas carentes desses recursos, que são comandadas e têm suas possibilidades limitadas (as periferias). 4
+    
+3. **Errado.** A tese do autor é justamente a de que a cidadania não pode ser compreendida de forma puramente jurídica ou abstrata. Ele argumenta que o exercício real dos direitos depende fundamentalmente das condições espaciais. Um cidadão em uma área "opaca", sem acesso à informação e à mobilidade, tem sua cidadania "mutilada", pois não consegue efetivar os direitos que a lei formalmente lhe garante.
+    
+4. **Certo.** Esta é a síntese do argumento. Ao demonstrar que a distribuição desigual de "luminosidade" (recursos, informação, técnica) no território afeta diretamente a capacidade de os indivíduos agirem e participarem da vida social, o autor conclui que o espaço não é neutro: ele "qualifica" o cidadão que vive em áreas luminosas, ampliando suas potencialidades, e "desqualifica" aquele que vive em áreas opacas, restringindo-as.
+    
+
+#### Questão 8
+
+1. **Certo.** A estrutura "não é X, mas Y" é um recurso argumentativo clássico de retificação. O autor primeiro nega uma concepção comum ou simplista ("espaço como moldura inerte") para, em seguida, introduzir com a conjunção adversativa "mas" uma definição mais complexa e precisa ("um híbrido").
+    
+2. **Certo.** As três orações iniciadas por "onde" têm a mesma função sintática: são orações subordinadas adjetivas, pois caracterizam o substantivo "áreas" que as antecede ("as áreas onde..."). Elas estão ligadas pela conjunção aditiva "e", formando uma sequência de características que definem a "opacidade".
+    
+3. **Certo.** A locução conjuntiva "embora" introduz uma oração que expressa uma concessão. Ela admite um fato ("o cidadão é formalmente detentor de direitos") que contrasta com a afirmação da oração principal ("tem sua capacidade de exercê-los [...] cerceada"), mas não é suficiente para impedi-la. É a estrutura clássica da concessão.
+    
+4. **Certo.** O conectivo "portanto" é um conclusivo por excelência. Ele sinaliza que a frase que se segue é uma dedução lógica, uma síntese da argumentação apresentada anteriormente no parágrafo. Após explicar como a desigualdade espacial gera uma cidadania mutilada, o autor conclui, logicamente, que o espaço tem o poder de qualificar ou desqualificar o cidadão.
+    
+
+#### Questão 9
+
+1. **Certo.** A ironia é um recurso que opera pelo contraste entre o que é dito e o que se quer dizer (ou o que a situação revela). João da Ega profere seu discurso com uma seriedade e uma retórica grandiloquente, como se estivesse apresentando uma solução genial para os problemas de Portugal. No entanto, a proposta em si — a de que o país deveria ser subjugado por uma nação estrangeira para progredir — é intrinsecamente absurda e contrária ao sentimento nacional. É nesse descompasso que reside a ironia, que serve para ridicularizar a personagem. 74
+    
+2. **Errado.** O narrador em Eça de Queirós, especialmente em _Os Maias_, adota uma postura de distanciamento crítico em relação às suas personagens. A descrição do discurso de Ega é feita de modo a ressaltar seu exagero e sua falta de senso de realidade. O narrador não compartilha da admiração de Ega; pelo contrário, ele a expõe como um sintoma da alienação e do diletantismo da elite portuguesa, que despreza o que é nacional e idolatra acriticamente o que é estrangeiro. 75
+    
+3. **Errado.** O uso de um termo tão depreciativo como "choldra ignóbil" (ralé desprezível) não revela preocupação sincera, mas sim um profundo desprezo aristocrático e uma visão elitista. Ega não está interessado em reformas que beneficiem o povo; ele está apenas exercitando sua retórica e expressando seu tédio e sua frustração de uma forma performática, sem qualquer engajamento real com os problemas do país.
+    
+4. **Certo.** A cena transcende a mera caracterização de uma personagem. O jantar no Hotel Central reúne figuras representativas da alta sociedade lisboeta (políticos, intelectuais, aristocratas), e os debates que ali ocorrem — sobre literatura, política, finanças — revelam a vacuidade, a superficialidade e a falta de um projeto nacional coeso dessa elite. A atitude de Ega é emblemática de uma mentalidade que Eça critica em toda a obra: a tendência a imitar modelos europeus (França, Inglaterra, Prússia) sem conseguir adaptá-los ou criar algo original e autêntico para Portugal.
+    
+
+#### Questão 10
+
+1. **Certo.** O advérbio "pompa" denota solenidade, magnificência, ostentação. Ao associá-lo à maneira como Ega defende sua ideia, o texto acentua o caráter performático e exagerado de sua fala, o que é um elemento chave para a construção do efeito irônico, pois a grandiosidade da forma contrasta com o absurdo do conteúdo.
+    
+2. **Certo.** As aspas são um sinal gráfico de citação. Ao colocar a expressão "'choldra ignóbil'" entre aspas, o narrador indica que aquelas são as palavras exatas usadas pela personagem João da Ega. Esse recurso permite que o narrador se distancie do juízo de valor extremo contido na expressão, atribuindo-o unicamente à personagem e reforçando a sua caracterização crítica.
+    
+3. **Errado.** O segundo parágrafo não é predominantemente descritivo, mas sim **analítico e interpretativo**. Ele não se limita a descrever a cena; ele a analisa, explicando como a cena é construída ("de forma a expor o ridículo"), qual é o significado do comportamento de Ega ("exagero retórico", "admiração acrítica") e qual é a intenção do narrador ("convida o leitor a perceber a superficialidade").
+    
+4. **Certo.** A definição apresentada para "diletantismo" está correta. Um diletante é alguém que se ocupa de uma área do conhecimento ou da arte sem profundidade, por puro prazer ou vaidade. Ao aplicar esse termo à "inteligência" lisboeta representada por Ega, o texto a critica como sendo superficial, amadora e descompromissada, reforçando a visão de que seus debates eram mais um passatempo social do que uma reflexão séria sobre os destinos do país.
+    
+
+### POLÍTICA INTERNACIONAL
+
+#### Questão 11
+
+1. **Certo.** A presidência brasileira do G20 foi oficialmente estruturada em torno desses três eixos programáticos, que foram anunciados pelo governo brasileiro e nortearam todas as discussões nas trilhas de Sherpas e de Finanças. Eles refletem a tentativa do Brasil de equilibrar a agenda econômica tradicional do G20 com temas sociais e de sustentabilidade, além de pautar a reforma da governança global, uma prioridade de longa data de sua política externa. 5
+    
+2. **Certo.** A Aliança Global contra a Fome e a Pobreza foi concebida como uma "cesta de políticas públicas" bem-sucedidas, buscando mobilizar recursos financeiros e conhecimento técnico já existentes para apoiar a implementação de programas em outros países. A proposta, portanto, foca na articulação e na otimização de recursos e políticas, e não na criação de um novo fundo específico, o que poderia gerar resistência de países contribuintes. 37
+    
+3. **Certo.** O G20 Social é uma inovação da presidência brasileira que visa ampliar a participação social e a diversidade de vozes no processo do G20. Ele articula os diversos grupos de engajamento (como C20, W20, Y20, etc.) e busca criar canais para que suas recomendações e debates influenciem as discussões oficiais dos governos, conferindo maior transparência e legitimidade social ao fórum. 7
+    
+4. **Errado.** A afirmativa contém uma imprecisão fundamental. Embora a reforma do CSNU seja uma pauta prioritária para o Brasil e se insira no eixo mais amplo de "reforma da governança global", o Brasil utiliza, sim, a presidência do G20 como uma plataforma para impulsionar esse debate. A estratégia brasileira é justamente aproveitar o peso político e econômico do G20 para criar um consenso mais amplo em favor da reforma de outras instituições, incluindo as Nações Unidas, conectando as agendas de governança econômica e política. 22
+    
+
+#### Questão 12
+
+1. **Certo.** A caracterização do Brasil como uma potência média (_middle power_) está consolidada na análise de Relações Internacionais. Diferentemente das grandes potências, que se apoiam fortemente em seu poderio militar (_hard power_), o Brasil historicamente projeta sua influência por meio da diplomacia, da defesa do multilateralismo, da capacidade de articular coalizões de países em desenvolvimento (como BRICS, IBAS, G4) e do uso de seu _soft power_ (cultura, cooperação técnica). 8
+    
+2. **Certo.** O conceito de "autonomia pela diversificação" descreve com precisão a estratégia brasileira de não se alinhar automaticamente a nenhuma grande potência. Ao cultivar e aprofundar parcerias estratégicas com múltiplos atores globais (EUA, China, UE, Rússia, Índia, países africanos e sul-americanos), o Brasil aumenta sua margem de manobra, reduz vulnerabilidades e amplia sua capacidade de defender seus interesses de forma independente. 10
+    
+3. **Certo.** A consolidação da liderança regional brasileira não é um processo isento de atritos. A Argentina, como outra potência regional importante, historicamente resiste a uma hegemonia brasileira, buscando uma relação mais equilibrada ou de co-liderança. Além disso, em diversos momentos, ações brasileiras (especialmente de empresas) em países vizinhos menores geraram acusações de "subimperialismo" ou de comportamento assimétrico, o que representa um desafio constante para a diplomacia brasileira. 10
+    
+4. **Certo.** O Brasil ocupa uma posição singular na disputa entre EUA e China. É um parceiro estratégico dos EUA em diversas áreas (democracia, segurança) e, ao mesmo tempo, um fornecedor indispensável de commodities agrícolas e minerais para a China, da qual também recebe vultosos investimentos. A política externa brasileira busca explorar essa dupla relevância para evitar um alinhamento compulsório e maximizar seus ganhos em ambas as frentes, mantendo sua autonomia decisória. 12
+    
+
+#### Questão 13
+
+1. **Certo.** A afirmativa descreve corretamente o estado atual do acordo. A complexa fase de revisão legal e tradução para todas as línguas oficiais (_legal scrubbing_) foi concluída, o que representa um passo técnico significativo. Contudo, o acordo só entrará em vigor após ser aprovado e ratificado pelos parlamentos de todos os países envolvidos, um processo eminentemente político que enfrenta forte resistência e está, no momento, sem um cronograma definido. 14
+    
+2. **Certo.** Os principais entraves políticos à ratificação na Europa estão corretamente identificados. O setor agrícola de países como França, Irlanda e Polônia é altamente protegido e teme a concorrência de produtos como carne, etanol e soja do Mercosul. Adicionalmente, o Parlamento Europeu e governos de países como a Áustria e a Holanda têm levantado objeções baseadas em preocupações com o desmatamento na Amazônia e o cumprimento de metas climáticas. 15
+    
+3. **Certo.** A proposta europeia de adicionar um instrumento anexo ao acordo, contendo novas obrigações na área ambiental com possibilidade de sanções comerciais em caso de descumprimento, tornou-se um grande ponto de atrito. Os países do Mercosul, liderados pelo Brasil, argumentaram que as obrigações já contidas no capítulo de Comércio e Desenvolvimento Sustentável do acordo eram suficientes e que o anexo poderia ser usado como uma barreira comercial disfarçada.
+    
+4. **Certo.** Diante dos impasses com a União Europeia, o Mercosul tem buscado ativamente diversificar sua agenda de negociações extrarregionais. A conclusão de acordos com parceiros importantes como a EFTA (bloco que inclui Suíça e Noruega) e Singapura demonstra uma estratégia pragmática de abrir novos mercados e fortalecer a posição negociadora do bloco, mostrando que sua agenda externa não depende exclusivamente da UE. 17
+    
+
+#### Questão 14
+
+1. **Certo.** O G4 é o principal grupo proponente da reforma do CSNU. Sua proposta central é a de que qualquer reforma, para ser significativa, deve contemplar a expansão em ambas as categorias de membros, permanentes e não permanentes, de modo a refletir as mudanças no equilíbrio de poder global desde 1945 e aumentar a representatividade e a legitimidade do Conselho. 19
+    
+2. **Errado.** A afirmativa descreve incorretamente a proposta do G4. Embora os números exatos possam variar em diferentes propostas, o G4 defende, sim, que os novos membros permanentes tenham as mesmas responsabilidades e prerrogativas dos atuais, incluindo o poder de veto. A questão do veto é, aliás, um dos pontos mais controversos do debate, com propostas alternativas sugerindo um veto apenas para os novos membros após um período de transição, ou mesmo a abolição do veto para todos.
+    
+3. **Certo.** A diplomacia brasileira articula sua candidatura com base em um conjunto de credenciais: o Brasil é uma das maiores economias e democracias do mundo, tem um histórico de engajamento construtivo no sistema multilateral, é um contribuinte tradicional para as missões de paz da ONU e representa uma voz influente do Sul Global, defendendo consistentemente a solução pacífica de controvérsias. 20
+    
+4. **Certo.** O artigo 108 da Carta da ONU estabelece um processo de emenda de alta exigência, que constitui o principal obstáculo formal à reforma. Qualquer alteração precisa ser aprovada por uma maioria de dois terços na Assembleia Geral e, crucialmente, ser ratificada pelos cinco membros permanentes (China, EUA, França, Reino Unido e Rússia), o que na prática lhes confere poder de veto sobre a própria reforma. 22
+    
+
+#### Questão 15
+
+1. **Certo.** A Cooperação Sul-Sul (CSS) brasileira é definida em oposição ao modelo tradicional de Ajuda Oficial ao Desenvolvimento (AOD) dos países do Norte. Seus princípios norteadores, reiterados em documentos oficiais, são a horizontalidade (parceria entre iguais), a ausência de imposição de condicionalidades (como reformas estruturais exigidas pelo FMI), o foco na troca de experiências e a solidariedade entre povos do Sul. 23
+    
+2. **Certo.** A ABC, criada em 1987 e vinculada ao MRE, desempenha o papel de agência centralizadora da cooperação técnica prestada pelo Brasil. Ela é responsável por todo o ciclo dos projetos, desde a prospecção de oportunidades e negociação com os países parceiros até a coordenação da execução, que é feita em conjunto com as instituições técnicas brasileiras. 24
+    
+3. **Certo.** O modelo brasileiro de CSS é intensivo em conhecimento e não em capital. A principal "exportação" do Brasil nessa área é a sua expertise em políticas públicas e tecnologias desenvolvidas e adaptadas à realidade de um país em desenvolvimento. Os exemplos da Embrapa (agricultura tropical) e da Fiocruz (saúde pública, como em fábricas de antirretrovirais na África) são emblemáticos desse modelo.
+    
+4. **Certo.** Embora a cooperação técnica seja o carro-chefe, a cooperação financeira também é um instrumento da política externa brasileira, especialmente na América do Sul e na África. O BNDES, em particular, financiou grandes projetos de infraestrutura (rodovias, portos, hidrelétricas) em países da região, em operações que visavam tanto apoiar o desenvolvimento dos parceiros quanto abrir mercados para empresas de engenharia brasileiras.
+    
+
+#### Questão 16
+
+1. **Certo.** A doutrina da R2P, consolidada na Cúpula Mundial da ONU de 2005, é estruturada nesses três pilares. O Pilar 1 reafirma a soberania como responsabilidade, ou seja, o dever primordial do Estado de proteger sua população de crimes atrozes (genocídio, crimes de guerra, limpeza étnica e crimes contra a humanidade). O Pilar 2 estabelece o compromisso da comunidade internacional de auxiliar os Estados a cumprirem essa responsabilidade. O Pilar 3, o mais controverso, prevê a possibilidade de uma ação coletiva e decisiva, através do Conselho de Segurança, caso o Estado falhe manifestamente em proteger sua população.
+    
+2. **Certo.** A intervenção militar na Líbia em 2011, autorizada pela Resolução 1973 do CSNU sob a égide da R2P, foi o catalisador para a proposta brasileira. O Brasil e outros países emergentes consideraram que a atuação da OTAN extrapolou o mandato de proteção de civis e buscou a mudança de regime. A RwP foi, portanto, uma reação a essa percepção, buscando criar salvaguardas contra o que foi visto como um uso seletivo e desproporcional da força. 25
+    
+3. **Certo.** O cerne da proposta brasileira não é negar a R2P, mas sim regulamentar seu aspecto mais controverso: o uso da força. A RwP sugere um conjunto de critérios (como último recurso, proporcionalidade, balanço de consequências) e um monitoramento rigoroso para garantir que a intervenção seja genuinamente para proteger civis e não para outros fins. Ela foca na responsabilidade _de quem protege_ (a comunidade internacional) ao exercer a força. 28
+    
+4. **Errado.** A afirmativa é imprecisa. A proposta da RwP, embora não tenha sido formalmente adotada como uma nova doutrina, gerou um debate intenso e relevante na ONU e nos meios acadêmicos. Ela deu voz às preocupações de muitos países do Sul Global sobre os riscos de abuso da R2P e influenciou as discussões subsequentes sobre proteção de civis e o uso da força. Dizer que foi "rapidamente abandonada" ou que "não gerou qualquer debate significativo" é um exagero que não corresponde à realidade do processo diplomático. 29
+    
+
+#### Questão 17
+
+1. **Certo.** A iniciativa de convocar a reunião de cúpula partiu do Brasil e teve como objetivo explícito reativar o diálogo político no mais alto nível entre os países sul-americanos. A região vinha de um período de forte fragmentação ideológica e paralisia de seus principais mecanismos de concertação, como a UNASUL, da qual vários países haviam se retirado. 30
+    
+2. **Certo.** Uma das poucas decisões concretas e imediatas do Consenso de Brasília foi justamente a criação desse grupo de contato no nível de Chanceleres. A tarefa atribuída ao grupo foi a de fazer um balanço das experiências passadas de integração (Mercosul, UNASUL, PROSUL, etc.) e, com base nisso, propor um "mapa do caminho" com diretrizes e prioridades para o futuro da cooperação regional. 32
+    
+3. **Certo.** O "Mapa do Caminho para a Integração da América do Sul", resultado dos trabalhos do grupo de contato, identificou um conjunto de 17 áreas temáticas prioritárias para a cooperação. As áreas mencionadas no item (infraestrutura, saúde, defesa, energia, combate ao crime transnacional) estão todas incluídas nessa lista, refletindo os interesses comuns dos países da região. 30
+    
+4. **Certo.** O projeto das Rotas de Integração é uma iniciativa do governo brasileiro, diretamente ligada ao espírito do Consenso de Brasília. Coordenado pelo MPO, o projeto mapeou cinco grandes eixos logísticos multimodais (rodovias, ferrovias, hidrovias) que visam melhorar a conexão do território brasileiro, especialmente das regiões produtoras do Centro-Oeste e Norte, com os países vizinhos e, através deles, com os portos do Pacífico, otimizando o acesso aos mercados asiáticos. 34
+    
+
+#### Questão 18
+
+1. **Certo.** A crise do sistema foi efetivamente causada pela recusa sistemática dos EUA, iniciada na administração Obama e intensificada na administração Trump, em concordar com a nomeação de novos juízes para o Órgão de Apelação. Alegando preocupações com o que consideravam ativismo judicial e desrespeito aos prazos, os EUA bloquearam o processo de renovação, levando ao esgotamento do número mínimo de três membros necessários para o seu funcionamento em dezembro de 2019.
+    
+2. **Certo.** O Entendimento sobre Solução de Controvérsias da OMC prevê que os relatórios dos painéis só podem ser rejeitados por consenso negativo do Órgão de Solução de Controvérsias. No entanto, o direito de apelar de um relatório é automático. Com o Órgão de Apelação paralisado, um país condenado por um painel pode simplesmente notificar sua intenção de apelar, deixando o relatório em um limbo jurídico, sem poder ser formalmente adotado e, portanto, sem criar obrigações legais.
+    
+3. **Certo.** O Brasil é um dos maiores defensores da reforma da OMC e, em particular, da restauração de seu sistema de solução de controvérsias. A posição brasileira, expressa em diversos foros, é a de que um sistema de apelação funcional, com as características de um tribunal (dois estágios, vinculante, imparcial), é crucial para garantir a segurança jurídica, a previsibilidade e a aplicação isonômica das regras do comércio internacional, protegendo os membros mais fracos contra medidas unilaterais das grandes potências. 35
+    
+4. **Certo.** Diante da paralisia do Órgão de Apelação, um grupo de membros da OMC, incluindo Brasil, União Europeia, China e Canadá, estabeleceu o MPIA como um mecanismo provisório para resolver disputas entre si. O MPIA funciona como um tribunal de apelação arbitral, cujas decisões são vinculantes para as partes envolvidas na disputa, preservando assim o sistema de dois estágios de revisão legal entre os seus participantes.
+    
+
+#### Questão 19
+
+1. **Certo.** O comércio entre Brasil e Argentina é notável por sua alta densidade industrial. Diferentemente do comércio com a China, que é majoritariamente baseado na exportação de commodities primárias brasileiras, a pauta de trocas com a Argentina inclui uma grande variedade de bens manufaturados, como automóveis, autopeças e máquinas, o que demonstra uma forte integração das cadeias de valor industriais dos dois países. 37
+    
+2. **Certo.** Vaca Muerta é uma das maiores reservas de gás e petróleo não convencionais do mundo. O gasoduto que parte de lá é estratégico para a Argentina escoar sua produção e para o Brasil, que poderia importar o gás a um custo potencialmente menor do que o GNL de outras fontes, aumentando sua segurança energética. Além disso, a construção da infraestrutura gera demanda por produtos e serviços de engenharia que o Brasil pode fornecer. 37
+    
+3. **Certo.** A relação Brasil-Argentina, embora estruturalmente densa, é notoriamente sensível às flutuações políticas. Períodos de alinhamento ideológico entre os governos tendem a aprofundar a cooperação, enquanto períodos de divergência podem gerar atritos e paralisar iniciativas, especialmente em temas que não são puramente técnicos. A gestão das assimetrias e das diferentes visões políticas é um desafio constante para a diplomacia de ambos.
+    
+4. **Certo.** A Argentina ocupa uma posição de destaque no comércio exterior brasileiro. É consistentemente o principal parceiro comercial do Brasil na América do Sul e, na maioria dos anos, posiciona-se como o terceiro ou quarto maior parceiro global, após a China e os Estados Unidos, sendo um mercado fundamental para as exportações de manufaturados brasileiros. 37
+    
+
+#### Questão 20
+
+1. **Certo.** A segurança na Amazônia e nas fronteiras brasileiras é um desafio multidimensional. Organizações criminosas que atuam nessas áreas não se limitam ao narcotráfico; elas frequentemente diversificam suas atividades para incluir crimes ambientais lucrativos, como o garimpo ilegal de ouro (que causa contaminação por mercúrio), a extração e o contrabando de madeira nobre e a grilagem de terras, criando uma complexa teia de ilegalidades.
+    
+2. **Certo.** Nenhuma estratégia de combate ao crime transnacional pode ser eficaz sem a cooperação dos países vizinhos, de onde partem muitas das atividades ilícitas que afetam o Brasil. Por isso, a diplomacia brasileira trabalha continuamente para fortalecer os mecanismos de cooperação policial (com a Polícia Federal), de inteligência (com a ABIN) e militar, por meio de acordos bilaterais e de instâncias regionais como o Mercosul e a OTCA.
+    
+3. **Certo.** O Brasil tem defendido em fóruns como a OEA e a UNODC (Escritório da ONU sobre Drogas e Crime) uma abordagem mais equilibrada e humanista para a questão das drogas. Essa posição reconhece a necessidade de reprimir o crime organizado, mas argumenta que isso deve ser complementado por políticas robustas de saúde pública para tratar a dependência, programas de prevenção ao uso de drogas e iniciativas de desenvolvimento alternativo para oferecer outras fontes de renda a comunidades vulneráveis ao narcotráfico.
+    
+4. **Errado.** A descrição da "rota caipira" está correta em sua essência, mas o item contém um erro ao associá-la ao CACD 2022. A questão sobre a "rota caipira" foi, na verdade, parte da prova do CACD 2023.37 A rota em si é um importante corredor logístico do crime organizado, utilizado por facções como o PCC para escoar cocaína e maconha da Bolívia e do Paraguai para os grandes centros consumidores do Brasil e para os portos de exportação.
+    
+
+### GEOGRAFIA
+
+#### Questão 21
+
+1. **Certo.** A pesquisa REGIC é a principal referência do IBGE para o estudo da rede urbana. Sua metodologia se baseia na identificação dos centros urbanos que concentram equipamentos e serviços (públicos e privados) e na análise dos fluxos (de pessoas, bens, informações) que eles atraem, estabelecendo assim uma hierarquia de influência que vai do nível local ao metropolitano. 38
+    
+2. **Certo.** Este é um dos processos mais marcantes da urbanização brasileira desde as últimas décadas do século XX. Fatores como a "guerra fiscal", a saturação das grandes metrópoles (custos elevados, problemas de trânsito, violência) e a modernização do campo levaram a uma dispersão de investimentos e população para cidades de porte médio, que passaram a apresentar altas taxas de crescimento. 40
+    
+3. **Certo.** As cidades médias que se localizam em regiões de expansão do agronegócio (como no Centro-Oeste, no MATOPIBA e no oeste do Paraná) experimentaram um crescimento particularmente vigoroso. Elas funcionam como "cidades do agronegócio", concentrando serviços especializados, comércio de insumos e máquinas, sedes de empresas, logística e mão de obra qualificada que dão suporte à produção agropecuária moderna no seu entorno.
+    
+4. **Certo.** Apesar do processo de desconcentração relativa, a hierarquia urbana brasileira ainda é fortemente marcada pela macrocefalia. As metrópoles globais, São Paulo e, em menor grau, Rio de Janeiro, continuam a ser os centros de comando da economia nacional, concentrando as sedes das maiores empresas, o mercado financeiro, os serviços mais sofisticados e os principais nós de conexão com a economia global.
+    
+
+#### Questão 22
+
+1. **Certo.** Dados consolidados do sistema PRODES, do Instituto Nacional de Pesquisas Espaciais (INPE), que é o sistema oficial de medição do desmatamento, mostraram uma redução na taxa anual para o período de agosto de 2022 a julho de 2023. Essa queda é amplamente atribuída pela análise governamental e de especialistas à retomada e intensificação das políticas de comando e controle, como a fiscalização do IBAMA e do ICMBio. 41
+    
+2. **Certo.** Existe um consenso entre pesquisadores e instituições (como Imazon e INPE) de que a principal causa direta do desmatamento em larga escala na Amazônia é a conversão da floresta para usos agropecuários. Grandes áreas são derrubadas para a abertura de pastagens para o gado bovino, e, em um segundo momento, essas áreas de pasto degradado são frequentemente convertidas em lavouras de soja. 43
+    
+3. **Certo.** O "Arco do Desmatamento" é a faixa de terra que se estende do leste e sul do Pará, passando por Mato Grosso, Rondônia e chegando ao Acre, onde a pressão agropecuária historicamente se concentrou. Análises de imagens de satélite recentes mostram que, além da intensificação do desmatamento dentro dessa área, novas frentes estão se abrindo para além de suas bordas tradicionais, notadamente no sul do Amazonas e no oeste acriano. 44
+    
+4. **Certo.** A distinção é metodologicamente importante. O "desmatamento" ou "corte raso", medido pelo PRODES, refere-se à remoção completa da vegetação florestal, detectável por satélite. A "degradação", medida por sistemas como o DETER, é um processo que afeta a saúde da floresta sem eliminá-la por completo, como em casos de incêndios que não matam todas as árvores ou extração seletiva de madeira. Uma área degradada, contudo, torna-se mais vulnerável ao desmatamento completo no futuro. 45
+    
+
+#### Questão 23
+
+1. **Certo.** As reservas do pré-sal, localizadas em águas ultraprofundas na costa brasileira, alteraram a geopolítica energética do país. Elas garantiram a autossuficiência em petróleo e transformaram o Brasil em um exportador relevante. A gestão desses recursos pela Petrobras e a definição do marco regulatório (partilha vs. concessão) tornaram-se temas centrais de debate sobre soberania nacional e o uso da riqueza petrolífera para o desenvolvimento. 46
+    
+2. **Certo.** A matriz elétrica do Brasil é uma de suas grandes vantagens comparativas. A grande capacidade de armazenamento de energia nos reservatórios das usinas hidrelétricas funciona como uma gigantesca "bateria" natural. Isso permite que o sistema elétrico absorva com segurança a energia de fontes intermitentes como a eólica (cujos ventos são mais fortes no período de seca dos rios) e a solar, garantindo a estabilidade da rede. 48
+    
+3. **Certo.** A Bacia do Prata é um exemplo clássico de gestão de recursos hídricos transfronteiriços na América do Sul. O Tratado de 1969 estabeleceu um marco para a cooperação. A construção de Itaipu, em particular, foi precedida por intensas negociações diplomáticas entre Brasil, Argentina e Paraguai (Acordo Tripartite de 1979) para compatibilizar os usos do Rio Paraná, demonstrando a complexidade geopolítica envolvida. 50
+    
+4. **Certo.** O Aquífero Guarani é um sistema de águas subterrâneas transfronteiriço compartilhado por Brasil, Argentina, Paraguai e Uruguai. Sua importância estratégica para o abastecimento de água e para a agricultura levou os quatro países a assinarem, em 2010, o Acordo sobre o Aquífero Guarani, um marco na cooperação regional para a gestão sustentável e a proteção de recursos hídricos subterrâneos.
+    
+
+#### Questão 24
+
+1. **Certo.** A desertificação é um conceito técnico definido pela Convenção das Nações Unidas de Combate à Desertificação (UNCCD). Refere-se especificamente à degradação da terra em zonas de clima árido, semiárido e subúmido seco, causada por variações climáticas e atividades humanas. Ela se diferencia da desertização, que é a formação ou expansão de desertos por processos naturais.
+    
+2. **Certo.** As atividades humanas são o principal gatilho da desertificação na Caatinga. A retirada da cobertura vegetal nativa para uso como lenha e carvão, o pisoteio excessivo e o consumo da vegetação pelo gado (sobrepastoreio), e o manejo inadequado do solo na agricultura (sem rotação de culturas ou técnicas de conservação) deixam o solo exposto e vulnerável à erosão e à perda de fertilidade. 52
+    
+3. **Certo.** Pesquisas conduzidas por instituições como o INSA e o LAPIS (Laboratório de Análise e Processamento de Imagens de Satélite) confirmam a gravidade do problema. Mapas de suscetibilidade à desertificação mostram que grandes áreas do Nordeste, especialmente nos chamados "núcleos de desertificação" (como o de Gilbués-PI, Cabrobó-PE e Seridó-PB/RN), já apresentam degradação severa, com impactos diretos na economia local e na fixação do homem no campo. 53
+    
+4. **Certo.** O enfrentamento da desertificação requer uma abordagem integrada. Políticas públicas como o Programa Um Milhão de Cisternas (P1MC) e o Programa de Aquisição de Alimentos (PAA) fortalecem a resiliência das populações. Iniciativas da sociedade civil, como as promovidas pela Articulação Semiárido Brasileiro (ASA) e pela Associação Caatinga, disseminam práticas de convivência com o semiárido, como o manejo sustentável da terra e a restauração de áreas degradadas. 55
+    
+
+#### Questão 25
+
+1. **Certo.** Essa dualidade é uma característica estrutural do campo brasileiro. A agricultura familiar, praticada em pequenas e médias propriedades, é fundamental para a segurança alimentar do país, produzindo a maior parte da mandioca, feijão, leite e hortaliças para o mercado interno. O agronegócio, por sua vez, opera em grande escala, com foco em commodities de exportação e alta mecanização.
+    
+2. **Certo.** A ocupação do Cerrado para a agricultura moderna, a partir da década de 1970, não foi um processo espontâneo. Ela foi viabilizada por uma forte ação estatal (crédito rural, construção de infraestrutura), pela pesquisa da Embrapa, que desenvolveu tecnologias para corrigir a acidez do solo e adaptar culturas como a soja, e pela migração de agricultores do Sul do país. 37
+    
+3. **Certo.** A imagem internacional do agronegócio brasileiro é ambivalente. Por um lado, é reconhecido por sua eficiência. Por outro, é frequentemente associado a problemas socioambientais. A pressão de consumidores e governos europeus, por exemplo, tem levado à criação de barreiras não tarifárias e exigências de rastreabilidade para produtos provenientes de áreas com risco de desmatamento ou conflitos fundiários.
+    
+4. **Certo.** O Brasil consolidou-se como uma potência agrícola global, liderando ou figurando entre os primeiros no ranking de produção e exportação de um vasto leque de produtos. A China tornou-se, de longe, o principal mercado para o agronegócio brasileiro, absorvendo volumes massivos de soja, carne bovina e celulose, o que cria uma forte relação de interdependência econômica entre os dois países.
+    
+
+#### Questão 26
+
+1. **Certo.** A estrutura espacial do Brasil colonial foi moldada pela lógica do pacto colonial. Os principais centros urbanos (Salvador, Recife, Rio de Janeiro) eram portos que funcionavam como entrepostos para a exportação de produtos primários (açúcar, ouro) para a Europa e a importação de manufaturados. O interior do território permaneceu largamente inexplorado e desarticulado dessa economia voltada para fora.
+    
+2. **Certo.** O ciclo do café, no século XIX, foi o grande motor da modernização e da integração do Sudeste. A expansão das lavouras pelo interior de São Paulo exigiu a construção de uma malha ferroviária para escoar a produção até o Porto de Santos, dinamizou o sistema financeiro, atraiu mão de obra imigrante e concentrou capital, o que pavimentou o caminho para a industrialização subsequente e a hegemonia econômica paulista.
+    
+3. **Certo.** O período do Estado Novo e o pós-guerra foram marcados por um projeto nacional-desenvolvimentista, no qual o Estado atuou como principal agente de transformação do território. A criação da CSN, da Petrobras, a construção de Brasília no Planalto Central (a "Marcha para o Oeste") e a abertura de grandes rodovias de integração (como a Belém-Brasília) são exemplos dessa política deliberada de industrialização e unificação do espaço nacional.
+    
+4. **Certo.** Este conceito-chave do geógrafo Milton Santos é fundamental para entender o Brasil contemporâneo. O território não é homogêneo; ele é formado por pontos e áreas onde a tecnologia (telecomunicações, logística moderna), a informação (acesso à internet, mídia global) e o capital financeiro se concentram (as "luminosidades"), comandando o resto do espaço, que permanece em "opacidade", com acesso precário a esses recursos, gerando profundas desigualdades.
+    
+
+#### Questão 27
+
+1. **Certo.** A globalização não eliminou as fronteiras; ela transformou sua função. Se, por um lado, as fronteiras se tornaram mais porosas para fluxos de capital e mercadorias, por outro, elas foram reforçadas como barreiras de controle de populações, especialmente para impedir a migração de pessoas de países do Sul para os do Norte. A construção de muros, o aumento da vigilância tecnológica e a criminalização da migração são fenômenos globais que contradizem a ideia de um "mundo sem fronteiras". 37
+    
+2. **Certo.** A ZFM, criada em 1967, é um modelo de polo industrial em zona de fronteira. A política de conceder isenções fiscais (IPI, ICMS) para empresas que se instalassem em Manaus foi uma estratégia geopolítica do Estado brasileiro para garantir a soberania sobre a região amazônica, gerar desenvolvimento econômico e fixar população em uma área remota e de baixa densidade demográfica.
+    
+3. **Certo.** A Faixa de Fronteira é uma área estratégica para a defesa nacional, regulada pela Lei nº 6.634/1979. Dentro dessa faixa de 150 km a partir da linha de fronteira, a lei estabelece uma série de controles, como a necessidade de assentimento prévio do Conselho de Defesa Nacional para a aquisição de terras por estrangeiros e para a realização de certas atividades econômicas, como a mineração.
+    
+4. **Certo.** As "cidades-gêmeas" são municípios cortados pela linha de fronteira, que apresentam uma forte integração urbana e social com a cidade do país vizinho. O governo brasileiro possui uma política específica para essas áreas, buscando facilitar a vida dos moradores da fronteira por meio de acordos que permitem, por exemplo, o trânsito de pessoas, a prestação de serviços de saúde e a cooperação em segurança pública.
+    
+
+#### Questão 28
+
+1. **Certo.** Vidal de La Blache é o principal nome da escola geográfica francesa do Possibilismo, que se contrapunha ao Determinismo alemão. Para ele, a natureza oferece um leque de possibilidades, mas é o grupo humano, com sua cultura, suas técnicas e suas escolhas (o "gênero de vida"), que atua sobre o meio e constrói ativamente sua paisagem e sua região. A relação homem-meio é de diálogo, não de subordinação. 37
+    
+2. **Certo.** Élisée Reclus foi um geógrafo singular em seu tempo, pois aliou a produção científica a um forte engajamento político anarquista. Em sua monumental obra "Nova Geografia Universal", ele não apenas descreveu as paisagens do mundo, mas também criticou duramente os efeitos do colonialismo, da exploração capitalista e da destruição da natureza, sendo um precursor do pensamento socioambiental. 37
+    
+3. **Certo.** O Determinismo Geográfico, cujo principal expoente foi o alemão Friedrich Ratzel, postulava uma relação causal direta entre as condições do meio físico e o desenvolvimento das sociedades. Sociedades de climas quentes seriam indolentes, enquanto as de climas temperados seriam mais dinâmicas, por exemplo. Essa visão, que serviu de justificativa para o imperialismo, é hoje considerada simplista e preconceituosa, tendo sido superada pelo Possibilismo e por outras correntes.
+    
+4. **Certo.** A geografia humanista, que floresceu a partir da década de 1970, representa uma crítica às abordagens puramente quantitativas ou objetivas. Para autores como Yi-Fu Tuan, o espaço só se torna "lugar" quando é dotado de significado e afeto pelas pessoas. A paisagem, nessa perspectiva, é a expressão da experiência vivida, dos símbolos e das percepções subjetivas que constroem a relação do ser humano com seu entorno.
+    
+
+### DIREITO
+
+#### Questão 29
+
+1. **Certo.** O artigo 31 da Convenção de Viena de 1969 estabelece a regra geral de interpretação, que é um dos pilares do direito dos tratados. A interpretação deve ser objetiva e teleológica, buscando o sentido usual dos termos (critério textual), analisando-os em seu contexto (preâmbulo, anexos, acordos conexos) e considerando sempre o objeto e a finalidade do tratado (critério teleológico), tudo isso pautado pelo princípio da boa-fé. 56
+    
+2. **Certo.** O artigo 19 da Convenção regula a formulação de reservas. Ele estabelece a liberdade de formular reservas como regra, mas prevê três exceções claras que tornam uma reserva inadmissível: (a) quando o próprio tratado a proíbe; (b) quando o tratado permite apenas certas reservas, e a que se pretende fazer não está entre elas; e (c) a cláusula geral de que a reserva não pode ser incompatível com o objeto e a finalidade do tratado. 56
+    
+3. **Certo.** O artigo 53 da Convenção codificou o conceito de _jus cogens_, ou norma imperativa de direito internacional. Trata-se de uma categoria hierarquicamente superior de normas (como a proibição do genocídio, da tortura, da agressão) que não podem ser derrogadas por acordo entre Estados. Qualquer tratado que, no momento de sua conclusão, viole uma norma de _jus cogens_ é considerado nulo de pleno direito.
+    
+4. **Certo.** A posição brasileira ao aderir à Convenção foi de aceitar seu conteúdo geral, mas de formular reservas expressas a dois artigos que tratam de mecanismos de jurisdição compulsória. A reserva ao artigo 66, que prevê o recurso obrigatório à CIJ ou à arbitragem para certas disputas sobre a validade de tratados, reflete a postura histórica do Brasil de não aceitar a jurisdição obrigatória de tribunais internacionais, preferindo sempre o consentimento caso a caso. 57
+    
+
+#### Questão 30
+
+1. **Certo.** A CNUDM estrutura os espaços marítimos de forma progressiva a partir da costa. O Mar Territorial é a faixa adjacente à costa, com até 12 milhas marítimas de largura, onde o Estado costeiro exerce soberania plena, análoga à que exerce em seu território terrestre. A Zona Econômica Exclusiva é uma área distinta, que se estende do limite exterior do mar territorial até 200 milhas marítimas da linha de base. 58
+    
+2. **Certo.** A ZEE não é uma zona de soberania plena, mas de direitos de soberania específicos de natureza econômica. O artigo 56 da CNUDM estabelece que, nessa zona, o Estado costeiro tem direitos soberanos para fins de exploração, aproveitamento, conservação e gestão de todos os recursos naturais, tanto os vivos (pesca) quanto os não vivos (petróleo, gás, minerais) do leito do mar, de seu subsolo e das águas sobrejacentes. 60
+    
+3. **Certo.** A ZEE é uma zona de equilíbrio de interesses. Enquanto o Estado costeiro tem direitos econômicos, os demais Estados conservam importantes liberdades de comunicação, essenciais para o comércio e as relações internacionais. O artigo 58 da CNUDM garante expressamente as liberdades de navegação, sobrevoo e instalação de cabos e dutos submarinos, que são consideradas liberdades do alto-mar aplicáveis à ZEE. 61
+    
+4. **Certo.** A Plataforma Continental, em seu sentido jurídico, é o prolongamento natural do território terrestre de um Estado sob o mar. A CNUDM, em seu artigo 76, estabelece que todo Estado costeiro tem direito a uma plataforma continental de, no mínimo, 200 milhas marítimas, mesmo que seu prolongamento geológico seja menor. Se o prolongamento geológico (a margem continental) ultrapassar essa distância, o Estado pode pleitear sua extensão, seguindo critérios técnicos complexos.
+    
+
+#### Questão 31
+
+1. **Certo.** A definição está em perfeita conformidade com o artigo 1º, inciso I, da Lei nº 9.474/97. A lei brasileira adota um critério ampliado de definição de refugiado, que inclui não apenas a perseguição individual clássica da Convenção de 1951, mas também a situação de "grave e generalizada violação de direitos humanos", o que permite, por exemplo, o reconhecimento da condição de refugiado para pessoas fugindo de situações de violência endêmica ou colapso do Estado. 62
+    
+2. **Certo.** Esta é a distinção conceitual e jurídica fundamental. O migrante, nos termos da Lei de Migração (Lei nº 13.445/17), desloca-se por vontade própria, geralmente por razões econômicas ou familiares, e pode, a qualquer momento, retornar ao seu país e solicitar a proteção de seu consulado. O refugiado, por sua vez, é forçado a fugir para salvar sua vida ou liberdade e não pode contar com a proteção de seu Estado de origem, necessitando, por isso, de proteção internacional. 63
+    
+3. **Certo.** O princípio da não devolução é a norma mais importante do direito internacional dos refugiados. Ele proíbe que um Estado retorne um refugiado ou solicitante de refúgio para um local onde haja sérios riscos à sua vida ou liberdade. Este princípio é absoluto e está consagrado tanto na Convenção de 1951 (art. 33) quanto na Lei nº 9.474/97 (art. 7º, § 1º). 64
+    
+4. **Certo.** O CONARE, criado pela Lei nº 9.474/97, é o órgão central do sistema brasileiro de refúgio. Presidido pelo Ministério da Justiça e Segurança Pública e composto por representantes de diversos ministérios (como Relações Exteriores e Trabalho), da Polícia Federal e da sociedade civil (através do ACNUR), ele tem a competência exclusiva para tomar as decisões de primeira instância sobre os pedidos de reconhecimento da condição de refugiado.
+    
+
+#### Questão 32
+
+1. **Certo.** A jurisdição da CIJ, tanto em matéria contenciosa quanto consultiva, é estritamente baseada no consentimento dos Estados. Nenhum Estado pode ser levado à Corte contra sua vontade. Este princípio é a pedra angular do sistema de solução de controvérsias da ONU e reflete a natureza da sociedade internacional, baseada na soberania dos Estados. 65
+    
+2. **Certo.** A afirmação descreve corretamente a situação do Brasil. O país nunca depositou a declaração de aceitação da jurisdição obrigatória da Corte. No entanto, ele pode aceitar a jurisdição da CIJ de forma pontual para um caso específico, assinando um _compromis_ com outro Estado, ou pode ser parte em um caso se for signatário de um tratado que contenha uma cláusula compromissória prevendo a jurisdição da Corte para disputas relativas àquele tratado.
+    
+3. **Certo.** O artigo 96 da Carta da ONU confere à CIJ a competência para emitir pareceres consultivos. A Assembleia Geral e o Conselho de Segurança podem solicitar pareceres sobre qualquer questão jurídica. Outros órgãos da ONU e agências especializadas também podem fazê-lo, desde que autorizados pela Assembleia Geral e que a questão esteja dentro do escopo de suas atividades.
+    
+4. **Certo.** Em março de 2023, a Assembleia Geral da ONU adotou uma resolução, liderada por Vanuatu e um grande grupo de países, solicitando à CIJ um parecer consultivo sobre as obrigações dos Estados em relação às mudanças climáticas. Essa iniciativa é um exemplo da tendência de "judicialização" de grandes temas globais, buscando no direito internacional respostas para desafios que a negociação política não tem conseguido resolver. 66
+    
+
+#### Questão 33
+
+1. **Certo.** O artigo 3º da Lei nº 11.440/2006 define de forma clara e concisa o núcleo das funções diplomáticas, que são tradicionalmente resumidas em representar, negociar e informar. A lei brasileira acrescenta a função de "proteger os interesses brasileiros", que abrange a proteção consular de cidadãos, a promoção comercial e a defesa dos interesses do Estado no exterior. 68
+    
+2. **Certo.** O artigo 36 da lei estabelece a estrutura da Carreira de Diplomata, com as seis classes hierárquicas mencionadas. A progressão entre as classes depende do cumprimento de critérios de mérito, antiguidade e da conclusão de cursos de aperfeiçoamento, como o Curso de Aperfeiçoamento de Diplomatas (CAD) e o Curso de Altos Estudos (CAE).
+    
+3. **Certo.** A alternância entre o serviço no Brasil (na Secretaria de Estado das Relações Exteriores) e no exterior (em embaixadas, consulados e missões) é uma característica central da carreira. A lei e seus regulamentos estabelecem tempos mínimos e máximos de permanência em postos no exterior e a necessidade de cumprir determinados períodos de serviço no Brasil para ter direito a promoções.
+    
+4. **Certo.** O Capítulo III da lei trata do Regime Disciplinar. O artigo 27 elenca os deveres do servidor do Serviço Exterior, entre os quais se incluem "manter conduta compatível com a moralidade administrativa" (inciso IV) e "guardar sigilo sobre assunto da repartição" (inciso VIII), deveres cuja violação pode levar à aplicação de sanções disciplinares.
+    
+
+#### Questão 34
+
+1. **Certo.** O artigo 22 da Convenção estabelece a inviolabilidade dos locais da missão, que não podem ser objeto de busca, requisição, embargo ou medida de execução. O artigo 22.1 especifica que os agentes do Estado receptor (polícia, oficiais de justiça) não podem ingressar nesses locais, a não ser com o consentimento do Chefe da Missão.
+    
+2. **Certo.** O artigo 31 da Convenção detalha o escopo da imunidade de jurisdição. A imunidade penal é absoluta. A imunidade civil e administrativa é a regra, mas a Convenção prevê três exceções taxativas: (a) ações sobre imóveis privados do diplomata no país; (b) ações sobre sucessões em que o diplomata atue como particular; e (c) ações relativas a qualquer profissão liberal ou atividade comercial que o diplomata exerça no país, fora de suas funções oficiais. 69
+    
+3. **Certo.** O artigo 32 da Convenção trata da renúncia à imunidade. A renúncia deve ser sempre expressa e partir do Estado acreditante (não do diplomata). O parágrafo 4º do artigo estabelece claramente que a renúncia à imunidade de jurisdição para um processo não se estende à imunidade de execução da sentença, que requer uma nova e específica renúncia.
+    
+4. **Certo.** O artigo 9 da Convenção consagra o direito do Estado receptor de declarar um diplomata _persona non grata_. Essa é uma decisão soberana, que não precisa ser justificada. Uma vez notificado, o Estado acreditante tem a obrigação de retirar o diplomata ou dar por terminadas suas funções. Caso não o faça, o Estado receptor pode deixar de reconhecer a pessoa em questão como membro da missão. 70
+    
+
+#### Questão 35
+
+1. **Certo.** A inclusão da "prevalência dos direitos humanos" como um dos dez princípios do artigo 4º foi uma inovação da Constituição de 1988 e teve um impacto profundo na política externa brasileira. Ela condiciona a ação diplomática do Brasil ao respeito e à promoção dos direitos humanos, tanto no plano interno quanto no externo, e serve de fundamento para a participação brasileira nos sistemas global e interamericano de direitos humanos.
+    
+2. **Certo.** Este princípio (inciso VII) reflete uma das mais fortes e constantes tradições da diplomacia brasileira, a chamada "tradição de Itamaraty". Desde o Barão do Rio Branco, o Brasil tem historicamente privilegiado o direito e a diplomacia em detrimento da força para a solução de suas controvérsias, o que resultou em fronteiras pacificamente demarcadas e em uma postura de mediação em conflitos regionais.
+    
+3. **Certo.** A convivência desses dois princípios (não intervenção e prevalência dos direitos humanos) é um dos dilemas centrais da política externa contemporânea, não apenas para o Brasil. A questão é: até que ponto a comunidade internacional pode ou deve intervir em um Estado soberano para coibir violações massivas de direitos humanos? A proposta brasileira da "Responsabilidade ao Proteger" é uma tentativa de equacionar essa tensão.
+    
+4. **Certo.** O parágrafo único do artigo 4º eleva o projeto de integração latino-americana a um objetivo constitucional do Estado brasileiro. Ele fornece a base jurídica e política para a participação do Brasil em iniciativas como o Mercosul, a UNASUL (em seu período de vigência) e outras formas de cooperação que visem à formação de uma comunidade regional.
+    
+
+#### Questão 36
+
+1. **Certo.** Esta é a tese fixada pelo STF no julgamento do Recurso Extraordinário (RE) 1.027.633, com repercussão geral (Tema 940). A Corte definiu que, com base no artigo 37, § 6º, da Constituição, a ação por danos causados por agente público deve ser movida contra a entidade pública ou a pessoa jurídica de direito privado prestadora de serviço público, e não diretamente contra o agente. A entidade, se condenada, poderá então mover uma ação de regresso contra o agente, se provar que este agiu com dolo ou culpa. 37
+    
+2. **Certo.** Esta conduta está expressamente tipificada como ato de improbidade administrativa que importa enriquecimento ilícito no artigo 9º, inciso IX, da Lei nº 8.429/92 (Lei de Improbidade Administrativa). A lei visa a coibir o uso do cargo ou função pública para obter vantagens indevidas.
+    
+3. **Certo.** O princípio da publicidade, previsto no artigo 37, _caput_, da Constituição, é uma regra geral para a Administração Pública. Ele determina que os atos administrativos devem ser transparentes e acessíveis ao público. O sigilo é uma medida excepcional, que só pode ser aplicada nas hipóteses estritamente definidas em lei (como a Lei de Acesso à Informação, Lei nº 12.527/11) para proteger interesses superiores, como a segurança nacional ou a intimidade das pessoas.
+    
+4. **Certo.** O artigo 5º, inciso LV, da Constituição Federal assegura a todos os litigantes, em processo judicial ou administrativo, o contraditório e a ampla defesa. Isso significa que o servidor que responde a um Processo Administrativo Disciplinar (PAD) tem o direito de conhecer a acusação, de produzir provas, de ser assistido por advogado e de recorrer das decisões, garantindo-se um julgamento justo.
+    
+
+---
+
+Tabela Comparativa: Responsabilidade de Proteger (R2P) vs. Responsabilidade ao Proteger (RwP)
+
+Inserida no Gabarito Comentado da Questão 16
+
+|Característica|Responsabilidade de Proteger (R2P)|Responsabilidade ao Proteger (RwP - Proposta Brasileira)|
+|---|---|---|
+|**Foco Principal**|Legitimidade da intervenção internacional quando um Estado falha em proteger sua população de crimes atrozes.|Critérios, prudência e responsabilidade na _execução_ de uma intervenção militar autorizada.|
+|**Contexto de Origem**|Pós-genocídios de Ruanda e Srebrenica (década de 1990) e o debate sobre "intervenção humanitária".|Pós-intervenção militar na Líbia (2011), percebida por muitos como uma extrapolação do mandato do CSNU.|
+|**Ênfase Normativa**|No dever do Estado (Pilar 1) e no direito da comunidade internacional de agir (Pilar 3).|Na necessidade de prevenir o uso desproporcional da força e garantir que a intervenção não cause mais danos.|
+|**Relação com o Uso da Força**|Define _quando_ o uso da força (Pilar 3) pode ser legítimo.|Define _como_ o uso da força, uma vez autorizado, deve ser conduzido de forma responsável e contida.|
+|**Status Atual no Debate da ONU**|Doutrina formalmente reconhecida e adotada, embora seu Pilar 3 seja altamente controverso na prática.|Conceito proposto que influenciou o debate sobre a implementação da R2P, mas não foi adotado como uma doutrina formal separada.|
