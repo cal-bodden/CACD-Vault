@@ -8,6 +8,7 @@ tags:
   - historia-do-brasil
 aliases:
   - A Escola Superior de Guerra (ESG) e a Doutrina de Segurança Nacional
+  - Escola Superior de Guerra (ESG)
 ---
 # A Escola Superior de Guerra (ESG) e a Doutrina de Segurança Nacional: A Matriz do Pensamento Estratégico do Regime Militar
 
