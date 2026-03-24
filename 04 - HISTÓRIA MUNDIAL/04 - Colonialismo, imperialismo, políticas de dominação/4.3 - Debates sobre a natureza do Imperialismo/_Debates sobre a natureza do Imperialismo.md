@@ -16,7 +16,7 @@ aliases:
 
 Os debates sobre a natureza do imperialismo constituem um dos campos mais ricos e controversos da teoria política e econômica moderna, envolvendo algumas das mentes mais brilhantes dos séculos XIX e XX. Estes debates não apenas buscaram explicar as causas e mecanismos da expansão imperial, mas também ofereceram diferentes perspectivas sobre a relação entre capitalismo, Estado e dominação internacional. As teorias desenvolvidas por pensadores como John A. Hobson, Vladimir Lenin, Rosa Luxemburgo, Joseph Schumpeter e outros continuam a influenciar nossa compreensão das relações internacionais contemporâneas.
 
-A importância destes debates transcende o interesse puramente acadêmico, uma vez que as diferentes interpretações da natureza do imperialismo implicam em diagnósticos distintos sobre as possibilidades de paz, desenvolvimento e justiça no sistema internacional. Conforme observa Branko Milanovic, "a proximidade lógica entre as teorias aparentemente opostas de Schumpeter e dos marxistas não pode ser negada" [1], sugerindo que mesmo perspectivas ideologicamente divergentes podem convergir em aspectos fundamentais da análise imperial.
+A importância destes debates transcende o interesse puramente acadêmico, uma vez que as diferentes interpretações da natureza do imperialismo implicam em diagnósticos distintos sobre as possibilidades de paz, desenvolvimento e justiça no sistema internacional. Conforme observa Branko Milanovic, "a proximidade lógica entre as teorias aparentemente opostas de Schumpeter e dos marxistas não pode ser negada", sugerindo que mesmo perspectivas ideologicamente divergentes podem convergir em aspectos fundamentais da análise imperial.
 
 ## As Origens do Debate Teórico
 
@@ -44,7 +44,7 @@ Segundo Hobson, o imperialismo era fundamentalmente um fenômeno econômico, res
 
 A teoria hobsoniana do subconsumo baseava-se na observação de que as classes trabalhadoras, devido aos baixos salários, não conseguiam consumir toda a produção industrial, enquanto as classes capitalistas, devido à sua propensão a poupar, não gastavam toda sua renda em consumo. Esta situação criava um excesso de capital que buscava oportunidades de investimento mais lucrativas no exterior.
 
-"O imperialismo é o esforço de grandes controladores da indústria para ampliar o canal de escoamento de seus produtos excedentes, buscando mercados estrangeiros e investimentos estrangeiros para absorver os bens e capitais que não podem ser vendidos ou utilizados domesticamente." [2]
+"O imperialismo é o esforço de grandes controladores da indústria para ampliar o canal de escoamento de seus produtos excedentes, buscando mercados estrangeiros e investimentos estrangeiros para absorver os bens e capitais que não podem ser vendidos ou utilizados domesticamente." 
 
 Hobson argumentava que esta situação poderia ser resolvida através de reformas domésticas que redistribuíssem a renda e aumentassem o poder de compra das massas, eliminando assim a necessidade de expansão imperial.
 
@@ -194,15 +194,6 @@ Os debates sobre a natureza do imperialismo permanecem relevantes para a compree
 
 3.Desenvolvimento Desigual: Como estruturas históricas de dominação influenciam padrões contemporâneos de desenvolvimento.
 
-### Aplicação ao CACD
-
-Para candidatos ao CACD, a compreensão destes debates é essencial para:
-
-1.Análise Histórica: Compreender as origens do sistema internacional moderno.
-
-2.Política Externa: Avaliar como fatores econômicos influenciam decisões de política externa.
-
-3.Relações Norte-Sul: Entender as bases históricas das desigualdades globais.
 
 ## Conclusão
 

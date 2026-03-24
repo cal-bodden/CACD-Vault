@@ -257,10 +257,3 @@ A conferência estabeleceu princípios que influenciaram o desenvolvimento do di
 
 Para os estudos diplomáticos contemporâneos, Bandung oferece lições importantes sobre como países menores podem cooperar para influenciar o sistema internacional, a importância de princípios compartilhados na construção de coalizões internacionais, e os desafios de traduzir aspirações políticas em ações concretas. A conferência também ilustra como eventos históricos específicos podem ter consequências duradouras que transcendem seu contexto imediato.
 
-## Referências
-
-[1] "Bandung Conference (Asian-African Conference), 1955". U.S. Department of State, Office of the Historian. Disponível em: [https://history.state.gov/milestones/1953-1960/bandung-conf](https://history.state.gov/milestones/1953-1960/bandung-conf)
-
-[2] "Revisiting the 1955 Bandung Asian-African Conference and its Legacy". South Centre. Disponível em: [https://www.southcentre.int/question/revisiting-the-1955-bandung-asian-african-conference-and-its-legacy/](https://www.southcentre.int/question/revisiting-the-1955-bandung-asian-african-conference-and-its-legacy/)
-
-[3] WRIGHT, Richard. "The Color Curtain: A Report on the Bandung Conference". University Press of Mississippi, 1956.

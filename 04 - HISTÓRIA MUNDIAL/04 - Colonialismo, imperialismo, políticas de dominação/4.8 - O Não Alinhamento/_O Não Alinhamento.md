@@ -16,7 +16,7 @@ aliases:
 
 O Movimento Não-Alinhado (NAM) emergiu como uma das forças políticas mais significativas da segunda metade do século XX, representando a tentativa de países recém-independentes e em desenvolvimento de navegar as complexidades da Guerra Fria sem se alinhar formalmente com nenhuma das duas superpotências. Este movimento, que teve suas raízes na Conferência de Bandung de 1955 e foi formalmente estabelecido na Conferência de Belgrado em 1961, representou uma "terceira via" na política internacional que desafiou a lógica bipolar dominante da época.
 
-O não-alinhamento não significava neutralidade passiva, mas sim uma política ativa de independência que buscava preservar a soberania nacional enquanto promovia a cooperação internacional, o desenvolvimento econômico e a paz mundial. Como observa o South Centre, "*o Movimento Não-Alinhado foi fundado durante a Guerra Fria por líderes de países que visavam estabelecer o princípio da coexistência pacífica e permanecer não-alinhados*" [1].
+O não-alinhamento não significava neutralidade passiva, mas sim uma política ativa de independência que buscava preservar a soberania nacional enquanto promovia a cooperação internacional, o desenvolvimento econômico e a paz mundial. Como observa o South Centre, "*o Movimento Não-Alinhado foi fundado durante a Guerra Fria por líderes de países que visavam estabelecer o princípio da coexistência pacífica e permanecer não-alinhados*" .
 
 O movimento cresceu de 25 países fundadores em 1961 para mais de 120 membros no seu auge, representando a maioria dos países em desenvolvimento e uma parcela significativa da população mundial. Embora sua relevância tenha diminuído após o fim da Guerra Fria, o NAM continua a existir e a influenciar debates sobre ordem internacional, desenvolvimento e cooperação Sul-Sul.
 
@@ -26,7 +26,7 @@ O movimento cresceu de 25 países fundadores em 1961 para mais de 120 membros no
 
 O conceito de não-alinhamento emergiu diretamente da experiência colonial compartilhada por muitos países asiáticos e africanos. Líderes como Jawaharlal Nehru da Índia, Gamal Abdel Nasser do Egito, e Josip Broz Tito da Iugoslávia argumentavam que, tendo lutado para se libertar da dominação colonial, seus países não deveriam aceitar novas formas de subordinação através do alinhamento com blocos de poder.
 
-Esta perspectiva foi articulada eloquentemente por Nehru, que declarou que "não queremos nos alinhar com qualquer bloco de poder... Queremos permanecer livres para tomar nossas próprias decisões" [2]. Esta filosofia refletia uma compreensão de que a verdadeira independência requeria não apenas soberania política formal, mas também autonomia na tomada de decisões de política externa.
+Esta perspectiva foi articulada eloquentemente por Nehru, que declarou que "não queremos nos alinhar com qualquer bloco de poder... Queremos permanecer livres para tomar nossas próprias decisões". Esta filosofia refletia uma compreensão de que a verdadeira independência requeria não apenas soberania política formal, mas também autonomia na tomada de decisões de política externa.
 
 ### Influências Intelectuais
 
@@ -290,10 +290,3 @@ O legado do movimento é complexo. Por um lado, ele demonstrou que era possível
 
 Para os estudos diplomáticos contemporâneos, o movimento não-alinhado oferece lições importantes sobre como países menores podem cooperar para influenciar o sistema internacional, os desafios de manter coalizões diversas, e a importância de adaptar estratégias às mudanças no ambiente internacional. Embora o movimento tenha perdido muito de sua relevância após o fim da Guerra Fria, seus princípios e aspirações continuam a influenciar debates sobre ordem internacional, desenvolvimento e cooperação Sul-Sul.
 
-## Referências
-
-[1] "The Legacy of the Non-Aligned Movement". See Film LA. Disponível em: [https://seefilmla.org/non-aligned-movement/](https://seefilmla.org/non-aligned-movement/)
-
-[2] NEHRU, Jawaharlal. "India's Foreign Policy: Selected Speeches, September 1946-April 1961". Government of India, 1961.
-
-[3] WILLETTS, Peter. "The Non-Aligned Movement: The Origins of a Third World Alliance". Frances Pinter, 1978.

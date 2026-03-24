@@ -33,7 +33,7 @@ Essa desconfiança mútua já era palpável nas conferências do final da guerra
 
 A perspectiva soviética era moldada por uma profunda necessidade de segurança. Tendo sofrido perdas humanas e materiais catastróficas e um histórico de invasões pelo oeste, Josef Stálin via a criação de uma zona de amortecimento (_buffer zone_) de estados-satélites na Europa Oriental como uma garantia existencial contra futuras agressões. Para Stálin, o controle sobre essa região não era uma questão de expansionismo ideológico, mas de segurança nacional pragmática.
 
-Do ponto de vista americano, as ações soviéticas na Europa Oriental foram vistas como uma violação flagrante das promessas de Yalta e uma expansão agressiva do totalitarismo.4 A rápida supressão de partidos não comunistas e a instalação de regimes fantoches leais a Moscou confirmaram os piores temores do Ocidente. Eventos como o discurso da "Cortina de Ferro" de Winston Churchill em março de 1946 e os influentes "Longos Telegramas" do diplomata americano George Kennan e do embaixador soviético Nikolai Novikov no mesmo ano, cimentaram a percepção de uma divisão irreconciliável e de uma ameaça existencial mútua, estabelecendo o cenário para a formalização do conflito.
+Do ponto de vista americano, as ações soviéticas na Europa Oriental foram vistas como uma violação flagrante das promessas de Yalta e uma expansão agressiva do totalitarismo. A rápida supressão de partidos não comunistas e a instalação de regimes fantoches leais a Moscou confirmaram os piores temores do Ocidente. Eventos como o discurso da "Cortina de Ferro" de Winston Churchill em março de 1946 e os influentes "Longos Telegramas" do diplomata americano George Kennan e do embaixador soviético Nikolai Novikov no mesmo ano, cimentaram a percepção de uma divisão irreconciliável e de uma ameaça existencial mútua, estabelecendo o cenário para a formalização do conflito.
 
 ### A Doutrina Truman (1947) e a Estratégia de "Contenção"
 
@@ -60,7 +60,7 @@ A Doutrina Truman forneceu o arcabouço ideológico, mas a contenção precisava
 
 Em junho de 1947, o Secretário de Estado George C. Marshall anunciou o Programa de Recuperação Europeia (ERP), que ficou conhecido como Plano Marshall. O plano oferecia ajuda econômica maciça para a reconstrução das economias devastadas pela guerra na Europa. A lógica estratégica por trás dessa generosidade era multifacetada e profundamente astuta:
 
-1. **Contenção Econômica:** A premissa central era que a miséria, a fome e a instabilidade social do pós-guerra criavam um terreno fértil para a propaganda e a ascensão dos partidos comunistas, especialmente na França e na Itália.13 Ao promover a recuperação econômica e a prosperidade, o Plano Marshall visava criar uma barreira robusta contra a atração do comunismo.
+1. **Contenção Econômica:** A premissa central era que a miséria, a fome e a instabilidade social do pós-guerra criavam um terreno fértil para a propaganda e a ascensão dos partidos comunistas, especialmente na França e na Itália. Ao promover a recuperação econômica e a prosperidade, o Plano Marshall visava criar uma barreira robusta contra a atração do comunismo.
     
 2. **Integração Ocidental:** O plano não era um conjunto de ajudas bilaterais, mas exigia que os países europeus cooperassem na elaboração de um plano de recuperação conjunto. Isso promoveu a integração econômica europeia, levando à criação da Organização para a Cooperação Econômica Europeia (OECE), e fortaleceu os laços transatlânticos, consolidando o bloco ocidental sob a liderança americana.
     

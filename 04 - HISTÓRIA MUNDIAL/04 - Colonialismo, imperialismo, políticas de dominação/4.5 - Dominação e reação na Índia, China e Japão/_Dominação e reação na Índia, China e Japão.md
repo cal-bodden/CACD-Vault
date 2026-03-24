@@ -238,12 +238,4 @@ A experiência indiana demonstra como mesmo sob dominação colonial direta, mov
 
 Para os estudos diplomáticos contemporâneos, estas experiências oferecem insights valiosos sobre como diferentes sociedades respondem a pressões externas, a importância de liderança efetiva e instituições adaptáveis, e as complexas relações entre modernização, nacionalismo e identidade cultural. Elas também ilustram como respostas ao imperialismo moldaram padrões duradouros de desenvolvimento político e econômico que continuam a influenciar as relações internacionais asiáticas hoje.
 
-## Referências
 
-[1] "British raj | Imperialism, Impact, History, & Facts". Encyclopædia Britannica. Disponível em: [https://www.britannica.com/event/British-raj](https://www.britannica.com/event/British-raj)
-
-[2] "The Meiji Restoration and Modernization". Asia for Educators, Columbia University. Disponível em: [https://afe.easia.columbia.edu/special/japan_1750_meiji.htm](https://afe.easia.columbia.edu/special/japan_1750_meiji.htm)
-
-[3] "The Opening to China Part II: The Second Opium War". U.S. Department of State, Office of the Historian. Disponível em: [https://history.state.gov/milestones/1830-1860/china-2](https://history.state.gov/milestones/1830-1860/china-2)
-
-[4] SAID, Edward W. "Orientalism". Vintage Books, 1978.
