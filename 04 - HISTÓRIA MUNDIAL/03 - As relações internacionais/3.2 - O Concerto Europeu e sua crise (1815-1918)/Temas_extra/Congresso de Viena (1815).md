@@ -25,7 +25,8 @@ A nova ordem internacional formulada em Viena baseou-se em três princípios fun
 - **Equilíbrio de Poder:** Esse princípio geopolítico orientou todas as negociações territoriais do Congresso. Consistia em distribuir o poder entre os grandes Estados de forma que nenhum isoladamente pudesse dominar os demais. A ideia de equilíbrio inspirou arranjos como a criação de Estados-tampão e compensações territoriais entre vencedores, de modo a **conter a França** e prevenir o surgimento de outra potência hegemônica. Os diplomatas em Viena, sobretudo o britânico _Castlereagh_, viam o balanço de poder como garantia de paz coletiva, assegurando que a ambição de um único Estado ficaria limitada pelo contrapeso das alianças rivais.
     
 
-> [!definition] **Equilíbrio de Poder:** Princípio geopolítico que visa evitar que qualquer potência europeia obtenha supremacia militar e política sobre as demais, promovendo estabilidade por meio do contrapeso entre alianças.
+> [!definition] **Equilíbrio de Poder** 
+> Princípio geopolítico que visa evitar que qualquer potência europeia obtenha supremacia militar e política sobre as demais, promovendo estabilidade por meio do contrapeso entre alianças.
 
 ## 3. Resultados e Mecanismos do Concerto Europeu
 
