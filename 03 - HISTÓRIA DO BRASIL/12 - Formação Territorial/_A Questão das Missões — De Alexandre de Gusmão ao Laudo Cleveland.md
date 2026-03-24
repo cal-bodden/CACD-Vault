@@ -10,8 +10,6 @@ tags:
 ---
 # A Questão das Missões — De Alexandre de Gusmão ao Laudo Cleveland
 
-A diplomacia de fronteiras é a espinha dorsal da nossa chancelaria. O material a seguir foi elaborado com exaustividade analítica e rigor historiográfico, projetado para blindá-lo contra as armadilhas do Teste de Pré-Seleção (TPS) e fornecer um arsenal argumentativo de excelência para a Terceira Fase (prova discursiva). 
-
 ## Bloco 1 — Debate Teórico e Historiográfico
 
 A formação das fronteiras meridionais do Brasil constitui o mais intrincado laboratório da diplomacia luso-brasileira. A transição de uma linha imaginária (Tordesilhas) para contornos naturais e geográficos exigiu séculos de formulações jurídicas audaciosas, levantamentos cartográficos (muitas vezes enviesados), embates militares locais e, finalmente, arbitragens internacionais. A "Questão das Missões" não é um evento isolado, mas um *continuum* histórico que se estende do século XVII ao alvorecer do século XX.
@@ -111,7 +109,7 @@ A argumentação de Rio Branco, um compêndio exaustivo de cartografia, históri
 
 ### Tratado de Badajoz (1801)
 **Definição Histórico-Diplomática:** Acordo de paz assinado na Europa que encerrou formalmente a "Guerra das Laranjas" entre Portugal e a coligação franco-espanhola.
-**Contexto de Formulação:** No Brasil, aproveitando o pretexto do conflito europeu, as milícias gaúchas invadiram e conquistaram definitivamente os Sete Povos das Missões. O Tratado de Badajoz é famoso por seu "silêncio americano": ao não estipular o princípio do *status quo ante bellum* (devolução dos territórios americanos), permitiu que o Brasil retivesse as áreas recém-conquistadas por Borges do Canto e Santos Amaro, garantindo o limite no rio Uruguai.[16, 17]
+**Contexto de Formulação:** No Brasil, aproveitando o pretexto do conflito europeu, as milícias gaúchas invadiram e conquistaram definitivamente os Sete Povos das Missões. O Tratado de Badajoz é famoso por seu "silêncio americano": ao não estipular o princípio do *status quo ante bellum* (devolução dos territórios americanos), permitiu que o Brasil retivesse as áreas recém-conquistadas por Borges do Canto e Santos Amaro, garantindo o limite no rio Uruguai.
 **Como a banca cobra:** A armadilha usual é afirmar que Badajoz delineou as fronteiras sulinas cedendo os Sete Povos a Portugal. Errado! Badajoz não cedeu nada formalmente; sua omissão validou o *direito de conquista* paramilitar (*uti possidetis de facto*). A banca adora esse detalhe jurídico-territorial.
 
 ### Questão de Palmas / Questão das Missões (1895)
@@ -153,7 +151,7 @@ Fique alerta! O CEBRASPE desenvolveu um repertório de afirmativas "quase corret
 A Terceira Fase exige profundidade teórica e sofisticação argumentativa. A prova discursiva de História do Brasil valoriza imensamente a articulação do pensamento historiográfico. Abaixo, um arcabouço sólido para um texto de 90 linhas abordando as continuidades e rupturas na diplomacia de fronteiras.
 
 ### Eixo 1: O Brilhantismo Jurídico-Cartográfico e suas Falhas (Aprox. linhas 1 a 30)
-**Tese Central:** A formulação do Tratado de Madri (1750) representou o auge da diplomacia de Alexandre de Gusmão, que, por meio de institutos jurídicos inovadores e artifícios cartográficos audaciosos, forjou os contornos do Estado continental, embora tenha plantado as sementes de futuros impasses demarcatórios.
+**Tese Central:** A formulação do [[Tratado de Madri (1750)]]representou o auge da diplomacia de Alexandre de Gusmão, que, por meio de institutos jurídicos inovadores e artifícios cartográficos audaciosos, forjou os contornos do Estado continental, embora tenha plantado as sementes de futuros impasses demarcatórios.
 **Desenvolvimento e Argumentação (Apoio Historiográfico):** 
 *   Inicie dissecando o conceito de *uti possidetis, ita possideatis*, operado por Gusmão para anular a anacrônica linha de Tordesilhas e legalizar o avanço luso-brasileiro. Mencione a consolidação do preceito de fronteiras naturais.
 *   Evoque a perspectiva do historiador **Jaime Cortesão**, que interpreta a obra de Gusmão como a materialização da "Ilha-Brasil" — um projeto geopolítico consciente de alcançar as grandes bacias fluviais que as elites cartográficas portuguesas supostamente nutriam desde o século XVI.
@@ -164,7 +162,7 @@ A Terceira Fase exige profundidade teórica e sofisticação argumentativa. A pr
 **Tese Central:** O colapso diplomático provocado pelas omissões cartográficas e pela resistência sociopolítica dos territórios negociados transferiu a resolução das fronteiras sulinas da pena dos embaixadores para as baionetas das milícias locais, ilustrando a preponderância da ocupação efetiva sobre o direito de gabinete.
 **Desenvolvimento e Argumentação (Apoio Historiográfico):**
 *   Aborde como a permuta estipulada em Madri (Sacramento pelos Sete Povos) desconsiderou completamente o enraizamento das populações locais. O ápice desse erro de cálculo culminou nas trágicas Guerras Guaraníticas (1753-1756).
-*   Aponte que a inviabilidade da demarcação resultou na anulação de Madri via Tratado de El Pardo (1761) e no terrível retrocesso das perdas luso-brasileiras chanceladas pelo Tratado de Santo Ildefonso (1777).
+*   Aponte que a inviabilidade da demarcação resultou na anulação de Madri via [[Tratado de El Pardo (1761)]] e no terrível retrocesso das perdas luso-brasileiras chanceladas pelo [[Tratado de Santo Ildefonso (1777)]].
 *   Destaque a ação vital das hostes paramilitares na práxis de fronteira (a figura do "bandeirante" transmutada no gaúcho). Cite a brilhante iniciativa de **Borges do Canto** e **Santos Amaro**, que, no bojo da Guerra das Laranjas (1801), retomaram militarmente os Sete Povos das Missões.
 *   Argumente que a força das armas gerou um "fato consumado" que o subsequente Tratado de Badajoz (1801), ao omitir a clásula de *status quo ante bellum* na América, acatou tacitamente, chancelando a consolidação luso-brasileira no atual Rio Grande do Sul.
 **Gancho de Encerramento do Eixo:** Assim, a espada das milícias periféricas restabeleceu o sonho territorial de Gusmão que as intempéries diplomáticas haviam perdido. Contudo, a ausência de limites cabais e as dúvidas cartográficas remanescentes nos rios de divisa preservaram litígios que adormeceriam durante o Império para explodir na aurora da República.
