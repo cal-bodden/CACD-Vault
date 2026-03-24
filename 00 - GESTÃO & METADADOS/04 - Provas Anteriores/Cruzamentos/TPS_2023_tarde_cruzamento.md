@@ -2692,7 +2692,7 @@ Vendo as dificuldades que tinha para administrar um território longínquo e hab
 
 ### Item 4
 
-Em 17 de novembro de 1903, chegou-se ao acordo chamado Tratado de Petrópolis. O Brasil ficaria com metade do território do Acre (cerca de 95 mil km2). A Bolívia, por sua parte, incorporaria uma pequena área habitada por bolivianos (de 2.300 km2), receberia 2 milhões de libras esterlinas e se beneficiaria de três pequenos ajustes de fronteiras na região do rio Paraguai. Além disso, o Brasil se comprometia a construir a ferrovia Madeira-Mamoré, que criava uma saída boliviana para o Atlântico. CONCURSO PÚBLICO  TERCEIRO‐SECRETÁRIO DA CARREIRA DE DIPLOMATA  TIPO “A” – TARDE
+Em 17 de novembro de 1903, chegou-se ao acordo chamado Tratado de Petrópolis. O Brasil ficaria com metade do território do Acre (cerca de 95 mil km2). A Bolívia, por sua parte, incorporaria uma pequena área habitada por bolivianos (de 2.300 km2), receberia 2 milhões de libras esterlinas e se beneficiaria de três pequenos ajustes de fronteiras na região do rio Paraguai. Além disso, o Brasil se comprometia a construir a ferrovia Madeira-Mamoré, que criava uma saída boliviana para o Atlântico. 
 
 **Gabarito: Errado (E)**
 

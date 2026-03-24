@@ -15,7 +15,8 @@ O Brasil possui uma das maiores fronteiras terrestres do mundo (mais de 15.000 k
 
 A seguir, analisamos as principais questões de fronteira enfrentadas pelo Brasil, em ordem cronológica, aprofundando para cada caso: **(1)** o contexto histórico e interesses em jogo; **(2)** a estratégia diplomática brasileira (princípios jurídicos, papéis dos diplomatas e argumentos utilizados); **(3)** o desfecho da disputa (tratados, laudos arbitrais, concessões); e **(4)** uma análise focada no **CACD**, destacando a importância estratégica, pontos já cobrados em provas recentes ou prováveis de cobrança, e o legado diplomático de cada contencioso.
 
-> [!note] **Diplomata precursor:** _Alexandre de Gusmão_, frequentemente chamado de **“avô dos diplomatas brasileiros”**, foi o principal artífice do Tratado de Madri (1750). Ele introduziu o princípio do _uti possidetis_ nas negociações coloniais, lançando as bases da tradição legalista da diplomacia de fronteiras do Brasil.
+> [!note] **Diplomata precursor** 
+> _Alexandre de Gusmão_, frequentemente chamado de **“avô dos diplomatas brasileiros”**, foi o principal artífice do Tratado de Madri (1750). Ele introduziu o princípio do _uti possidetis_ nas negociações coloniais, lançando as bases da tradição legalista da diplomacia de fronteiras do Brasil.
 
 ## Tratado de Madri (1750) – A Herança da Colônia
 
@@ -34,7 +35,8 @@ A seguir, analisamos as principais questões de fronteira enfrentadas pelo Brasi
 
 Apesar de **problemas na implementação** – por exemplo, dificuldades em remover os indígenas Guarani das Missões (deflagrando a _Guerra Guaranítica_, 1753-56) e imprecisões na demarcação no norte – o Tratado de Madri foi **efetivamente aplicado em larga medida**. Em 1761, sob novo contexto político (aliança Bourbon entre França e Espanha contra Portugal), o **Tratado de El Pardo (1761)** anulou Madri. Porém, **na prática** as disposições de Madri **perduraram**: exceto ajustes no sul, as fronteiras negociadas em 1750 **moldaram o contorno geral do Brasil atual**. Prova disso é que tratados posteriores (como Santo Ildefonso, 1777) confirmaram grande parte dos limites, e conflitos de 1801 permitiram ao Brasil reocupar áreas perdidas, como as Missões. Assim, mesmo tendo vigorado formalmente por pouco tempo, o Tratado de Madri **prevaleceu de fato** e delineou as bases do mapa do Brasil moderno.
 
-> [!tip] **Foco CACD:** O Tratado de Madri (1750) é fundamental na formação territorial brasileira. Em provas, destaca-se:
+> [!tip] **Foco CACD** 
+> O Tratado de Madri (1750) é fundamental na formação territorial brasileira. Em provas, destaca-se:
 > 
 > - **Importância estratégica:** Madri antecipou em **70 anos a independência** do Brasil, assegurando um território imenso e coeso. Sem ele, o Brasil independente teria sido muito menor. É frequentemente citado como **sucesso diplomático colonial**, consolidando a _dilatação territorial_ luso-brasileira em detrimento do Tratado de Tordesilhas.
 >     
@@ -143,7 +145,8 @@ Com esses termos, a Bolívia viu-se compensada financeiramente e logisticamente,
 
 ---
 
-> [!important] **Síntese Final:** As Grandes Questões de Fronteira do Brasil constituem um capítulo de êxito da diplomacia nacional. Em cerca de 150 anos, o Brasil negociou com todos os vizinhos, **evitando guerras territoriais abertas** e assegurando um território continental coeso. Tratados como Madri (1750) lançaram as bases ainda na era colonial, e negociadores brilhantes – de Gusmão a Rio Branco – consolidaram, com _pena e papel_, o que bandeirantes e colonos haviam conquistado. O resultado é que, **desde 1909, o Brasil não tem litígios de fronteira**; foi o primeiro país da América do Sul a amarrar todos os seus limites em acordos bilaterais. Para o candidato ao CACD, este tema oferece lições valiosas sobre **princípios de direito internacional** (uti possidetis, títulos coloniais, arbitragem), sobre o **papel de diplomatas históricos** e sobre a formação do Estado brasileiro em si. Além disso, reforça valores caros à diplomacia brasileira, como o **pacifismo**, o respeito aos **tratados** e a busca de **soluções pragmáticas**, elementos constantemente enaltecidos nas provas e no próprio espírito do Itamaraty.
+> [!important] **Síntese Final:** 
+> As Grandes Questões de Fronteira do Brasil constituem um capítulo de êxito da diplomacia nacional. Em cerca de 150 anos, o Brasil negociou com todos os vizinhos, **evitando guerras territoriais abertas** e assegurando um território continental coeso. Tratados como Madri (1750) lançaram as bases ainda na era colonial, e negociadores brilhantes – de Gusmão a Rio Branco – consolidaram, com _pena e papel_, o que bandeirantes e colonos haviam conquistado. O resultado é que, **desde 1909, o Brasil não tem litígios de fronteira**; foi o primeiro país da América do Sul a amarrar todos os seus limites em acordos bilaterais. Para o candidato ao CACD, este tema oferece lições valiosas sobre **princípios de direito internacional** (uti possidetis, títulos coloniais, arbitragem), sobre o **papel de diplomatas históricos** e sobre a formação do Estado brasileiro em si. Além disso, reforça valores caros à diplomacia brasileira, como o **pacifismo**, o respeito aos **tratados** e a busca de **soluções pragmáticas**, elementos constantemente enaltecidos nas provas e no próprio espírito do Itamaraty.
 
 ## Questões de Autoavaliação
 
