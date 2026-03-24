@@ -166,10 +166,3 @@ O PPCDAm continua sendo relevante para o futuro da **Amazônia** e do Brasil.
     * Publicações do Ministério do Meio Ambiente e Mudança do Clima sobre políticas de combate ao **desmatamento**.
     * Artigos acadêmicos e livros sobre o **desmatamento** na Amazônia, suas causas e consequências, e as políticas públicas de controle.
     * Análises de organizações da sociedade civil (ONGs) que atuam na Amazônia e monitoram o desmatamento.
-* **Links para sites relevantes:**
-    * Ministério do Meio Ambiente e Mudança do Clima (MMA): [https://www.gov.br/mma/pt-br](https://www.gov.br/mma/pt-br) (Informações sobre o PPCDAm, políticas de combate ao desmatamento e dados ambientais).
-    * Instituto Nacional de Pesquisas Espaciais (INPE): [https://www.inpe.br/](https://www.inpe.br/) (Sistemas PRODES e DETER de **monitoramento** do **desmatamento**).
-    * Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA): [https://www.gov.br/ibama/pt-br](https://www.gov.br/ibama/pt-br) (Informações sobre **fiscalização ambiental**).
-    * Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio): [https://www.gov.br/icmbio/pt-br](https://www.gov.br/icmbio/pt-br) (Informações sobre unidades de conservação).
-    * Instituto de Pesquisa Ambiental da Amazônia (IPAM): [https://ipam.org.br/](https://ipam.org.br/) (Pesquisas e análises sobre a Amazônia, desmatamento e políticas ambientais).
-    * Imazon: [https://imazon.org.br/](https://imazon.org.br/) (Monitoramento florestal e estudos sobre a Amazônia).
