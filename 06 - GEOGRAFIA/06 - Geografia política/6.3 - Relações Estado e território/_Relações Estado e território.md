@@ -52,7 +52,7 @@ Se Sack nos fornece a gramática da estratégia de poder espacial, Milton Santos
 
 > [!definition] Território Usado segundo Milton Santos
 > 
-> O "território usado" é o espaço geográfico em sua totalidade, compreendido como um conjunto indissociável, um híbrido formado pela configuração territorial (o sistema de objetos, as materialidades, as infraestruturas, a herança do passado) e pela dinâmica social (o sistema de ações, as relações sociais, econômicas, políticas e culturais que o animam e o transformam incessantemente).9 É o chão onde todas as ações, forças, conflitos e solidariedades se encontram e ganham visibilidade.
+> O "território usado" é o espaço geográfico em sua totalidade, compreendido como um conjunto indissociável, um híbrido formado pela configuração territorial (o sistema de objetos, as materialidades, as infraestruturas, a herança do passado) e pela dinâmica social (o sistema de ações, as relações sociais, econômicas, políticas e culturais que o animam e o transformam incessantemente). É o chão onde todas as ações, forças, conflitos e solidariedades se encontram e ganham visibilidade.
 
 Ao focar no _uso_, Santos desloca a análise da forma para o conteúdo, do continente para o processo histórico de sua apropriação pelos homens. O "território usado" não é um palco passivo, mas um ator que condiciona e é condicionado pela ação social. É uma instância da sociedade, assim como a economia ou a cultura.
 
@@ -84,7 +84,7 @@ Para compreender o espaço contemporâneo, Milton Santos propõe uma periodizaç
 
 No Brasil, a implantação do MTCI é marcada por uma profunda seletividade espacial. O território nacional não é uniformemente dotado dessa nova densidade técnica e informacional. Pelo contrário, o MTCI se instala de forma pontual e em rede, criando verdadeiros "arquipélagos" de modernidade. Esses "pontos de luz" — como os centros financeiros de São Paulo, os polos tecnológicos de Campinas e São José dos Campos, os laboratórios da Embrapa, os corredores logísticos do agronegócio e os complexos portuários modernizados — coexistem com vastas "áreas de sombra", regiões que permanecem à margem desses fluxos, com baixa densidade técnica e informacional.
 
-Essa geografia desigual não é um subproduto acidental, mas uma característica intrínseca da lógica do MTCI, que serve prioritariamente aos interesses dos atores hegemônicos do capitalismo global.17 A consequência é a acentuação das disparidades regionais, não mais explicadas apenas pela ausência de indústrias, mas pela exclusão ou inclusão subordinada nas redes globais de informação e inovação.
+Essa geografia desigual não é um subproduto acidental, mas uma característica intrínseca da lógica do MTCI, que serve prioritariamente aos interesses dos atores hegemônicos do capitalismo global. A consequência é a acentuação das disparidades regionais, não mais explicadas apenas pela ausência de indústrias, mas pela exclusão ou inclusão subordinada nas redes globais de informação e inovação.
 
 ### A Tensão Dialética: Horizontalidades e Verticalidades
 

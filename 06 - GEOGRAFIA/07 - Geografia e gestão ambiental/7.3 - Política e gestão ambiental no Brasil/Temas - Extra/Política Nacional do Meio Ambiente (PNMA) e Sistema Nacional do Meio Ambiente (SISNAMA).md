@@ -176,18 +176,3 @@ A PNMA e o SISNAMA enfrentam desafios para garantir sua eficácia na prática.
 * Desafios e oportunidades para a política ambiental no Brasil: Considerar os obstáculos remanescentes e as perspectivas de aprimoramento.
 * Principais autores e referências bibliográficas: Especialistas em Direito Ambiental brasileiro, Gestão Ambiental, Políticas Públicas, Sociologia Ambiental, Economia Ambiental.
 
-## Material Complementar
-
-* Bibliografia essencial:
-    * Lei nº 6.938/81 (Lei da Política Nacional do Meio Ambiente).
-    * Constituição Federal de 1988 (Artigo 225).
-    * Resoluções relevantes do CONAMA.
-    * Livros e artigos acadêmicos sobre Direito Ambiental brasileiro, Gestão Ambiental e Políticas Públicas ambientais.
-    * Obras que analisam o funcionamento do SISNAMA e a aplicação dos instrumentos da PNMA.
-* Links para sites relevantes:
-    * Ministério do Meio Ambiente e Mudança do Clima (MMA): https://www.gov.br/mma/pt-br (Informações sobre a PNMA, SISNAMA, órgãos e legislação).
-    * Conselho Nacional do Meio Ambiente (CONAMA): https://www.gov.br/mma/pt-br/composicao-2/conama (Informações sobre o CONAMA e suas resoluções).
-    * Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA): https://www.gov.br/ibama/pt-br (Informações sobre fiscalização, licenciamento e outras atividades).
-    * Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio): https://www.gov.br/icmbio/pt-br (Informações sobre Unidades de Conservação).
-    * Sites de órgãos ambientais estaduais e municipais.
-    * Portais de Direito Ambiental e estudos ambientais.

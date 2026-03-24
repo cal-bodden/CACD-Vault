@@ -82,28 +82,6 @@ A rivalidade estratégica entre os Estados Unidos e a China encontrou seu campo 
 
 O epicentro da competição geoeconômica contemporânea está na liderança da produção, inovação e exportação das três principais tecnologias da transição energética: painéis solares, baterias para veículos elétricos (EVs) e os próprios veículos elétricos. Neste campo, a China estabeleceu uma vantagem formidável, resultado de mais de uma década de planejamento estatal e investimento direcionado. Pequim não é apenas o maior produtor em volume, mas também um líder em inovação, detendo quase um terço de todas as patentes de energia renovável do mundo. Seus produtos, como os VEs, são frequentemente mais baratos e tecnologicamente avançados que os concorrentes ocidentais, um reflexo do controle chinês sobre toda a cadeia de valor, desde o refino dos minerais até a montagem final.
 
-Snippet de código
-
-```mermaid
-graph TD
-    subgraph "Cadeia de Suprimentos da Economia Verde"
-        A --> B{Refino e Processamento};
-        B --> C[Produção de Componentes Ativos<br>(Cátodos, Ânodos, Ímãs)];
-        C --> D;
-        D --> E[Mercado Global<br><br><i>Competição: China vs. EUA/UE</i>];
-    end
-
-    style B fill:#f9f,stroke:#333,stroke-width:2px
-    style C fill:#f9f,stroke:#333,stroke-width:2px
-
-    subgraph " "
-        note1(Domínio Estratégico da China<br>Controle de >70-90% do mercado)
-    end
-
-    B -- Vínculo de Domínio --> note1
-    C -- Vínculo de Domínio --> note1
-```
-
 ### Políticas Industriais como Armas Geoeconômicas
 
 Reconhecendo a ameaça estratégica representada pelo domínio chinês, os Estados Unidos responderam com a mais significativa peça de política industrial em décadas: o _Inflation Reduction Act_ (IRA) de 2022. O IRA e o modelo de subsídios da China, embora ambos visem impulsionar a indústria verde, operam com lógicas fundamentalmente distintas, refletindo seus respectivos sistemas políticos e objetivos geoeconômicos.
