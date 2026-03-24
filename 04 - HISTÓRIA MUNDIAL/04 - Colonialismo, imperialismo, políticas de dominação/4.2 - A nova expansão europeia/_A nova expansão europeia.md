@@ -166,12 +166,4 @@ As consequências desta expansão estenderam-se muito além do período colonial
 
 A análise da nova expansão europeia também revela como fatores econômicos, tecnológicos, ideológicos e geopolíticos se combinaram para criar um sistema global de dominação que, embora formalmente desmantelado no século XX, deixou legados duradouros que continuam a influenciar as relações internacionais contemporâneas.
 
-## Referências
 
-[1] "New Imperialism". Encyclopædia Britannica. Disponível em: [https://www.britannica.com/topic/New-Imperialism](https://www.britannica.com/topic/New-Imperialism)
-
-[2] HOBSBAWM, Eric J. "The Age of Empire: 1875-1914". Vintage Books, 1987.
-
-[3] GALLAGHER, John; ROBINSON, Ronald. "The Imperialism of Free Trade". Economic History Review, 1953.
-
-[4] SAID, Edward W. "Orientalism". Vintage Books, 1978.

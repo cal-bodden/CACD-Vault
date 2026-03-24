@@ -332,27 +332,6 @@ As rivalidades coloniais dos séculos XIX e início do XX representam um capítu
   * 1894-1895: Guerra Sino-Japonesa alterando equilíbrio asiático
   * 1904-1907: Formação da Tríplice Entente contrapondo-se à Tríplice Aliança
 
-## Material Complementar
 
-* **Bibliografia essencial:**
-  * HOBSBAWM, Eric. *A Era dos Impérios (1875-1914)*. Rio de Janeiro: Paz e Terra.
-  * SAID, Edward. *Cultura e Imperialismo*. São Paulo: Companhia das Letras.
-  * WESSELING, H. L. *Dividir para Dominar: A Partilha da África (1880-1914)*. Rio de Janeiro: Editora UFRJ.
-  * HEADRICK, Daniel R. *The Tools of Empire: Technology and European Imperialism in the Nineteenth Century*. Oxford University Press.
-  * PAKENHAM, Thomas. *The Scramble for Africa*. Londres: Abacus.
-  * SARAIVA, José Flávio Sombra (org.). *História das Relações Internacionais Contemporâneas*. São Paulo: Saraiva.
-
-* **Documentos históricos relevantes:**
-  * Ata Geral da Conferência de Berlim (1885)
-  * Discursos de Jules Ferry sobre política colonial francesa (1885)
-  * Carta de Cecil Rhodes sobre expansão britânica na África
-  * Tratado de Versalhes (1919) - seções referentes às colônias alemãs
-
-* **Links para sites relevantes:**
-  * [FUNAG - Fundação Alexandre de Gusmão](https://www.gov.br/funag/pt-br) - publicações sobre história diplomática
-  * [Portal de História da Biblioteca Nacional](https://bndigital.bn.gov.br/exposicoes/o-imperialismo/)
-  * [Itamaraty - História Diplomática](https://www.gov.br/mre/pt-br/assuntos/o-ministerio/historia-do-itamaraty)
-  * [IBGE - Estatísticas do Século XX](https://seculoxx.ibge.gov.br/)
-  * [Portal da UNESCO sobre Patrimônio Mundial](https://whc.unesco.org/) - locais relacionados ao período colonial
 
 > **Observação Final**: O estudo das rivalidades coloniais é fundamental não apenas para compreender a geopolítica do período 1870-1914, mas também para analisar estruturas e dinâmicas contemporâneas nas relações Norte-Sul, questões de desenvolvimento econômico e conflitos persistentes em regiões pós-coloniais. O candidato deve estar atento às conexões entre este tema e outras áreas do edital, como história da África, sistema internacional contemporâneo e processos de descolonização.

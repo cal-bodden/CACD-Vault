@@ -18,7 +18,7 @@ Proferido em 8 de janeiro de 1918, o discurso dos "14 Pontos" do presidente nort
 
 > [!important] Relevância para o CACD
 > 
-> Compreender os 14 Pontos é essencial para o CACD por múltiplos motivos:
+> Compreender os 14 Pontos é essencial para:
 > 
 > 1. **Fundamento do Idealismo:** É o principal exemplo histórico da escola idealista de Relações Internacionais, um dos pilares teóricos da disciplina.
 >     

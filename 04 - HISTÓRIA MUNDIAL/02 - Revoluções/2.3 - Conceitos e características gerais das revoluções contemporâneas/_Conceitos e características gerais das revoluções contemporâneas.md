@@ -38,9 +38,7 @@ Os principais teóricos oferecem definições que, embora distintas em suas ênf
 
 > [!definition] Revolução Social (Theda Skocpol)
 > 
-> "Transformações rápidas e fundamentais das estruturas estatais e de classe de uma sociedade; e elas são acompanhadas e em parte realizadas por revoltas de classe vindas de baixo". Para Skocpol, o que distingue uma
-> 
-> **revolução social** é a coincidência de duas transformações: a mudança na estrutura social e a mudança na estrutura política, que se reforçam mutuamente. Ela diferencia este fenômeno de:
+> "Transformações rápidas e fundamentais das estruturas estatais e de classe de uma sociedade; e elas são acompanhadas e em parte realizadas por revoltas de classe vindas de baixo". Para Skocpol, o que distingue uma **revolução social** é a coincidência de duas transformações: a mudança na estrutura social e a mudança na estrutura política, que se reforçam mutuamente. Ela diferencia este fenômeno de:
 > 
 > - **Revoluções Políticas:** Mudam as estruturas do Estado, mas não as estruturas sociais. O exemplo clássico é a Revolução Americana, que alterou a governança, mas preservou em grande medida a ordem social existente.
 >     
@@ -49,12 +47,12 @@ Os principais teóricos oferecem definições que, embora distintas em suas ênf
 
 > [!definition] Processo Revolucionário (Charles Tilly)
 > 
-> Tilly vê a revolução como o resultado extremo do "confronto político" (contentious politics), um processo e não um evento isolado.7 Sua análise se desdobra em dois conceitos-chave:
+> Tilly vê a revolução como o resultado extremo do "confronto político" (contentious politics), um processo e não um evento isolado. Sua análise se desdobra em dois conceitos-chave:
 > 
-> - **Situação Revolucionária:** Caracterizada pela **soberania múltipla**, um momento em que a população se depara com reivindicações de poder incompatíveis e mutuamente exclusivas feitas por diferentes grupos ou coalizões sobre o Estado ou parte dele. Ocorre quando (1) contendores avançam reivindicações concorrentes de controle sobre o Estado; (2) um segmento significativo da população adere a essas reivindicações; e (3) os governantes são incapazes ou não estão dispostos a suprimir a coalizão alternativa.13
+> - **Situação Revolucionária:** Caracterizada pela **soberania múltipla**, um momento em que a população se depara com reivindicações de poder incompatíveis e mutuamente exclusivas feitas por diferentes grupos ou coalizões sobre o Estado ou parte dele. Ocorre quando (1) contendores avançam reivindicações concorrentes de controle sobre o Estado; (2) um segmento significativo da população adere a essas reivindicações; e (3) os governantes são incapazes ou não estão dispostos a suprimir a coalizão alternativa.
 >     
-> - **Resultado Revolucionário:** Ocorre quando há uma **transferência efetiva do poder do Estado** de um grupo para outro, consolidando uma nova soberania.13 A violência, para Tilly, não é um elemento definidor, mas uma consequência frequente da luta pelo poder.14
->     
+> - **Resultado Revolucionário:** Ocorre quando há uma **transferência efetiva do poder do Estado** de um grupo para outro, consolidando uma nova soberania.13 A violência, para Tilly, não é um elemento definidor, mas uma consequência frequente da luta pelo poder.
+
 
 > [!definition] Síntese dos Elementos Essenciais (Jack Goldstone)
 > 
@@ -64,9 +62,9 @@ Os principais teóricos oferecem definições que, embora distintas em suas ênf
 >     
 > 2. Um grau notável de **mobilização em massa**, formal ou informal.
 >     
-> 3. Esforços para forçar a mudança através de **ações não institucionalizadas**, como manifestações em massa, protestos, greves ou violência.15
+> 3. Esforços para forçar a mudança através de **ações não institucionalizadas**, como manifestações em massa, protestos, greves ou violência.
 >     
->     Esta definição abrange tanto as grandes revoluções sociais clássicas quanto as "revoluções coloridas" e outras formas de levante contemporâneo.5
+>     Esta definição abrange tanto as grandes revoluções sociais clássicas quanto as "revoluções coloridas" e outras formas de levante contemporâneo.
 >     
 
 ### Distinguindo Revolução de Fenômenos Correlatos
@@ -217,16 +215,6 @@ A Primavera Árabe serve como um laboratório contemporâneo, demonstrando a con
     
 - **A Importância dos Resultados:** A principal lição da Primavera Árabe é que a derrubada de um ditador é apenas o início do processo revolucionário. Os resultados extremamente diversos — transição democrática inicial na Tunísia, contrarrevolução militar no Egito, fragmentação e guerra civil na Líbia, Síria e Iêmen, e repressão brutal no Bahrein — ilustram a importância das estruturas pós-revolucionárias. A capacidade das elites (antigas e novas), das forças armadas e dos movimentos sociais de construir novas instituições e um novo pacto de poder determina o resultado final. A falha em resolver o problema da "soberania múltipla" de Tilly após a queda do antigo regime levou, em muitos casos, a um colapso estatal prolongado em vez de uma nova ordem consolidada.
     
-
-## Conclusão: Síntese Analítica para o CACD
-
-A análise do fenômeno revolucionário na era contemporânea revela uma complexidade crescente, exigindo do analista um arcabouço teórico sofisticado e flexível. Para o candidato ao CACD, a memorização de eventos é insuficiente; a chave é a maestria dos modelos conceituais e a capacidade de aplicá-los criticamente.
-
-A principal lição da evolução teórica é a transição de explicações monocausais para **modelos de conjuntura causal**. Revoluções não são causadas por pobreza, opressão ou ideologia isoladamente. Elas são o produto da intersecção de múltiplas crises e processos: uma crise de capacidade e legitimidade do Estado, um conflito agudo entre facções da elite e a mobilização de setores significativos da população, galvanizados por uma ideologia que dá sentido e direção à sua insatisfação.
-
-As revoluções contemporâneas são marcadas por vetores específicos: o **palco urbano**, a onipresença da **influência internacional**, o papel ambivalente da **tecnologia digital** e a crescente força das **políticas de identidade**. O candidato deve ser capaz de identificar e analisar como esses vetores interagem em diferentes contextos históricos, moldando tanto a eclosão quanto os desdobramentos dos processos revolucionários.
-
-Finalmente, a lição mais duradoura, reforçada pela experiência da Primavera Árabe, é a necessidade de entender a **revolução como um processo, não como um evento**. A queda de um regime é apenas um momento — a "situação revolucionária" de Tilly. O verdadeiro desafio, e o que define o sucesso ou fracasso histórico de uma revolução, reside na complexa e incerta luta pela construção de um "resultado revolucionário" — uma nova ordem política e social estável e duradoura.
 
 ## Questões para Autoavaliação (Active Recall)
 

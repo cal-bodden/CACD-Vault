@@ -18,7 +18,7 @@ A descolonização representa um dos processos mais transformadores do século X
 
 O processo de descolonização foi influenciado por uma complexa interação de fatores internos e externos, incluindo o enfraquecimento das potências coloniais europeias após duas guerras mundiais, o surgimento de movimentos nacionalistas organizados nas colônias, mudanças nas ideologias globais sobre autodeterminação e direitos humanos, e as pressões da Guerra Fria que levaram as superpotências a competir pela influência nos países recém-independentes.
 
-Conforme observa o Council on Foreign Relations, "em 1960, um bloco de nações africanas e asiáticas organizou uma resolução pedindo a 'completa independência e liberdade' de todos os territórios coloniais" [1], demonstrando como a descolonização se tornou uma força política organizada no cenário internacional.
+Conforme observa o Council on Foreign Relations, "em 1960, um bloco de nações africanas e asiáticas organizou uma resolução pedindo a 'completa independência e liberdade' de todos os territórios coloniais", demonstrando como a descolonização se tornou uma força política organizada no cenário internacional.
 
 ## Contexto Histórico e Fatores Causais
 
@@ -246,6 +246,4 @@ Os desafios enfrentados pelos países pós-coloniais - incluindo fronteiras arti
 
 Para os estudos diplomáticos, a descolonização oferece lições importantes sobre como mudanças sistêmicas ocorrem no sistema internacional, o papel de fatores internos e externos na transformação política, e as complexidades de construir Estados viáveis em contextos pós-coloniais. O processo também ilustra como eventos históricos podem ter consequências duradouras que continuam a moldar as relações internacionais contemporâneas.
 
-## Referências
 
-[1] "How Did Decolonization Reshape the World?". Council on Foreign Relations Education. Disponível em: [https://education.cfr.org/learn/reading/how-did-decolonization-reshape-world](https://education.cfr.org/learn/reading/how-did-decolonization-reshape-world)

@@ -343,30 +343,3 @@ Para os estudos diplomáticos contemporâneos, a compreensão deste período é 
   * C.L.R. James: dimensão revolucionária da independência haitiana.
   * José Murilo de Carvalho: particularidades da formação do Estado nacional brasileiro.
 
-## Material Complementar
-
-* **Bibliografia Essencial**:
-  * ANDERSON, Benedict. *Comunidades Imaginadas: Reflexões sobre a Origem e a Difusão do Nacionalismo*. São Paulo: Companhia das Letras, 2008.
-  * BETHELL, Leslie (org.). *História da América Latina: Da Independência a 1870* (vol. III). São Paulo: EDUSP, 2001.
-  * BLACKBURN, Robin. *A Queda do Escravismo Colonial: 1776-1848*. Rio de Janeiro: Record, 2002.
-  * GUERRA, François-Xavier. *Modernidad e Independencias: Ensayos sobre las revoluciones hispánicas*. Madrid: MAPFRE, 1992.
-  * HALPERIN DONGHI, Tulio. *História da América Latina*. Rio de Janeiro: Paz e Terra, 1975.
-  * HOBSBAWM, Eric. *A Era das Revoluções: 1789-1848*. Rio de Janeiro: Paz e Terra, 2017.
-  * JAMES, C.L.R. *Os Jacobinos Negros: Toussaint L'Ouverture e a Revolução de São Domingos*. São Paulo: Boitempo, 2010.
-  * LYNCH, John. *As Revoluções Hispano-Americanas: 1808-1826*. São Paulo: EDUSP, 2004.
-  * NOVAIS, Fernando A. *Portugal e Brasil na Crise do Antigo Sistema Colonial (1777-1808)*. São Paulo: Hucitec, 2001.
-  * PIMENTA, João Paulo. *A Independência do Brasil e a Experiência Hispano-Americana (1808-1822)*. São Paulo: Hucitec, 2015.
-
-* **Artigos Acadêmicos Relevantes**:
-  * ADELMAN, Jeremy. "Age of Imperial Revolutions". *American Historical Review*, v. 113, n. 2, 2008.
-  * CHIARAMONTE, José Carlos. "Metamorfoses do conceito de nação durante os séculos XVII e XVIII". In: JANCSÓ, István (org.). *Brasil: Formação do Estado e da Nação*. São Paulo: Hucitec, 2003.
-  * GODECHOT, Jacques. "Independência do Brasil e a Revolução do Ocidente". In: MOTA, Carlos Guilherme (org.). *1822: Dimensões*. São Paulo: Perspectiva, 1986.
-  * PAMPLONA, Marco A.; MÄDER, Maria Elisa (orgs.). *Revoluções de independências e nacionalismos nas Américas*. São Paulo: Paz e Terra, 2007.
-  * PORTILLO VALDÉS, José María. "Crisis atlántica: Autonomía e independencia en la crisis de la monarquía hispana". *Ayer*, n. 62, 2006.
-
-* **Recursos Online**:
-  * Biblioteca Digital Mundial (UNESCO): [https://www.wdl.org/pt/](https://www.wdl.org/pt/) - Documentos originais do período das independências.
-  * Portal de Arquivos Nacionais Ibero-americanos: [http://www.archivosiberoamericanos.es/](http://www.archivosiberoamericanos.es/) - Acesso a documentação histórica digitalizada.
-  * Biblioteca Virtual Miguel de Cervantes (Seção "La Independencia de Hispanoamérica"): [http://www.cervantesvirtual.com/portales/independencia_hispanoamericana/](http://www.cervantesvirtual.com/portales/independencia_hispanoamericana/)
-  * Digital Library of the Caribbean: [https://dloc.com/](https://dloc.com/) - Fontes sobre o Caribe, incluindo a Revolução Haitiana.
-  * Portal de História Ibero-americana da Fundação MAPFRE: [https://www.fundacionmapfre.org/fundacion/es_es/historia/](https://www.fundacionmapfre.org/fundacion/es_es/historia/) - Recursos sobre o período colonial e independências.

@@ -16,7 +16,7 @@ aliases:
 
 A Geografia Moderna surge como uma expressão científica e acadêmica profundamente vinculada ao contexto geral de sua época, especificamente relacionada aos desenvolvimentos dos Estados nacionais modernos na Europa. Esta conexão não é meramente coincidental, mas representa uma relação orgânica entre a sistematização da Geografia como disciplina científica e os processos de consolidação nacional que marcaram o século XIX europeu.
 
-O título deste tema, originado do edital do CACD, alude precisamente à relação entre os desenvolvimentos dos Estados nacionais modernos na Europa, que coincidiu com a sistematização da Geografia e em que a disciplina desempenhou papel ativo na construção das identidades nacionais e na legitimação dos projetos estatais.
+O título deste temaalude precisamente à relação entre os desenvolvimentos dos Estados nacionais modernos na Europa, que coincidiu com a sistematização da Geografia e em que a disciplina desempenhou papel ativo na construção das identidades nacionais e na legitimação dos projetos estatais.
 
 ## A Questão Nacional Europeia e o Contexto Germânico
 

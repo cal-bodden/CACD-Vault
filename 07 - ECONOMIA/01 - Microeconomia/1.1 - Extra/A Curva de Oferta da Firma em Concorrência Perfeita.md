@@ -10,7 +10,7 @@ tags:
 aliases:
   - A Curva de Oferta da Firma em Concorrência Perfeita
 ---
-[Firm Short‑Run Supply Curve & Shutdown Rule (YouTube)](https://www.youtube.com/watch?v=xEK8VX7FOq4&utm_source=chatgpt.com)
+
 
 ---
 

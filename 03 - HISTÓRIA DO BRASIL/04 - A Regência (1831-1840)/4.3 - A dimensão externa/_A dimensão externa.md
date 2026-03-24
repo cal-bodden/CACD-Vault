@@ -117,17 +117,4 @@ Temas financeiros e demográficos também fizeram parte da agenda externa.
 * **O papel do Brasil nos conflitos e disputas na América do Sul:** Analisar a atuação brasileira na região, especialmente no Prata, em um contexto de **guerras civis** nos vizinhos.
 * **Principais autores e referências bibliográficas:** José Honório Rodrigues (Clássicos da Diplomacia). Rubens Antônio Barbosa. Amado Luiz Cervo e Clodoaldo Bueno (História da Política Externa do Brasil). Leslie Bethell (História do Brasil). E. Bradford Burns (História do Brasil). Francisco Doratioto (relações no Prata). Sidney Chalhoub (história social, escravidão, tráfico). Historiadores que estudam o Período Regencial e a **História do Itamaraty**.
 
-## Material Complementar
 
-* **Bibliografia essencial:**
-    * Livros e artigos acadêmicos sobre o Período Regencial, com foco na **dimensão externa**.
-    * Obras sobre a **História da Política Externa do Brasil**, com capítulos sobre o Primeiro Reinado e a Regência.
-    * Estudos sobre a **Questão da Escravidão** e o **Tráfico de Escravos** no Brasil e suas implicações internacionais.
-    * Livros sobre as relações do Brasil com Portugal, Inglaterra e países do Prata no século XIX.
-    * Obras sobre a **História da América do Sul** no período pós-independência.
-    * Texto da Lei de 7 de novembro de 1831 (Lei Feijó).
-* **Links para sites relevantes:**
-    * Ministério das Relações Exteriores (Itamaraty) - Fundação Alexandre de Gusmão (FUNAG): [http://funag.gov.br/](http://funag.gov.br/) (Publicações sobre a **História do Itamaraty**).
-    * Arquivo Histórico do Itamaraty: [https://www.gov.br/mre/pt-br/acesso-a-informacao/arquivo-historico](https://www.gov.br/mre/pt-br/acesso-a-informacao/arquivo-historico) (Documentos históricos da diplomacia brasileira).
-    * Arquivo Nacional: [https://www.gov.br/arquivonacional/pt-br](https://www.gov.br/arquivonacional/pt-br) (Acervo de documentos históricos do período imperial).
-    * Biblioteca Nacional: [https://bndigital.bn.gov.br/](https://bndigital.bn.gov.br/) (Documentos da época).
