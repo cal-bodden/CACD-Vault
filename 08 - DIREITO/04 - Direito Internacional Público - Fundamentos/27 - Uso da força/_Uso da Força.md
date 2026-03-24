@@ -1,19 +1,21 @@
 ---
 title: Conflitos armados e o direito internacional.
-area: DIREITO
+area: 27. _Uso da Força. Prática diplomática brasileira. Segurança coletiva. Uso da
+  força e direitos humanos. Operações de manutenção da paz. Desarmamento e Não Proliferação.
+  Controle de armas. Terrorismo.
 subarea: Direito Internacional Público
 tags:
-  - cacd-2025
-  - direito
-  - direito-internacional-publico
-  - uso-da-força
-  - seguranca-coletiva
-  - operaçoes-de-manutençao-de-paz
-  - desarmamento-e-nao-proliferaçao
-  - controle-de-armas
-  - terrorismo
+- cacd-2025
+- direito
+- direito-internacional-publico
+- uso-da-força
+- seguranca-coletiva
+- operaçoes-de-manutençao-de-paz
+- desarmamento-e-nao-proliferaçao
+- controle-de-armas
+- terrorismo
 aliases:
-  - Uso da força
+- Uso da força
 ---
 
 # Uso da Força no Direito Internacional

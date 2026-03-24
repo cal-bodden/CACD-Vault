@@ -1,17 +1,18 @@
 ---
 title: Comitê das Dezoito Nações sobre Desarmamento (ENCD)
-area: POLÍTICA INTERNACIONAL
+area: O Brasil e a agenda internacional
 date: 2025-05-04
 aliases:
-  - Comitê de Desarmamento de Genebra
-  - Comitê das Dezoito Nações sobre Desarmamento (ENCD)
+- Comitê de Desarmamento de Genebra
+- Comitê das Dezoito Nações sobre Desarmamento (ENCD)
 conexões: Tratado de Não Proliferação de Armas Nucleares (TNP)
 tags:
-  - cacd-2025
-  - desarmamento-e-nao-proliferacao
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
-  - ONU
+- cacd-2025
+- desarmamento-e-nao-proliferacao
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
+- ONU
+subarea: 13.10 Desarmamento e não proliferação
 ---
 
 # Comitê de Desarmamento de Genebra

@@ -1,14 +1,19 @@
 ---
-title: Organizações internacionais. Incorporação ao direito brasileiro dos atos de organizações internacionais
-area: DIREITO
+title: Organizações internacionais. Incorporação ao direito brasileiro dos atos de
+  organizações internacionais
+area: 25. Organizações internacionais. Incorporação ao direito brasileiro dos atos
+  de organizações internacionais. Organização das Nações Unidas. Agências da Organização
+  das Nações Unidas. Organização dos Estados Americanos. Carta Democrática Interamericana.
+  Outras organizações internacionais regionais. Direito comparado.
 subarea: Direito Internacional Público - Fundamentos
 tags:
-  - cacd-2025
-  - direito
-  - direito-internacional-publico---fundamentos
-  - organizacoes-internacionais
+- cacd-2025
+- direito
+- direito-internacional-publico---fundamentos
+- organizacoes-internacionais
 aliases:
-  - Organizações internacionais. Incorporação ao direito brasileiro dos atos de organizações internacionais.
+- Organizações internacionais. Incorporação ao direito brasileiro dos atos de organizações
+  internacionais.
 ---
 # A Dinâmica das Organizações Internacionais: Incorporação de Atos no Brasil e Análise Comparativa
 

@@ -1,14 +1,14 @@
 ---
 title: Grupo de Contadora (1983)
-area: "POLÍTICA INTERNACIONAL"
-subarea: "Brasil e América do Sul (Integração, MERCOSUL)"
+area: Brasil e América do Sul (Integração, MERCOSUL)
+subarea: Brasil e a AS
 tags:
-  - brasil-e-america-do-sul
-  - cacd-2025
-  - politica-internacional
-  - integracao-america-do-sul
+- brasil-e-america-do-sul
+- cacd-2025
+- politica-internacional
+- integracao-america-do-sul
 aliases:
-  - Grupo de Contadora 
+- Grupo de Contadora
 ---
 > **Síntese Didática (Técnica de Feynman):**  
 > O Grupo de Contadora, criado em 1983 por México, Panamá, Colômbia e Venezuela, foi uma iniciativa diplomática para mediar conflitos na América Central, especialmente em El Salvador, Nicarágua e Guatemala, durante a Guerra Fria, buscando soluções regionais sem intervenção dos EUA. Reunia-se na Ilha de Contadora, Panamá, e promoveu planos de paz como o Documento de Objetivos (1983) e a Ata de Contadora (1984), embora sem apoio total dos EUA. Evoluiu para o Grupo do Rio ao incorporar o Grupo de Apoio (Argentina, Brasil, Peru, Uruguai), sendo um passo crucial para a integração latino-americana e a autonomia regional.

@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 #### _Adrián Rocha_
 
 **Junio 2025**

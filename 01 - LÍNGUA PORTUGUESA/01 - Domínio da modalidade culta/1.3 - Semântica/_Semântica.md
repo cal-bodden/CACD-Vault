@@ -1,14 +1,14 @@
 ---
 title: Semântica
-area: LÍNGUA PORTUGUESA
-subarea: Domínio da modalidade culta
+area: '1. Língua portuguesa: modalidade culta usada contemporaneamente no Brasil.'
+subarea: 1.3 Semântica.
 tags:
-  - cacd-2025
-  - dominio-da-modalidade-culta
-  - lingua-portuguesa
-  - semantica
+- cacd-2025
+- dominio-da-modalidade-culta
+- lingua-portuguesa
+- semantica
 aliases:
-  - Semântica.
+- Semântica.
 ---
 # Semântica do Português: O Estudo do Significado e suas Aplicações para uma Escrita de Alta Performance
 

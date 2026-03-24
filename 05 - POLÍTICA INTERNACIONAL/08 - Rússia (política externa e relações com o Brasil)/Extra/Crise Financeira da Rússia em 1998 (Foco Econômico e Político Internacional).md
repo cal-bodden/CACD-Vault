@@ -1,12 +1,13 @@
 ---
 title: Crise Financeira da Rússia em 1998 (Foco Econômico e Político Internacional)
-area: POLÍTICA INTERNACIONAL
-subarea: Rússia (política externa e relações com o Brasil)
+area: Rússia (política externa e relações com o Brasil)
+subarea: Extra
 tags:
-  - cacd-2025
-  - politica-internacional
-  - russia
-conexões: Economia Russa, Economia Internacional, Sistema Financeiro Internacional, Relações Internacionais
+- cacd-2025
+- politica-internacional
+- russia
+conexões: Economia Russa, Economia Internacional, Sistema Financeiro Internacional,
+  Relações Internacionais
 ---
 # Crise Financeira da Rússia em 1998 (Foco Econômico e Político Internacional)
 

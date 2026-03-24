@@ -1,15 +1,11 @@
-
-
-# Origem: _Edital e Documentos Oficiais
-
 ---
-title: "Edital e Documentos Oficiais"
-area: "GESTÃO & METADADOS"
-subarea: "GESTÃO & METADADOS"
+title: Edital e Documentos Oficiais
+area: GESTÃO & METADADOS
+subarea: GESTÃO & METADADOS
 tags:
-  - cacd-2025
-  - edital-e-documentos-oficiais
-  - gestao--metadados
+- cacd-2025
+- edital-e-documentos-oficiais
+- gestao--metadados
 ---
 CONTEÚDO PROGRAMÁTICO DO CACD 2025
 

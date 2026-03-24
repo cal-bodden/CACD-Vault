@@ -1,13 +1,13 @@
 ---
-title: " Conselho de Direitos Humanos (CDH)"
-area: "POLÍTICA INTERNACIONAL"
-subarea: "O Brasil e a agenda internacional"
+title: ' Conselho de Direitos Humanos (CDH)'
+area: O Brasil e a agenda internacional
+subarea: 13.6 Direitos humanos e políticas de identidade
 tags:
-  - cacd-2025
-  - direitos-humanos-e-politicas-de-identidade
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
-aliases: 
+- cacd-2025
+- direitos-humanos-e-politicas-de-identidade
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
+aliases:
 - CDH
 ---
 # Conselho de Direitos Humanos (CDH)

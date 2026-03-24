@@ -1,14 +1,14 @@
 ---
 title: Exposição Colonial de Paris (1931)
-area: HISTÓRIA MUNDIAL
-subarea: A vida cultural
+area: A vida cultural
+subarea: 7.6 Outros
 tags:
-  - a-cultura-do-imperialismo
-  - a-vida-cultural
-  - cacd-2025
-  - historia-mundial
+- a-cultura-do-imperialismo
+- a-vida-cultural
+- cacd-2025
+- historia-mundial
 aliases:
-  - Exposição Colonial de Paris
+- Exposição Colonial de Paris
 ---
 # Exposição Colonial de Paris (1931)
 ---

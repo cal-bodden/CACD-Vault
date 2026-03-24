@@ -1,14 +1,14 @@
 ---
 title: O movimento romântico
-area: HISTÓRIA MUNDIAL
+area: 7. A vida cultural.
 subarea: A vida cultural
 tags:
-  - a-vida-cultural
-  - cacd-2025
-  - historia-mundial
-  - o-movimento-romantico
+- a-vida-cultural
+- cacd-2025
+- historia-mundial
+- o-movimento-romantico
 aliases:
-  - 7.1 O movimento romântico.
+- 7.1 O movimento romântico.
 ---
 
 # O Movimento Romântico

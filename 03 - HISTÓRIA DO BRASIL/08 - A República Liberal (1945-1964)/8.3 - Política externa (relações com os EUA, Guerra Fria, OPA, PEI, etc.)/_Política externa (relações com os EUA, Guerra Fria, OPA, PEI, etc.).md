@@ -1,14 +1,16 @@
 ---
 title: Política externa (relações com os EUA, Guerra Fria, OPA, PEI, etc.)
-area: HISTÓRIA DO BRASIL
+area: 8. A República Liberal (1945-1964).
 subarea: A República Liberal (1945-1964)
 tags:
-  - a-republica-liberal
-  - cacd-2025
-  - historia-do-brasil
-  - politica-externa
+- a-republica-liberal
+- cacd-2025
+- historia-do-brasil
+- politica-externa
 aliases:
-  - "8.3 Política externa: relações com os EUA; a Guerra Fria; a Operação Pan-Americana; a “política externa independente”; o Brasil na ONU; o Brasil no Rio da Prata; o Brasil e a suspensão de Cuba na OEA."
+- '8.3 Política externa: relações com os EUA; a Guerra Fria; a Operação Pan-Americana;
+  a “política externa independente”; o Brasil na ONU; o Brasil no Rio da Prata; o
+  Brasil e a suspensão de Cuba na OEA.'
 ---
 # Política Externa Brasileira na República Liberal (1945–1964)
 

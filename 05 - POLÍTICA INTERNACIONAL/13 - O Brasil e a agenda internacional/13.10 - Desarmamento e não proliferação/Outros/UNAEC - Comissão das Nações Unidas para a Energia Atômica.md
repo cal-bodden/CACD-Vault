@@ -1,17 +1,18 @@
 ---
 tema: Comissão das Nações Unidas para a Energia Atômica (UNAEC)
-area: POLÍTICA INTERNACIONAL
+area: O Brasil e a agenda internacional
 data: 03/05/2025
 aliases:
-  - UNAEC
+- UNAEC
 tags:
-  - cacd-2025
-  - desarmamento-e-nao-proliferacao
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
-  - ONU
-
-conexões: DesarmamentoNuclear, NaoProliferacaoNuclear, SegurancaInternacional, Organização das Nações Unidas (ONU), GuerraFria, HistoriaNuclear, PlanoBaruch, PlanoGromyko
+- cacd-2025
+- desarmamento-e-nao-proliferacao
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
+- ONU
+conexões: DesarmamentoNuclear, NaoProliferacaoNuclear, SegurancaInternacional, Organização
+  das Nações Unidas (ONU), GuerraFria, HistoriaNuclear, PlanoBaruch, PlanoGromyko
+subarea: 13.10 Desarmamento e não proliferação
 ---
 
 # Comissão das Nações Unidas para a Energia Atômica (UNAEC)

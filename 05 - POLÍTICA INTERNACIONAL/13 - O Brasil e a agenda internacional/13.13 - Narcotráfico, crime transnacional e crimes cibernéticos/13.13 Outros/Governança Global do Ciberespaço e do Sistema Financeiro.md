@@ -1,12 +1,12 @@
 ---
-title: "Governança Global do Ciberespaço e do Sistema Financeiro"
-area: "POLÍTICA INTERNACIONAL"
-subarea: "O Brasil e a agenda internacional"
+title: Governança Global do Ciberespaço e do Sistema Financeiro
+area: O Brasil e a agenda internacional
+subarea: 13.13 Narcotráfico, crime transnacional e crimes cibernéticos
 tags:
-  - cacd-2025
-  - narcotrafico-crime-transnacional-e-crimes-ciberneticos
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
+- cacd-2025
+- narcotrafico-crime-transnacional-e-crimes-ciberneticos
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
 ---
 Resposta Direta
 

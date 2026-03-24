@@ -1,15 +1,15 @@
 ---
 title: Alemanha Nazista — Política Interna, Marcos Legais e Cultura (1933–1939)
-area: HISTÓRIA MUNDIAL
-subarea: Ideias e regimes políticos
+area: Ideias e regimes políticos
+subarea: 6.4 Ditaduras e regimes fascistas
 tags:
-  - cacd-2025
-  - ditaduras-e-regimes-fascistas
-  - historia-mundial
-  - ideias-e-regimes-politicos
-  - nazismo
+- cacd-2025
+- ditaduras-e-regimes-fascistas
+- historia-mundial
+- ideias-e-regimes-politicos
+- nazismo
 aliases:
-  - 6.4 Ditaduras e regimes fascistas.
+- 6.4 Ditaduras e regimes fascistas.
 ---
 # Alemanha Nazista — Política Interna, Marcos Legais e Cultura (1933–1939)
 

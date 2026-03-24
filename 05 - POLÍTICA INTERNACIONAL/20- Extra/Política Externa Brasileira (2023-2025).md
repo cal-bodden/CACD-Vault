@@ -1,3 +1,7 @@
+---
+area: Extra
+tags: []
+---
 # A Política Externa Brasileira (2023-2025): Vetores, Prioridades e Análises para o Concurso de Admissão à Carreira Diplomática
 
 ## Introdução: O Retorno aos Eixos Tradicionais e a Nova Conjuntura Global

@@ -1,12 +1,12 @@
 ---
-title: "Itens gramaticais relevantes"
-area: "LÍNGUA INGLESA"
-subarea: "Primeira Fase"
+title: Itens gramaticais relevantes
+area: Primeira Fase
+subarea: 2 Itens gramaticais relevantes
 tags:
-  - cacd-2025
-  - itens-gramaticais-relevantes
-  - lingua-inglesa
-  - primeira-fase
+- cacd-2025
+- itens-gramaticais-relevantes
+- lingua-inglesa
+- primeira-fase
 ---
 # 🇬🇧 English Grammar — CACD Exam Preparation
 

@@ -1,12 +1,12 @@
 ---
-title: "International Financial Regime: Anti-Money Laundering Architecture and Mechanisms"
-area: "POLÍTICA INTERNACIONAL"
-subarea: "O Brasil e a agenda internacional"
+title: 'International Financial Regime: Anti-Money Laundering Architecture and Mechanisms'
+area: O Brasil e a agenda internacional
+subarea: 13.13 Narcotráfico, crime transnacional e crimes cibernéticos
 tags:
-  - cacd-2025
-  - narcotrafico-crime-transnacional-e-crimes-ciberneticos
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
+- cacd-2025
+- narcotrafico-crime-transnacional-e-crimes-ciberneticos
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
 ---
 # International Financial Regime: Anti-Money Laundering Architecture and Mechanisms
 

@@ -1,11 +1,11 @@
 ---
 title: O Brasil e o Oriente Médio
-area: POLÍTICA INTERNACIONAL
+area: O Brasil e o Oriente Médio (questão israelo-palestina, etc.)
 subarea: O Brasil e o Oriente Médio (questão israelo-palestina, etc.)
 tags:
-  - cacd-2025
-  - o-brasil-e-o-oriente-medio
-  - politica-internacional
+- cacd-2025
+- o-brasil-e-o-oriente-medio
+- politica-internacional
 ---
 # Divergência e Continuidade: Uma Análise da Política Externa Brasileira para o Oriente Médio sob as Administrações Bolsonaro e Lula (2018-2025)
 

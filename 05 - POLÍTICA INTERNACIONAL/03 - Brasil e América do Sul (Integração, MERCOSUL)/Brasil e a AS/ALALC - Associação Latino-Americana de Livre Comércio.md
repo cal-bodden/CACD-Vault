@@ -1,15 +1,15 @@
 ---
-title: "Associação Latino-Americana de Integração (ALADI)"
-area: "POLÍTICA INTERNACIONAL"
-subarea: "Brasil e América do Sul (Integração, MERCOSUL)"
+title: Associação Latino-Americana de Integração (ALADI)
+area: Brasil e América do Sul (Integração, MERCOSUL)
+subarea: Brasil e a AS
 tags:
-  - brasil-e-america-do-sul
-  - cacd-2025
-  - politica-internacional
-  - integracao-america-do-sul
+- brasil-e-america-do-sul
+- cacd-2025
+- politica-internacional
+- integracao-america-do-sul
 aliases:
-  - ALALC
-  - Associação Latino-Americana de Livre Comércio (ALALC)
+- ALALC
+- Associação Latino-Americana de Livre Comércio (ALALC)
 ---
 # Associação Latino-Americana de Livre Comércio (ALALC)
 

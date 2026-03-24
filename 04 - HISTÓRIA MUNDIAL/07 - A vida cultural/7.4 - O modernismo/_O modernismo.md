@@ -1,14 +1,14 @@
 ---
 title: O modernismo
-area: HISTÓRIA MUNDIAL
+area: 7. A vida cultural.
 subarea: A vida cultural
 tags:
-  - a-vida-cultural
-  - cacd-2025
-  - historia-mundial
-  - o-modernismo
+- a-vida-cultural
+- cacd-2025
+- historia-mundial
+- o-modernismo
 aliases:
-  - 7.4 O modernismo.
+- 7.4 O modernismo.
 ---
 # O Modernismo
 

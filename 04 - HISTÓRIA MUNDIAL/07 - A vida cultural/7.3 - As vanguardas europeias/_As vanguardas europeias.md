@@ -1,14 +1,14 @@
 ---
 title: As vanguardas europeias
-area: HISTÓRIA MUNDIAL
+area: 7. A vida cultural.
 subarea: A vida cultural
 tags:
-  - a-vida-cultural
-  - as-vanguardas-europeias
-  - cacd-2025
-  - historia-mundial
+- a-vida-cultural
+- as-vanguardas-europeias
+- cacd-2025
+- historia-mundial
 aliases:
-  - 7.3 As vanguardas europeias.
+- 7.3 As vanguardas europeias.
 ---
 
 

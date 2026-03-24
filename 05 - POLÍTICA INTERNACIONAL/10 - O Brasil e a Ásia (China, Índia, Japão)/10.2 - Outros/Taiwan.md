@@ -1,13 +1,15 @@
 ---
-title: "As Tensões no Estreito de Taiwan: Geopolítica, Direito Internacional e o Confronto China–EUA"
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a Ásia (China, Índia, Japão)
+title: 'As Tensões no Estreito de Taiwan: Geopolítica, Direito Internacional e o Confronto
+  China–EUA'
+area: O Brasil e a Ásia (China, Índia, Japão)
+subarea: 10.2 Outros
 tags:
-  - cacd-2025
-  - o-brasil-e-a-asia
-  - politica-internacional
+- cacd-2025
+- o-brasil-e-a-asia
+- politica-internacional
 aliases:
-  - "As Tensões no Estreito de Taiwan: Geopolítica, Direito Internacional e o Confronto China–EUA."
+- 'As Tensões no Estreito de Taiwan: Geopolítica, Direito Internacional e o Confronto
+  China–EUA.'
 ---
 # As Tensões no Estreito de Taiwan: Geopolítica, Direito Internacional e o Confronto China–EUA
 

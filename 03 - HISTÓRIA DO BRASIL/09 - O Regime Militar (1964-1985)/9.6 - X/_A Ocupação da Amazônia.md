@@ -1,14 +1,14 @@
 ---
-title: "A Ocupação da Amazônia: Desenvolvimento, Conflitos e Desafios Socioambientais"
-area: HISTÓRIA DO BRASIL
-subarea: O Regime Militar (1964-1985)
+title: 'A Ocupação da Amazônia: Desenvolvimento, Conflitos e Desafios Socioambientais'
+area: O Regime Militar (1964-1985)
+subarea: 9.6 X
 tags:
-  - cacd-2025
-  - historia-do-brasil
-  - o-regime-militar
-  - sociedade-e-cultura
+- cacd-2025
+- historia-do-brasil
+- o-regime-militar
+- sociedade-e-cultura
 aliases:
-  - A Ocupação da Amazônia
+- A Ocupação da Amazônia
 ---
 # A Ocupação da Amazônia: Desenvolvimento, Conflitos e Desafios Socioambientais
 

@@ -1,14 +1,16 @@
 ---
 title: Novos paradigmas digitais, redes sociais e ferramentas tecnológicas
-area: HISTÓRIA MUNDIAL
+area: 8. As relações internacionais no século XXI frente aos novos paradigmas digitais,
+  as redes sociais e as modernas ferramentas tecnológicas de comunicação.
 subarea: Relações internacionais no século XXI
 tags:
-  - cacd-2025
-  - historia-mundial
-  - novos-paradigmas-digitais-redes-sociais-e-ferramentas-tecnologicas
-  - relacoes-internacionais-no-seculo-xxi
+- cacd-2025
+- historia-mundial
+- novos-paradigmas-digitais-redes-sociais-e-ferramentas-tecnologicas
+- relacoes-internacionais-no-seculo-xxi
 aliases:
-  - As relações internacionais no século XXI frente aos novos paradigmas digitais, as redes sociais e as modernas ferramentas tecnológicas de comunicação.
+- As relações internacionais no século XXI frente aos novos paradigmas digitais, as
+  redes sociais e as modernas ferramentas tecnológicas de comunicação.
 ---
 # As Relações Internacionais na Era Digital: Poder, Conflito e Governança no Século XXI
 

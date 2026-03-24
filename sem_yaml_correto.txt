@@ -1,0 +1,154 @@
+./00 - GESTÃO & METADADOS/03 - Estratégias & Métodos/Análise Estratégica da Prova de Política Internacional.md
+./00 - GESTÃO & METADADOS/03 - Estratégias & Métodos/SISTEMA DE ESTABILIZAÇÃO POLÍTICA INTERNACIONAL.md
+./00 - GESTÃO & METADADOS/03 - Estratégias & Métodos/SETUP COMPLETO - CONFIGURAÇÃO ARTIFACTS CACD.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/TPS 2023.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/TPS 2024.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/TPS 2022.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/RELATORIO.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/TPS_2017_manha.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/TPS_2017_tarde.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/TPS_2018_manha.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/TPS_2018_tarde.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/TPS_2019_manha.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/TPS_2019_tarde.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/TPS_2020_manha.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/TPS_2020_tarde.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/TPS_2022_manha.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/TPS_2022_tarde.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/TPS_2023_manha.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/TPS_2023_tarde.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/TPS_2024_manha.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/TPS_2024_tarde.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/TPS_2025_manha.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/TPS_2025_tarde.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/_Materias/Direito.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/_Materias/Economia.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/_Materias/Geografia.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/_Materias/História do Brasil.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/_Materias/História Mundial.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/_Materias/Língua Inglesa.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/_Materias/Língua Portuguesa.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/_Materias/Política Internacional.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/Cruzamentos/TPS_2024_manha_cruzamento.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/Cruzamentos/TPS_2017_manha_cruzamento.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/Cruzamentos/TPS_2017_tarde_cruzamento.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/Cruzamentos/TPS_2018_manha_cruzamento.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/Cruzamentos/TPS_2018_tarde_cruzamento.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/Cruzamentos/TPS_2019_manha_cruzamento.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/Cruzamentos/TPS_2019_tarde_cruzamento.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/Cruzamentos/TPS_2020_manha_cruzamento.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/Cruzamentos/TPS_2020_tarde_cruzamento.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/Cruzamentos/TPS_2022_manha_cruzamento.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/Cruzamentos/TPS_2022_tarde_cruzamento.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/Cruzamentos/TPS_2023_manha_cruzamento.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/Cruzamentos/TPS_2023_tarde_cruzamento.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/Cruzamentos/TPS_2024_tarde_cruzamento.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/Cruzamentos/TPS_2025_manha_cruzamento.md
+./00 - GESTÃO & METADADOS/04 - Provas Anteriores/Cruzamentos/TPS_2025_tarde_cruzamento.md
+./01 - LÍNGUA PORTUGUESA/01 - Domínio da modalidade culta/1.2 - Morfossintaxe/O Emprego e as Funções Sintáticas dos Pronomes Pessoais na Norma Culta.md
+./02 - LÍNGUA INGLESA/01 - Primeira Fase/1 - Compreensão de textos escritos/_Lexicology, Register, and Stylistic Density.md
+./03 - HISTÓRIA DO BRASIL/02 - O processo de independência/_O Contexto internacional e a independência do Brasil.md
+./03 - HISTÓRIA DO BRASIL/08 - A República Liberal (1945-1964)/8.5 - X/Precedentes da Ditadura Militar.md
+./03 - HISTÓRIA DO BRASIL/13 - Outros/A Evolução do Poder Judiciário no Brasil (1822-2025).md
+./03 - HISTÓRIA DO BRASIL/13 - Outros/Evolução da Cidadania no Brasil.md
+./04 - HISTÓRIA MUNDIAL/03 - As relações internacionais/3.2 - O Concerto Europeu e sua crise (1815-1918)/Temas_extra/Efeitos do Congresso de Viena (1815) na Política Internacional e Consequências Históricas na Europa.md
+./04 - HISTÓRIA MUNDIAL/03 - As relações internacionais/3.14 - Os conflitos localizados/_Winston Churchill e a Criação do Estado de Israel.md
+./04 - HISTÓRIA MUNDIAL/03 - As relações internacionais/3.16 - A 'segunda Guerra Fria' (Reagan-Bush)/3.16 - Extra/O Governo Comunista Afegão (1978-1979).md
+./04 - HISTÓRIA MUNDIAL/06 - Ideias e regimes políticos/Pesquisa -  Liberalismo e Nacionalismo no Século XIX.md
+./05 - POLÍTICA INTERNACIONAL/07 - União Europeia (origens, evolução, relações com o Brasil)/The European Union’s Foreign Policy.md
+./05 - POLÍTICA INTERNACIONAL/10 - O Brasil e a Ásia (China, Índia, Japão)/Análise Mundo pós-GF.md
+./05 - POLÍTICA INTERNACIONAL/10 - O Brasil e a Ásia (China, Índia, Japão)/10.2 - Outros/Política Externa da Índia.md
+./05 - POLÍTICA INTERNACIONAL/10 - O Brasil e a Ásia (China, Índia, Japão)/10.2 - Outros/Política Externa da China.md
+./05 - POLÍTICA INTERNACIONAL/13 - O Brasil e a agenda internacional/13.2 - Desenvolvimento e desenvolvimento sustentável/Outros/Aliança Global contra a Fome e a Pobreza.md
+./05 - POLÍTICA INTERNACIONAL/13 - O Brasil e a agenda internacional/13.6 - Direitos humanos e políticas de identidade/Outros/Os Direitos LGBT+ na Política Internacional.md
+./05 - POLÍTICA INTERNACIONAL/13 - O Brasil e a agenda internacional/13.9 - Sistema financeiro internacional/Outros/Relações Brasil-FMI e as Rupturas Históricas.md
+./05 - POLÍTICA INTERNACIONAL/13 - O Brasil e a agenda internacional/13.10 - Desarmamento e não proliferação/Outros/Novo START.md
+./05 - POLÍTICA INTERNACIONAL/14 - O Brasil e o sistema interamericano (OEA)/Extra/TIAR - Tratado Interamericano de Assistência Recíproca.md
+./05 - POLÍTICA INTERNACIONAL/20- Extra/Brasil nos Regimes Internacionais.md
+./05 - POLÍTICA INTERNACIONAL/20- Extra/Comércio Internacional em Transformação.md
+./05 - POLÍTICA INTERNACIONAL/20- Extra/Comércio Internacional Contemporâneo.md
+./05 - POLÍTICA INTERNACIONAL/20- Extra/Inteligência Artificial na Política Mundial.md
+./05 - POLÍTICA INTERNACIONAL/20- Extra/Política Externa Brasileira (2023-2025).md
+./05 - POLÍTICA INTERNACIONAL/20- Extra/Governança da Internet na Política Internacional.md
+./05 - POLÍTICA INTERNACIONAL/20- Extra/Impactos Sistêmicos da Guerra na Ucrânia.md
+./06 - GEOGRAFIA/04 - Geografia Agrária/Produção Agrícola Brasileira no Último Quinquênio (2020-2025).md
+./07 - ECONOMIA/01 - Microeconomia/1.1 - Extra/Função de Produção Cobb-Douglas.md
+./07 - ECONOMIA/01 - Microeconomia/1.1 - Extra/Isoquantas e fronteira de possibilidades de produção.md
+./07 - ECONOMIA/03 - Economia internacional/3.1 - Teorias de Comércio (Clássicas, Neoclássicas, Prebisch)/3.1.5_Deterioração dos termos de troca..md
+./07 - ECONOMIA/03 - Economia internacional/3.1 - Teorias de Comércio (Clássicas, Neoclássicas, Prebisch)/3.1.1_Teorias clássicas, Neoclássicas e contemporâneas do comércio internacional..md
+./10 - SIMULADOS & EXERCÍCIOS/1ª Fase - Objetivas/_Objetivas.md
+./10 - SIMULADOS & EXERCÍCIOS/1ª Fase - Objetivas/_simulado14.md
+./10 - SIMULADOS & EXERCÍCIOS/1ª Fase - Objetivas/Simulados Ingles.md
+./10 - SIMULADOS & EXERCÍCIOS/1ª Fase - Objetivas/Simulados PI.md
+./10 - SIMULADOS & EXERCÍCIOS/1ª Fase - Objetivas/S2.md
+./10 - SIMULADOS & EXERCÍCIOS/1ª Fase - Objetivas/Simulados Histórias.md
+./10 - SIMULADOS & EXERCÍCIOS/2ª Fase - Discursivas/_Discursivas.md
+./10 - SIMULADOS & EXERCÍCIOS/_simulado.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/All the Palestinians Got From Oslo Was KFC.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/China-CELAC agri-cooperation fruitful.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/China, LAC states launch new cooperation drive.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/El Mercosur permite excepciones al arancel común.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/France, Still the Third Republic.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/Ideology in Search of a Policy.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/Indispensable Nations.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/Inminente anuncio oficial sobre los dólares de los argentinos “en el colchón”.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/La prosperidad económica exige instituciones sólidas.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/Learning to Live With Despots.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/Panorama Global - CEI.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/Putin’s Ukraine.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/The 2nd Genocide of the Rohingya.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/The China-US AI Race Enters a New (and More Dangerous) Phase.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/The Deep Roots of Oligarchy.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/The Forever War in Gaza.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/The judge who would rule the internet.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/The Russia That Putin Made.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/What America Gets Wrong About the AI Race.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/Why Peace Talks Fail in Ukraine.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/How Global Governance Can Survive.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/La Ciberguerra y su impacto en el Orden Mundial.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/The End of the Long American Century.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/CARTA DAS NAÇÕES UNIDAS.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/CARTA DA ORGANIZAÇÃO DOS ESTADOS AMERICANOS.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/Iran Update Special Report, June 14, 2025, Evening Edition.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/The Sources of Soviet Conduct.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/Containment Then and Now.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/The Ghosts of Kennan.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/Reflections on Containment.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/Force and Diplomacy in the Nuclear Age.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/Equilibrio de poder - una mirada desde la teoría crítica.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/La Corte Penal Internacional y la paz en Gaza.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/Vigencia de la CELAC en la era de la desglobalización.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/La geopolítica de la incertidumbre.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/Why Iran Should Get the Bomb.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/Israel, Occidente e Irán - inteligencia y estrategia existencial.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/The Arctic Great Game.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/Body Language.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/What Every Body is Saying.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/A Evolução da Inteligência Artificial Moderna e dos Large Language Models.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/50 Essential Python Concepts for AI Development.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/Principais Programas Espaciais do Mundo.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/North Korea’s Second Chance?.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/The Promise and Peril of Recognizing Palestine.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/The Global Threat to LGBTQ Rights.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/Israel and the New Air Superiority.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/China Is Winning the Cyberwar.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/Iran’s Perilous Path Back to Power.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/The Fantasy of a New Middle East.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/Who Has Free Speech?.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/The Predatory Hegemon.md
+./12 - RECURSOS ADICIONAIS/Artigos & Papers/The India Trump Made.md
+./00 - BEM-VINDO.md
+./Estudos/CACD_2025/Política Internacional/8. Rússia/Organização do Tratado de Segurança Coletiva (OTSC).md
+./Estudos/CACD_Parte_01.md
+./Estudos/CACD_Completo_NotebookLM.md
+./Estudos/CACD_Parte_02.md
+./Estudos/CACD_Parte_03.md
+./Estudos/CACD_Parte_04.md
+./Estudos/CACD_Parte_05.md
+./Estudos/CACD_Parte_06.md
+./Estudos/CACD_Parte_07.md
+./Estudos/CACD_Parte_08.md
+./Estudos/CACD_Parte_09.md
+./HTML import/mercosul_estrutura.md
+./HTML import/Untitled.md
+./HTML import/Untitled 1.md

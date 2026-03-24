@@ -1,16 +1,17 @@
 ---
 title: Conflitos armados e o direito internacional.
-area: DIREITO
+area: 29. Conflitos armados e o direito internacional. Direito Internacional Humanitário.
+  Direito Internacional dos Refugiados. O instituto do refúgio no direito brasileiro.
 subarea: Direito Internacional Público
 tags:
-  - cacd-2025
-  - direito
-  - direito-internacional-publico
-  - direito-internacional-humanitario
-  - direito-internacional-dos-refugiados
-  - refugio
+- cacd-2025
+- direito
+- direito-internacional-publico
+- direito-internacional-humanitario
+- direito-internacional-dos-refugiados
+- refugio
 aliases:
-  - Conflitos armados e o direito internacional
+- Conflitos armados e o direito internacional
 ---
 # Nota de Estudo: Conflitos Armados e o Direito Internacional (DIH, DIR e Refúgio no Brasil) 
 

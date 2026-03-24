@@ -1,34 +1,7 @@
-# Caderno — Economia
-
-## TPS 2017 — Tarde
-
 ---
-## Questão 66 — TPS 2017 Tarde — Economia
-
-**Contexto:** Com relação a um produto de um mercado que está sob a situação
-de monopólio natural, o gráfico a seguir mostra: a curva de
-demanda, D, que corresponde ao preço de venda, p, para cada
-quantidade, Q, demandada pelo mercado, e a curva de custo
-marginal, C, que corresponde ao custo marginal, CMg, quando a
-produção atinge Q unidades. Nesse gráfico, CMg e p estão medidos
-na mesma escala do eixo vertical.
-
-### Item 1
-A quantidade a ser produzida e vendida no mercado a que se refere o gráfico em questão é igual àquela determinada pelo cruzamento das curvas D e C.
-#### Gabarito Oficial: Errado (E)
-
-### Item 2
-O preço de equilíbrio para venda de um produto monopolista é dado em função do custo marginal e da elasticidade-preço da demanda, sendo tanto maior quanto maior for o módulo da elasticidade-preço da demanda, para um dado custo marginal, no trecho em que a demanda for elástica.
-#### Gabarito Oficial: Errado (E)
-
-### Item 3
-Embora seja decrescente no trecho mostrado no gráfico em apreço, C representa a curva de oferta do monopolista.
-#### Gabarito Oficial: Errado (E)
-
-### Item 4
-A característica de um monopólio natural é a existência de custos marginais baixos e custos fixos muito altos, impedindo a entrada de concorrentes. !FimDoTexto!
-#### Gabarito Oficial: Certo (C)
-
+area: Provas Anteriores
+subarea: _Materias
+tags: []
 ---
 ## Questão 67 — TPS 2017 Tarde — Economia
 

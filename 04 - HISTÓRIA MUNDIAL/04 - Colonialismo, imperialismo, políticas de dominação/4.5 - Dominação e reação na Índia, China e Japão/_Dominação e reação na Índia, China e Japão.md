@@ -1,14 +1,14 @@
 ---
 title: Dominação e reação na Índia, China e Japão
-area: HISTÓRIA MUNDIAL
+area: 4. Colonialismo, imperialismo, políticas de dominação.
 subarea: Colonialismo, imperialismo, políticas de dominação
 tags:
-  - cacd-2025
-  - colonialismo-imperialismo-politicas-de-dominacao
-  - dominacao-e-reacao-na-india-china-e-japao
-  - historia-mundial
+- cacd-2025
+- colonialismo-imperialismo-politicas-de-dominacao
+- dominacao-e-reacao-na-india-china-e-japao
+- historia-mundial
 aliases:
-  - 4.5 O processo de dominação e a reação na Índia, China e Japão.
+- 4.5 O processo de dominação e a reação na Índia, China e Japão.
 ---
 # .5 O processo de dominação e a reação na Índia, China e Japão
 

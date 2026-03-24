@@ -1,14 +1,14 @@
 ---
 title: Efeitos de tarifas, quotas, subsídios e outros instrumentos
-area: ECONOMIA
-subarea: Economia internacional
+area: 3. Economia internacional.
+subarea: 3.2.6 A relação câmbio-juros-inflação.
 tags:
-  - cacd-2025
-  - economia
-  - economia-internacional
-  - efeitos-de-tarifas-quotas-subsidios-e-outros-instrumentos
+- cacd-2025
+- economia
+- economia-internacional
+- efeitos-de-tarifas-quotas-subsidios-e-outros-instrumentos
 aliases:
-  - 3.3 Efeitos de tarifas, quotas, subsídios e outros instrumentos de política comercial.
+- 3.3 Efeitos de tarifas, quotas, subsídios e outros instrumentos de política comercial.
 ---
 # Instrumentos de Política Comercial: Tarifas, Cotas, Subsídios e Barreiras Não-Tarifárias
 

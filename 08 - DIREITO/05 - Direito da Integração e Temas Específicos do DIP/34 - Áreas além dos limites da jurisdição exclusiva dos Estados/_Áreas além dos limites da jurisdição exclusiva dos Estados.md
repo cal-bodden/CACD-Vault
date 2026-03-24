@@ -1,14 +1,14 @@
 ---
 title: Áreas além dos limites da jurisdição exclusiva dos Estados
-area: DIREITO
+area: 34. Áreas além dos limites da jurisdição exclusiva dos Estados.
 subarea: Direito da Integração e Temas Específicos do DIP
 tags:
-  - areas-alem-dos-limites-da-jurisdicao-exclusiva-dos-estados
-  - cacd-2025
-  - direito
-  - direito-da-integracao-e-temas-especificos-do-dip
+- areas-alem-dos-limites-da-jurisdicao-exclusiva-dos-estados
+- cacd-2025
+- direito
+- direito-da-integracao-e-temas-especificos-do-dip
 aliases:
-  - Áreas além dos limites da jurisdição exclusiva dos Estados.
+- Áreas além dos limites da jurisdição exclusiva dos Estados.
 ---
 # Os Espaços Comuns Internacionais: Regimes Jurídicos do Mar, Espaço Exterior e Antártida
 

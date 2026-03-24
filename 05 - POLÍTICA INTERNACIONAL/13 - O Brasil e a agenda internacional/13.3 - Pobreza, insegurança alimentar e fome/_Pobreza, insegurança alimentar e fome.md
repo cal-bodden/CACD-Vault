@@ -1,14 +1,14 @@
 ---
 title: Pobreza, insegurança alimentar e fome
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+area: '13. O Brasil e a agenda internacional:'
+subarea: 13.3 Pobreza, insegurança alimentar e fome. Ações de combate à fome.
 tags:
-  - cacd-2025
-  - o-brasil-e-a-agenda-internacional
-  - pobreza-inseguranca-alimentar-e-fome
-  - politica-internacional
+- cacd-2025
+- o-brasil-e-a-agenda-internacional
+- pobreza-inseguranca-alimentar-e-fome
+- politica-internacional
 aliases:
-  - Pobreza, insegurança alimentar e fome. Ações de combate à fome.
+- Pobreza, insegurança alimentar e fome. Ações de combate à fome.
 ---
 # Pobreza, Insegurança Alimentar e Fome: Desafios da Governança Global e as Ações de Combate
 

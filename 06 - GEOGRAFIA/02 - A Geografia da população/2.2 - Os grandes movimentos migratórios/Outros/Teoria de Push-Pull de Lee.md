@@ -2,12 +2,14 @@
 tema: Teoria de Push-Pull de Lee
 área: Geografia
 tags:
-  - GeografiaUrbana
+- GeografiaUrbana
 conexões: Migrações, Geografia da População, Sociologia da Migração, Demografia
 aliases:
-  - push-pull de Lee
-  - Repulsão-Atração
+- push-pull de Lee
+- Repulsão-Atração
 subárea: Geografia Urbana
+area: A Geografia da população
+subarea: 2.2 Os grandes movimentos migratórios
 ---
 # Teoria de Push-Pull de Lee
 

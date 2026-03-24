@@ -1,15 +1,15 @@
 ---
 title: Rebelião dos Boxers (1899-1901)
-area: HISTÓRIA MUNDIAL
-subarea: As relações internacionais
+area: As relações internacionais
+subarea: 3.3 As rivalidades coloniais
 tags:
-  - as-relacoes-internacionais
-  - as-rivalidades-coloniais
-  - cacd-2025
-  - historia-mundial
+- as-relacoes-internacionais
+- as-rivalidades-coloniais
+- cacd-2025
+- historia-mundial
 aliases:
-  - Revolta dos Boxers
-  - Rebelião dos Boxers
+- Revolta dos Boxers
+- Rebelião dos Boxers
 ---
 # Rebelião dos Boxers
 

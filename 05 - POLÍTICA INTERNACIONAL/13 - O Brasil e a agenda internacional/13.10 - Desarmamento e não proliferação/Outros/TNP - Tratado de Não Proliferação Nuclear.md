@@ -1,17 +1,20 @@
 ---
 tema: Tratado sobre a Não Proliferação de Armas Nucleares (TNP)
-area: POLÍTICA INTERNACIONAL
+area: O Brasil e a agenda internacional
 data: 03/05/2025
 tags:
-  - cacd-2025
-  - desarmamento-e-nao-proliferacao
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
-  - ONU
-conexões: Desarmamento, NaoProliferacao, SegurancaInternacional, Organização das Nações Unidas (ONU), Agência Internacional de Energia Atômica (AIEA), DireitoInternacional, EANNAPAN, SalvaguardasAIEA
+- cacd-2025
+- desarmamento-e-nao-proliferacao
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
+- ONU
+conexões: Desarmamento, NaoProliferacao, SegurancaInternacional, Organização das Nações
+  Unidas (ONU), Agência Internacional de Energia Atômica (AIEA), DireitoInternacional,
+  EANNAPAN, SalvaguardasAIEA
 aliases:
-  - Tratado de Não Proliferação de Armas Nucleares (TNP)
-  - TNP
+- Tratado de Não Proliferação de Armas Nucleares (TNP)
+- TNP
+subarea: 13.10 Desarmamento e não proliferação
 ---
 # Tratado sobre a Não Proliferação de Armas Nucleares (TNP)
 

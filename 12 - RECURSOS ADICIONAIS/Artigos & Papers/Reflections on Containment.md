@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 ### Henry Kissinger
 
 [May/June 1994](https://www.foreignaffairs.com/issues/1994/73/3) Published on May 1, 1994

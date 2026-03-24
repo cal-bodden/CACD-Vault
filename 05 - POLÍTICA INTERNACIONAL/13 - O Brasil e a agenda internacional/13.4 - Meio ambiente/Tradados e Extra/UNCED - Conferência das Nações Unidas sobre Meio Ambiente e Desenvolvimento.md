@@ -2,17 +2,20 @@
 tema: CNUMAD - Cúpula da Terra (Rio-92)
 área: Política Internacional
 tags:
-  - meio-ambiente
-  - ONU
-  - o-brasil-e-a-agenda-internacional
-conexões: Meio Ambiente, Desenvolvimento Sustentável, Direito Internacional do Meio Ambiente, Organização das Nações Unidas (ONU), Geografia, Ecologia, Economia, Historia.
+- meio-ambiente
+- ONU
+- o-brasil-e-a-agenda-internacional
+conexões: Meio Ambiente, Desenvolvimento Sustentável, Direito Internacional do Meio
+  Ambiente, Organização das Nações Unidas (ONU), Geografia, Ecologia, Economia, Historia.
 aliases:
-  - Rio-92
-  - Cúpula da Terra
-  - Conferência do Rio
-  - Conferência das Nações Unidas sobre Meio Ambiente e Desenvolvimento (UNCED)
-  - UNCED
-  - CNUMAD
+- Rio-92
+- Cúpula da Terra
+- Conferência do Rio
+- Conferência das Nações Unidas sobre Meio Ambiente e Desenvolvimento (UNCED)
+- UNCED
+- CNUMAD
+area: O Brasil e a agenda internacional
+subarea: 13.4 Meio ambiente
 ---
 # Conferência das Nações Unidas sobre Meio Ambiente e Desenvolvimento (UNCED) - Cúpula da Terra (Rio-92)
 

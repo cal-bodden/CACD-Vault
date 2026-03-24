@@ -1,13 +1,13 @@
 ---
 title: Origens do processo de integração no Cone Sul
-area: POLÍTICA INTERNACIONAL
-subarea: Brasil e América do Sul (Integração, MERCOSUL)
+area: 3. O Brasil e a América do Sul.
+subarea: '3.2 O MERCOSUL: origens do processo de integração no Cone Sul.'
 tags:
-  - brasil-e-america-do-sul
-  - cacd-2025
-  - politica-internacional
+- brasil-e-america-do-sul
+- cacd-2025
+- politica-internacional
 aliases:
-  - "O MERCOSUL: origens do processo de integração no Cone Sul."
+- 'O MERCOSUL: origens do processo de integração no Cone Sul.'
 ---
 # As Origens do Mercosul: Da Rivalidade à Integração Estratégica no Cone Sul (1985-1991)
 

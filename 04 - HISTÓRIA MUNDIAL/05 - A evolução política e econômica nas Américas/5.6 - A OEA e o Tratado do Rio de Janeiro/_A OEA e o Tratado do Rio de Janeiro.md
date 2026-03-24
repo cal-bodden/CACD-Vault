@@ -1,14 +1,14 @@
 ---
 title: A OEA e o Tratado do Rio de Janeiro
-area: HISTÓRIA MUNDIAL
+area: 5. A evolução política e econômica nas Américas.
 subarea: A evolução política e econômica nas Américas
 tags:
-  - a-evolucao-politica-e-economica-nas-americas
-  - a-oea-e-o-tratado-do-rio-de-janeiro
-  - cacd-2025
-  - historia-mundial
+- a-evolucao-politica-e-economica-nas-americas
+- a-oea-e-o-tratado-do-rio-de-janeiro
+- cacd-2025
+- historia-mundial
 aliases:
-  - 5.6 A OEA e o Tratado do Rio de Janeiro.
+- 5.6 A OEA e o Tratado do Rio de Janeiro.
 ---
 # A Consolidação do Sistema Interamericano no Pós-Guerra: A OEA e o Tratado do Rio (TIAR)
 

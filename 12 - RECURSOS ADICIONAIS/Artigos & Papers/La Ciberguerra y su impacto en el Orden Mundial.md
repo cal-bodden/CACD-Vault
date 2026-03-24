@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 Revista UNISCI / UNISCI Journal, Nº 68 (May/Mayo 2025)
 105
 LA CIBERGUERRA Y SU IMPACTO EN EL ORDEN MUNDIAL

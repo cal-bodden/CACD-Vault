@@ -1,17 +1,20 @@
 ---
 tema: Convenção sobre as Armas Biológicas e Toxínicas (BWC)
-area: POLÍTICA INTERNACIONAL
+area: O Brasil e a agenda internacional
 data: 07/05/2025
 tags:
-  - cacd-2025
-  - desarmamento-e-nao-proliferacao
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
-  - ONU
-conexões: Desarmamento, NaoProliferacao, DireitoInternacional, SegurancaInternacional, OrganizacoesInternacionais, ArmasBiologicas, DesarmamentoBiologico, Verificacao, Biotecnologia, SaudeGlobal, ProtocoloDeGenebra1925, CWC
+- cacd-2025
+- desarmamento-e-nao-proliferacao
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
+- ONU
+conexões: Desarmamento, NaoProliferacao, DireitoInternacional, SegurancaInternacional,
+  OrganizacoesInternacionais, ArmasBiologicas, DesarmamentoBiologico, Verificacao,
+  Biotecnologia, SaudeGlobal, ProtocoloDeGenebra1925, CWC
 aliases:
-  - Convenção sobre as Armas Biológicas e Toxínicas (BWC)
-  - BWC
+- Convenção sobre as Armas Biológicas e Toxínicas (BWC)
+- BWC
+subarea: 13.10 Desarmamento e não proliferação
 ---
 
 # Convenção sobre as Armas Biológicas e Toxínicas (BWC)

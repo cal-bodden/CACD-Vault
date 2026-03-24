@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 Raymond Aron
 
 [October 1951](https://www.foreignaffairs.com/issues/1951/30/1) Published on October 1, 1951

@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 ### [Henry A. Kissinger](https://www.foreignaffairs.com/authors/henry-kissinger)
 
 [April 1956](https://www.foreignaffairs.com/issues/1956/34/3) Published on April 1, 1956

@@ -1,3 +1,8 @@
+---
+area: O Brasil e a agenda internacional
+subarea: 13.6 Direitos humanos e políticas de identidade
+tags: []
+---
 # Os Direitos LGBT+ na Política Internacional: A Disputa pela Universalidade na Agenda de Direitos Humanos
 
 ## Introdução: A Emergência de uma Nova Fronteira nos Direitos Humanos

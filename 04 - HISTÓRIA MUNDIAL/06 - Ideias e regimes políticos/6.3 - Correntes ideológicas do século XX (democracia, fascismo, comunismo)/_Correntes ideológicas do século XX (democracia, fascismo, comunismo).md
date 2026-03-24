@@ -1,14 +1,15 @@
 ---
 title: Correntes ideológicas do século XX (democracia, fascismo, comunismo)
-area: HISTÓRIA MUNDIAL
+area: 6. Ideias e regimes políticos.
 subarea: Ideias e regimes políticos
 tags:
-  - cacd-2025
-  - correntes-ideologicas-do-seculo-xx
-  - historia-mundial
-  - ideias-e-regimes-politicos
+- cacd-2025
+- correntes-ideologicas-do-seculo-xx
+- historia-mundial
+- ideias-e-regimes-politicos
 aliases:
-  - "6.3 Grandes correntes ideológicas da política no século XX: democracia, fascismo, comunismo."
+- '6.3 Grandes correntes ideológicas da política no século XX: democracia, fascismo,
+  comunismo.'
 ---
 # 6.3 Grandes Correntes Ideológicas da Política no Século XX: Democracia, Fascismo, Comunismo
 

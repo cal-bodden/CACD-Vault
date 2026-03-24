@@ -1,14 +1,14 @@
 ---
 title: Espaço
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+area: '13. O Brasil e a agenda internacional:'
+subarea: 13.5 Mar, espaço e Antártida.
 tags:
-  - cacd-2025
-  - mar-espaco-e-antartida
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
+- cacd-2025
+- mar-espaco-e-antartida
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
 aliases:
-  - Espaço
+- Espaço
 ---
 # A Geopolítica do Espaço no Século XXI: A Nova Corrida Espacial e a Participação Brasileira (2015-2025)
 

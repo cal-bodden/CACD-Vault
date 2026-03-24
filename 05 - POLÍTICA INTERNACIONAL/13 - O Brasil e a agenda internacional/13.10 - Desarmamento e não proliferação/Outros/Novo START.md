@@ -1,17 +1,7 @@
-# Novo Tratado START: Arquitetura e Desafios do Controle Estratégico  
-
-## Sumário  
-O Novo Tratado START (Strategic Arms Reduction Treaty), vigente desde 2011, estabelece um regime bilateral de limitação de armas nucleares estratégicas entre EUA e Rússia, com mecanismos inéditos de verificação. Sua suspensão parcial pela Rússia em 2023, em meio à guerra na Ucrânia, reacende debates sobre a viabilidade de acordos de desarmamento em um cenário geopolítico multipolar. Este estudo examina sua evolução, estrutura técnica e implicações sistêmicas para a segurança global.  
-
 ---
-
-## Contextualização Histórica e Estrutura Normativa  
-
-### Gênese do Regime START  
-A trajetória do controle de armas nucleares remonta ao Tratado de Não Proliferação Nuclear (TNP) de 1968, que consolidou a distinção entre potências nucleares "oficiais" e demais Estados. O START I (1991) introduziu reduções quantitativas verificáveis, limitando ogivas a 6.000 unidades. Seu sucessor, o SORT (2002), falhou em criar mecanismos robustos, gerando um vácuo regulatório até a negociação do Novo START em 2010.  
-
-A assinatura em Praga refletiu uma conjuntura única: a política de "reset" de Obama com Medvedev e a convergência tática sobre riscos estratégicos. O tratado herdou lições do passado, combinando limites numéricos (Art. II) com um sistema de verificação baseado em inspeções *in loco* (Art. XI) e troca de dados telemétricos.  
-
+area: O Brasil e a agenda internacional
+subarea: 13.10 Desarmamento e não proliferação
+tags: []
 ---
 
 ## Mecanismos Operacionais e Limitações  

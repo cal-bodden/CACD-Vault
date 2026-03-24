@@ -1,14 +1,14 @@
 ---
 title: A Constituição de 1891
-area: HISTÓRIA DO BRASIL
+area: 6. A Primeira República (1889-1930).
 subarea: A Primeira República (1889-1930)
 tags:
-  - a-constituicao-de-1891
-  - a-primeira-republica
-  - cacd-2025
-  - historia-do-brasil
+- a-constituicao-de-1891
+- a-primeira-republica
+- cacd-2025
+- historia-do-brasil
 aliases:
-  - 6.2 A Constituição de 1891.
+- 6.2 A Constituição de 1891.
 ---
 # A Constituição de 1891: Os Fundamentos Jurídicos da Primeira República Brasileira
 

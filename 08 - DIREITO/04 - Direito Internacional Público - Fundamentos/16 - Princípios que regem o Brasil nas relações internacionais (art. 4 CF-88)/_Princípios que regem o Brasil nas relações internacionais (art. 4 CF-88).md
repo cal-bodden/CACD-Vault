@@ -1,14 +1,14 @@
 ---
 title: Princípios que regem o Brasil nas relações internacionais (art. 4 CF-88)
-area: DIREITO
+area: 16. Princípios que regem o Brasil nas relações internacionais (art. 4º CF/1988).
 subarea: Direito Internacional Público - Fundamentos
 tags:
-  - cacd-2025
-  - direito
-  - direito-internacional-publico---fundamentos
-  - principios-que-regem-o-brasil-nas-relacoes-internacionais
+- cacd-2025
+- direito
+- direito-internacional-publico---fundamentos
+- principios-que-regem-o-brasil-nas-relacoes-internacionais
 aliases:
-  - Princípios que regem o Brasil nas relações internacionais
+- Princípios que regem o Brasil nas relações internacionais
 ---
 # Nota de Estudo para o CACD: Princípios das Relações Internacionais do Brasil (Art. 4º CF/1988)
 

@@ -1,19 +1,17 @@
 ---
-title: "IHGB: A Forja Ideológica da Nação e a Escrita da História do Brasil"
-area: HISTÓRIA DO BRASIL
-subarea: 
-- A Regência (1831-1840) 
-- O Segundo Reinado (1840-1889)
+title: 'IHGB: A Forja Ideológica da Nação e a Escrita da História do Brasil'
+area: A Regência (1831-1840)
+subarea: 4.1 Centralização versus descentralização - reformas institucionais
 tags:
-  - ihgb
-  - periodo-regencial
-  - segundo-reinado
-  - historiografia-brasileira
-  - construcao-da-identidade
-  - cacd-2026
+- ihgb
+- periodo-regencial
+- segundo-reinado
+- historiografia-brasileira
+- construcao-da-identidade
+- cacd-2026
 aliases:
-  - Instituto Histórico e Geográfico Brasileiro
-  - Historiografia Oficial do Império
+- Instituto Histórico e Geográfico Brasileiro
+- Historiografia Oficial do Império
 ---
 
 ## O Instituto Histórico e Geográfico Brasileiro (IHGB)

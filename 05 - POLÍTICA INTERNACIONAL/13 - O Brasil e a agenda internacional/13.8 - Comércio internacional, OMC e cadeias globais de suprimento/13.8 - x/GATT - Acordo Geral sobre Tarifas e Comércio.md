@@ -1,14 +1,14 @@
 ---
 title: Acordo Geral sobre Tarifas e Comércio (GATT)
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+area: O Brasil e a agenda internacional
+subarea: 13.8 Comércio internacional, OMC e cadeias globais de suprimento
 tags:
-  - cacd-2025
-  - comercio-internacional-omc-e-cadeias-globais-de-suprimento
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
+- cacd-2025
+- comercio-internacional-omc-e-cadeias-globais-de-suprimento
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
 aliases:
-  - GATT
+- GATT
 ---
 
 # O GATT (1947-1994): A Construção e os Limites da Ordem Comercial do Pós-Guerra

@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 # Principais Programas Espaciais do Mundo: Conquistas e Destaques
 
 A exploração espacial representa uma das maiores conquistas da humanidade, envolvendo décadas de inovação tecnológica, cooperação internacional e investimentos bilionários. Desde o lançamento do Sputnik em 1957, diversos países desenvolveram programas espaciais ambiciosos que moldaram nossa compreensão do cosmos e revolucionaram a vida na Terra.

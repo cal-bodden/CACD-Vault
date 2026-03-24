@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 **Ben Rezaei, Kelly Campa, Avery Borens, Nicholas Carl, and Brian Carter**
 
 **Information Cutoff: 6:00 PM ET** 

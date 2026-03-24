@@ -1,14 +1,14 @@
 ---
 title: Economia Brasileira nos anos noventa (Abertura, Plano Real)
-area: ECONOMIA
-subarea: História econômica brasileira
+area: 4. História econômica brasileira.
+subarea: 4.8.3 O debate sobre a natureza da inflação no Brasil.
 tags:
-  - cacd-2025
-  - economia
-  - economia-brasileira-nos-anos-noventa
-  - historia-economica-brasileira
+- cacd-2025
+- economia
+- economia-brasileira-nos-anos-noventa
+- historia-economica-brasileira
 aliases:
-  - 4.9 Economia Brasileira nos anos noventa.
+- 4.9 Economia Brasileira nos anos noventa.
 ---
 # Economia Brasileira na Década de 1990: Abertura, Estabilização e Transformações Estruturais
 

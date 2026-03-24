@@ -1,14 +1,14 @@
 ---
 title: O Não Alinhamento
-area: HISTÓRIA MUNDIAL
+area: 4. Colonialismo, imperialismo, políticas de dominação.
 subarea: Colonialismo, imperialismo, políticas de dominação
 tags:
-  - cacd-2025
-  - colonialismo-imperialismo-politicas-de-dominacao
-  - historia-mundial
-  - o-nao-alinhamento
+- cacd-2025
+- colonialismo-imperialismo-politicas-de-dominacao
+- historia-mundial
+- o-nao-alinhamento
 aliases:
-  - 4.8 O Não Alinhamento.
+- 4.8 O Não Alinhamento.
 ---
 # 4.8 O Não Alinhamento
 

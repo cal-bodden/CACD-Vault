@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 # The India Trump Made
 
 ## How American Bullying Is Shaping Indian Foreign Policy

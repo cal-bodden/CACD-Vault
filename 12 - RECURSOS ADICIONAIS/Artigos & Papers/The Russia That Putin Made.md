@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 # The Russia That Putin Made
 
 ## Moscow, the West, and Coexistence Without Illusion

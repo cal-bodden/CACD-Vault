@@ -1,14 +1,14 @@
 ---
 title: Comunidade Caribenha (CARICOM)
-area: POLÍTICA INTERNACIONAL
-subarea: Relações do Brasil com os demais países do hemisfério
+area: Relações do Brasil com os demais países do hemisfério
+subarea: 05.1 Outros
 tags:
-  - cacd-2025
-  - politica-internacional
-  - relacoes-do-brasil-com-os-demais-paises-do-hemisferio
+- cacd-2025
+- politica-internacional
+- relacoes-do-brasil-com-os-demais-paises-do-hemisferio
 aliases:
-  - CARICOM
-  - Comunidade Caribenha (CARICOM)
+- CARICOM
+- Comunidade Caribenha (CARICOM)
 ---
 # Comunidade Caribenha (CARICOM)
 

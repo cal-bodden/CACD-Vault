@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 
 ## Learning the Right Lessons From Three Years of Grinding War and Faltering Negotiations
 

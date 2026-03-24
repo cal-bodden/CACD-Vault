@@ -1,15 +1,15 @@
 ---
 title: Corte Permanente de Arbitragem (CPA)
-area: DIREITO
-subarea: Direito Internacional Público - Fundamentos
+area: Direito Internacional Público - Fundamentos
+subarea: 24 Solução pacífica de controvérsias
 tags:
-  - cacd-2025
-  - direito
-  - direito-internacional-publico---fundamentos
-  - solucao-pacifica-de-controversias
+- cacd-2025
+- direito
+- direito-internacional-publico---fundamentos
+- solucao-pacifica-de-controversias
 aliases:
-  - Corte Permanente de Arbitragem
-  - CPA
+- Corte Permanente de Arbitragem
+- CPA
 ---
 # A Corte Permanente de Arbitragem (CPA): O Primeiro Mecanismo Global de Solução de Controvérsias e sua Relevância Atual
 

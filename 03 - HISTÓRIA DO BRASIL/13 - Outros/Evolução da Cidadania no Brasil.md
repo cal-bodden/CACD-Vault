@@ -1,3 +1,7 @@
+---
+area: Outros
+tags: []
+---
 
 # A Evolução da Cidadania no Brasil: Da "Cidadania Regulada" à Constituição de 1988
 

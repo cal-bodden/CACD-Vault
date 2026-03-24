@@ -1,30 +1,7 @@
-# Caderno — Política Internacional
-
-## TPS 2017 — Manhã
-
 ---
-## Questão 11 — TPS 2017 Manhã — Política Internacional
-
-**Contexto:** O processo de saída do Reino Unido da União Europeia —
-conhecido em inglês como Brexit — coloca desafios tanto para o
-governo britânico quanto para os demais países europeus.
-
-### Item 1
-As negociações para a saída do Reino Unido da União Europeia foram formalmente iniciadas, em março do corrente ano, pela primeira-ministra Theresa May, com o acionamento do artigo 50 do Tratado de Lisboa, após ela ter obtido autorização do parlamento britânico, e devem ser concluídas em dois anos, podendo, porém, ser prorrogadas caso haja consenso entre todos os envolvidos.
-#### Gabarito Oficial: Certo (C)
-
-### Item 2
-Embora a opção de saída (leave) tenha sido vitoriosa na contagem total dos votos, os eleitores da Escócia e da Irlanda do Norte votaram majoritariamente contra a saída (remain) do Reino Unido da União Europeia.
-#### Gabarito Oficial: Certo (C)
-
-### Item 3
-Ainda que o Reino Unido deixe o bloco, terá de manter com a União Europeia um regime de livre comércio, já que o Brexit aplica-se exclusivamente às questões de imigração, à participação na elaboração de normas comunitárias e à aplicação das decisões das cortes europeias no território britânico.
-#### Gabarito Oficial: Errado (E)
-
-### Item 4
-A derrota da posição do governo trabalhista de David Cameron, que defendeu a permanência do Reino Unido na União Europeia, levou à formação de um governo pela oposição, liderado pela conservadora Theresa May, uma das principais defensoras do Brexit.
-#### Gabarito Oficial: Errado (E)
-
+area: Provas Anteriores
+subarea: _Materias
+tags: []
 ---
 ## Questão 12 — TPS 2017 Manhã — Política Internacional
 

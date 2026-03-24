@@ -1,34 +1,34 @@
 ---
 title: Revolução Industrial, DIT e Política Industrial no Brasil (Séc. XIX–XXI)
-area: HISTÓRIA DO BRASIL
-subarea: Industrialização Brasileira e Política Industrial
+area: O Regime Militar (1964-1985)
+subarea: 9.6 X
 tags:
-  - revolucao-industrial
-  - dit-classica
-  - isi-substituicao-importacoes
-  - tarifa-alves-branco
-  - tarifa-silva-ferraz
-  - prebisch-singer
-  - tripé-economico
-  - desindustrializacao-precoce
-  - doenca-holandesa
-  - era-vargas
-  - plano-de-metas-jk
-  - ii-pnd
-  - historia-do-brasil
-  - economia
-  - cacd-2026
+- revolucao-industrial
+- dit-classica
+- isi-substituicao-importacoes
+- tarifa-alves-branco
+- tarifa-silva-ferraz
+- prebisch-singer
+- tripé-economico
+- desindustrializacao-precoce
+- doenca-holandesa
+- era-vargas
+- plano-de-metas-jk
+- ii-pnd
+- historia-do-brasil
+- economia
+- cacd-2026
 aliases:
-  - ISI
-  - Substituição de Importações
-  - Industrialização Brasil
-  - Tarifa Alves Branco
-  - Prebisch-Singer
-  - Desindustrialização Precoce
-  - Tripé Econômico
-  - DIT Clássica
-  - Capitalismo Tardio
-  - Plano de Metas
+- ISI
+- Substituição de Importações
+- Industrialização Brasil
+- Tarifa Alves Branco
+- Prebisch-Singer
+- Desindustrialização Precoce
+- Tripé Econômico
+- DIT Clássica
+- Capitalismo Tardio
+- Plano de Metas
 ---
 
 # Revolução Industrial, DIT e Política Industrial no Brasil (Séc. XIX–XXI)

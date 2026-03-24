@@ -1,14 +1,14 @@
 ---
 title: Os grandes movimentos migratórios
-area: GEOGRAFIA
+area: 2. A Geografia da população..
 subarea: A Geografia da população
 tags:
-  - a-geografia-da-populacao
-  - cacd-2025
-  - geografia
-  - os-grandes-movimentos-migratorios
+- a-geografia-da-populacao
+- cacd-2025
+- geografia
+- os-grandes-movimentos-migratorios
 aliases:
-  - 2.2 Os grandes movimentos migratórios internacionais e intranacionais.
+- 2.2 Os grandes movimentos migratórios internacionais e intranacionais.
 ---
 # 2.2 Os grandes movimentos migratórios internacionais e intranacionais
 

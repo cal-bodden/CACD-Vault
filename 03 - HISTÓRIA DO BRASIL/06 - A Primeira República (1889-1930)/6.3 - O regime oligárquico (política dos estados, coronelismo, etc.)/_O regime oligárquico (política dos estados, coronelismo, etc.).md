@@ -1,14 +1,15 @@
 ---
 title: O regime oligárquico (política dos estados, coronelismo, etc.)
-area: HISTÓRIA DO BRASIL
+area: 6. A Primeira República (1889-1930).
 subarea: A Primeira República (1889-1930)
 tags:
-  - a-primeira-republica
-  - cacd-2025
-  - historia-do-brasil
-  - o-regime-oligarquico
+- a-primeira-republica
+- cacd-2025
+- historia-do-brasil
+- o-regime-oligarquico
 aliases:
-  - '6.3 O regime oligárquico: a "política dos estados"; coronelismo; sistema eleitoral; sistema partidário; a hegemonia de São Paulo e Minas Gerais.'
+- '6.3 O regime oligárquico: a "política dos estados"; coronelismo; sistema eleitoral;
+  sistema partidário; a hegemonia de São Paulo e Minas Gerais.'
 ---
 # Arquitetura do Poder na Primeira República Oligárquica (1894–1930)
 

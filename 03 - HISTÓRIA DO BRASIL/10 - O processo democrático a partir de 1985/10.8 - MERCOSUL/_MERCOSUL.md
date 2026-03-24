@@ -1,14 +1,14 @@
 ---
 title: MERCOSUL
-area: HISTÓRIA DO BRASIL
-subarea: O processo democrático a partir de 1985
+area: 10. O processo democrático a partir de 1985.
+subarea: 10.6 Manifestações culturais.
 tags:
-  - cacd-2025
-  - historia-do-brasil
-  - mercosul
-  - o-processo-democratico-a-partir-de-1985
+- cacd-2025
+- historia-do-brasil
+- mercosul
+- o-processo-democratico-a-partir-de-1985
 aliases:
-  - 10.8 MERCOSUL.
+- 10.8 MERCOSUL.
 ---
 # O Mercosul na Nova República (1985-2025): Do Projeto Estratégico aos Desafios Contemporâneos
 

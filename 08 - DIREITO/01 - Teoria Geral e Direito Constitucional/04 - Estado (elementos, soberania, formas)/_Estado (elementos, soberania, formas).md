@@ -1,14 +1,15 @@
 ---
 title: Estado (elementos, soberania, formas)
-area: DIREITO
+area: '4. Estado: elementos, soberania, formas, modelos de divisão de competência
+  com entes subnacionais, sistemas de governo.'
 subarea: Teoria Geral e Direito Constitucional
 tags:
-  - cacd-2025
-  - direito
-  - estado
-  - teoria-geral-e-direito-constitucional
+- cacd-2025
+- direito
+- estado
+- teoria-geral-e-direito-constitucional
 aliases:
-  - Estado
+- Estado
 ---
 # Elementos do Estado
 

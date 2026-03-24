@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 ## Tehran Has Few Options, but the Best One Depends on China
 
 A year of sustained losses has left Iran’s grand strategy in ruins. The near destruction of Hamas in Gaza, the evisceration of the Lebanese militant group Hezbollah, and the collapse of Bashar al-Assad’s regime in Syria deprived Iran of the proxies it had long relied on to threaten Israel. As a result, in June, Israel was able to conduct its 12-day war against Iran unencumbered by worries about regional escalation. That war demolished a long-held assumption about Iranian deterrence—the belief that Tehran could retaliate effectively against overt, direct attacks on its territory. More practically, it destroyed the country’s main air defenses, degraded its ballistic missile capabilities, and set back its nuclear ambitions.

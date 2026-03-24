@@ -1,34 +1,5 @@
-# **Comprehensive Guide to Adversarial Attacks: FGSM, C&W, and PGD**
-
-## **Introduction: What Are Adversarial Attacks?**
-
-Adversarial attacks exploit machine learning models by adding carefully crafted, imperceptible perturbations to inputs that cause the model to make incorrect predictions.
-
-**Core Concept:**
-```
-Clean Image + Tiny Perturbation = Adversarial Example
-Panda (99.3% confidence) + Noise (invisible to human) = Gibbon (99.7% confidence)
-```
-
-**Key Properties:**
-- **Imperceptibility**: Humans can't see the difference
-- **Transferability**: Adversarial examples often work across different models
-- **Digital vs Physical**: Some attacks work in real world (printed, 3D objects)
-
 ---
-
-# **1. FGSM - Fast Gradient Sign Method**
-
-## **Overview**
-
-**FGSM** is the simplest and fastest adversarial attack method, introduced by Goodfellow et al. (2014). It's a **single-step attack** that uses the model's gradients to craft adversarial examples.
-
-**Key Characteristics:**
-- **Speed**: Very fast (one gradient computation)
-- **Power**: Moderate effectiveness
-- **Simplicity**: Easy to understand and implement
-- **Use Case**: Quick baseline attack, adversarial training
-
+tags: []
 ---
 
 ## **Mathematical Foundation**

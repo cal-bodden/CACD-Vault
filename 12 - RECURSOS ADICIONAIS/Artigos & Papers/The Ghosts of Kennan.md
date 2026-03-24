@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 ## Lessons From the Start of a Cold War
 
 ### [Fredrik Logevall](https://www.foreignaffairs.com/authors/fredrik-logevall)

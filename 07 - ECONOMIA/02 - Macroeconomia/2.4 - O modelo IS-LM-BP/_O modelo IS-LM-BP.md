@@ -1,14 +1,14 @@
 ---
 title: O modelo IS-LM-BP
-area: ECONOMIA
-subarea: Macroeconomia
+area: 2. Macroeconomia.
+subarea: 2.4 O modelo IS-LM-BP.
 tags:
-  - cacd-2025
-  - economia
-  - macroeconomia
-  - o-modelo-is-lm-bp
+- cacd-2025
+- economia
+- macroeconomia
+- o-modelo-is-lm-bp
 aliases:
-  - O modelo IS-LM-BP.
+- O modelo IS-LM-BP.
 ---
 # 2.4 O modelo IS-LM-BP
 

@@ -1,14 +1,15 @@
 ---
 title: A política externa (Rio Branco, Haia, 1ª GM, Liga das Nações)
-area: HISTÓRIA DO BRASIL
+area: 6. A Primeira República (1889-1930).
 subarea: A Primeira República (1889-1930)
 tags:
-  - a-politica-externa
-  - a-primeira-republica
-  - cacd-2025
-  - historia-do-brasil
+- a-politica-externa
+- a-primeira-republica
+- cacd-2025
+- historia-do-brasil
 aliases:
-  - a II Conferência de Paz da Haia (1907); o Brasil e a Grande Guerra de 1914; o Brasil na Liga das Nações.
+- a II Conferência de Paz da Haia (1907); o Brasil e a Grande Guerra de 1914; o Brasil
+  na Liga das Nações.
 ---
 # Política Externa Brasileira na Primeira República (1907–1926) – Prestígio e Reconhecimento Internacional
 

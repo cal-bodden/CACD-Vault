@@ -1,3 +1,7 @@
+---
+area: Geografia Agrária
+tags: []
+---
 # Análise Aprofundada da Produção Agrícola Brasileira no Último Quinquênio (2020-2025): Tensão entre Agronegócio de Commodities e Produção de Alimentos Internos e Seus Impactos na Inflação
 
 ## Resumo Executivo

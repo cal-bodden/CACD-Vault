@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 ## Fuentes en Casa Rosada afirman que el paquete se presentará mañana; había sido postergado la semana pasada en la previa de las elecciones porteñas
 
 l Gobierno anunciará mañana un paquete de medidas para buscar impulsar el uso de los miles de millones de dólares que los argentinos tienen debajo “del colchón”, lo que en Economía llaman **“el inicio de un nuevo régimen”** y para Javier Milei es **“la dolarización endógena”.**

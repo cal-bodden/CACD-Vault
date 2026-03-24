@@ -1,8 +1,11 @@
 ---
 tema: Conselho do Ártico
-área: Política Internacional 
-tags: 
-conexões: Geografia, Relações Internacionais, Meio Ambiente, Direito Internacional, Mudanças Climáticas, Povos Indígenas, Governança Global, Geopolítica
+área: Política Internacional
+tags: []
+conexões: Geografia, Relações Internacionais, Meio Ambiente, Direito Internacional,
+  Mudanças Climáticas, Povos Indígenas, Governança Global, Geopolítica
+area: O Brasil e a agenda internacional
+subarea: 13.5 Mar, espaço e Antártida
 ---
 
 # Conselho do Ártico

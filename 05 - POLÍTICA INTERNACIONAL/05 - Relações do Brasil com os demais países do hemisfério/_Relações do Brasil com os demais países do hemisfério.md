@@ -1,13 +1,13 @@
 ---
 title: Relações do Brasil com os demais países do hemisfério
-area: POLÍTICA INTERNACIONAL
+area: 5. Relações do Brasil com os demais países do hemisfério.
 subarea: Relações do Brasil com os demais países do hemisfério
 tags:
-  - cacd-2025
-  - politica-internacional
-  - relacoes-do-brasil-com-os-demais-paises-do-hemisferio
+- cacd-2025
+- politica-internacional
+- relacoes-do-brasil-com-os-demais-paises-do-hemisferio
 aliases:
-  - Relações do Brasil com os demais países do hemisfério.
+- Relações do Brasil com os demais países do hemisfério.
 ---
 # As Relações do Brasil com os Demais Países do Hemisfério: Eixos de Cooperação e Interesses Estratégicos
 

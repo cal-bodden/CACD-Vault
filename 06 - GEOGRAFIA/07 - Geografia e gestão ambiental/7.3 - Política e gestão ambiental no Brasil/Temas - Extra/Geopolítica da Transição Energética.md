@@ -1,10 +1,10 @@
 ---
 title: Geopolítica da Transição Energética
-area: GEOGRAFIA
-subarea: Geografia política
+area: Geografia e gestão ambiental
+subarea: 7.3 Política e gestão ambiental no Brasil
 tags:
-  - cacd-2025
-  - geografia
+- cacd-2025
+- geografia
 ---
 # A Geopolítica da Transição Energética: A Competição por Minerais Críticos, Tecnologias Limpas e o Papel do Brasil
 

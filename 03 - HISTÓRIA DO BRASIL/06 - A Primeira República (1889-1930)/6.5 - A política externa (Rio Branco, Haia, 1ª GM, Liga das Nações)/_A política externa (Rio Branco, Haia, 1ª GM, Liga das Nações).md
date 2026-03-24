@@ -1,14 +1,14 @@
 ---
 title: A política externa (Rio Branco, Haia, 1ª GM, Liga das Nações)
-area: HISTÓRIA DO BRASIL
+area: 6. A Primeira República (1889-1930).
 subarea: A Primeira República (1889-1930)
 tags:
-  - a-politica-externa
-  - a-primeira-republica
-  - cacd-2025
-  - historia-do-brasil
+- a-politica-externa
+- a-primeira-republica
+- cacd-2025
+- historia-do-brasil
 aliases:
-  - "6.5 A política externa: a obra de Rio Branco;"
+- '6.5 A política externa: a obra de Rio Branco;'
 ---
 # A Obra de Rio Branco (1902-1912): A Consolidação das Fronteiras e a Afirmação do Brasil na Ordem Mundial
 

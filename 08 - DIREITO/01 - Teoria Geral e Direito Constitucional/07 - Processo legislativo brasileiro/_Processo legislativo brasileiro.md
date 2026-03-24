@@ -1,14 +1,14 @@
 ---
 title: Processo legislativo brasileiro
-area: DIREITO
+area: 7. Processo legislativo brasileiro.
 subarea: Teoria Geral e Direito Constitucional
 tags:
-  - cacd-2025
-  - direito
-  - processo-legislativo-brasileiro
-  - teoria-geral-e-direito-constitucional
+- cacd-2025
+- direito
+- processo-legislativo-brasileiro
+- teoria-geral-e-direito-constitucional
 aliases:
-  - Processo legislativo brasileiro
+- Processo legislativo brasileiro
 ---
 # Processo Legislativo Brasileiro - Etapas e Procedimentos
 

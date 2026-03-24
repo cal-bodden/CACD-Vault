@@ -1,41 +1,6 @@
-# TPS 2025 — Tarde
-
 ---
-## Questão 34 — TPS 2025 Tarde — Língua Inglesa
-
-**Contexto:** -- PROVA OBJETIVA – PRIMEIRA FASE – TARDE -- 
- 
-LÍNGUA INGLESA 
-Text I 
-
-Despite the tricky and life-threatening relationship  between Paleolithic humans and the megafauna that comprised  so much of their environment, twentieth-century scholars tended  to claim cave art as evidence of an unalloyed triumph for our  species. It was a “great spiritual symbol,” of a time when “man  had just emerged from a purely zoological existence, when  instead of being dominated by animals, he began to dominate  them.” But the child-like and highly stylized stick figures found  in caves do not radiate triumph. By the standards of our own  time, they are excessively self-effacing and, compared to the  animals portrayed around them, pathetically weak. 
-
-While  twentieth-century  archeologists  tended  to  solemnize prehistoric art as “magico-religious” or “shamanic,”  today’s more secular viewers sometimes detect a vein of sheer  silliness. India’s Mesolithic rock art portrays few human stick  figures; those that are portrayed have been described by modern  viewers as “comical,” “animalized” and “grotesque.” As Judith  Thurman wrote about the artists, “despite their penchant for  naturalism, rarely did they choose to depict human beings, and  then did so with a crudeness that smacks of mockery.” 
-
-But who are they mocking, other than themselves and, by  extension, their distant descendants, ourselves? Of course, our  reactions to Paleolithic art may bear no connection to the  intentions or feelings of the artists. Yet there are reasons to  believe that Paleolithic people had a sense of humor not all that  dissimilar from our own. 
-
-Barbara Ehrenreich. The Humanoid Stain. Later on.  
-
-Internet: <https://leisureguy.ca> (adapted).
-
-Based on text I, judge whether the following statements are  right (C) or wrong (E).
-
-### Item 1
-The text stresses the difference between the opinions of cave artists and of modern art scholars in terms of the concept of the artistic genius.
-#### Gabarito Oficial: não localizado
-
-### Item 2
-The author sides with those who take cave art to be a ‘great spiritual symbol’, as stated in the first paragraph.
-#### Gabarito Oficial: não localizado
-
-### Item 3
-The text suggests that 20th-century scholars had an erroneous perspective on how cave art should be viewed.
-#### Gabarito Oficial: não localizado
-
-### Item 4
-The author concludes that cave artists depicted humans as weak to show the preponderance megafauna had in those days.
-#### Gabarito Oficial: não localizado
-
+area: Provas Anteriores
+tags: []
 ---
 ## Questão 35 — TPS 2025 Tarde — Língua Inglesa
 

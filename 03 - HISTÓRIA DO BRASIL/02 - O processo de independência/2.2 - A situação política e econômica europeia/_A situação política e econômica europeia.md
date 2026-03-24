@@ -1,14 +1,14 @@
 ---
 title: A situação política e econômica europeia
-area: HISTÓRIA DO BRASIL
+area: 2. O processo de independência.
 subarea: O processo de independência
 tags:
-  - a-situacao-politica-e-economica-europeia
-  - cacd-2025
-  - historia-do-brasil
-  - o-processo-de-independencia
+- a-situacao-politica-e-economica-europeia
+- cacd-2025
+- historia-do-brasil
+- o-processo-de-independencia
 aliases:
-  - 2.2 A situação política e econômica europeia.
+- 2.2 A situação política e econômica europeia.
 ---
 # A Conjuntura Europeia e a Independência do Brasil: Das Guerras Napoleônicas à Revolução do Porto
 

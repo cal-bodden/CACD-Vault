@@ -1,3 +1,7 @@
+---
+area: Extra
+tags: []
+---
 # Os Impactos Sistêmicos da Guerra na Ucrânia: A Reconfiguração da Ordem Internacional no Pós-2022
 
 A invasão russa da Ucrânia em 24 de fevereiro de 2022 representa o mais significativo ponto de inflexão na ordem internacional desde o fim da Guerra Fria, catalisando transformações estruturais que redefinem a arquitetura de segurança global, as relações entre grandes potências e o próprio sistema multilateral. Este conflito não constitui meramente uma guerra regional, mas um evento sistêmico que acelerou tendências preexistentes de fragmentação da ordem liberal e emergência de um mundo multipolar competitivo. A análise dos impactos multidimensionais revela como a guerra consolidou uma nova era de confrontação geopolítica, marcada pela divisão Ocidente-Leste, pelo protagonismo do Sul Global e pela crise terminal do multilateralismo centrado na ONU.

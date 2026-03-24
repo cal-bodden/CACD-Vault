@@ -1,14 +1,14 @@
 ---
 title: A influência das ideias liberais e sua repercussão no Brasil
-area: HISTÓRIA DO BRASIL
+area: 2. O processo de independência.
 subarea: O processo de independência
 tags:
-  - a-influencia-das-ideias-liberais-e-sua-repercussao-no-brasil
-  - cacd-2025
-  - historia-do-brasil
-  - o-processo-de-independencia
+- a-influencia-das-ideias-liberais-e-sua-repercussao-no-brasil
+- cacd-2025
+- historia-do-brasil
+- o-processo-de-independencia
 aliases:
-  - 2.5 A influência das ideias liberais e sua repercussão no Brasil.
+- 2.5 A influência das ideias liberais e sua repercussão no Brasil.
 ---
 # A Influência das Ideias Liberais e sua Repercussão no Brasil Durante o Processo de Independência
 

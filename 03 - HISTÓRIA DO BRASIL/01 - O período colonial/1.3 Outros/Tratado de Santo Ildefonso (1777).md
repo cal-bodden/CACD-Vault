@@ -1,15 +1,15 @@
 ---
 title: Tratado de Tordesilhas (1494)
-area: HISTÓRIA DO BRASIL
-subarea: O período colonial
+area: O período colonial
+subarea: 1.3 Outros
 tags:
-  - a-configuracao-territorial-da-america-portuguesa
-  - cacd-2025
-  - historia-do-brasil
-  - o-periodo-colonial
-  - formacao-territorial-brasil
+- a-configuracao-territorial-da-america-portuguesa
+- cacd-2025
+- historia-do-brasil
+- o-periodo-colonial
+- formacao-territorial-brasil
 aliases:
-  - Tratado de Santo Ildefonso de 1777
+- Tratado de Santo Ildefonso de 1777
 ---
 # O Tratado de Santo Ildefonso (1777): A Permuta na Bacia do Prata e a Consolidação do Sul do Brasil
 

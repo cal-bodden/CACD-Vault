@@ -1,14 +1,14 @@
 ---
 title: Impactos da globalização
-area: HISTÓRIA DO BRASIL
-subarea: O processo democrático a partir de 1985
+area: 10. O processo democrático a partir de 1985.
+subarea: 10.2 Partidos políticos e eleições.
 tags:
-  - cacd-2025
-  - historia-do-brasil
-  - impactos-da-globalizacao
-  - o-processo-democratico-a-partir-de-1985
+- cacd-2025
+- historia-do-brasil
+- impactos-da-globalizacao
+- o-processo-democratico-a-partir-de-1985
 aliases:
-  - 10.4 Impactos da globalização.
+- 10.4 Impactos da globalização.
 ---
 # Os Impactos da Globalização no Brasil da Nova República (1985-2025): Escolhas, Transformações e a Busca por Autonomia
 

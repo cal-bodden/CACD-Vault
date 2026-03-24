@@ -1,13 +1,13 @@
 ---
-title: "O Uso do Veto no Conselho de Segurança da ONU: Análise 2015-2025"
-area: "POLÍTICA INTERNACIONAL"
-subarea: "O Brasil e a agenda internacional"
+title: 'O Uso do Veto no Conselho de Segurança da ONU: Análise 2015-2025'
+area: O Brasil e a agenda internacional
+subarea: 13.1 Multilateralismo (ONU, conferências)
 tags:
-  - cacd-2025
-  - multilateralismo
-  - CSNU
-  - politica-internacional
-  - veto-no-csnu
+- cacd-2025
+- multilateralismo
+- CSNU
+- politica-internacional
+- veto-no-csnu
 ---
 # O Uso do Veto no Conselho de Segurança da ONU: Análise Abrangente 2015-2025
 

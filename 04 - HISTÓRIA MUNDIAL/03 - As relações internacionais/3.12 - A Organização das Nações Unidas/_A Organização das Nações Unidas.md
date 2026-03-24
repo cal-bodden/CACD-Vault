@@ -1,14 +1,14 @@
 ---
 title: A Organização das Nações Unidas
-area: HISTÓRIA MUNDIAL
-subarea: As relações internacionais
+area: 3. As relações internacionais.
+subarea: 3.5 Os 14 pontos de Wilson.
 tags:
-  - a-organizacao-das-nacoes-unidas
-  - as-relacoes-internacionais
-  - cacd-2025
-  - historia-mundial
+- a-organizacao-das-nacoes-unidas
+- as-relacoes-internacionais
+- cacd-2025
+- historia-mundial
 aliases:
-  - 3.12 A Organização das Nações Unidas.
+- 3.12 A Organização das Nações Unidas.
 ---
 # A Organização das Nações Unidas: Uma História da Governança Global no Pós-Guerra (1945-Presente)
 

@@ -1,14 +1,14 @@
 ---
 title: Desaceleração econômica e o II PND
-area: ECONOMIA
-subarea: História econômica brasileira
+area: 4. História econômica brasileira.
+subarea: 4.6.2 O Primeiro Plano Nacional de Desenvolvimento (I PND).
 tags:
-  - cacd-2025
-  - desaceleracao-economica-e-o-ii-pnd
-  - economia
-  - historia-economica-brasileira
+- cacd-2025
+- desaceleracao-economica-e-o-ii-pnd
+- economia
+- historia-economica-brasileira
 aliases:
-  - 4.7 Desaceleração econômica e o segundo Plano Nacional de Desenvolvimento (II PND).
+- 4.7 Desaceleração econômica e o segundo Plano Nacional de Desenvolvimento (II PND).
 ---
 # II Plano Nacional de Desenvolvimento (1974–1979) – Governo Geisel e Resposta ao Choque do Petróleo de 1973
 

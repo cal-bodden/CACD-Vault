@@ -1,14 +1,15 @@
 ---
 title: Conhecimentos de linguística, literatura e estilística
-area: LÍNGUA PORTUGUESA
-subarea: Leitura e produção de textos
+area: 2. Leitura e produção de textos.
+subarea: 2.1 Compreensão, interpretação e análise crítica de textos escritos em língua
+  portuguesa.
 tags:
-  - cacd-2025
-  - conhecimentos-de-linguistica-literatura-e-estilistica
-  - leitura-e-producao-de-textos
-  - lingua-portuguesa
+- cacd-2025
+- conhecimentos-de-linguistica-literatura-e-estilistica
+- leitura-e-producao-de-textos
+- lingua-portuguesa
 aliases:
-  - 2.2 Conhecimentos de linguística, literatura e estilística
+- 2.2 Conhecimentos de linguística, literatura e estilística
 ---
 # Nota de Estudo CACD: Linguística, Literatura e Estilística (Edital Item 2.2)
 

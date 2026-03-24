@@ -1,15 +1,15 @@
 ---
 title: Organização para a Proibição de Armas Químicas (OPAQ)
-area: POLÍTICA INTERNACIONAL
+area: O Brasil e a agenda internacional
 aliases:
-  - OPAQ
-  - Organização para a Proibição de Armas Químicas (OPAQ)
-area: POLÍTICA INTERNACIONAL
+- OPAQ
+- Organização para a Proibição de Armas Químicas (OPAQ)
 tags:
-  - cacd-2025
-  - desarmamento-e-nao-proliferacao
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
+- cacd-2025
+- desarmamento-e-nao-proliferacao
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
+subarea: 13.10 Desarmamento e não proliferação
 ---
 
 # Organização para a Proibição de Armas Químicas (OPAQ)

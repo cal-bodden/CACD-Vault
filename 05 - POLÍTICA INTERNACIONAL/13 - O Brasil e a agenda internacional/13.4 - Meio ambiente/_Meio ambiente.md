@@ -1,14 +1,14 @@
 ---
 title: Meio ambiente
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+area: '13. O Brasil e a agenda internacional:'
+subarea: 13.4 Meio ambiente.
 tags:
-  - cacd-2025
-  - meio-ambiente
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
+- cacd-2025
+- meio-ambiente
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
 aliases:
-  - Meio ambiente.
+- Meio ambiente.
 ---
 # 7.1 O Meio Ambiente nas Relações Internacionais: Questões Conceituais e Institucionais
 

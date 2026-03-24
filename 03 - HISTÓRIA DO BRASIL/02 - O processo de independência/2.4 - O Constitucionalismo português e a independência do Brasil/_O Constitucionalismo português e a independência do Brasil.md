@@ -1,14 +1,14 @@
 ---
 title: O Constitucionalismo português e a independência do Brasil
-area: HISTÓRIA DO BRASIL
+area: 2. O processo de independência.
 subarea: O processo de independência
 tags:
-  - cacd-2025
-  - historia-do-brasil
-  - o-constitucionalismo-portugues-e-a-independencia-do-brasil
-  - o-processo-de-independencia
+- cacd-2025
+- historia-do-brasil
+- o-constitucionalismo-portugues-e-a-independencia-do-brasil
+- o-processo-de-independencia
 aliases:
-  - 2.4 O Constitucionalismo português e a independência do Brasil.
+- 2.4 O Constitucionalismo português e a independência do Brasil.
 ---
 # O Constitucionalismo Português e a Independência do Brasil: A Revolução do Porto e a Ruptura Final (1820-1822)
 

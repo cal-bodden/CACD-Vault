@@ -1,12 +1,12 @@
 ---
 title: Foro Econômico Internacional América Latina e Caribe
-area: POLÍTICA INTERNACIONAL
-subarea: Relações do Brasil com os demais países do hemisfério
+area: Relações do Brasil com os demais países do hemisfério
+subarea: 05.1 Outros
 tags:
-  - cacd-2025
-  - politica-internacional
-  - relacoes-do-brasil-com-os-demais-paises-do-hemisferio
-aliases:
+- cacd-2025
+- politica-internacional
+- relacoes-do-brasil-com-os-demais-paises-do-hemisferio
+aliases: null
 ---
 ---
 # O Foro Econômico Internacional para a América Latina e o Caribe: Diálogo, Desafios e Oportunidades para a Região

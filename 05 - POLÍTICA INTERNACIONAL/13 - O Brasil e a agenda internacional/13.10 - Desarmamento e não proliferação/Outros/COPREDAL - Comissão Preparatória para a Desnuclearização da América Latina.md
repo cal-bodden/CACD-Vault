@@ -1,16 +1,17 @@
 ---
 title: Comissão Preparatória para a Desnuclearização da América Latina (COPREDAL)
-area: POLÍTICA INTERNACIONAL
+area: O Brasil e a agenda internacional
 date: 2025-05-04
 aliases:
-  - COPREDAL
-  - Comissão Preparatória para a Desnuclearização da América Latina
-  - Comissão Preparatória para a Desnuclearização da América Latina (COPREDAL)
+- COPREDAL
+- Comissão Preparatória para a Desnuclearização da América Latina
+- Comissão Preparatória para a Desnuclearização da América Latina (COPREDAL)
 tags:
-  - cacd-2025
-  - desarmamento-e-nao-proliferacao
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
+- cacd-2025
+- desarmamento-e-nao-proliferacao
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
+subarea: 13.10 Desarmamento e não proliferação
 ---
 
 # Comissão Preparatória para a Desnuclearização da América Latina (COPREDAL)

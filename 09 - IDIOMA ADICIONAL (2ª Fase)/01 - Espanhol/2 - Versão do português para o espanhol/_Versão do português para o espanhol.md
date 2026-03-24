@@ -1,11 +1,11 @@
 ---
-title: "Versão do português para o espanhol"
-area: "IDIOMA ADICIONAL (2ª Fase)"
-subarea: "Espanhol"
+title: Versão do português para o espanhol
+area: Espanhol
+subarea: 2 Versão do português para o espanhol
 tags:
-  - cacd-2025
-  - espanhol
-  - idioma-adicional
-  - versao-do-portugues-para-o-espanhol
+- cacd-2025
+- espanhol
+- idioma-adicional
+- versao-do-portugues-para-o-espanhol
 ---
 

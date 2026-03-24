@@ -1,14 +1,14 @@
 ---
 title: Correntes ideológicas do século XIX (liberalismo e nacionalismo)
-area: HISTÓRIA MUNDIAL
+area: 6. Ideias e regimes políticos.
 subarea: Ideias e regimes políticos
 tags:
-  - cacd-2025
-  - correntes-ideologicas-do-seculo-xix
-  - historia-mundial
-  - ideias-e-regimes-politicos
+- cacd-2025
+- correntes-ideologicas-do-seculo-xix
+- historia-mundial
+- ideias-e-regimes-politicos
 aliases:
-  - "6.1 Grandes correntes ideológicas da política no século XIX: liberalismo e nacionalismo."
+- '6.1 Grandes correntes ideológicas da política no século XIX: liberalismo e nacionalismo.'
 ---
 # 6.1 Grandes Correntes Ideológicas da Política no Século XIX: Liberalismo e Nacionalismo
 

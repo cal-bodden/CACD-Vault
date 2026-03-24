@@ -1,17 +1,19 @@
 ---
 tema: Tratado de Proibição Parcial de Testes (TPBT)
-area: POLÍTICA INTERNACIONAL
+area: O Brasil e a agenda internacional
 data: 04/05/2025
 tags:
-  - cacd-2025
-  - desarmamento-e-nao-proliferacao
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
-  - ONU
-conexões: Desarmamento, NaoProliferacao, GuerraFria, DireitoInternacional, SegurancaInternacional, TestesNucleares, TPCEN, TNP
+- cacd-2025
+- desarmamento-e-nao-proliferacao
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
+- ONU
+conexões: Desarmamento, NaoProliferacao, GuerraFria, DireitoInternacional, SegurancaInternacional,
+  TestesNucleares, TPCEN, TNP
 aliases:
-  - Tratado de Proibição Parcial de Testes (TPBT)
-  - TPBT
+- Tratado de Proibição Parcial de Testes (TPBT)
+- TPBT
+subarea: 13.10 Desarmamento e não proliferação
 ---
 
 # Tratado de Proibição Parcial de Testes (TPBT)

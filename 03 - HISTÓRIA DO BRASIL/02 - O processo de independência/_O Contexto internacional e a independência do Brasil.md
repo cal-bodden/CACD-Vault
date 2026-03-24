@@ -1,3 +1,7 @@
+---
+area: O processo de independência
+tags: []
+---
 # 4.1.1. O Contexto internacional e a independência do Brasil
 
 As últimas décadas do século XVIII se caracterizaram por uma série de transformações no contexto internacional, tanto no plano político quanto no econômico, que contribuíram e, em grande medida, condicionaram o processo de independência da Colônia portuguesa nas Américas no início do século XIX. Assim, o **liberalismo** forneceu base ideológica aos movimentos pela queda do Antigo Regime, caracterizado por **privilégios corporativos** e pela **monarquia absoluta**. Nas colônias americanas, justificou as tentativas de reforma e o direito dos povos à insurreição (FAUSTO, 2012).

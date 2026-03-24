@@ -1,14 +1,14 @@
 ---
 title: Controle de Constitucionalidade na Constituição Federal de 1988
-area: DIREITO
-subarea: Teoria Geral e Direito Constitucional
+area: Teoria Geral e Direito Constitucional
+subarea: 00 Outros
 tags:
-  - cacd-2025
-  - direito
-  - normas-juridicas
-  - teoria-geral-e-direito-constitucional
+- cacd-2025
+- direito
+- normas-juridicas
+- teoria-geral-e-direito-constitucional
 aliases:
-  - Controle de Constitucionalidade.
+- Controle de Constitucionalidade.
 ---
 # Controle de Constitucionalidade na Constituição Federal de 1988: Sistema, Instrumentos, Evolução e Desafios
 

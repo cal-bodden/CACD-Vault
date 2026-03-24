@@ -1,17 +1,17 @@
 ---
 title: O ISEB e a Formulação do Nacional-Desenvolvimentismo e da PEI
-area: HISTÓRIA DO BRASIL / POLÍTICA INTERNACIONAL
-subarea: A República Liberal (1945-1964) | PEB Pós-1945
+area: A República Liberal (1945-1964)
+subarea: 8.3 Política externa (relações com os EUA, Guerra Fria, OPA, PEI, etc.)
 tags:
-  - iseb
-  - nacional-desenvolvimentismo
-  - politica-externa-independente
-  - republica-liberal
-  - peb
-  - cacd-2026
+- iseb
+- nacional-desenvolvimentismo
+- politica-externa-independente
+- republica-liberal
+- peb
+- cacd-2026
 aliases:
-  - ISEB
-  - Instituto Superior de Estudos Brasileiros
+- ISEB
+- Instituto Superior de Estudos Brasileiros
 ---
 
 

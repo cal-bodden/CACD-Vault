@@ -1,13 +1,13 @@
 ---
-title: "Unificação Alemã e Consequências"
-area: "HISTÓRIA MUNDIAL"
-subarea: "As relações internacionais"
+title: Unificação Alemã e Consequências
+area: 3. As relações internacionais.
+subarea: As relações internacionais
 tags:
-  - as-relacoes-internacionais
-  - cacd-2025
-  - historia-mundial
-  - o-concerto-europeu-e-sua-crise
-  - unificaçao-alemanha
+- as-relacoes-internacionais
+- cacd-2025
+- historia-mundial
+- o-concerto-europeu-e-sua-crise
+- unificaçao-alemanha
 ---
 
 # Unificação Alemã e suas Consequências

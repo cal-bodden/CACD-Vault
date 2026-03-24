@@ -1,14 +1,14 @@
 ---
 title: Regime Jurídico dos Servidores do SEB (Lei 11.440-2006)
-area: DIREITO
+area: 13. Regime Jurídico dos Servidores do Serviço Exterior Brasileiro (Lei nº 11.440/2006).
 subarea: Direito Administrativo e Servidor Público
 tags:
-  - cacd-2025
-  - direito
-  - direito-administrativo-e-servidor-publico
-  - regime-juridico-dos-servidores-do-seb
+- cacd-2025
+- direito
+- direito-administrativo-e-servidor-publico
+- regime-juridico-dos-servidores-do-seb
 aliases:
-  - Regime Jurídico dos Servidores do Serviço Exterior Brasileiro (Lei nº 11.440/2006).
+- Regime Jurídico dos Servidores do Serviço Exterior Brasileiro (Lei nº 11.440/2006).
 ---
 # 13. Regime Jurídico dos Servidores do Serviço Exterior Brasileiro (Lei nº 11.440/2006)
 

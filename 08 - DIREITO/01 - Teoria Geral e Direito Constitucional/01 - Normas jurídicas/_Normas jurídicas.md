@@ -1,14 +1,14 @@
 ---
 title: Normas jurídicas
-area: DIREITO
+area: 1. Normas jurídicas.
 subarea: Teoria Geral e Direito Constitucional
 tags:
-  - cacd-2025
-  - direito
-  - normas-juridicas
-  - teoria-geral-e-direito-constitucional
+- cacd-2025
+- direito
+- normas-juridicas
+- teoria-geral-e-direito-constitucional
 aliases:
-  - Normas jurídicas.
+- Normas jurídicas.
 ---
 # Normas Jurídicas
 

@@ -1,3 +1,7 @@
+---
+area: Ideias e regimes políticos
+tags: []
+---
 ## Fontes Principais Identificadas
 
 ### Eric Hobsbawm - Obras Fundamentais

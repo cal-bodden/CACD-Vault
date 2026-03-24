@@ -1,14 +1,14 @@
 ---
 title: O Pan-Americanismo
-area: HISTÓRIA MUNDIAL
+area: 5. A evolução política e econômica nas Américas.
 subarea: A evolução política e econômica nas Américas
 tags:
-  - a-evolucao-politica-e-economica-nas-americas
-  - cacd-2025
-  - historia-mundial
-  - o-pan-americanismo
+- a-evolucao-politica-e-economica-nas-americas
+- cacd-2025
+- historia-mundial
+- o-pan-americanismo
 aliases:
-  - 5.5 O Pan-Americanismo.
+- 5.5 O Pan-Americanismo.
 ---
 # O Pan-Americanismo: Entre o Ideal de União Latino-Americana e a Hegemonia dos EUA
 

@@ -1,3 +1,8 @@
+---
+area: A República Liberal (1945-1964)
+subarea: 8.5 X
+tags: []
+---
 # Precedentes da Ditadura Militar Brasileira: Democracia em Xeque (1945–1964)
 
 ## Contexto Pós-1945: Militares e Doutrina de Segurança Nacional

@@ -2,14 +2,17 @@
 tema: Intergovernmental Panel on Climate Change (IPCC)
 área: Política Internacional
 tags:
-  - meio-ambiente
-  - ONU
-  - o-brasil-e-a-agenda-internacional
-conexões: Meio Ambiente, Desenvolvimento Sustentável, Direito Internacional do Meio Ambiente, Organizações Internacionais
+- meio-ambiente
+- ONU
+- o-brasil-e-a-agenda-internacional
+conexões: Meio Ambiente, Desenvolvimento Sustentável, Direito Internacional do Meio
+  Ambiente, Organizações Internacionais
 aliases:
-  - IPCC
-  - Intergovernmental Panel on Climate Change (IPCC)
-  - Painel Intergovernamental sobre Mudança do Clima
+- IPCC
+- Intergovernmental Panel on Climate Change (IPCC)
+- Painel Intergovernamental sobre Mudança do Clima
+area: O Brasil e a agenda internacional
+subarea: 13.4 Meio ambiente
 ---
 # IPCC (Intergovernmental Panel on Climate Change)
 

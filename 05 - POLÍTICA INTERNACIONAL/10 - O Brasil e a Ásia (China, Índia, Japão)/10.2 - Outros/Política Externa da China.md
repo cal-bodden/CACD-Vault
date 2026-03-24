@@ -1,3 +1,8 @@
+---
+area: O Brasil e a Ásia (China, Índia, Japão)
+subarea: 10.2 Outros
+tags: []
+---
 # A Política Externa da China no Século XXI: Da "Ascensão Pacífica" à Competição Estratégica Global
 
 ## I. Introdução: A Grande Estratégia de Rejuvenescimento Nacional

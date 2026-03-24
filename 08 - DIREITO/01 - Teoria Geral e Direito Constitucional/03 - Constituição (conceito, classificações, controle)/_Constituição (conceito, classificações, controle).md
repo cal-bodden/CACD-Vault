@@ -1,14 +1,15 @@
 ---
 title: Constituição (conceito, classificações, controle)
-area: DIREITO
+area: '3. Constituição: conceito, classificações, primado da Constituição, controle
+  de constitucionalidade.'
 subarea: Teoria Geral e Direito Constitucional
 tags:
-  - cacd-2025
-  - constituicao
-  - direito
-  - teoria-geral-e-direito-constitucional
+- cacd-2025
+- constituicao
+- direito
+- teoria-geral-e-direito-constitucional
 aliases:
-  - Constituição
+- Constituição
 ---
 # Conceito,classificações, primado da Constituição, controle de constitucionalidade.
 

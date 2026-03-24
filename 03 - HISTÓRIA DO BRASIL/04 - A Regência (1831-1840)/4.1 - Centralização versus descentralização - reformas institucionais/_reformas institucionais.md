@@ -1,14 +1,14 @@
 ---
 title: Reformas Institucionais
-area: HISTÓRIA DO BRASIL
+area: 4. A Regência (1831-1840).
 subarea: A Regência (1831-1840)
 tags:
-  - a-regencia
-  - cacd-2025
-  - historia-do-brasil
-  - centralizaçãoxdescentralização
+- a-regencia
+- cacd-2025
+- historia-do-brasil
+- centralizaçãoxdescentralização
 aliases:
-  - "4.1 Centralização versus descentralização: reformas institucionais."
+- '4.1 Centralização versus descentralização: reformas institucionais.'
 ---
 # 4.1 Centralização versus descentralização: reformas institucionais do Período Regencial (1831-1840)
 

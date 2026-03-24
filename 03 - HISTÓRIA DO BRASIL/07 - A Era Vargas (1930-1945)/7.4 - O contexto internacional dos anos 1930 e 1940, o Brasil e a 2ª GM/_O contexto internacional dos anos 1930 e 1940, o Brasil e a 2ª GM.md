@@ -1,14 +1,14 @@
 ---
 title: O contexto internacional dos anos 1930 e 1940, o Brasil e a 2ª GM
-area: HISTÓRIA DO BRASIL
+area: 7. A Era Vargas (1930-1945).
 subarea: A Era Vargas (1930-1945)
 tags:
-  - a-era-vargas
-  - cacd-2025
-  - historia-do-brasil
-  - o-contexto-internacional-dos-anos-1930-e-1940-o-brasil-e-a-2a-gm
+- a-era-vargas
+- cacd-2025
+- historia-do-brasil
+- o-contexto-internacional-dos-anos-1930-e-1940-o-brasil-e-a-2a-gm
 aliases:
-  - 7.4 O contexto internacional dos anos 1930 e 1940; o Brasil e a Segunda Guerra Mundial.
+- 7.4 O contexto internacional dos anos 1930 e 1940; o Brasil e a Segunda Guerra Mundial.
 ---
 # O Brasil na Segunda Guerra Mundial: Da Equidistância Pragmática ao Alinhamento com os Aliados
 

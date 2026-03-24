@@ -1,3 +1,8 @@
+---
+area: Microeconomia
+subarea: 1.1 Extra
+tags: []
+---
 # Isoquantas e fronteira de possibilidades de produção: fundamentos e interconexões na teoria microeconômica
 
 A compreensão das **isoquantas** e da **fronteira de possibilidades de produção (FPP)** constitui um dos pilares fundamentais da teoria microeconômica moderna. Estes conceitos, desenvolvidos ao longo do século XX, fornecem ferramentas analíticas essenciais para compreender como firmas tomam decisões produtivas e como economias alocam recursos escassos entre usos alternativos. Para o candidato à carreira diplomática, dominar estes instrumentos é crucial para analisar políticas econômicas, entender dinâmicas de comércio internacional e avaliar estratégias de desenvolvimento.

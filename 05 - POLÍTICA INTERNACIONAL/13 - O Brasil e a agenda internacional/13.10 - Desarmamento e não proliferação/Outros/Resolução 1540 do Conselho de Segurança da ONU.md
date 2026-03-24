@@ -1,13 +1,13 @@
 ---
 title: Resolução 1540 do Conselho de Segurança da ONU
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+area: O Brasil e a agenda internacional
+subarea: 13.10 Desarmamento e não proliferação
 conexões: Segurança Internacional Desarmamento Não Proliferação
 tags:
-  - cacd-2025
-  - desarmamento-e-nao-proliferacao
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
+- cacd-2025
+- desarmamento-e-nao-proliferacao
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
 ---
 # Resolução 1540 do Conselho de Segurança da ONU
 

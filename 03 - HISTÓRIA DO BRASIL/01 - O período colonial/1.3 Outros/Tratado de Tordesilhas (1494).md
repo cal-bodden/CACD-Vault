@@ -1,13 +1,13 @@
 ---
 title: Tratado de Tordesilhas (1494)
-area: HISTÓRIA DO BRASIL
-subarea: O período colonial
+area: O período colonial
+subarea: 1.3 Outros
 tags:
-  - a-configuracao-territorial-da-america-portuguesa
-  - cacd-2025
-  - historia-do-brasil
-  - o-periodo-colonial
-  - formacao-territorial-brasil
+- a-configuracao-territorial-da-america-portuguesa
+- cacd-2025
+- historia-do-brasil
+- o-periodo-colonial
+- formacao-territorial-brasil
 ---
 # O Tratado de Tordesilhas (1494): Divisão do Mundo e Seus Desdobramentos Históricos
 

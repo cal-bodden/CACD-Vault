@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 President Xi Jinping announced on Tuesday the launch of five programs for cooperation between China and Latin American and Caribbean countries, covering areas such as politics, economic development and people-to-people exchanges, and he called on the two sides to jointly write a new chapter in building the China-LAC community with a shared future.
 
 Xi made the remarks in a keynote speech in Beijing at the opening ceremony of the fourth ministerial meeting of the *China-Community of Latin American and Caribbean States Forum*.

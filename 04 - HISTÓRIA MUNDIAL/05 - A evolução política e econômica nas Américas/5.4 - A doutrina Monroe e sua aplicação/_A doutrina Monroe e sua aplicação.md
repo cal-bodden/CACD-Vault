@@ -1,15 +1,15 @@
 ---
 title: A doutrina Monroe e sua aplicação
-area: HISTÓRIA MUNDIAL
+area: 5. A evolução política e econômica nas Américas.
 subarea: A evolução política e econômica nas Américas
 tags:
-  - a-doutrina-monroe-e-sua-aplicacao
-  - a-evolucao-politica-e-economica-nas-americas
-  - cacd-2025
-  - historia-mundial
+- a-doutrina-monroe-e-sua-aplicacao
+- a-evolucao-politica-e-economica-nas-americas
+- cacd-2025
+- historia-mundial
 aliases:
-  - 5.4 A doutrina Monroe e sua aplicação; a política externa dos EUA na América Latina.
-  - Doutrina Monroe
+- 5.4 A doutrina Monroe e sua aplicação; a política externa dos EUA na América Latina.
+- Doutrina Monroe
 ---
 # A Doutrina Monroe e sua Aplicação: A Política Externa dos EUA na América Latina (1823-Presente)
 

@@ -2,14 +2,18 @@
 tema: Convenção das Nações Unidas de Combate à Desertificação (UNCCD)
 área: Política Internacional
 tags:
-  - meio-ambiente
-  - ONU
-  - o-brasil-e-a-agenda-internacional
-conexões: Mudanças Climáticas, Direito Internacional do Meio Ambiente, Organização das Nações Unidas (ONU), Desenvolvimento Sustentável, ProtocoloDeQuioto, AcordoDeParis, COP, IPCC, RCPDCR, JusticaClimatica, Mitigacao, Adaptacao, GEE
+- meio-ambiente
+- ONU
+- o-brasil-e-a-agenda-internacional
+conexões: Mudanças Climáticas, Direito Internacional do Meio Ambiente, Organização
+  das Nações Unidas (ONU), Desenvolvimento Sustentável, ProtocoloDeQuioto, AcordoDeParis,
+  COP, IPCC, RCPDCR, JusticaClimatica, Mitigacao, Adaptacao, GEE
 aliases:
-  - UNFCCC
-  - CQNUMC
-  - Convenção-Quadro das Nações Unidas sobre Mudança do Clima
+- UNFCCC
+- CQNUMC
+- Convenção-Quadro das Nações Unidas sobre Mudança do Clima
+area: O Brasil e a agenda internacional
+subarea: 13.4 Meio ambiente
 ---
 # Convenção-Quadro das Nações Unidas sobre Mudança do Clima (CQNUMC)
 

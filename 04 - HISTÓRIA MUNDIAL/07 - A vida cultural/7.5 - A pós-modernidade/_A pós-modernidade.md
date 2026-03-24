@@ -1,14 +1,14 @@
 ---
 title: A pós-modernidade
-area: HISTÓRIA MUNDIAL
+area: 7. A vida cultural.
 subarea: A vida cultural
 tags:
-  - a-pos-modernidade
-  - a-vida-cultural
-  - cacd-2025
-  - historia-mundial
+- a-pos-modernidade
+- a-vida-cultural
+- cacd-2025
+- historia-mundial
 aliases:
-  - 7.5 A pós-modernidade.
+- 7.5 A pós-modernidade.
 ---
 # A Pós-modernidade
 

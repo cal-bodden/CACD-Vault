@@ -1,13 +1,13 @@
 ---
 title: Organização de Cooperação de Xangai (OCX)
-area: POLÍTICA INTERNACIONAL
-subarea: Rússia (política externa e relações com o Brasil)
+area: Rússia (política externa e relações com o Brasil)
+subarea: Extra
 tags:
-  - cacd-2025
-  - politica-internacional
-  - russia
+- cacd-2025
+- politica-internacional
+- russia
 aliases:
-  - OCX
+- OCX
 ---
 # Organização de Cooperação de Xangai (OCX)
 

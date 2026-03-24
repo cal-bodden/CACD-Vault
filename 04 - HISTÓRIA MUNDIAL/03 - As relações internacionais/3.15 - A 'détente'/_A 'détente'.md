@@ -1,14 +1,14 @@
 ---
 title: A 'détente'
-area: HISTÓRIA MUNDIAL
-subarea: As relações internacionais
+area: 3. As relações internacionais.
+subarea: 3.14 Os conflitos localizados.
 tags:
-  - a-detente
-  - as-relacoes-internacionais
-  - cacd-2025
-  - historia-mundial
+- a-detente
+- as-relacoes-internacionais
+- cacd-2025
+- historia-mundial
 aliases:
-  - 3.15 A “détente”.
+- 3.15 A “détente”.
 ---
 # A _Détente_ (1969-1979): A Gestão da Rivalidade Bipolar e a Diplomacia Triangular
 

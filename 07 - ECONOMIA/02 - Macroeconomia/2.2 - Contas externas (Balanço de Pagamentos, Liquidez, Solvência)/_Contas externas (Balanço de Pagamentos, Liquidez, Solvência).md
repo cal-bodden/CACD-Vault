@@ -1,14 +1,14 @@
 ---
 title: Contas externas (Balanço de Pagamentos, Liquidez, Solvência)
-area: ECONOMIA
-subarea: Macroeconomia
+area: 2. Macroeconomia.
+subarea: 2.2 Contas externas.
 tags:
-  - cacd-2025
-  - contas-externas
-  - economia
-  - macroeconomia
+- cacd-2025
+- contas-externas
+- economia
+- macroeconomia
 aliases:
-  - Contas externas.
+- Contas externas.
 ---
 # Contas Externas e Balanço de Pagamentos: Estrutura, Análise e Indicadores de Vulnerabilidade
 

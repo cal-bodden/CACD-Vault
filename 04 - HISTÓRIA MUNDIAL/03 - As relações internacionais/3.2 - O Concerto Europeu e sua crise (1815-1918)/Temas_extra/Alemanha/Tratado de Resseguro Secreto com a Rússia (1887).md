@@ -1,17 +1,17 @@
 ---
 title: Tratado de Resseguro Secreto com a Rússia (1887)
-area: HISTÓRIA MUNDIAL
-subarea: As relações internacionais
+area: As relações internacionais
+subarea: 3.2 O Concerto Europeu e sua crise (1815-1918)
 tags:
-  - as-relacoes-internacionais
-  - cacd-2025
-  - historia-mundial
-  - o-concerto-europeu-e-sua-crise
-  - unificaçao-alemanha
-  - sistema-de-alianças
+- as-relacoes-internacionais
+- cacd-2025
+- historia-mundial
+- o-concerto-europeu-e-sua-crise
+- unificaçao-alemanha
+- sistema-de-alianças
 aliases:
-  - Tratado de Resseguro
-  - Tratado de Resseguro (1887)
+- Tratado de Resseguro
+- Tratado de Resseguro (1887)
 ---
 # Tratado de Resseguro Secreto com a Rússia (1887)
 

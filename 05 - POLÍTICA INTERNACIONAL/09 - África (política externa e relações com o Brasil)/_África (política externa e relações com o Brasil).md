@@ -1,13 +1,13 @@
 ---
 title: África (política externa e relações com o Brasil)
-area: POLÍTICA INTERNACIONAL
+area: '9. África: política externa e relações com o Brasil.'
 subarea: África (política externa e relações com o Brasil)
 tags:
-  - africa
-  - cacd-2025
-  - politica-internacional
+- africa
+- cacd-2025
+- politica-internacional
 aliases:
-  - "África: política externa e relações com o Brasil."
+- 'África: política externa e relações com o Brasil.'
 ---
 # Política Externa do Brasil para a África e Inserção Internacional da África Contemporânea
 

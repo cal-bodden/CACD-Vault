@@ -1,14 +1,15 @@
 ---
 title: Direitos humanos e políticas de identidade
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+area: '13. O Brasil e a agenda internacional:'
+subarea: '13.6 Direitos humanos e políticas de identidade: gênero, raça e religião
+  como vetores da política mundial.'
 tags:
-  - cacd-2025
-  - direitos-humanos-e-politicas-de-identidade
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
+- cacd-2025
+- direitos-humanos-e-politicas-de-identidade
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
 aliases:
-  - Direitos humanos e políticas de identidade
+- Direitos humanos e políticas de identidade
 ---
 # A Influência dos Direitos Humanos e das Políticas de Identidade na Política Internacional: A Agenda do Brasil 
 

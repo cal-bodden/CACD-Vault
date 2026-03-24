@@ -1,14 +1,18 @@
 ---
 title: Sociedade e cultura
-area: HISTÓRIA DO BRASIL
+area: 9. O Regime Militar (1964-1985).
 subarea: O Regime Militar (1964-1985)
 tags:
-  - cacd-2025
-  - historia-do-brasil
-  - o-regime-militar
-  - sociedade-e-cultura
+- cacd-2025
+- historia-do-brasil
+- o-regime-militar
+- sociedade-e-cultura
 aliases:
-  - 9.4 Sociedade e cultura.
+- 9.4 Sociedade e cultura.
+- 8.4 Sociedade e cultura.
+- '5.5 Sociedade e cultura: população, estrutura social, vida acadêmica, científica
+  e literária.'
+- 7.6 Sociedade e cultura.
 ---
 # Sociedade e Cultura no Regime Militar (1964–1985): Entre a Repressão e a Resistência
 

@@ -1,14 +1,14 @@
 ---
 title: A Constituição de 1967 e as modificações de 1969
-area: HISTÓRIA DO BRASIL
+area: 9. O Regime Militar (1964-1985).
 subarea: O Regime Militar (1964-1985)
 tags:
-  - a-constituicao-de-1967-e-as-modificacoes-de-1969
-  - cacd-2025
-  - historia-do-brasil
-  - o-regime-militar
+- a-constituicao-de-1967-e-as-modificacoes-de-1969
+- cacd-2025
+- historia-do-brasil
+- o-regime-militar
 aliases:
-  - 9.1 A Constituição de 1967 e as modificações de 1969.
+- 9.1 A Constituição de 1967 e as modificações de 1969.
 ---
 # Institucionalização Jurídica do Regime Militar Brasileiro: Constituição de 1967 e Emenda nº 1/1969
 

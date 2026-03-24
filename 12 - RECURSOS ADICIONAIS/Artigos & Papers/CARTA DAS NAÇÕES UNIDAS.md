@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 CARTA DAS NAÇÕES UNIDAS
 
 **NÓS, OS POVOS DAS NAÇÕES UNIDAS, RESOLVIDOS**

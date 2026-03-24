@@ -1,21 +1,21 @@
 ---
 title: Invasões Estrangeiras e a Geopolítica do Atlântico
-area: HISTÓRIA DO BRASIL
-subarea: O período colonial
+area: O período colonial
+subarea: 1.3 Outros
 tags:
-  - as-invasoes-estrangeiras
-  - brasil-holandes
-  - cacd-2026
-  - historia-do-brasil
-  - o-periodo-colonial
-  - uniao-iberica
-  - restauracao-portuguesa
+- as-invasoes-estrangeiras
+- brasil-holandes
+- cacd-2026
+- historia-do-brasil
+- o-periodo-colonial
+- uniao-iberica
+- restauracao-portuguesa
 aliases:
-  - França Antártica
-  - França Equinocial
-  - Nova Holanda
-  - Insurreição Pernambucana
-  - Paz de Haia de 1661
+- França Antártica
+- França Equinocial
+- Nova Holanda
+- Insurreição Pernambucana
+- Paz de Haia de 1661
 ---
 # Invasões Estrangeiras no Brasil Colônia e a Dinâmica Geopolítica do Atlântico
 

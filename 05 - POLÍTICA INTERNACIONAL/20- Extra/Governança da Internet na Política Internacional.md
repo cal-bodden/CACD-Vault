@@ -1,3 +1,7 @@
+---
+area: Extra
+tags: []
+---
 # Governança da Internet na Política Internacional: A Perspectiva Brasileira
 
 ## Introdução

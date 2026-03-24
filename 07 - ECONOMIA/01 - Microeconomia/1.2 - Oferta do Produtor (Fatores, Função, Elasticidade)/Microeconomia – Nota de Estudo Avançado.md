@@ -1,12 +1,12 @@
 ---
-title: "Microeconomia - completa"
-area: ECONOMIA
-subarea: Microeconomia
+title: Microeconomia - completa
+area: Microeconomia
+subarea: 1.2 Oferta do Produtor (Fatores, Função, Elasticidade)
 tags:
-  - cacd-2025
-  - economia
-  - microeconomia
-  - oferta-do-produtor
+- cacd-2025
+- economia
+- microeconomia
+- oferta-do-produtor
 ---
 # Microeconomia – Nota de Estudo Avançado 
 

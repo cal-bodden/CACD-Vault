@@ -1,14 +1,22 @@
 ---
 title: Fontes do DIP (Tratados, Costume, Princípios, Jus cogens, Soft Law)
-area: DIREITO
+area: 23. Fontes do DIP. Tratados internacionais. Costume Internacional. Princípios
+  Gerais. Jurisprudência e Doutrina. Atos Unilaterais. Atos de Organizações Internacionais.
+  Analogia e Equidade. Normas imperativas (jus cogens). Obrigações erga omnes. Soft
+  Law. Acordos executivos. Conflito entre fontes. Incorporação de fontes extraconvencionais
+  ao Direito brasileiro.
 subarea: Direito Internacional Público - Fundamentos
 tags:
-  - cacd-2025
-  - direito
-  - direito-internacional-publico---fundamentos
-  - fontes-do-dip
+- cacd-2025
+- direito
+- direito-internacional-publico---fundamentos
+- fontes-do-dip
 aliases:
-  - Fontes do DIP. Tratados internacionais. Costume Internacional. Princípios Gerais. Jurisprudência e Doutrina. Atos Unilaterais. Atos de Organizações Internacionais. Analogia e Equidade. Normas imperativas (jus cogens). Obrigações erga omnes. Soft Law. Acordos executivos. Conflito entre fontes. Incorporação de fontes extraconvencionais ao Direito brasileiro.
+- Fontes do DIP. Tratados internacionais. Costume Internacional. Princípios Gerais.
+  Jurisprudência e Doutrina. Atos Unilaterais. Atos de Organizações Internacionais.
+  Analogia e Equidade. Normas imperativas (jus cogens). Obrigações erga omnes. Soft
+  Law. Acordos executivos. Conflito entre fontes. Incorporação de fontes extraconvencionais
+  ao Direito brasileiro.
 ---
 # As Fontes Formais do Direito Internacional: Tratados, Costume, Princípios Gerais, Jurisprudência e Doutrina
 

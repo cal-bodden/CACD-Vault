@@ -1,3 +1,8 @@
+---
+area: O Brasil e o sistema interamericano (OEA)
+subarea: Extra
+tags: []
+---
 # O Tratado do Rio (TIAR): A Arquitetura de Segurança Hemisférica na Guerra Fria e seu Declínio
 
 ## Introdução: O Pilar Militar do Pan-americanismo Pós-Guerra

@@ -1,23 +1,6 @@
-
-A metodologia para a criação deste simulado foi a seguinte:
-
-1. **Análise de Padrões:** Identifiquei os temas que são recorrentes no CACD, mas que não foram o foco principal em 2024, aumentando sua probabilidade de aparição em 2025 (ex: Segundo Reinado, Revoltas da Primeira República, Período Dutra, Guerra Fria na Ásia).
-    
-2. **Nível de Dificuldade:** As questões foram elaboradas para espelhar a complexidade do CEBRASPE, exigindo não apenas o conhecimento factual, mas a capacidade de conectar processos, entender nuances e identificar generalizações incorretas ou "cascas de banana" nos itens.
-    
-3. **Formato CEBRASPE:** A estrutura de itens para julgamento como Certo (C) ou Errado (E), com afirmações longas e multifacetadas, foi rigorosamente seguida.
-    
-4. **Predição Temática:** Busquei antecipar focos para 2025, como os desdobramentos da política externa de FHC/Lula, a crise do Antigo Regime para além da França e as consequências sociais da globalização no final do século XX.
-    
-
-
-
 ---
-
-### **SIMULADO CACD 2025 - HISTÓRIA DO BRASIL E HISTÓRIA MUNDIAL**
-
-**Instruções:** Para cada um dos itens de 41 a 57, julgue-os como Certo (C) ou Errado (E).
-
+area: 1ª Fase - Objetivas
+tags: []
 ---
 
 ### **HISTÓRIA DO BRASIL**

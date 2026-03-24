@@ -1,3 +1,7 @@
+---
+area: União Europeia (origens, evolução, relações com o Brasil)
+tags: []
+---
 
 # The European Union’s Foreign Policy: Strategic Autonomy in a World of Powers
 

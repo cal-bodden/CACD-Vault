@@ -1,11 +1,11 @@
 ---
-title: "Estratégias & Métodos"
-area: "GESTÃO & METADADOS"
-subarea: "GESTÃO & METADADOS"
+title: Estratégias & Métodos
+area: Estratégias & Métodos
+subarea: GESTÃO & METADADOS
 tags:
-  - cacd-2025
-  - estrategias--metodos
-  - gestao--metadados
+- cacd-2025
+- estrategias--metodos
+- gestao--metadados
 ---
 # 🎯 PLANO DE ESTUDOS CACD 2025 - PERSONALIZADO
 

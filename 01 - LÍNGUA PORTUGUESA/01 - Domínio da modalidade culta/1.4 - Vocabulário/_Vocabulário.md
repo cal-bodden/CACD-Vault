@@ -1,14 +1,14 @@
 ---
 title: Vocabulário
-area: LÍNGUA PORTUGUESA
-subarea: Domínio da modalidade culta
+area: '1. Língua portuguesa: modalidade culta usada contemporaneamente no Brasil.'
+subarea: 1.4 Vocabulário.
 tags:
-  - cacd-2025
-  - dominio-da-modalidade-culta
-  - lingua-portuguesa
-  - vocabulario
+- cacd-2025
+- dominio-da-modalidade-culta
+- lingua-portuguesa
+- vocabulario
 aliases:
-  - Vocabulário.
+- Vocabulário.
 ---
 # Vocabulário do Português: Estrutura, Formação e Uso Estratégico
 

@@ -1,14 +1,15 @@
 ---
 title: Política externa (relações com os EUA, pragmatismo responsável, etc.)
-area: HISTÓRIA DO BRASIL
+area: 9. O Regime Militar (1964-1985).
 subarea: O Regime Militar (1964-1985)
 tags:
-  - cacd-2025
-  - historia-do-brasil
-  - o-regime-militar
-  - politica-externa
+- cacd-2025
+- historia-do-brasil
+- o-regime-militar
+- politica-externa
 aliases:
-  - "9.3 Política externa: relações com os EUA; o “pragmatismo responsável”; relações com a América Latina, relações com a África; o Brasil na ONU."
+- '9.3 Política externa: relações com os EUA; o “pragmatismo responsável”; relações
+  com a América Latina, relações com a África; o Brasil na ONU.'
 ---
 # A Política Externa no Início do Regime Militar: O Alinhamento com os EUA e a Doutrina de Segurança Nacional (1964-1967)
 

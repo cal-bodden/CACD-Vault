@@ -1,14 +1,14 @@
 ---
 title: A configuração territorial da América Portuguesa
-area: HISTÓRIA DO BRASIL
+area: 1. O período colonial.
 subarea: O período colonial
 tags:
-  - a-configuracao-territorial-da-america-portuguesa
-  - cacd-2025
-  - historia-do-brasil
-  - o-periodo-colonial
+- a-configuracao-territorial-da-america-portuguesa
+- cacd-2025
+- historia-do-brasil
+- o-periodo-colonial
 aliases:
-  - 1.1 A configuração territorial da América Portuguesa.
+- 1.1 A configuração territorial da América Portuguesa.
 ---
 # A Configuração Territorial da América Portuguesa
 

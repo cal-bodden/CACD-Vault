@@ -1,11 +1,11 @@
 ---
-title: "Provas Anteriores"
-area: "GESTÃO & METADADOS"
-subarea: "GESTÃO & METADADOS"
+title: Provas Anteriores
+area: Provas Anteriores
+subarea: GESTÃO & METADADOS
 tags:
-  - cacd-2025
-  - gestao--metadados
-  - provas-anteriores
+- cacd-2025
+- gestao--metadados
+- provas-anteriores
 ---
 # Análise Detalhada do Desempenho no CACD (2017-2024)
 

@@ -1,14 +1,14 @@
 ---
 title: Marxismo
-area: HISTÓRIA MUNDIAL
-subarea: Estruturas e ideias econômicas
+area: 1. Estruturas e ideias econômicas.
+subarea: 1.4 Marxismo.
 tags:
-  - cacd-2025
-  - estruturas-e-ideias-economicas
-  - historia-mundial
-  - marxismo
+- cacd-2025
+- estruturas-e-ideias-economicas
+- historia-mundial
+- marxismo
 aliases:
-  - Marxismo.
+- Marxismo.
 ---
 # Marxismo: Fundamentos Teóricos e seu Impacto na História Mundial
 

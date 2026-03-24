@@ -1,13 +1,15 @@
 ---
 title: Formação de blocos econômicos e acordos comerciais
-area: POLÍTICA INTERNACIONAL
+area: 16. O Brasil e a formação dos blocos econômicos, a negociação de acordos comerciais
+  e a promoção comercial.
 subarea: Formação de blocos econômicos e acordos comerciais
 tags:
-  - cacd-2025
-  - formacao-de-blocos-economicos-e-acordos-comerciais
-  - politica-internacional
+- cacd-2025
+- formacao-de-blocos-economicos-e-acordos-comerciais
+- politica-internacional
 aliases:
-  - O Brasil e a formação dos blocos econômicos, a negociação de acordos comerciais e a promoção comercial.
+- O Brasil e a formação dos blocos econômicos, a negociação de acordos comerciais
+  e a promoção comercial.
 ---
 # Política Comercial Externa Brasileira – Nota de Estudo Estratégica (CACD)
 

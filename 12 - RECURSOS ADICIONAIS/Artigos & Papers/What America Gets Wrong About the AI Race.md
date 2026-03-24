@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 For several years now, the United States has been locked in an intensifying race with China to develop advanced artificial intelligence. Given the far-reaching consequences of AI for national security and defense, as well as for the economy, the stakes are high. But it is often hard to tell who is winning. Many answers focus on performance: which AI models exceed others in speed, reasoning, and accuracy. By those benchmarks, the United States has a clear, if not commanding, lead, enabled by the presence of world-class engineers, billions of dollars in data center investments, and export controls on the most advanced computing chips. That focus on performance at the frontier is why the release, in January, of a powerful new model, known as R1, by the Chinese company DeepSeek drove headlines and crashed markets around the world. DeepSeek’s success seemed to suggest that the U.S. advantage was not as comfortable as many had thought.
 
 Yet focusing only on the technological frontier obscures the true nature of the race. Raw performance matters, but second-best models can offer significant value to users, especially if they are, like DeepSeek’s, cheap, open sourced, and widely used. The real lesson of DeepSeek’s success is that AI competition is not simply about which country develops the most advanced models but also about which can adopt them faster across its economy and government. Military planners like to say that “amateurs talk tactics; professionals talk logistics.” In AI, amateurs talk benchmarks; professionals talk adoption.

@@ -1,15 +1,15 @@
 ---
 title: Cúpula da América Latina e Caribe sobre Integração e Desenvolvimento (CALC)
-area: "POLÍTICA INTERNACIONAL"
-subarea: "Brasil e América do Sul (Integração, MERCOSUL)"
+area: Brasil e América do Sul (Integração, MERCOSUL)
+subarea: Brasil e a AS
 tags:
-  - brasil-e-america-do-sul
-  - cacd-2025
-  - politica-internacional
-  - integracao-america-do-sul
+- brasil-e-america-do-sul
+- cacd-2025
+- politica-internacional
+- integracao-america-do-sul
 aliases:
-  - Cúpula da América Latina e Caribe sobre Integração e Desenvolvimento (CALC)
-  - CALC
+- Cúpula da América Latina e Caribe sobre Integração e Desenvolvimento (CALC)
+- CALC
 ---
 > **Síntese Didática (Técnica de Feynman):**  
 > A Cúpula da América Latina e Caribe sobre Integração e Desenvolvimento (CALC), iniciada em 2008 no Brasil , foi um fórum histórico que reuniu todos os 33 países da América Latina e Caribe , sem a presença de EUA e Canadá, para discutir integração e desenvolvimento regional. Realizada em três edições (2008, 2010, 2011), enfrentou dificuldades como falta de estrutura permanente e polarização política, sendo substituída pela CELAC em 2011, que incorporou o Grupo do Rio e a CALC, oferecendo um mecanismo mais formal e abrangente de cooperação política e econômica.

@@ -1,12 +1,12 @@
 ---
 title: Redação de textos dissertativos
-area: LÍNGUA PORTUGUESA
-subarea: Leitura e produção de textos
+area: Leitura e produção de textos
+subarea: 2.3 Redação de textos dissertativos
 tags:
-  - cacd-2025
-  - leitura-e-producao-de-textos
-  - lingua-portuguesa
-  - redacao-de-textos-dissertativos
+- cacd-2025
+- leitura-e-producao-de-textos
+- lingua-portuguesa
+- redacao-de-textos-dissertativos
 aliases: []
 ---
 

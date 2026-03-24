@@ -1,13 +1,13 @@
 ---
 title: Cooperação e a diplomacia da saúde
-area: POLÍTICA INTERNACIONAL
+area: 20. Cooperação e a diplomacia da saúde.
 subarea: Cooperação e a diplomacia da saúde
 tags:
-  - cacd-2025
-  - cooperacao-e-a-diplomacia-da-saude
-  - politica-internacional
+- cacd-2025
+- cooperacao-e-a-diplomacia-da-saude
+- politica-internacional
 aliases:
-  - Cooperação e a diplomacia da saúde.
+- Cooperação e a diplomacia da saúde.
 ---
 # A Diplomacia da Saúde e a Governança Global no Pós-Pandemia: Reformas, Desafios e o Papel do Brasil
 

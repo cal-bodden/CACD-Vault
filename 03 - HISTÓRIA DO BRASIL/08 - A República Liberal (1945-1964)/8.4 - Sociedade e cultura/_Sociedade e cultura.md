@@ -1,14 +1,18 @@
 ---
 title: Sociedade e cultura
-area: HISTÓRIA DO BRASIL
+area: 9. O Regime Militar (1964-1985).
 subarea: A República Liberal (1945-1964)
 tags:
-  - a-republica-liberal
-  - cacd-2025
-  - historia-do-brasil
-  - sociedade-e-cultura
+- a-republica-liberal
+- cacd-2025
+- historia-do-brasil
+- sociedade-e-cultura
 aliases:
-  - 8.4 Sociedade e cultura.
+- 8.4 Sociedade e cultura.
+- 9.4 Sociedade e cultura.
+- '5.5 Sociedade e cultura: população, estrutura social, vida acadêmica, científica
+  e literária.'
+- 7.6 Sociedade e cultura.
 ---
 # Sociedade e Cultura na República Liberal (1945-1964): Modernização, Efervescência e Conflito
 

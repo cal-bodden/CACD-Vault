@@ -1,14 +1,14 @@
 ---
 title: Conceitos e características gerais das revoluções contemporâneas
-area: HISTÓRIA MUNDIAL
+area: 2. Revoluções.
 subarea: Revoluções
 tags:
-  - cacd-2025
-  - conceitos-e-caracteristicas-gerais-das-revolucoes-contemporaneas
-  - historia-mundial
-  - revolucoes
+- cacd-2025
+- conceitos-e-caracteristicas-gerais-das-revolucoes-contemporaneas
+- historia-mundial
+- revolucoes
 aliases:
-  - 2.3 Conceitos e características gerais das revoluções contemporâneas.
+- 2.3 Conceitos e características gerais das revoluções contemporâneas.
 ---
 # As Revoluções Contemporâneas: Uma Análise Conceitual de suas Causas, Características e Modelos
 

@@ -1,14 +1,14 @@
 ---
 title: Sistema gráfico (ortografia, acentuação, pontuação, legibilidade)
-area: LÍNGUA PORTUGUESA
-subarea: Domínio da modalidade culta
+area: '1. Língua portuguesa: modalidade culta usada contemporaneamente no Brasil.'
+subarea: '1.1 Sistema gráfico: ortografia, acentuação e pontuação; legibilidade.'
 tags:
-  - cacd-2025
-  - dominio-da-modalidade-culta
-  - lingua-portuguesa
-  - sistema-grafico
+- cacd-2025
+- dominio-da-modalidade-culta
+- lingua-portuguesa
+- sistema-grafico
 aliases:
-  - "Sistema gráfico: ortografia, acentuação e pontuação; legibilidade."
+- 'Sistema gráfico: ortografia, acentuação e pontuação; legibilidade.'
 ---
 # O Sistema Gráfico do Português: Regras Essenciais de Acentuação e Hífen
 

@@ -1,14 +1,14 @@
 ---
-title: "Napoleão III e a Política Internacional Francesa"
-area: "HISTÓRIA MUNDIAL"
-subarea: "As relações internacionais"
+title: Napoleão III e a Política Internacional Francesa
+area: As relações internacionais
+subarea: 3.2 O Concerto Europeu e sua crise (1815-1918)
 tags:
-  - as-relacoes-internacionais
-  - cacd-2025
-  - historia-mundial
-  - o-concerto-europeu-e-sua-crise
-  - sistema-de-alianças
-conexões: Guerra da Crimeia, Congresso de Paris, Unificação Italiana, Colonialismo  
+- as-relacoes-internacionais
+- cacd-2025
+- historia-mundial
+- o-concerto-europeu-e-sua-crise
+- sistema-de-alianças
+conexões: Guerra da Crimeia, Congresso de Paris, Unificação Italiana, Colonialismo
 ---
 # Napoleão III e a Política Internacional Francesa: Expansionismo e Equilíbrio de Poder na Europa do Século XIX
 

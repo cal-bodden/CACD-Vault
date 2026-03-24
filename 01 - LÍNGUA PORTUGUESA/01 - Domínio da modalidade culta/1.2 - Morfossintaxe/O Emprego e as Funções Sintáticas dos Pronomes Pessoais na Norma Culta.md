@@ -1,3 +1,8 @@
+---
+area: Domínio da modalidade culta
+subarea: 1.2 Morfossintaxe
+tags: []
+---
 
 
 # O Emprego e as Funções Sintáticas dos Pronomes Pessoais na Norma Culta

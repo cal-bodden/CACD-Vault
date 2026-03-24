@@ -1,14 +1,14 @@
 ---
 title: Processo de urbanização e formação de redes de cidades
-area: GEOGRAFIA
+area: 5. Geografia Urbana.
 subarea: Geografia Urbana
 tags:
-  - cacd-2025
-  - geografia
-  - geografia-urbana
-  - processo-de-urbanizacao-e-formacao-de-redes-de-cidades
+- cacd-2025
+- geografia
+- geografia-urbana
+- processo-de-urbanizacao-e-formacao-de-redes-de-cidades
 aliases:
-  - 5.1 Processo de urbanização e formação de redes de cidades.
+- 5.1 Processo de urbanização e formação de redes de cidades.
 ---
 # Geografia Urbana: Processos de Urbanização, Dinâmicas Metropolitanas e o Papel das Cidades no Brasil e no Mundo
 

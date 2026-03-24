@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 ## Leaders on Both Sides—and in America—Have Little Incentive to End It
 
 ### Amos Harel

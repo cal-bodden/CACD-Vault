@@ -1,14 +1,14 @@
 ---
 title: Dinâmica populacional e indicadores de qualidade de vida
-area: GEOGRAFIA
+area: 2. A Geografia da população..
 subarea: A Geografia da população
 tags:
-  - a-geografia-da-populacao
-  - cacd-2025
-  - dinamica-populacional-e-indicadores-de-qualidade-de-vida
-  - geografia
+- a-geografia-da-populacao
+- cacd-2025
+- dinamica-populacional-e-indicadores-de-qualidade-de-vida
+- geografia
 aliases:
-  - 2.3 Dinâmica populacional e indicadores da qualidade de vida das populações.
+- 2.3 Dinâmica populacional e indicadores da qualidade de vida das populações.
 ---
 # Dinâmica Populacional e Indicadores de Qualidade de Vida: Uma Análise Demográfica e Social
 

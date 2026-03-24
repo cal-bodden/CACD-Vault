@@ -1,9 +1,10 @@
 ---
 title: A Geografia da população.
-area: GEOGRAFIA
+area: 2. A Geografia da população..
 subarea: A Geografia da população
 aliases:
-  - Geografia da população.
+- Geografia da população.
+tags: []
 ---
 
 ![[Geografia da População_ Distribuição Espacial, Migrações e Dinâmicas Demográficas-1.pdf]]

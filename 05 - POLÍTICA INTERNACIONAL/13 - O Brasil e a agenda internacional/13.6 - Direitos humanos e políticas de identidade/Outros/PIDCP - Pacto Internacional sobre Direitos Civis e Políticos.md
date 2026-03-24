@@ -1,13 +1,13 @@
 ---
-title: "Pacto Internacional sobre Direitos Civis e Políticos (PIDCP)"
-area: "POLÍTICA INTERNACIONAL"
-subarea: "O Brasil e a agenda internacional"
+title: Pacto Internacional sobre Direitos Civis e Políticos (PIDCP)
+area: O Brasil e a agenda internacional
+subarea: 13.6 Direitos humanos e políticas de identidade
 tags:
-  - cacd-2025
-  - direitos-humanos-e-politicas-de-identidade
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
-aliases: 
+- cacd-2025
+- direitos-humanos-e-politicas-de-identidade
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
+aliases:
 - PIDCP
 ---
 # Pacto Internacional sobre Direitos Civis e Políticos (PIDCP)

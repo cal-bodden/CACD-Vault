@@ -1,12 +1,12 @@
 ---
 title: As rivalidades coloniais
-area: HISTÓRIA MUNDIAL
-subarea: As relações internacionais
+area: As relações internacionais
+subarea: 3.3 As rivalidades coloniais
 tags:
-  - as-relacoes-internacionais
-  - as-rivalidades-coloniais
-  - cacd-2025
-  - historia-mundial
+- as-relacoes-internacionais
+- as-rivalidades-coloniais
+- cacd-2025
+- historia-mundial
 aliases: []
 ---
 # Guerras do Ópio

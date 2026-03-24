@@ -1,13 +1,15 @@
 ---
 title: A política externa brasileira (desde 1945)
-area: POLÍTICA INTERNACIONAL
+area: '2. A política externa brasileira: evolução desde 1945, principais vertentes
+  e linhas de ação.'
 subarea: A política externa brasileira (desde 1945)
 tags:
-  - a-politica-externa-brasileira
-  - cacd-2025
-  - politica-internacional
+- a-politica-externa-brasileira
+- cacd-2025
+- politica-internacional
 aliases:
-  - "A política externa brasileira: evolução desde 1945, principais vertentes e linhas de ação."
+- 'A política externa brasileira: evolução desde 1945, principais vertentes e linhas
+  de ação.'
 ---
 # A Política Externa Brasileira desde 1945: Evolução, Paradigmas e Linhas de Ação
 

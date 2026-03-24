@@ -1,12 +1,12 @@
 ---
-title: "Integração na América do Sul +.  "
-area: "POLÍTICA INTERNACIONAL"
-subarea: "Brasil e América do Sul (Integração, MERCOSUL)"
+title: 'Integração na América do Sul +.  '
+area: Brasil e América do Sul (Integração, MERCOSUL)
+subarea: Brasil e a AS
 tags:
-  - brasil-e-america-do-sul
-  - cacd-2025
-  - politica-internacional
-  - integracao-america-do-sul
+- brasil-e-america-do-sul
+- cacd-2025
+- politica-internacional
+- integracao-america-do-sul
 ---
 # Corporación Andina de Fomento (CAF) - Banco de Desenvolvimento da América Latina
 

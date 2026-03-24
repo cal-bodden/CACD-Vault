@@ -1,14 +1,14 @@
 ---
 title: Tipos de Mercados e de bens (Concorrência, Monopólio, Bens Públicos, etc.)
-area: ECONOMIA
-subarea: Microeconomia
+area: 1. Microeconomia.
+subarea: 1.2.3 Elasticidade-preço da oferta.
 tags:
-  - cacd-2025
-  - economia
-  - microeconomia
-  - tipos-de-mercados-e-de-bens
+- cacd-2025
+- economia
+- microeconomia
+- tipos-de-mercados-e-de-bens
 aliases:
-  - 1.3 Tipos de Mercados e de bens.
+- 1.3 Tipos de Mercados e de bens.
 ---
 # Estruturas de Mercado, Tipos de Bens e Falhas de Mercado
 

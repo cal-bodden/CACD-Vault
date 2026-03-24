@@ -1,14 +1,14 @@
 ---
 title: Energia, logística e reordenamento territorial pós-fordista
-area: GEOGRAFIA
+area: 3. Geografia econômica.
 subarea: Geografia econômica
 tags:
-  - cacd-2025
-  - energia-logistica-e-reordenamento-territorial-pos-fordista
-  - geografia
-  - geografia-economica
+- cacd-2025
+- energia-logistica-e-reordenamento-territorial-pos-fordista
+- geografia
+- geografia-economica
 aliases:
-  - 3.3 Energia, logística e reordenamento territorial pós-fordista.
+- 3.3 Energia, logística e reordenamento territorial pós-fordista.
 ---
 # Energia, Logística e Território na Era Pós-Fordista: A Nova Geografia da Economia Global
 

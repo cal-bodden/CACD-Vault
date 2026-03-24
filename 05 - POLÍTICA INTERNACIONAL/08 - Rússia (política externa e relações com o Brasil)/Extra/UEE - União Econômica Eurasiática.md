@@ -1,14 +1,14 @@
 ---
 title: União Econômica Eurasiática (UEE)
-area: POLÍTICA INTERNACIONAL
-subarea: Rússia (política externa e relações com o Brasil)
+area: Rússia (política externa e relações com o Brasil)
+subarea: Extra
 tags:
-  - cacd-2025
-  - politica-internacional
-  - russia
+- cacd-2025
+- politica-internacional
+- russia
 aliases:
-  - União Econômica Eurasiática (UEE)
-  - UEE
+- União Econômica Eurasiática (UEE)
+- UEE
 ---
 # União Econômica Eurasiática (UEE)
 

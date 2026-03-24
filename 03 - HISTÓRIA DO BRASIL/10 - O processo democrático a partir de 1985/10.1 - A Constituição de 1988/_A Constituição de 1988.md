@@ -1,14 +1,14 @@
 ---
 title: A Constituição de 1988
-area: HISTÓRIA DO BRASIL
+area: 10. O processo democrático a partir de 1985.
 subarea: O processo democrático a partir de 1985
 tags:
-  - a-constituicao-de-1988
-  - cacd-2025
-  - historia-do-brasil
-  - o-processo-democratico-a-partir-de-1985
+- a-constituicao-de-1988
+- cacd-2025
+- historia-do-brasil
+- o-processo-democratico-a-partir-de-1985
 aliases:
-  - 10.1 A Constituição de 1988.
+- 10.1 A Constituição de 1988.
 ---
 # O Processo Democrático e a Constituição de 1988: Os Fundamentos da Nova República Brasileira
 

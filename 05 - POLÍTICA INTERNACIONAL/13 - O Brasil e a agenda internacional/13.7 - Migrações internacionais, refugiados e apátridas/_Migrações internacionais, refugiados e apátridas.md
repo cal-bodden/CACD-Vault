@@ -1,14 +1,14 @@
 ---
 title: Migrações internacionais, refugiados e apátridas
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+area: '13. O Brasil e a agenda internacional:'
+subarea: 13.7 Migrações internacionais, migrantes, refugiados e apátridas.
 tags:
-  - cacd-2025
-  - migracoes-internacionais-refugiados-e-apatridas
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
+- cacd-2025
+- migracoes-internacionais-refugiados-e-apatridas
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
 aliases:
-  - Migrações internacionais, migrantes, refugiados e apátridas.
+- Migrações internacionais, migrantes, refugiados e apátridas.
 ---
 # Migrações Internacionais, Migrantes, Refugiados e Apátridas no Contexto da Política Internacional
 

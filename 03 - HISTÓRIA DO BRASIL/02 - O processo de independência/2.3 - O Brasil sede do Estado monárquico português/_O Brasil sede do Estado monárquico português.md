@@ -1,14 +1,14 @@
 ---
 title: O Brasil sede do Estado monárquico português
-area: HISTÓRIA DO BRASIL
+area: 2. O processo de independência.
 subarea: O processo de independência
 tags:
-  - cacd-2025
-  - historia-do-brasil
-  - o-brasil-sede-do-estado-monarquico-portugues
-  - o-processo-de-independencia
+- cacd-2025
+- historia-do-brasil
+- o-brasil-sede-do-estado-monarquico-portugues
+- o-processo-de-independencia
 aliases:
-  - 2.3 O Brasil sede do Estado monárquico português.
+- 2.3 O Brasil sede do Estado monárquico português.
 ---
 # O Brasil como Sede do Estado Monárquico Português: Uma Análise das Perspectivas de Emília Viotti da Costa, Boris Fausto, Roderick J. Barman e José Honório Rodrigues
 

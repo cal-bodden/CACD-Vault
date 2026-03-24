@@ -1,3 +1,7 @@
+---
+area: Extra
+tags: []
+---
 # A liderança brasileira nos regimes internacionais: transformações e continuidades
 
 O Brasil atravessou uma das mais dramáticas transformações em sua diplomacia multilateral entre 2017 e 2025, período que abrangeu três administrações com visões diametralmente opostas sobre o papel do país no cenário internacional. De potência emergente celebrada a pária internacional, e novamente a líder do Sul Global, a trajetória brasileira neste período oferece lições fundamentais sobre a importância da política doméstica na projeção internacional de um país.

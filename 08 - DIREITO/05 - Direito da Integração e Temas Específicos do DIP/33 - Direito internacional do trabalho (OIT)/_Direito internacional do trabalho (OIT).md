@@ -1,14 +1,15 @@
 ---
 title: Direito internacional do trabalho (OIT)
-area: DIREITO
+area: 33. Direito internacional do trabalho. OIT. Convenções, recomendações e supervisão
+  normativa.
 subarea: Direito da Integração e Temas Específicos do DIP
 tags:
-  - cacd-2025
-  - direito
-  - direito-da-integracao-e-temas-especificos-do-dip
-  - direito-internacional-do-trabalho
+- cacd-2025
+- direito
+- direito-da-integracao-e-temas-especificos-do-dip
+- direito-internacional-do-trabalho
 aliases:
-  - Direito internacional do trabalho.
+- Direito internacional do trabalho.
 ---
 # O Direito Internacional do Trabalho e a OIT: Convenções, Supervisão e a Busca pela Justiça Social
 

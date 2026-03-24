@@ -1,14 +1,14 @@
 ---
 title: Distribuição espacial da população (Brasil e mundo)
-area: GEOGRAFIA
+area: 2. A Geografia da população..
 subarea: A Geografia da população
 tags:
-  - a-geografia-da-populacao
-  - cacd-2025
-  - distribuicao-espacial-da-populacao
-  - geografia
+- a-geografia-da-populacao
+- cacd-2025
+- distribuicao-espacial-da-populacao
+- geografia
 aliases:
-  - 2.1 Distribuição espacial da população no Brasil e no mundo.
+- 2.1 Distribuição espacial da população no Brasil e no mundo.
 ---
 # A Distribuição Espacial da População: Padrões Globais e a Realidade Brasileira
 

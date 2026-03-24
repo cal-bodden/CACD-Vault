@@ -1,13 +1,13 @@
 ---
 title: O Brasil e a cooperação Sul-Sul
-area: POLÍTICA INTERNACIONAL
+area: 19. O Brasil e a cooperação Sul-Sul.
 subarea: O Brasil e a cooperação Sul-Sul
 tags:
-  - cacd-2025
-  - o-brasil-e-a-cooperacao-sul-sul
-  - politica-internacional
+- cacd-2025
+- o-brasil-e-a-cooperacao-sul-sul
+- politica-internacional
 aliases:
-  - O Brasil e a cooperação Sul-Sul.
+- O Brasil e a cooperação Sul-Sul.
 ---
 # Cooperação Sul-Sul na Política Externa Brasileira
 

@@ -1,10 +1,10 @@
 ---
-title: "Decks Anki"
-area: "FLASHCARDS & MAPAS MENTAIS"
-subarea: "FLASHCARDS & MAPAS MENTAIS"
+title: Decks Anki
+area: Decks Anki
+subarea: FLASHCARDS & MAPAS MENTAIS
 tags:
-  - cacd-2025
-  - decks-anki
-  - flashcards--mapas-mentais
+- cacd-2025
+- decks-anki
+- flashcards--mapas-mentais
 ---
 

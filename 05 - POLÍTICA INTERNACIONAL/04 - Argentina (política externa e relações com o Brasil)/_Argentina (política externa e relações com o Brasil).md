@@ -1,13 +1,13 @@
 ---
 title: Argentina (política externa e relações com o Brasil)
-area: POLÍTICA INTERNACIONAL
+area: '4. Argentina: política externa e relações com o Brasil.'
 subarea: Argentina (política externa e relações com o Brasil)
 tags:
-  - argentina
-  - cacd-2025
-  - politica-internacional
+- argentina
+- cacd-2025
+- politica-internacional
 aliases:
-  - "Argentina: política externa e relações com o Brasil."
+- 'Argentina: política externa e relações com o Brasil.'
 ---
 # Relações Brasil-Argentina: Da Rivalidade à Integração Estratégica (1945-Presente)
 

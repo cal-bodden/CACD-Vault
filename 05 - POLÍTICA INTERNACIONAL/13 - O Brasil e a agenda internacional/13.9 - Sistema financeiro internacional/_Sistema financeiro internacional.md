@@ -1,14 +1,14 @@
 ---
 title: Sistema financeiro internacional
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+area: '13. O Brasil e a agenda internacional:'
+subarea: 13.9 Sistema financeiro internacional.
 tags:
-  - cacd-2025
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
-  - sistema-financeiro-internacional
+- cacd-2025
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
+- sistema-financeiro-internacional
 aliases:
-  - Sistema financeiro internacional.
+- Sistema financeiro internacional.
 ---
 # Sistema Financeiro Internacional: Arquitetura, Evolução e Desafios
 

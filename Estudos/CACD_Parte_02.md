@@ -1,18 +1,14 @@
-
-
-# Origem: _A crise dos anos 20 do século XX (tenentismo e revoltas)
-
 ---
 title: A crise dos anos 20 do século XX (tenentismo e revoltas)
 area: HISTÓRIA DO BRASIL
 subarea: A Primeira República (1889-1930)
 tags:
-  - a-crise-dos-anos-20-do-seculo-xx
-  - a-primeira-republica
-  - cacd-2025
-  - historia-do-brasil
+- a-crise-dos-anos-20-do-seculo-xx
+- a-primeira-republica
+- cacd-2025
+- historia-do-brasil
 aliases:
-  - "6.7 A crise dos anos 20 do século XX: tenentismo e revoltas."
+- '6.7 A crise dos anos 20 do século XX: tenentismo e revoltas.'
 ---
 # A Crise dos Anos 1920: Tenentismo e as Revoltas que Abalaram a Primeira República
 

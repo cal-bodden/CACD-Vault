@@ -1,18 +1,14 @@
-
-
-# Origem: 2.5.6 Moeda e preços no longo prazo.
-
 ---
 title: Moeda e preços no longo prazo.
 area: ECONOMIA
 subarea: Macroeconomia
 tags:
-  - cacd-2025
-  - economia
-  - macroeconomia
-  - teoria-e-politica-monetaria
+- cacd-2025
+- economia
+- macroeconomia
+- teoria-e-politica-monetaria
 aliases:
-  - Moeda e preços no longo prazo.
+- Moeda e preços no longo prazo.
 ---
 # 2.5.6 Moeda e Preços no Longo Prazo
 

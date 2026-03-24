@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 ## En este marco, el Gobierno puede negociar mejoras para algunos sectores; hasta ahora no se sabe cuáles serán los elegidos y reina la incertidumbre entre los exportadores
 
 Durante el discurso de Javier Milei en Estados Unidos, en la gala “American Patriots” en Mar-A-Lago, el Presidente dijo que en el marco del Acuerdo Marco sobre Comercio e Inversiones (TIFA, por sus siglas en inglés), la Argentina va a avanzar en la ”**armonización de los aranceles de una canasta de cerca de 50 productos para que fluya más libremente el comercio entre ambas naciones**“. Los distintos sectores están expectantes y buscan más definiciones en un escenario todavía incierto.

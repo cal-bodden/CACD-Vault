@@ -1,13 +1,13 @@
 ---
 title: A Comunidade dos Países de Língua Portuguesa (CPLP)
-area: POLÍTICA INTERNACIONAL
+area: 12. A Comunidade dos Países de Língua Portuguesa.
 subarea: A Comunidade dos Países de Língua Portuguesa (CPLP)
 tags:
-  - a-comunidade-dos-paises-de-lingua-portuguesa
-  - cacd-2025
-  - politica-internacional
+- a-comunidade-dos-paises-de-lingua-portuguesa
+- cacd-2025
+- politica-internacional
 aliases:
-  - A Comunidade dos Países de Língua Portuguesa.
+- A Comunidade dos Países de Língua Portuguesa.
 ---
 # Comunidade dos Países de Língua Portuguesa (CPLP)
 

@@ -1,14 +1,14 @@
 ---
 title: Processos de independência na América
-area: HISTÓRIA MUNDIAL
+area: 2. Revoluções.
 subarea: Revoluções
 tags:
-  - cacd-2025
-  - historia-mundial
-  - processos-de-independencia-na-america
-  - revolucoes
+- cacd-2025
+- historia-mundial
+- processos-de-independencia-na-america
+- revolucoes
 aliases:
-  - 2.2 Processos de independência na América.
+- 2.2 Processos de independência na América.
 ---
 # Os Processos de Independência na América: Uma Análise Comparativa (EUA, Haiti, América Espanhola e Brasil)
 

@@ -1,14 +1,14 @@
 ---
 title: Iniciativa para a Integração da Infraestrutura Regional Sul-Americana (IIRSA)
-area: "POLÍTICA INTERNACIONAL"
-subarea: "Brasil e América do Sul (Integração, MERCOSUL)"
+area: Brasil e América do Sul (Integração, MERCOSUL)
+subarea: Brasil e a AS
 tags:
-  - brasil-e-america-do-sul
-  - cacd-2025
-  - politica-internacional
-  - integracao-america-do-sul
+- brasil-e-america-do-sul
+- cacd-2025
+- politica-internacional
+- integracao-america-do-sul
 aliases:
-  - IIRSA
+- IIRSA
 ---
 # Iniciativa para a Integração da Infraestrutura Regional Sul-Americana (IIRSA)
 

@@ -1,14 +1,14 @@
 ---
 title: Finanças públicas. Normas orçamentárias
-area: DIREITO
+area: 14. Finanças públicas. Normas orçamentárias.
 subarea: Direito Financeiro
 tags:
-  - cacd-2025
-  - direito
-  - direito-financeiro
-  - financas-publicas-normas-orcamentarias
+- cacd-2025
+- direito
+- direito-financeiro
+- financas-publicas-normas-orcamentarias
 aliases:
-  - Finanças públicas. Normas orçamentárias.
+- Finanças públicas. Normas orçamentárias.
 ---
 # 14. Finanças Públicas e Normas Orçamentárias
 

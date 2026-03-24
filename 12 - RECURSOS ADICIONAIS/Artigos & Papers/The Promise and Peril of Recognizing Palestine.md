@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 ## Can a Two-State Solution Still Emerge From a One-State Reality?
 
 ### Marc Lynch and Shibley Telhami

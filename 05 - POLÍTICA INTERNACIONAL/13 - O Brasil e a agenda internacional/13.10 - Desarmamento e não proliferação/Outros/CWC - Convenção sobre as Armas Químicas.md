@@ -1,17 +1,20 @@
 ---
 tema: Convenção sobre as Armas Químicas (CWC)
-area: POLÍTICA INTERNACIONAL
+area: O Brasil e a agenda internacional
 data: 2025-05-07
-conexões: Desarmamento, NaoProliferacao, DireitoInternacionalHumanitario, SegurancaInternacional, OrganizacoesInternacionais, ArmasQuimicas, DesarmamentoQuimico, Verificacao, OPAQ, ProtocoloDeGenebra1925
+conexões: Desarmamento, NaoProliferacao, DireitoInternacionalHumanitario, SegurancaInternacional,
+  OrganizacoesInternacionais, ArmasQuimicas, DesarmamentoQuimico, Verificacao, OPAQ,
+  ProtocoloDeGenebra1925
 aliases:
-  - Convenção sobre as Armas Químicas (CWC)
-  - CWC
+- Convenção sobre as Armas Químicas (CWC)
+- CWC
 tags:
-  - cacd-2025
-  - desarmamento-e-nao-proliferacao
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
-  - ONU
+- cacd-2025
+- desarmamento-e-nao-proliferacao
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
+- ONU
+subarea: 13.10 Desarmamento e não proliferação
 ---
 
 # Convenção sobre as Armas Químicas (CWC)

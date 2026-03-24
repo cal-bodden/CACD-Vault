@@ -1,3 +1,8 @@
+---
+area: As relações internacionais
+subarea: 3.16 A 'segunda Guerra Fria' (Reagan-Bush)
+tags: []
+---
 # O Governo Comunista Afegão (1978-1979): Antecedentes da Invasão Soviética
 
 ## Introdução

@@ -1,15 +1,15 @@
 ---
 title: O processo político e o quadro econômico-financeiro
-area: HISTÓRIA DO BRASIL
+area: 7. A Era Vargas (1930-1945).
 subarea: A Era Vargas (1930-1945)
 tags:
-  - a-era-vargas
-  - cacd-2025
-  - historia-do-brasil
-  - o-processo-politico-e-o-quadro-economico-financeiro
+- a-era-vargas
+- cacd-2025
+- historia-do-brasil
+- o-processo-politico-e-o-quadro-economico-financeiro
 aliases:
-  - O processo político e o quadro econômico financeiro.
-  - 7.1 O processo político e o quadro econômico financeiro.
+- O processo político e o quadro econômico financeiro.
+- 7.1 O processo político e o quadro econômico financeiro.
 ---
 # A Era Vargas (1930–1945): O Processo Político e a Transformação Econômico-Financeira
 

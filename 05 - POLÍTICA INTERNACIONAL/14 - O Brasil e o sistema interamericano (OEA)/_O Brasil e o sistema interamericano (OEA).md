@@ -1,11 +1,11 @@
 ---
-title: "O Brasil e o sistema interamericano (OEA)"
-area: "POLÍTICA INTERNACIONAL"
-subarea: "O Brasil e o sistema interamericano (OEA)"
+title: O Brasil e o sistema interamericano (OEA)
+area: O Brasil e o sistema interamericano (OEA)
+subarea: O Brasil e o sistema interamericano (OEA)
 tags:
-  - cacd-2025
-  - o-brasil-e-o-sistema-interamericano
-  - politica-internacional
+- cacd-2025
+- o-brasil-e-o-sistema-interamericano
+- politica-internacional
 ---
 # O Brasil e o Sistema Interamericano: Entre o Protagonismo Regional e a Cautela com a Hegemonia
 

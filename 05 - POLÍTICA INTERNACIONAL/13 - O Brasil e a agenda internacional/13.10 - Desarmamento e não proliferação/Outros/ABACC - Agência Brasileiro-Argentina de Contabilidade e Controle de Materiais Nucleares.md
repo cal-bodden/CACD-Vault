@@ -1,16 +1,21 @@
 ---
-tema: ABACC - Agência Brasileiro-Argentina de Contabilidade e Controle de Materiais Nucleares
-area: POLÍTICA INTERNACIONAL
+tema: ABACC - Agência Brasileiro-Argentina de Contabilidade e Controle de Materiais
+  Nucleares
+area: O Brasil e a agenda internacional
 data: 04/05/2025
-conexões: Brasil, Argentina, NaoProliferacaoNuclear, Desarmamento, EnergiaNuclear, TratadoDeTlatelolco, AcordoQuadripartite, SalvaguardasNucleares, AIEA, UsoPacificoEnergiaNuclear, InspecoesNucleares
+conexões: Brasil, Argentina, NaoProliferacaoNuclear, Desarmamento, EnergiaNuclear,
+  TratadoDeTlatelolco, AcordoQuadripartite, SalvaguardasNucleares, AIEA, UsoPacificoEnergiaNuclear,
+  InspecoesNucleares
 tags:
-  - cacd-2025
-  - desarmamento-e-nao-proliferacao
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
+- cacd-2025
+- desarmamento-e-nao-proliferacao
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
 aliases:
-  - ABACC
-  - Agência Brasileiro-Argentina de Contabilidade e Controle de Materiais Nucleares (ABACC)
+- ABACC
+- Agência Brasileiro-Argentina de Contabilidade e Controle de Materiais Nucleares
+  (ABACC)
+subarea: 13.10 Desarmamento e não proliferação
 ---
 
 # ABACC - Agência Brasileiro-Argentina de Contabilidade e Controle de Materiais Nucleares

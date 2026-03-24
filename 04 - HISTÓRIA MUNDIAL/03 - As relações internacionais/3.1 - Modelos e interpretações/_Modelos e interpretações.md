@@ -1,14 +1,14 @@
 ---
 title: Modelos e interpretações
-area: HISTÓRIA MUNDIAL
+area: 3. As relações internacionais.
 subarea: As relações internacionais
 tags:
-  - as-relacoes-internacionais
-  - cacd-2025
-  - historia-mundial
-  - modelos-e-interpretacoes
+- as-relacoes-internacionais
+- cacd-2025
+- historia-mundial
+- modelos-e-interpretacoes
 aliases:
-  - 3.1 Modelos e interpretações.
+- 3.1 Modelos e interpretações.
 ---
 # A História das Ideias nas Relações Internacionais: Modelos e Interpretações da Ordem Mundial no Século XX
 

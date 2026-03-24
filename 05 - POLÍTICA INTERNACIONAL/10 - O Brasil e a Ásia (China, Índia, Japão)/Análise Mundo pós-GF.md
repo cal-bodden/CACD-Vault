@@ -1,3 +1,7 @@
+---
+area: O Brasil e a Ásia (China, Índia, Japão)
+tags: []
+---
 
 Um dos poucos pontos em comum na análise sobre as relações internacionais hoje é a imensa diversidade de posições sobre o que caracteriza o mundo pós-Guerra Fria, a natureza do poder econômico e político das principais potências e as formas de alianças que norteiam as instituições de governança global. Neste contexto, a crise econômica e financeira de 2008 funciona como um divisor de águas para as chaves de leitura do momento político.
 

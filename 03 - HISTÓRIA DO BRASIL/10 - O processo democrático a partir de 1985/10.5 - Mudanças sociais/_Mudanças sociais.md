@@ -1,14 +1,14 @@
 ---
 title: Mudanças sociais
-area: HISTÓRIA DO BRASIL
-subarea: O processo democrático a partir de 1985
+area: 10. O processo democrático a partir de 1985.
+subarea: 10.2 Partidos políticos e eleições.
 tags:
-  - cacd-2025
-  - historia-do-brasil
-  - mudancas-sociais
-  - o-processo-democratico-a-partir-de-1985
+- cacd-2025
+- historia-do-brasil
+- mudancas-sociais
+- o-processo-democratico-a-partir-de-1985
 aliases:
-  - 10.5 Mudanças sociais.
+- 10.5 Mudanças sociais.
 ---
 # As Transformações da Sociedade Brasileira na Nova República (1985-2025): Avanços, Paradoxos e Desafios
 

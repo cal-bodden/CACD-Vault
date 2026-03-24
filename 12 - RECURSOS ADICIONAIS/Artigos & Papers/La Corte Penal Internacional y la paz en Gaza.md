@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 **Mayo 2024**
 
 La iniciativa del Fiscal de la Corte Penal Internacional (CPI), Karim Khan, de buscar perseguir conjuntamente a tres dirigentes de Hamás y a dos altos mandos israelíes sacudirá los debates internacionales durante los próximos meses. Previamente, en enero de 2024, Chile y México solicitaron a la CPI que investigara la posible comisión de crímenes en el conflicto entre Israel y los militantes de Hamás en la Franja de Gaza. El Fiscal quiere el enjuiciamiento de los líderes de ambos bandos por su actuación en la guerra que empezó el 7 de octubre de 2023, pues dice haber encontrado suficientes elementos para establecer que se cometieron crímenes de guerra y crímenes contra la humanidad. Cualquiera que sea la conclusión, constituirá un precedente indeleble para el futuro de la guerra actual y de todos los otros conflictos en el mundo, así como para el Derecho Internacional. Sin duda, estas acciones ponen a la CPI en el centro de atención, pero queda por verse si favorece a la paz.

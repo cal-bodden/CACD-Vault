@@ -1,14 +1,14 @@
 ---
 title: Mercosul - Estrutura
-area: POLÍTICA INTERNACIONAL
-subarea: Brasil e América do Sul (Integração, MERCOSUL)
+area: Brasil e América do Sul (Integração, MERCOSUL)
+subarea: Brasil e a AS
 tags:
-  - brasil-e-america-do-sul
-  - cacd-2025
-  - politica-internacional
+- brasil-e-america-do-sul
+- cacd-2025
+- politica-internacional
 aliases:
-  - Mercosul
-  - MERCOSUL
+- Mercosul
+- MERCOSUL
 ---
 # A Arquitetura Institucional do Mercosul: Estrutura, Funcionamento e o Sistema de Solução de Controvérsias
 

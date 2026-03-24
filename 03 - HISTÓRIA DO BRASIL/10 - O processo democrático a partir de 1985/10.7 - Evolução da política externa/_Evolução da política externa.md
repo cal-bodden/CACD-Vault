@@ -1,14 +1,14 @@
 ---
 title: Evolução da política externa
-area: HISTÓRIA DO BRASIL
-subarea: O processo democrático a partir de 1985
+area: 10. O processo democrático a partir de 1985.
+subarea: 10.6 Manifestações culturais.
 tags:
-  - cacd-2025
-  - evolucao-da-politica-externa
-  - historia-do-brasil
-  - o-processo-democratico-a-partir-de-1985
+- cacd-2025
+- evolucao-da-politica-externa
+- historia-do-brasil
+- o-processo-democratico-a-partir-de-1985
 aliases:
-  - 10.7 Evolução da política externa.
+- 10.7 Evolução da política externa.
 ---
 # A Evolução da Política Externa Brasileira na Nova República (1985-2025): Paradigmas, Atores e Desafios
 

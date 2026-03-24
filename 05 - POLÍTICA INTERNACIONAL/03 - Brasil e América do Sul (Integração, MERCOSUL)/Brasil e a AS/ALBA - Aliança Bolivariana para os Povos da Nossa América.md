@@ -1,14 +1,14 @@
 ---
-title: "ALBA - Aliança Bolivariana para os Povos da Nossa América"
-area: "POLÍTICA INTERNACIONAL"
-subarea: "Brasil e América do Sul (Integração, MERCOSUL)"
+title: ALBA - Aliança Bolivariana para os Povos da Nossa América
+area: Brasil e América do Sul (Integração, MERCOSUL)
+subarea: Brasil e a AS
 tags:
-  - brasil-e-america-do-sul
-  - cacd-2025
-  - politica-internacional
-  - integracao-america-do-sul
+- brasil-e-america-do-sul
+- cacd-2025
+- politica-internacional
+- integracao-america-do-sul
 aliases:
-  - ALBA
+- ALBA
 ---
 # Aliança Bolivariana para os Povos da Nossa América (ALBA)
 

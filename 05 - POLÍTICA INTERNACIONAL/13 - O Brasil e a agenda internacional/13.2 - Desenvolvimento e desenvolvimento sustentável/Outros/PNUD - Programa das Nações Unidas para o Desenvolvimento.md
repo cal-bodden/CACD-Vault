@@ -1,16 +1,16 @@
 ---
 title: Programa das Nações Unidas para o Desenvolvimento (PNUD)
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+area: O Brasil e a agenda internacional
+subarea: 13.2 Desenvolvimento e desenvolvimento sustentável
 tags:
-  - cacd-2025
-  - o-brasil-e-a-agenda-internacional
-  - pobreza-inseguranca-alimentar-e-fome
-  - politica-internacional
-  - desenvolvimento-e-desenvolvimento-sustentavel
+- cacd-2025
+- o-brasil-e-a-agenda-internacional
+- pobreza-inseguranca-alimentar-e-fome
+- politica-internacional
+- desenvolvimento-e-desenvolvimento-sustentavel
 aliases:
-  - PNUD
-  - Programa das Nações Unidas para o Desenvolvimento (PNUD)
+- PNUD
+- Programa das Nações Unidas para o Desenvolvimento (PNUD)
 ---
 # O Programa das Nações Unidas para o Desenvolvimento (PNUD): O Conceito de Desenvolvimento Humano, o IDH e a Agenda 2030
 

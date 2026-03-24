@@ -1,14 +1,14 @@
 ---
 title: Estruturação e funcionamento do agronegócio
-area: GEOGRAFIA
+area: 4. Geografia Agrária.
 subarea: Geografia Agrária
 tags:
-  - cacd-2025
-  - estruturacao-e-funcionamento-do-agronegocio
-  - geografia
-  - geografia-agraria
+- cacd-2025
+- estruturacao-e-funcionamento-do-agronegocio
+- geografia
+- geografia-agraria
 aliases:
-  - 4.2 Estruturação e funcionamento do agronegócio no Brasil e no mundo.
+- 4.2 Estruturação e funcionamento do agronegócio no Brasil e no mundo.
 ---
 # O Agronegócio no Brasil e no Mundo: Estrutura, Dinâmicas e Desafios Socioambientais
 

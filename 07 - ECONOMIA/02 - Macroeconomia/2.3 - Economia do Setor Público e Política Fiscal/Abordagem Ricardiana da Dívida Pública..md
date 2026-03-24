@@ -1,14 +1,14 @@
 ---
-title: Abordagem Ricardiana da Dívida Pública. 
-area: ECONOMIA
-subarea: Macroeconomia
+title: Abordagem Ricardiana da Dívida Pública.
+area: 2. Macroeconomia.
+subarea: 2.3.4 Abordagem Ricardiana da Dívida Pública.
 tags:
-  - cacd-2025
-  - economia
-  - economia-do-setor-publico-e-politica-fiscal
-  - macroeconomia
+- cacd-2025
+- economia
+- economia-do-setor-publico-e-politica-fiscal
+- macroeconomia
 aliases:
-  - 2.3.4 Abordagem Ricardiana da Dívida Pública.  
+- 2.3.4 Abordagem Ricardiana da Dívida Pública.
 ---
 # A Equivalência Ricardiana: Uma Análise Crítica da Abordagem da Dívida Pública
 

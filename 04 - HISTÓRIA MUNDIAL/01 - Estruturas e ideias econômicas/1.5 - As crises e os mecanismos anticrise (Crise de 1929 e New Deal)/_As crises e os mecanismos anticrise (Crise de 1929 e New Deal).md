@@ -1,15 +1,15 @@
 ---
 title: As crises e os mecanismos anticrise (Crise de 1929 e New Deal)
-area: HISTÓRIA MUNDIAL
-subarea: Estruturas e ideias econômicas
+area: 1. Estruturas e ideias econômicas.
+subarea: '1.5 As crises e os mecanismos anticrise: a Crise de 1929 e o New Deal.'
 tags:
-  - as-crises-e-os-mecanismos-anticrise
-  - cacd-2025
-  - estruturas-e-ideias-economicas
-  - historia-mundial
+- as-crises-e-os-mecanismos-anticrise
+- cacd-2025
+- estruturas-e-ideias-economicas
+- historia-mundial
 aliases:
-  - "As crises e os mecanismos anticrise: a Crise de 1929 e o New Deal."
-  - crise global de 1929
+- 'As crises e os mecanismos anticrise: a Crise de 1929 e o New Deal.'
+- crise global de 1929
 ---
 # A Crise de 1929 e o New Deal: O Colapso do Capitalismo Liberal e a Ascensão do Estado Intervencionista
 

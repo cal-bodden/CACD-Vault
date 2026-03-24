@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 A new tech cold war is underway — and accelerating.
 By **Marina Yue Zhang**
 

@@ -1,14 +1,14 @@
 ---
 title: Personalidade jurídica
-area: DIREITO
+area: 2. Personalidade jurídica.
 subarea: Teoria Geral e Direito Constitucional
 tags:
-  - cacd-2025
-  - direito
-  - personalidade-juridica
-  - teoria-geral-e-direito-constitucional
+- cacd-2025
+- direito
+- personalidade-juridica
+- teoria-geral-e-direito-constitucional
 aliases:
-  - Personalidade jurídica.
+- Personalidade jurídica.
 ---
 ## Introdução
 

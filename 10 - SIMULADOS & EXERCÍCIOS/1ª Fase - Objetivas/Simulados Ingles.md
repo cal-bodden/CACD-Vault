@@ -1,11 +1,6 @@
-
-
 ---
-
-### **SIMULADO INÉDITO – LÍNGUA INGLESA (MODELO CACD/CEBRASPE)**
-
-**INSTRUÇÃO:** Para cada uma das questões a seguir, julgue os itens que a compõem como **Certo (C)** ou **Errado (E)**, baseando-se exclusivamente nos textos apresentados.
-
+area: 1ª Fase - Objetivas
+tags: []
 ---
 
 **Text I**

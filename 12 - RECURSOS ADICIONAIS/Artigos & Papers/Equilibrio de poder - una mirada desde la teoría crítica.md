@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 8 marzo, 2019 • [Artículos](https://revistafal.com/category/articulos/), [Asuntos globales](https://revistafal.com/category/regiones/asuntos-globales/), [Portada](https://revistafal.com/category/portada/) • Vistas: 2887398
 _Mónica Torio Hernández_
 **Marzo 2019**

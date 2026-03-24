@@ -1,14 +1,14 @@
 ---
 title: Dinâmica intraurbana das metrópoles brasileiras
-area: GEOGRAFIA
+area: 5. Geografia Urbana.
 subarea: Geografia Urbana
 tags:
-  - cacd-2025
-  - dinamica-intraurbana-das-metropoles-brasileiras
-  - geografia
-  - geografia-urbana
+- cacd-2025
+- dinamica-intraurbana-das-metropoles-brasileiras
+- geografia
+- geografia-urbana
 aliases:
-  - 5.3 Dinâmica intraurbana das metrópoles brasileiras.
+- 5.3 Dinâmica intraurbana das metrópoles brasileiras.
 ---
 # A Dinâmica Intraurbana das Metrópoles Brasileiras: Uma Análise à Luz do Censo 2022 e Dados Atuais
 

@@ -1,15 +1,15 @@
 ---
 title: Tratado de Madri (1750)
-area: HISTÓRIA DO BRASIL
-subarea: O período colonial
+area: O período colonial
+subarea: 1.3 Outros
 tags:
-  - a-configuracao-territorial-da-america-portuguesa
-  - cacd-2025
-  - historia-do-brasil
-  - o-periodo-colonial
-  - formacao-territorial-brasil
+- a-configuracao-territorial-da-america-portuguesa
+- cacd-2025
+- historia-do-brasil
+- o-periodo-colonial
+- formacao-territorial-brasil
 aliases:
-  - Tratado de Madri de 1750
+- Tratado de Madri de 1750
 ---
 # O Tratado de Madri (1750): O Princípio do _Uti Possidetis_ e a Arquitetura das Fronteiras do Brasil
 

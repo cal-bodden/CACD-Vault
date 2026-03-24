@@ -1,16 +1,16 @@
 ---
 title: Plano Salte
-area: ECONOMIA
-subarea: História econômica brasileira
+area: 4. História econômica brasileira.
+subarea: 4.3.2 Falhas e Críticas ao Modelo de ISI.
 tags:
-  - a-decada-de-1950
-  - cacd-2025
-  - economia
-  - historia-economica-brasileira
+- a-decada-de-1950
+- cacd-2025
+- economia
+- historia-economica-brasileira
 aliases:
-  - 4.4.1 O Plano SALTE.
-  - plano SALTE
-  - Plano Salte
+- 4.4.1 O Plano SALTE.
+- plano SALTE
+- Plano Salte
 ---
 # O Plano SALTE (1948-1952): A Pioneira e Mal Sucedida Tentativa de Planejamento Econômico no Brasil
 

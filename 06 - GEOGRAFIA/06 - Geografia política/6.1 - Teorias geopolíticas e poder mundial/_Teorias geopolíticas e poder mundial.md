@@ -1,14 +1,14 @@
 ---
 title: Teorias geopolíticas e poder mundial
-area: GEOGRAFIA
+area: 6. Geografia política.
 subarea: Geografia política
 tags:
-  - cacd-2025
-  - geografia
-  - geografia-politica
-  - teorias-geopoliticas-e-poder-mundial
+- cacd-2025
+- geografia
+- geografia-politica
+- teorias-geopoliticas-e-poder-mundial
 aliases:
-  - 6.1 Teorias geopolíticas e poder mundial.
+- 6.1 Teorias geopolíticas e poder mundial.
 ---
 # Teorias Geopolíticas e a Disputa pelo Poder Mundial: Do Espaço Físico ao Discurso
 

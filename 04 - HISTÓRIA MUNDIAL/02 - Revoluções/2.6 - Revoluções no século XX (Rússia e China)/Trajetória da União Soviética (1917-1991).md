@@ -1,14 +1,14 @@
 ---
 title: Trajetória da União Soviética (1917-1991)
-area: HISTÓRIA MUNDIAL
-subarea: Revoluções
+area: Revoluções
+subarea: 2.6 Revoluções no século XX (Rússia e China)
 tags:
-  - cacd-2025
-  - historia-mundial
-  - revolucoes
-  - revolucoes-no-seculo-xx
+- cacd-2025
+- historia-mundial
+- revolucoes
+- revolucoes-no-seculo-xx
 aliases:
-  - Trajetória da União Soviética (1917-1991)
+- Trajetória da União Soviética (1917-1991)
 ---
 # A Trajetória da União Soviética (1917-1991): Da Utopia Revolucionária ao Colapso
 

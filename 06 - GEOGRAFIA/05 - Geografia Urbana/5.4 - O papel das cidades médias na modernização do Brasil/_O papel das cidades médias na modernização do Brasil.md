@@ -1,14 +1,14 @@
 ---
 title: O papel das cidades médias na modernização do Brasil
-area: GEOGRAFIA
+area: 5. Geografia Urbana.
 subarea: Geografia Urbana
 tags:
-  - cacd-2025
-  - geografia
-  - geografia-urbana
-  - o-papel-das-cidades-medias-na-modernizacao-do-brasil
+- cacd-2025
+- geografia
+- geografia-urbana
+- o-papel-das-cidades-medias-na-modernizacao-do-brasil
 aliases:
-  - 5.4 O papel das cidades médias na modernização do Brasil.
+- 5.4 O papel das cidades médias na modernização do Brasil.
 ---
 # O Papel das Cidades Médias na Modernização e Reorganização do Território Brasileiro
 

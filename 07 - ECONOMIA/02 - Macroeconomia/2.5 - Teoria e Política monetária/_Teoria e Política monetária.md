@@ -1,14 +1,14 @@
 ---
 title: Teoria e Política monetária
-area: ECONOMIA
-subarea: Macroeconomia
+area: 2. Macroeconomia.
+subarea: 2.4 O modelo IS-LM-BP.
 tags:
-  - cacd-2025
-  - economia
-  - macroeconomia
-  - teoria-e-politica-monetaria
+- cacd-2025
+- economia
+- macroeconomia
+- teoria-e-politica-monetaria
 aliases:
-  - 2.5 Teoria e Política monetária.
+- 2.5 Teoria e Política monetária.
 ---
 # 2.5 Teoria e Política monetária
 

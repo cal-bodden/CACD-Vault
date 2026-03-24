@@ -1,14 +1,15 @@
 ---
 title: Constituição de identidades nacionais e Estados na América Latina
-area: HISTÓRIA MUNDIAL
+area: 5. A evolução política e econômica nas Américas.
 subarea: A evolução política e econômica nas Américas
 tags:
-  - a-evolucao-politica-e-economica-nas-americas
-  - cacd-2025
-  - constituicao-de-identidades-nacionais-e-estados-na-america-latina
-  - historia-mundial
+- a-evolucao-politica-e-economica-nas-americas
+- cacd-2025
+- constituicao-de-identidades-nacionais-e-estados-na-america-latina
+- historia-mundial
 aliases:
-  - 5.3 A constituição das identidades nacionais e dos Estados na América Latina; militarismo e caudilhismo.
+- 5.3 A constituição das identidades nacionais e dos Estados na América Latina; militarismo
+  e caudilhismo.
 ---
 # A Formação dos Estados Nacionais na América Latina (Séc. XIX): Caudilhismo, Militarismo e o Desafio da Identidade
 

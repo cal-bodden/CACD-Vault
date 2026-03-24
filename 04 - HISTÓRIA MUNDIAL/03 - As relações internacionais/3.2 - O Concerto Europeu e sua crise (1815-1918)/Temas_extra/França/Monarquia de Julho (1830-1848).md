@@ -1,14 +1,15 @@
 ---
-title: "Monarquia de Julho (1830-1848)"
-area: "HISTÓRIA MUNDIAL"
-subarea: "As relações internacionais"
+title: Monarquia de Julho (1830-1848)
+area: As relações internacionais
+subarea: 3.2 O Concerto Europeu e sua crise (1815-1918)
 tags:
-  - as-relacoes-internacionais
-  - cacd-2025
-  - historia-mundial
-  - o-concerto-europeu-e-sua-crise
-  - sistema-de-alianças
-conexões: RevoluçãoDe1830, RevoluçãoDe1848, HistoriaDaFranca, Liberalismo, Socialismo, Burguesia, Industrializacao
+- as-relacoes-internacionais
+- cacd-2025
+- historia-mundial
+- o-concerto-europeu-e-sua-crise
+- sistema-de-alianças
+conexões: RevoluçãoDe1830, RevoluçãoDe1848, HistoriaDaFranca, Liberalismo, Socialismo,
+  Burguesia, Industrializacao
 ---
 # Monarquia de Julho (1830-1848)
 

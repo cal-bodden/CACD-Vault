@@ -1,14 +1,15 @@
 ---
 title: Política externa (relações com Europa, EUA, Reino Unido, Guerra do Paraguai)
-area: HISTÓRIA DO BRASIL
+area: 5. O Segundo Reinado (1840-1889).
 subarea: O Segundo Reinado (1840-1889)
 tags:
-  - cacd-2025
-  - historia-do-brasil
-  - o-segundo-reinado
-  - politica-externa
+- cacd-2025
+- historia-do-brasil
+- o-segundo-reinado
+- politica-externa
 aliases:
-  - "5.2 Política externa: as relações com a Europa e os Estados Unidos da América; questões com o Reino Unido; a Guerra do Paraguai."
+- '5.2 Política externa: as relações com a Europa e os Estados Unidos da América;
+  questões com o Reino Unido; a Guerra do Paraguai.'
 ---
 # Política Externa do Segundo Reinado: Diplomacia, Conflitos e a Guerra do Paraguai
 

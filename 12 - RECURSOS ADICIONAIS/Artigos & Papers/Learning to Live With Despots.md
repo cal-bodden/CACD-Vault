@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 # Learning to Live With Despots
 
 ## The Limits of Democracy Promotion

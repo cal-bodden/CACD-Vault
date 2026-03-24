@@ -1,13 +1,15 @@
 ---
 title: Conceitos, atores, processos e instituições
-area: POLÍTICA INTERNACIONAL
+area: '1. Relações internacionais: conceitos básicos, atores, processos, instituições
+  e principais paradigmas teóricos.'
 subarea: Conceitos, atores, processos e instituições
 tags:
-  - cacd-2025
-  - conceitos-atores-processos-e-instituicoes
-  - politica-internacional
+- cacd-2025
+- conceitos-atores-processos-e-instituicoes
+- politica-internacional
 aliases:
-  - "Relações internacionais: conceitos básicos, atores, processos, instituições e principais paradigmas teóricos."
+- 'Relações internacionais: conceitos básicos, atores, processos, instituições e principais
+  paradigmas teóricos.'
 ---
 # Teorias de Relações Internacionais: Modelos e Interpretações da Política Mundial
 

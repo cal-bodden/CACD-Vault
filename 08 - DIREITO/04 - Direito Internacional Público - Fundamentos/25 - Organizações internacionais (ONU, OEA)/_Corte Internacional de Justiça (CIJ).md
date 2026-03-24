@@ -1,12 +1,12 @@
 ---
-title: "Corte Internacional de Justiça (CIJ)"
-area: "DIREITO"
-subarea: "Direito Internacional Público - Fundamentos"
+title: Corte Internacional de Justiça (CIJ)
+area: Direito Internacional Público - Fundamentos
+subarea: 25 Organizações internacionais (ONU, OEA)
 tags:
-  - cacd-2025
-  - direito
-  - direito-internacional-publico---fundamentos
-  - organizacoes-internacionais
+- cacd-2025
+- direito
+- direito-internacional-publico---fundamentos
+- organizacoes-internacionais
 ---
 
 # A Corte Internacional de Justiça (CIJ): Estrutura, Jurisdição e a Atuação Recente no Cenário Global

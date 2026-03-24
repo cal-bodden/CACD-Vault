@@ -1,14 +1,14 @@
 ---
 title: História da China Pós-Revolução (1949-2000)
-area: HISTÓRIA MUNDIAL
-subarea: Revoluções
+area: Revoluções
+subarea: 2.6 Revoluções no século XX (Rússia e China)
 tags:
-  - cacd-2025
-  - historia-mundial
-  - revolucoes
-  - revolucoes-no-seculo-xx
+- cacd-2025
+- historia-mundial
+- revolucoes
+- revolucoes-no-seculo-xx
 aliases:
-  - História da China Pós-Revolução (1949-2000)
+- História da China Pós-Revolução (1949-2000)
 ---
 # A História da China Pós-Revolução (1949-2000): Do Maoísmo às Reformas de Abertura
 

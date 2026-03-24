@@ -1,14 +1,14 @@
 ---
 title: Primeira República
-area: ECONOMIA
-subarea: História econômica brasileira
+area: 4. História econômica brasileira.
+subarea: 4.1.1 A economia cafeeira.
 tags:
-  - cacd-2025
-  - economia
-  - historia-economica-brasileira
-  - primeira-republica
+- cacd-2025
+- economia
+- historia-economica-brasileira
+- primeira-republica
 aliases:
-  - 4.2 Primeira República.
+- 4.2 Primeira República.
 ---
 # As Políticas Econômicas da Primeira República: Do Encilhamento à Crise de 1929
 

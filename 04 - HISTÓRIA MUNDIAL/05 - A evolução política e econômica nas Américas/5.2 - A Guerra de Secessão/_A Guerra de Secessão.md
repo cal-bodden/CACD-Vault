@@ -1,14 +1,14 @@
 ---
 title: A Guerra de Secessão
-area: HISTÓRIA MUNDIAL
+area: 5. A evolução política e econômica nas Américas.
 subarea: A evolução política e econômica nas Américas
 tags:
-  - a-evolucao-politica-e-economica-nas-americas
-  - a-guerra-de-secessao
-  - cacd-2025
-  - historia-mundial
+- a-evolucao-politica-e-economica-nas-americas
+- a-guerra-de-secessao
+- cacd-2025
+- historia-mundial
 aliases:
-  - 5.2 A Guerra de Secessão.
+- 5.2 A Guerra de Secessão.
 ---
 # A Guerra de Secessão Americana (1861-1865): Causas, Conflito e a Consolidação da Nação
 

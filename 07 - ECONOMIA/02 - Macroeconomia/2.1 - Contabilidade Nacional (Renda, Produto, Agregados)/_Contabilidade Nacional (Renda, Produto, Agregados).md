@@ -1,14 +1,14 @@
 ---
 title: Contabilidade Nacional (Renda, Produto, Agregados)
-area: ECONOMIA
-subarea: Macroeconomia
+area: 2. Macroeconomia.
+subarea: 2.1 Contabilidade Nacional.
 tags:
-  - cacd-2025
-  - contabilidade-nacional
-  - economia
-  - macroeconomia
+- cacd-2025
+- contabilidade-nacional
+- economia
+- macroeconomia
 aliases:
-  - Contabilidade Nacional.
+- Contabilidade Nacional.
 ---
 # Contabilidade Nacional (Contas Nacionais)
 

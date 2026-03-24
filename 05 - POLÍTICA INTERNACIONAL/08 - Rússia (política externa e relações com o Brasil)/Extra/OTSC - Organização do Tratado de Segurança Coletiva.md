@@ -1,14 +1,14 @@
 ---
 title: Organização do Tratado de Segurança Coletiva (OTSC)
-area: POLÍTICA INTERNACIONAL
-subarea: Rússia (política externa e relações com o Brasil)
+area: Rússia (política externa e relações com o Brasil)
+subarea: Extra
 tags:
-  - cacd-2025
-  - politica-internacional
-  - russia
+- cacd-2025
+- politica-internacional
+- russia
 aliases:
-  - OTSC
-  - Organização do Tratado de Segurança Coletiva (OTSC)
+- OTSC
+- Organização do Tratado de Segurança Coletiva (OTSC)
 ---
 # Organização do Tratado de Segurança Coletiva (OTSC)
 

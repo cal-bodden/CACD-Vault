@@ -1,13 +1,13 @@
 ---
-title: "Pacto Internacional sobre Direitos Econômicos, Sociais e Culturais (PIDESC)"
-area: "POLÍTICA INTERNACIONAL"
-subarea: "O Brasil e a agenda internacional"
+title: Pacto Internacional sobre Direitos Econômicos, Sociais e Culturais (PIDESC)
+area: O Brasil e a agenda internacional
+subarea: 13.6 Direitos humanos e políticas de identidade
 tags:
-  - cacd-2025
-  - direitos-humanos-e-politicas-de-identidade
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
-aliases: 
+- cacd-2025
+- direitos-humanos-e-politicas-de-identidade
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
+aliases:
 - PIDESC
 ---
 # Pacto Internacional sobre Direitos Econômicos, Sociais e Culturais (PIDESC)

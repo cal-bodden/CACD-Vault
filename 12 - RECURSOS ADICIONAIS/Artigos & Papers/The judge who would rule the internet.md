@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 ## Brazil’s Alexandre de Moraes is on a crusade to cow the far right by curbing online speech
 
 Alexandre de Moraes divides opinion. Elon Musk calls the Brazilian supreme court judge “Darth Vader” on account of his black cape and high, shiny forehead, and claims he is a “tyrannical dictator masquerading as a judge”. Others hold warmer feelings. To campaigners who call for restrictions on digital speech, Mr Moraes is a superstar. To his fans in Brazil he is just _Xandão_, “Big Alex”.

@@ -1,14 +1,14 @@
 ---
 title: 'A Crítica Estrutural ao Modelo ISI: A Criação de uma "Nova Dependência"'
-area: ECONOMIA
-subarea: Economia internacional
+area: Economia internacional
+subarea: 3.1 Teorias de Comércio (Clássicas, Neoclássicas, Prebisch)
 tags:
-  - cacd-2025
-  - economia
-  - economia-internacional
-  - teorias-de-comercio
+- cacd-2025
+- economia
+- economia-internacional
+- teorias-de-comercio
 aliases:
-  - 'A Crítica Estrutural ao Modelo ISI: A Criação de uma "Nova Dependência"'
+- 'A Crítica Estrutural ao Modelo ISI: A Criação de uma "Nova Dependência"'
 ---
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: Objetivos, características e estágio atual de integração.  
-area: POLÍTICA INTERNACIONAL
-subarea: Brasil e América do Sul (Integração, MERCOSUL)
+title: Objetivos, características e estágio atual de integração.
+area: 3. O Brasil e a América do Sul.
+subarea: 3.3 Objetivos, características e estágio atual de integração.
 tags:
-  - brasil-e-america-do-sul
-  - cacd-2025
-  - politica-internacional
+- brasil-e-america-do-sul
+- cacd-2025
+- politica-internacional
 aliases:
-  - Objetivos, características e estágio atual de integração.  
+- Objetivos, características e estágio atual de integração.
 ---
 # O Mercosul Hoje (2023-2025): Desafios da Integração, Agenda Externa e Perspectivas Futuras
 

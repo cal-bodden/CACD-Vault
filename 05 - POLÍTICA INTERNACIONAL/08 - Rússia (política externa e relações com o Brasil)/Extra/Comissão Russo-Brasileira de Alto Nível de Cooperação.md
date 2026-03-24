@@ -1,13 +1,13 @@
 ---
 title: Comissão Russo-Brasileira de Alto Nível de Cooperação (CAN)
-area: POLÍTICA INTERNACIONAL
-subarea: Rússia (política externa e relações com o Brasil)
+area: Rússia (política externa e relações com o Brasil)
+subarea: Extra
 tags:
-  - cacd-2025
-  - politica-internacional
-  - russia
+- cacd-2025
+- politica-internacional
+- russia
 aliases:
-  - Comissão Russo-Brasileira de Alto Nível de Cooperação (CAN)
+- Comissão Russo-Brasileira de Alto Nível de Cooperação (CAN)
 ---
 ## 1. Introdução
 

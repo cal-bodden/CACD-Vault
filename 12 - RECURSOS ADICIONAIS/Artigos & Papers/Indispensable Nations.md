@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 # The Fall and Rise of Nationalism
 
 `Pratap Bhanu Mehta

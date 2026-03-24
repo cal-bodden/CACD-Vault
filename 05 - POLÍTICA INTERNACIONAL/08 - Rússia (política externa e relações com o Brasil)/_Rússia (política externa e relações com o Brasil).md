@@ -1,13 +1,13 @@
 ---
 title: Rússia (política externa e relações com o Brasil)
-area: POLÍTICA INTERNACIONAL
+area: '8. Rússia: política externa e relações com o Brasil.'
 subarea: Rússia (política externa e relações com o Brasil)
 tags:
-  - cacd-2025
-  - politica-internacional
-  - russia
+- cacd-2025
+- politica-internacional
+- russia
 aliases:
-  - "Rússia: política externa e relações com o Brasil."
+- 'Rússia: política externa e relações com o Brasil.'
 ---
 # Nota: Rússia - Política Externa e Relações com o Brasil
 

@@ -1,14 +1,14 @@
 ---
 title: Terrorismo
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+area: '13. O Brasil e a agenda internacional:'
+subarea: 13.12 Terrorismo.
 tags:
-  - cacd-2025
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
-  - terrorismo
+- cacd-2025
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
+- terrorismo
 aliases:
-  - Terrorismo.
+- Terrorismo.
 ---
 # Terrorismo na Agenda Internacional
 

@@ -1,9 +1,9 @@
 ---
-title: "Multimídia"
-area: "RECURSOS ADICIONAIS"
-subarea: "RECURSOS ADICIONAIS"
+title: Multimídia
+area: Multimídia
+subarea: RECURSOS ADICIONAIS
 tags:
-  - cacd-2025
-  - multimidia
-  - recursos-adicionais
+- cacd-2025
+- multimidia
+- recursos-adicionais
 ---

@@ -1,14 +1,14 @@
 ---
 title: A Paz de Versalhes e a ordem mundial resultante (1919-1939)
-area: HISTÓRIA MUNDIAL
-subarea: As relações internacionais
+area: 3. As relações internacionais.
+subarea: 3.5 Os 14 pontos de Wilson.
 tags:
-  - a-paz-de-versalhes-e-a-ordem-mundial-resultante
-  - as-relacoes-internacionais
-  - cacd-2025
-  - historia-mundial
+- a-paz-de-versalhes-e-a-ordem-mundial-resultante
+- as-relacoes-internacionais
+- cacd-2025
+- historia-mundial
 aliases:
-  - 3.6 A Paz de Versalhes e a ordem mundial resultante (1919-1939).
+- 3.6 A Paz de Versalhes e a ordem mundial resultante (1919-1939).
 ---
 # A Ordem de Versalhes (1919–1939): Da Paz Punitiva à Crise do Entreguerras
 

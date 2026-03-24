@@ -1,13 +1,13 @@
 ---
 title: Política Monetária no Brasil
-area: ECONOMIA
-subarea: Macroeconomia
+area: Macroeconomia
+subarea: 2.6 Política Monetária (Papel do BC, Instrumentos, Inflação)
 tags:
-  - cacd-2025
-  - economia
-  - macroeconomia
-  - politica-monetaria
-aliases:
+- cacd-2025
+- economia
+- macroeconomia
+- politica-monetaria
+aliases: null
 ---
 
 # A Política Monetária no Brasil: Instrumentos, o Papel do Banco Central e o Controle da Inflação

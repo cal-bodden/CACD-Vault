@@ -1,12 +1,12 @@
 ---
-title: "Conflitos armados e Direito Internacional Humanitário"
-area: "DIREITO"
-subarea: "Direito da Integração e Temas Específicos do DIP"
+title: Conflitos armados e Direito Internacional Humanitário
+area: Direito da Integração e Temas Específicos do DIP
+subarea: 29 Conflitos armados e Direito Internacional Humanitário
 tags:
-  - cacd-2025
-  - conflitos-armados-e-direito-internacional-humanitario
-  - direito
-  - direito-da-integracao-e-temas-especificos-do-dip
+- cacd-2025
+- conflitos-armados-e-direito-internacional-humanitario
+- direito
+- direito-da-integracao-e-temas-especificos-do-dip
 ---
 # Nota de Estudo: Conflitos Armados e o Direito Internacional (DIH, DIR e Refúgio no Brasil) 
 

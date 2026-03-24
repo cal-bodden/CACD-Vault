@@ -1,14 +1,14 @@
 ---
 title: Industrialização e urbanização
-area: HISTÓRIA DO BRASIL
+area: 8. A República Liberal (1945-1964).
 subarea: A República Liberal (1945-1964)
 tags:
-  - a-republica-liberal
-  - cacd-2025
-  - historia-do-brasil
-  - industrializacao-e-urbanizacao
+- a-republica-liberal
+- cacd-2025
+- historia-do-brasil
+- industrializacao-e-urbanizacao
 aliases:
-  - 8.2 Industrialização e urbanização.
+- 8.2 Industrialização e urbanização.
 ---
 
 # Nota de Estudo: Industrialização e Urbanização na República Liberal (1945-1964)

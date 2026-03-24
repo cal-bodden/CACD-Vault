@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 # El FMI admite que la economía mundial ingresa en una nueva era
 
 

@@ -1,12 +1,12 @@
 ---
-title: "Uso da força (Segurança coletiva, Desarmamento, Terrorismo)"
-area: "DIREITO"
-subarea: "Direito da Integração e Temas Específicos do DIP"
+title: Uso da força (Segurança coletiva, Desarmamento, Terrorismo)
+area: Direito da Integração e Temas Específicos do DIP
+subarea: 27 Uso da força (Segurança coletiva, Desarmamento, Terrorismo)
 tags:
-  - cacd-2025
-  - direito
-  - direito-da-integracao-e-temas-especificos-do-dip
-  - uso-da-forca
+- cacd-2025
+- direito
+- direito-da-integracao-e-temas-especificos-do-dip
+- uso-da-forca
 ---
 # Uso da Força no Direito Internacional
 

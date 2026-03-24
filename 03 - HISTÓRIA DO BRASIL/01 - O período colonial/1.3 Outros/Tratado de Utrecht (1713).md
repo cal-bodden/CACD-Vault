@@ -1,16 +1,16 @@
 ---
 title: Tratado de Utrecht (1713)
-area: HISTÓRIA DO BRASIL
-subarea: O período colonial
+area: O período colonial
+subarea: 1.3 Outros
 tags:
-  - a-configuracao-territorial-da-america-portuguesa
-  - cacd-2025
-  - historia-do-brasil
-  - o-periodo-colonial
-  - formacao-territorial-brasil
+- a-configuracao-territorial-da-america-portuguesa
+- cacd-2025
+- historia-do-brasil
+- o-periodo-colonial
+- formacao-territorial-brasil
 aliases:
-  - Tratado de Utrecht (1713)
-  - Tratado de Utrecht de 1713
+- Tratado de Utrecht (1713)
+- Tratado de Utrecht de 1713
 ---
 # O Tratado de Utrecht (1713): O Equilíbrio de Poder na Europa e a Definição das Fronteiras do Brasil
 

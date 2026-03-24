@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 ## With the Right Reforms, the G-7 Can Sustain the Rules-Based Order
 
 ### [Victor Cha](https://www.foreignaffairs.com/authors/victor-cha), [John Hamre](https://www.foreignaffairs.com/authors/john-hamre), and [G. John Ikenberry](https://www.foreignaffairs.com/authors/g-john-ikenberry)

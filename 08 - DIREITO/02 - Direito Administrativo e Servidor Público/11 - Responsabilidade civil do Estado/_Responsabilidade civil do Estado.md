@@ -1,14 +1,14 @@
 ---
 title: Responsabilidade civil do Estado
-area: DIREITO
+area: 11. Responsabilidade civil do Estado.
 subarea: Direito Administrativo e Servidor Público
 tags:
-  - cacd-2025
-  - direito
-  - direito-administrativo-e-servidor-publico
-  - responsabilidade-civil-do-estado
+- cacd-2025
+- direito
+- direito-administrativo-e-servidor-publico
+- responsabilidade-civil-do-estado
 aliases:
-  - Responsabilidade civil do Estado.
+- Responsabilidade civil do Estado.
 ---
 # Responsabilidade Civil do Estado – Nota de Estudo (CACD)
 

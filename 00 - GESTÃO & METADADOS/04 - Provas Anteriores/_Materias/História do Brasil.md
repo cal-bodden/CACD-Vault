@@ -1,34 +1,7 @@
-# Caderno — História do Brasil
-
-## TPS 2017 — Tarde
-
 ---
-## Questão 44 — TPS 2017 Tarde — História do Brasil
-
-**Contexto:** ar context.
-
-HISTÓRIA DO BRASIL
-
-A configuração territorial da América portuguesa colonial
-foi alcançada por meio de um processo histórico dinâmico,
-iniciado no século XVI.
-
-### Item 1
-No final do século XVI, os portugueses tinham posições fortificadas na foz do rio Amazonas e na margem oriental do rio da Prata.
-#### Gabarito Oficial: Errado (E)
-
-### Item 2
-Com a finalidade de garantir a efetiva ocupação da região de São Vicente, no atual litoral paulista, Martim Afonso de Souza deu início, por ordem da Coroa portuguesa, às concessões hereditárias de terras a portugueses que trazia, com esse objetivo, em sua expedição.
-#### Gabarito Oficial: Errado (E)
-
-### Item 3
-As capitanias hereditárias foram concedidas a militares portugueses, que recebiam as doações como reconhecimento por serviços prestados à Coroa, bem como para reforçar a defesa do território colonial e facilitar a sua exploração.
-#### Gabarito Oficial: Errado (E)
-
-### Item 4
-A doação de terras pelos capitães-donatários a sesmeiros deu origem à formação de latifúndios. !FimDoTexto!
-#### Gabarito Oficial: Certo (C)
-
+area: Provas Anteriores
+subarea: _Materias
+tags: []
 ---
 ## Questão 45 — TPS 2017 Tarde — História do Brasil
 

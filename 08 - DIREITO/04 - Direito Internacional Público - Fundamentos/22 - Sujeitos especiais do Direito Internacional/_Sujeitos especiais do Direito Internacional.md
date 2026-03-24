@@ -1,14 +1,14 @@
 ---
 title: Sujeitos especiais do Direito Internacional
-area: DIREITO
+area: 22. Sujeitos especiais do Direito Internacional.
 subarea: Direito Internacional Público - Fundamentos
 tags:
-  - cacd-2025
-  - direito
-  - direito-internacional-publico---fundamentos
-  - sujeitos-especiais-do-direito-internacional
+- cacd-2025
+- direito
+- direito-internacional-publico---fundamentos
+- sujeitos-especiais-do-direito-internacional
 aliases:
-  - Sujeitos especiais do Direito Internacional.
+- Sujeitos especiais do Direito Internacional.
 ---
 # Os Sujeitos Especiais do Direito Internacional: Análise Estratégica para o CACD
 

@@ -1,14 +1,14 @@
 ---
 title: Política exterior do Primeiro Reinado
-area: HISTÓRIA DO BRASIL
+area: 3. O Primeiro Reinado (1822-1831).
 subarea: O Primeiro Reinado (1822-1831)
 tags:
-  - cacd-2025
-  - historia-do-brasil
-  - o-primeiro-reinado
-  - politica-exterior-do-primeiro-reinado
+- cacd-2025
+- historia-do-brasil
+- o-primeiro-reinado
+- politica-exterior-do-primeiro-reinado
 aliases:
-  - 3.3 Política exterior do Primeiro Reinado.
+- 3.3 Política exterior do Primeiro Reinado.
 ---
 # 3.3 Política Exterior do Primeiro Reinado
 

@@ -1,13 +1,13 @@
 ---
 title: Fórum de Cooperação América Latina-Ásia do Leste (FOCALAL)
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a cooperação Sul-Sul
+area: O Brasil e a cooperação Sul-Sul
+subarea: 18.1 Outros
 tags:
-  - cacd-2025
-  - o-brasil-e-a-cooperacao-sul-sul
-  - politica-internacional
+- cacd-2025
+- o-brasil-e-a-cooperacao-sul-sul
+- politica-internacional
 aliases:
-  - FOCALAL
+- FOCALAL
 ---
 # Fórum de Cooperação América Latina-Ásia do Leste (FOCALAL)
 

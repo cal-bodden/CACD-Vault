@@ -1,14 +1,15 @@
 ---
 title: Estrutura fundiária, uso da terra e relações de produção no campo
-area: GEOGRAFIA
-subarea: Geografia Agrária
+area: 6. Geografia política.
+subarea: 6.3 Relações Estado e território.
 tags:
-  - cacd-2025
-  - estrutura-fundiaria-uso-da-terra-e-relacoes-de-producao-no-campo
-  - geografia
-  - geografia-agraria
+- cacd-2025
+- estrutura-fundiaria-uso-da-terra-e-relacoes-de-producao-no-campo
+- geografia
+- geografia-agraria
 aliases:
-  - 4.3 Estrutura fundiária, uso da terra e relações de produção no campo brasileiro.
+- 4.3 Estrutura fundiária, uso da terra e relações de produção no campo brasileiro.
+- Relações Estado e território.
 ---
 # Estrutura Fundiária, Uso da Terra e Relações de Produção no Campo Brasileiro: Uma Análise Histórica e Contemporânea
 

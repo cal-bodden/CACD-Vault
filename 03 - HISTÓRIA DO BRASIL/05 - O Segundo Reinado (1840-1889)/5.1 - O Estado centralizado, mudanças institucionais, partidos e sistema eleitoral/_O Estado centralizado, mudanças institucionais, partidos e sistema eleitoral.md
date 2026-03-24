@@ -1,14 +1,15 @@
 ---
 title: O Estado centralizado, mudanças institucionais, partidos e sistema eleitoral
-area: HISTÓRIA DO BRASIL
+area: 5. O Segundo Reinado (1840-1889).
 subarea: O Segundo Reinado (1840-1889)
 tags:
-  - cacd-2025
-  - historia-do-brasil
-  - o-estado-centralizado-mudancas-institucionais-partidos-e-sistema-eleitoral
-  - o-segundo-reinado
+- cacd-2025
+- historia-do-brasil
+- o-estado-centralizado-mudancas-institucionais-partidos-e-sistema-eleitoral
+- o-segundo-reinado
 aliases:
-  - 5.1 O Estado centralizado; mudanças institucionais; os partidos políticos e o sistema eleitoral; a questão da unidade territorial.
+- 5.1 O Estado centralizado; mudanças institucionais; os partidos políticos e o sistema
+  eleitoral; a questão da unidade territorial.
 ---
 # Segundo Reinado (1840-1889): O Estado Centralizado e as Mudanças Institucionais
 

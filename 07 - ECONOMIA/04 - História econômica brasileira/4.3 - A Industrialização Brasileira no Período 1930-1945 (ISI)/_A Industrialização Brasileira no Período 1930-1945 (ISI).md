@@ -1,14 +1,14 @@
 ---
 title: A Industrialização Brasileira no Período 1930-1945 (ISI)
-area: ECONOMIA
-subarea: História econômica brasileira
+area: 4. História econômica brasileira.
+subarea: 4.2.3 Políticas de valorização do café.
 tags:
-  - a-industrializacao-brasileira-no-periodo-1930-1945
-  - cacd-2025
-  - economia
-  - historia-economica-brasileira
+- a-industrializacao-brasileira-no-periodo-1930-1945
+- cacd-2025
+- economia
+- historia-economica-brasileira
 aliases:
-  - 4.3 A Industrialização Brasileira no Período 1930-1945.
+- 4.3 A Industrialização Brasileira no Período 1930-1945.
 ---
 # A Industrialização na Era Vargas (1930-1945): As Origens do Modelo de Substituição de Importações (ISI) e suas Críticas
 

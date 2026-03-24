@@ -1,17 +1,17 @@
 ---
 title: Reformas de Base e a Constituição de 1946
-area: HISTÓRIA DO BRASIL
-subarea: A República Liberal (1945-1964)
+area: A República Liberal (1945-1964)
+subarea: 8.1 A nova ordem política (partidos, eleições, Constituição de 1946)
 tags:
-  - reformas-de-base
-  - constituicao-1946
-  - joao-goulart
-  - golpe-1964
-  - cacd-2026
+- reformas-de-base
+- constituicao-1946
+- joao-goulart
+- golpe-1964
+- cacd-2026
 aliases:
-  - Reformas de Base
-  - Constituição de 1946
-  - Crise Institucional 1964
+- Reformas de Base
+- Constituição de 1946
+- Crise Institucional 1964
 ---
 ## Bloco 1 — Debate Teórico e Historiográfico
 

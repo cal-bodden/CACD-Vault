@@ -1,14 +1,14 @@
 ---
 title: As causas da Segunda Guerra Mundial
-area: HISTÓRIA MUNDIAL
-subarea: As relações internacionais
+area: 3. As relações internacionais.
+subarea: 3.5 Os 14 pontos de Wilson.
 tags:
-  - as-causas-da-segunda-guerra-mundial
-  - as-relacoes-internacionais
-  - cacd-2025
-  - historia-mundial
+- as-causas-da-segunda-guerra-mundial
+- as-relacoes-internacionais
+- cacd-2025
+- historia-mundial
 aliases:
-  - 3.8 As causas da Segunda Guerra Mundial.
+- 3.8 As causas da Segunda Guerra Mundial.
 ---
 # As Origens da Segunda Guerra Mundial: Do Revanchismo de Versalhes à Política de Apaziguamento
 

@@ -1,14 +1,14 @@
 ---
 title: Industrialização e legislação trabalhista
-area: HISTÓRIA DO BRASIL
+area: 7. A Era Vargas (1930-1945).
 subarea: A Era Vargas (1930-1945)
 tags:
-  - a-era-vargas
-  - cacd-2025
-  - historia-do-brasil
-  - industrializacao-e-legislacao-trabalhista
+- a-era-vargas
+- cacd-2025
+- historia-do-brasil
+- industrializacao-e-legislacao-trabalhista
 aliases:
-  - 7.5 Industrialização e legislação trabalhista.
+- 7.5 Industrialização e legislação trabalhista.
 ---
 # Industrialização e Legislação Trabalhista na Era Vargas (1930-1945): A Construção do Brasil Urbano-Industrial
 

@@ -1,13 +1,13 @@
 ---
 title: IBAS
-area: POLÍTICA INTERNACIONAL
+area: 2. IBAS
 subarea: O Brasil e as coalizões internacionais (G-20, IBAS, BRICS)
 tags:
-  - cacd-2025
-  - o-brasil-e-as-coalizoes-internacionais
-  - politica-internacional
+- cacd-2025
+- o-brasil-e-as-coalizoes-internacionais
+- politica-internacional
 aliases:
-  - IBAS
+- IBAS
 ---
 # O Fórum de Diálogo IBAS: A Coalizão das Democracias do Sul, seu Legado e Relevância Atual
 

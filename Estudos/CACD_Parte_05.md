@@ -1,12 +1,10 @@
-
-
-# Origem: ATCM - Reunião Consultiva do Tratado da Antártida
-
 ---
 tema: Reunião Consultiva do Tratado da Antártida (ATCM)
-área: Política Internacional 
+área: Política Internacional
 tags: tratado-da-antartida
-conexões: Tratado da Antártida, Sistema do Tratado da Antártida, Governança Antártica, Mudanças Climáticas, Geopolítica, Direito Internacional do Meio Ambiente, Biologia, Oceanografia, Ciência Política, Pesquisa Polar
+conexões: Tratado da Antártida, Sistema do Tratado da Antártida, Governança Antártica,
+  Mudanças Climáticas, Geopolítica, Direito Internacional do Meio Ambiente, Biologia,
+  Oceanografia, Ciência Política, Pesquisa Polar
 ---
 # Reunião Consultiva do Tratado da Antártida (ATCM)
 

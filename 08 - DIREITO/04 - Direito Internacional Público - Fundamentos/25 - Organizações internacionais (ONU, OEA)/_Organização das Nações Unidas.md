@@ -1,14 +1,17 @@
 ---
 title: Organizações internacionais (ONU, OEA)
-area: DIREITO
+area: 25. Organizações internacionais. Incorporação ao direito brasileiro dos atos
+  de organizações internacionais. Organização das Nações Unidas. Agências da Organização
+  das Nações Unidas. Organização dos Estados Americanos. Carta Democrática Interamericana.
+  Outras organizações internacionais regionais. Direito comparado.
 subarea: Direito Internacional Público - Fundamentos
 tags:
-  - cacd-2025
-  - direito
-  - direito-internacional-publico---fundamentos
-  - organizacoes-internacionais
+- cacd-2025
+- direito
+- direito-internacional-publico---fundamentos
+- organizacoes-internacionais
 aliases:
-  - Organização das Nações Unidas. Agências da Organização das Nações Unidas.
+- Organização das Nações Unidas. Agências da Organização das Nações Unidas.
 ---
 # O Sistema das Nações Unidas: Órgãos Principais e a Família de Agências Especializadas
 

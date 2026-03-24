@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 # A Evolução da Inteligência Artificial Moderna e dos Large Language Models
 
 ## Os Primórdios da IA: Fundamentos de uma Revolução (1950-1980)

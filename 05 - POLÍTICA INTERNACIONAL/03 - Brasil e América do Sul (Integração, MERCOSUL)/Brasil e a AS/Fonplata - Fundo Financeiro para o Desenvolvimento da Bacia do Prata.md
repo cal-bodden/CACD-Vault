@@ -1,14 +1,14 @@
 ---
 title: Fundo Financeiro para o Desenvolvimento da Bacia do Prata (Fonplata)
-area: POLÍTICA INTERNACIONAL
-subarea: Brasil e América do Sul (Integração, MERCOSUL)
+area: Brasil e América do Sul (Integração, MERCOSUL)
+subarea: Brasil e a AS
 tags:
-  - brasil-e-america-do-sul
-  - cacd-2025
-  - politica-internacional
-  - integracao-america-do-sul
+- brasil-e-america-do-sul
+- cacd-2025
+- politica-internacional
+- integracao-america-do-sul
 aliases:
-  - Fonplata
+- Fonplata
 ---
 # Fundo Financeiro para o Desenvolvimento da Bacia do Prata (Fonplata)
 

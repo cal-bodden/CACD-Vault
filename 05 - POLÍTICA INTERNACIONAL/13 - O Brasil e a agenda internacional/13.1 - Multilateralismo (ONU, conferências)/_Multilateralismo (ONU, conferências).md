@@ -1,14 +1,16 @@
 ---
 title: Multilateralismo (ONU, conferências)
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+area: '13. O Brasil e a agenda internacional:'
+subarea: '13.1 O multilateralismo de dimensão universal: a ONU; as conferências internacionais;
+  os órgãos multilaterais.'
 tags:
-  - cacd-2025
-  - multilateralismo
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
+- cacd-2025
+- multilateralismo
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
 aliases:
-  - "O multilateralismo de dimensão universal: a ONU; as conferências internacionais; os órgãos multilaterais."
+- 'O multilateralismo de dimensão universal: a ONU; as conferências internacionais;
+  os órgãos multilaterais.'
 ---
 # O Multilateralismo Universal: A ONU, suas Conferências e a Governança Global em Crise
 

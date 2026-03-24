@@ -1,14 +1,15 @@
 ---
 title: Comércio internacional, OMC e cadeias globais de suprimento 2
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+area: O Brasil e a agenda internacional
+subarea: 13.8 Comércio internacional, OMC e cadeias globais de suprimento
 tags:
-  - cacd-2025
-  - comercio-internacional-omc-e-cadeias-globais-de-suprimento
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
+- cacd-2025
+- comercio-internacional-omc-e-cadeias-globais-de-suprimento
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
 aliases:
-  - Comércio internacional, Organização Mundial do Comércio (OMC) e cadeias globais de suprimento.
+- Comércio internacional, Organização Mundial do Comércio (OMC) e cadeias globais
+  de suprimento.
 ---
 # O Sistema Multilateral de Comércio em Mutação: Uma Análise dos Acordos-Chave, Negociações e Imperativos Estratégicos do Brasil
 

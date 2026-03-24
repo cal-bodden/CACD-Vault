@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 ## Además de señales en el plano fiscal, la recuperación de la confianza y la llegada de inversiones requiere institucionalidad y el abandono de todo atisbo de intolerancia política
 
 25 de mayo de 2025

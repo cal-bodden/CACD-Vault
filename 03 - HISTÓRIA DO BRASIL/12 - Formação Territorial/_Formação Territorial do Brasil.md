@@ -1,12 +1,12 @@
 ---
 title: Tratado de Madri (1750)
-area: HISTÓRIA DO BRASIL
+area: Formação Territorial
 subarea: Formação Territorial do Brasil
 tags:
-  - a-configuracao-territorial-da-america-portuguesa
-  - cacd-2025
-  - historia-do-brasil
-  - formacao-territorial-brasil
+- a-configuracao-territorial-da-america-portuguesa
+- cacd-2025
+- historia-do-brasil
+- formacao-territorial-brasil
 ---
 # A Formação Territorial do Brasil: Da Expansão de Facto à Consolidação de Jure
 

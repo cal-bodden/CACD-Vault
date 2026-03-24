@@ -1,14 +1,14 @@
 ---
 title: Crise do Estado Monárquico
-area: HISTÓRIA DO BRASIL
+area: 5. O Segundo Reinado (1840-1889).
 subarea: O Segundo Reinado (1840-1889)
 tags:
-  - cacd-2025
-  - crise-do-estado-monarquico
-  - historia-do-brasil
-  - o-segundo-reinado
+- cacd-2025
+- crise-do-estado-monarquico
+- historia-do-brasil
+- o-segundo-reinado
 aliases:
-  - 5.4 Crise do Estado Monárquico.
+- 5.4 Crise do Estado Monárquico.
 ---
 # A Crise do Império e a Queda da Monarquia: As Questões Religiosa, Militar e Abolicionista
 

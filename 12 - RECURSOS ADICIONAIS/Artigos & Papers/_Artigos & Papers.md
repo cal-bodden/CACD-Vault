@@ -1,10 +1,10 @@
 ---
-title: "Artigos & Papers"
-area: "RECURSOS ADICIONAIS"
-subarea: "RECURSOS ADICIONAIS"
+title: Artigos & Papers
+area: Estudos Gerais
+subarea: Artigos e Papers
 tags:
-  - artigos--papers
-  - cacd-2025
-  - recursos-adicionais
+- artigos--papers
+- cacd-2025
+- recursos-adicionais
 ---
 

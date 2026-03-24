@@ -1,12 +1,12 @@
 ---
-title: "Pacto Andino / Comunidade Andina de Nações (CAN)"
-area: "POLÍTICA INTERNACIONAL"
-subarea: "Brasil e América do Sul (Integração, MERCOSUL)"
+title: Pacto Andino / Comunidade Andina de Nações (CAN)
+area: Brasil e América do Sul (Integração, MERCOSUL)
+subarea: Brasil e a AS
 tags:
-  - brasil-e-america-do-sul
-  - cacd-2025
-  - politica-internacional
-  - integracao-america-do-sul
+- brasil-e-america-do-sul
+- cacd-2025
+- politica-internacional
+- integracao-america-do-sul
 ---
 # Pacto Andino / Comunidade Andina de Nações (CAN)
 

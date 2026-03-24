@@ -1,14 +1,14 @@
 ---
 title: Política Monetária (Papel do BC, Instrumentos, Inflação)
-area: ECONOMIA
-subarea: Macroeconomia
+area: 2. Macroeconomia.
+subarea: 2.6 Política Monetária.
 tags:
-  - cacd-2025
-  - economia
-  - macroeconomia
-  - politica-monetaria
+- cacd-2025
+- economia
+- macroeconomia
+- politica-monetaria
 aliases:
-  - Política Monetária.
+- Política Monetária.
 ---
 # 2.6 Política Monetária
 

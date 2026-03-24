@@ -1,15 +1,15 @@
 ---
 title: A Conferência de Bandung
-area: HISTÓRIA MUNDIAL
+area: 4. Colonialismo, imperialismo, políticas de dominação.
 subarea: Colonialismo, imperialismo, políticas de dominação
 tags:
-  - a-conferencia-de-bandung
-  - cacd-2025
-  - colonialismo-imperialismo-politicas-de-dominacao
-  - historia-mundial
+- a-conferencia-de-bandung
+- cacd-2025
+- colonialismo-imperialismo-politicas-de-dominacao
+- historia-mundial
 aliases:
-  - 4.7 A Conferência de Bandung.
-  - Conferência de Bandung
+- 4.7 A Conferência de Bandung.
+- Conferência de Bandung
 ---
 # 4.7 A Conferência de Bandung
 

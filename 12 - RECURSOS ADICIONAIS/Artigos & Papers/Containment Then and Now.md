@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 ## Containment: 40 Years Later
 
 ### [George F. Kennan](https://www.foreignaffairs.com/authors/george-f-kennan)

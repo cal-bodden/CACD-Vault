@@ -1,14 +1,14 @@
 ---
 title: A questão da escravidão
-area: HISTÓRIA DO BRASIL
+area: 5. O Segundo Reinado (1840-1889).
 subarea: O Segundo Reinado (1840-1889)
 tags:
-  - a-questao-da-escravidao
-  - cacd-2025
-  - historia-do-brasil
-  - o-segundo-reinado
+- a-questao-da-escravidao
+- cacd-2025
+- historia-do-brasil
+- o-segundo-reinado
 aliases:
-  - 5.3 A questão da escravidão.
+- 5.3 A questão da escravidão.
 ---
 # A Questão da Escravidão no Brasil Imperial: Pressão Britânica, Leis Graduais e a Crise da Monarquia
 

@@ -1,15 +1,15 @@
 ---
 title: Organização Mundial do Comércio (OMC)
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+area: O Brasil e a agenda internacional
+subarea: 13.8 Comércio internacional, OMC e cadeias globais de suprimento
 tags:
-  - cacd-2025
-  - comercio-internacional-omc-e-cadeias-globais-de-suprimento
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
+- cacd-2025
+- comercio-internacional-omc-e-cadeias-globais-de-suprimento
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
 aliases:
-  - OMC
-  - Organização Mundial do Comércio (OMC)
+- OMC
+- Organização Mundial do Comércio (OMC)
 ---
 # A Organização Mundial do Comércio (OMC) e a Crise da Governança do Comércio Global
 

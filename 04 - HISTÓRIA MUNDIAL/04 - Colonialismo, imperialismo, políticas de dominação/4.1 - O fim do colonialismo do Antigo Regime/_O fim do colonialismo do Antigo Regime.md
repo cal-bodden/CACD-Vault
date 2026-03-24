@@ -1,14 +1,14 @@
 ---
 title: O fim do colonialismo do Antigo Regime
-area: HISTÓRIA MUNDIAL
+area: 4. Colonialismo, imperialismo, políticas de dominação.
 subarea: Colonialismo, imperialismo, políticas de dominação
 tags:
-  - cacd-2025
-  - colonialismo-imperialismo-politicas-de-dominacao
-  - historia-mundial
-  - o-fim-do-colonialismo-do-antigo-regime
+- cacd-2025
+- colonialismo-imperialismo-politicas-de-dominacao
+- historia-mundial
+- o-fim-do-colonialismo-do-antigo-regime
 aliases:
-  - 4.1 O fim do colonialismo do Antigo Regime.
+- 4.1 O fim do colonialismo do Antigo Regime.
 ---
 # 4.1 O fim do colonialismo do Antigo Regime
 

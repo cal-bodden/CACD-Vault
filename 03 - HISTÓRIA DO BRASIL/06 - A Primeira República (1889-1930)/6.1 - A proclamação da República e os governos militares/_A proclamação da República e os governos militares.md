@@ -1,14 +1,14 @@
 ---
 title: A proclamação da República e os governos militares
-area: HISTÓRIA DO BRASIL
+area: 6. A Primeira República (1889-1930).
 subarea: A Primeira República (1889-1930)
 tags:
-  - a-primeira-republica
-  - a-proclamacao-da-republica-e-os-governos-militares
-  - cacd-2025
-  - historia-do-brasil
+- a-primeira-republica
+- a-proclamacao-da-republica-e-os-governos-militares
+- cacd-2025
+- historia-do-brasil
 aliases:
-  - 6.1 A proclamação da República e os governos militares.
+- 6.1 A proclamação da República e os governos militares.
 ---
 # A Proclamação da República e a República da Espada (1889-1894): A Consolidação de Ferro
 

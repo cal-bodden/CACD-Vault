@@ -1,14 +1,14 @@
 ---
 title: Anarquismo
-area: HISTÓRIA MUNDIAL
+area: 2. Revoluções.
 subarea: Revoluções
 tags:
-  - anarquismo
-  - cacd-2025
-  - historia-mundial
-  - revolucoes
+- anarquismo
+- cacd-2025
+- historia-mundial
+- revolucoes
 aliases:
-  - 2.4 Anarquismo.
+- 2.4 Anarquismo.
 ---
 # Anarquismo: Fundamentos Teóricos, Vertentes e o Debate com o Marxismo
 

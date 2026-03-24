@@ -1,14 +1,15 @@
 ---
 title: Crimes de guerra e crimes contra a humanidade (genocídio, TPI)
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+area: '13. O Brasil e a agenda internacional:'
+subarea: 13.9 Sistema financeiro internacional.
 tags:
-  - cacd-2025
-  - crimes-de-guerra-e-crimes-contra-a-humanidade
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
+- cacd-2025
+- crimes-de-guerra-e-crimes-contra-a-humanidade
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
 aliases:
-  - "13.11 Crimes de guerra e crimes contra a humanidade: genocídio, holocausto e o Tribunal Penal Internacional."
+- '13.11 Crimes de guerra e crimes contra a humanidade: genocídio, holocausto e o
+  Tribunal Penal Internacional.'
 ---
 # Crimes Internacionais e o Tribunal Penal Internacional
 

@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 # [La geopolítica de la incertidumbre](https://revistafal.com/la-geopolitica-de-la-incertidumbre/)
 
 10 febrero, 2025 • [Artículos](https://revistafal.com/category/articulos/), [Asuntos globales](https://revistafal.com/category/regiones/asuntos-globales/), [Latinoamérica](https://revistafal.com/category/regiones/latinoamerica/), [Portada](https://revistafal.com/category/portada/) • Vistas: 2813

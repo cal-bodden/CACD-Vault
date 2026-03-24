@@ -1,14 +1,15 @@
 ---
 title: Organização e competências dos poderes no Direito Brasileiro
-area: DIREITO
+area: 6. Organização e competências dos poderes no Direito Brasileiro.
 subarea: Teoria Geral e Direito Constitucional
 tags:
-  - cacd-2025
-  - direito
-  - organizacao-e-competencias-dos-poderes-no-direito-brasileiro
-  - teoria-geral-e-direito-constitucional
+- cacd-2025
+- direito
+- organizacao-e-competencias-dos-poderes-no-direito-brasileiro
+- teoria-geral-e-direito-constitucional
 aliases:
-  - Organização e competências dos poderes no Direito Brasileiro.
+- Organização e competências dos poderes no Direito Brasileiro.
+- Estado democrático de direito
 ---
 # A Organização dos Poderes no Brasil: Estrutura, Competências e o Sistema de Freios e Contrapesos
 

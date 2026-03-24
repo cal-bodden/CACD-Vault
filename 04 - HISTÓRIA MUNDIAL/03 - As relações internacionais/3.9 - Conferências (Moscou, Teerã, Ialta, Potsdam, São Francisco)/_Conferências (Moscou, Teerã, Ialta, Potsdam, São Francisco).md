@@ -1,14 +1,15 @@
 ---
 title: Conferências (Moscou, Teerã, Ialta, Potsdam, São Francisco)
-area: HISTÓRIA MUNDIAL
-subarea: As relações internacionais
+area: 3. As relações internacionais.
+subarea: 3.5 Os 14 pontos de Wilson.
 tags:
-  - as-relacoes-internacionais
-  - cacd-2025
-  - conferencias
-  - historia-mundial
+- as-relacoes-internacionais
+- cacd-2025
+- conferencias
+- historia-mundial
 aliases:
-  - 3.9 As conferências de Moscou, Teerã, Ialta, Potsdam e São Francisco e a ordem mundial decorrente.
+- 3.9 As conferências de Moscou, Teerã, Ialta, Potsdam e São Francisco e a ordem mundial
+  decorrente.
 ---
 # As Conferências Aliadas (1943–1945) e a Gênese da Ordem Mundial do Pós-Guerra
 

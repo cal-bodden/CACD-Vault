@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 ## Trump and the Sources of U.S. Power
 
 ### [Robert O. Keohane](https://www.foreignaffairs.com/authors/robert-o-keohane) and [Joseph S. Nye, Jr.](https://www.foreignaffairs.com/authors/joseph-s-nye-jr)

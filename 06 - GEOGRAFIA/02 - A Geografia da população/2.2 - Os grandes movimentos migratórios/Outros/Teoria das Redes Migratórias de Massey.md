@@ -2,11 +2,13 @@
 tema: Teoria das Redes Migratórias de Massey
 área: Geografia
 tags:
-  - GeografiaUrbana
+- GeografiaUrbana
 conexões: Migrações, Sociologia da Migração, Geografia Humana, Demografia, Globalização
 aliases:
-  - redes migratórias de Masse
+- redes migratórias de Masse
 subárea: Geografia Urbana
+area: A Geografia da população
+subarea: 2.2 Os grandes movimentos migratórios
 ---
 # Teoria das Redes Migratórias de Massey
 

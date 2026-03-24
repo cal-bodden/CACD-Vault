@@ -2,13 +2,17 @@
 tema: Convenção das Nações Unidas de Combate à Desertificação (UNCCD)
 área: Política Internacional
 tags:
-  - meio-ambiente
-  - ONU
-  - o-brasil-e-a-agenda-internacional
-conexões: Meio Ambiente, Desenvolvimento Sustentável, Direito Internacional do Meio Ambiente, Organizações Internacionais
+- meio-ambiente
+- ONU
+- o-brasil-e-a-agenda-internacional
+conexões: Meio Ambiente, Desenvolvimento Sustentável, Direito Internacional do Meio
+  Ambiente, Organizações Internacionais
 aliases:
-  - Convenção das Nações Unidas de Combate à Desertificação e Mitigação dos Efeitos da Seca (UNCCD)
-  - UNCCD
+- Convenção das Nações Unidas de Combate à Desertificação e Mitigação dos Efeitos
+  da Seca (UNCCD)
+- UNCCD
+area: O Brasil e a agenda internacional
+subarea: 13.4 Meio ambiente
 ---
 # Convenção das Nações Unidas de Combate à Desertificação e Mitigação dos Efeitos da Seca (UNCCD)
 

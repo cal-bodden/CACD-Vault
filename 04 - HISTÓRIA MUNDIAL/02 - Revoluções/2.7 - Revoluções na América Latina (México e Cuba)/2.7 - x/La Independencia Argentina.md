@@ -1,14 +1,14 @@
 ---
 title: La Independencia Argentina
-area: HISTÓRIA MUNDIAL
-subarea: Revoluções
+area: Revoluções
+subarea: 2.7 Revoluções na América Latina (México e Cuba)
 tags:
-  - cacd-2025
-  - historia-mundial
-  - revolucoes
-  - revolucoes-na-america-latina
+- cacd-2025
+- historia-mundial
+- revolucoes
+- revolucoes-na-america-latina
 aliases:
-  - Independencia Argentina
+- Independencia Argentina
 ---
 # La Independencia Argentina: De la Revolución de Mayo a los Conflictos Internos
 

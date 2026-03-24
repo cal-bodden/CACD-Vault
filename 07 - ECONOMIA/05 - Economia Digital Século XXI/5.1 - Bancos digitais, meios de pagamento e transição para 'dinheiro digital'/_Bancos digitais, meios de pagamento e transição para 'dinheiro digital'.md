@@ -1,12 +1,12 @@
 ---
-title: "Bancos digitais, meios de pagamento e transição para 'dinheiro digital'"
-area: "ECONOMIA"
-subarea: "Economia Digital Século XXI"
+title: Bancos digitais, meios de pagamento e transição para 'dinheiro digital'
+area: Economia Digital Século XXI
+subarea: 5.1 Bancos digitais, meios de pagamento e transição para 'dinheiro digital'
 tags:
-  - bancos-digitais-meios-de-pagamento-e-transicao-para-dinheiro-digital
-  - cacd-2025
-  - economia
-  - economia-digital-seculo-xxi
+- bancos-digitais-meios-de-pagamento-e-transicao-para-dinheiro-digital
+- cacd-2025
+- economia
+- economia-digital-seculo-xxi
 ---
 # A Revolução do Dinheiro Digital: As CBDCs, o Projeto Drex e o Futuro do Sistema Financeiro
 

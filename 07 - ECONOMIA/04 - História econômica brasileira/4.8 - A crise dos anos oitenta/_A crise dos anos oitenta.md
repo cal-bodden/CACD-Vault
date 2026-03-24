@@ -1,16 +1,16 @@
 ---
 title: A crise dos anos oitenta
-area: ECONOMIA
-subarea: História econômica brasileira
+area: 4. História econômica brasileira.
+subarea: 4.8.2 Aceleração inflacionária e os planos de combate à inflação.
 tags:
-  - a-crise-dos-anos-oitenta
-  - cacd-2025
-  - economia
-  - historia-economica-brasileira
+- a-crise-dos-anos-oitenta
+- cacd-2025
+- economia
+- historia-economica-brasileira
 aliases:
-  - 4.8 A crise dos anos oitenta.
-  - A interrupção do financiamento externo e as políticas de ajuste.
-  - Aceleração inflacionária e os planos de combate à inflação.
+- 4.8 A crise dos anos oitenta.
+- A interrupção do financiamento externo e as políticas de ajuste.
+- Aceleração inflacionária e os planos de combate à inflação.
 ---
 # A Década Perdida: Crise Econômica do Brasil nos Anos 1980 
 

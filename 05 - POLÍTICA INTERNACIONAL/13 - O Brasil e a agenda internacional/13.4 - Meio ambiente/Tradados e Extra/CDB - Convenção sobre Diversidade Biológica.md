@@ -2,14 +2,17 @@
 tema: Convenção sobre Diversidade Biológica (CDB)
 área: Política Internacional
 tags:
-  - meio-ambiente
-  - ONU
-  - o-brasil-e-a-agenda-internacional
-conexões: Meio Ambiente, Desenvolvimento Sustentável, Direito Internacional do Meio Ambiente, Organizações Internacionais
+- meio-ambiente
+- ONU
+- o-brasil-e-a-agenda-internacional
+conexões: Meio Ambiente, Desenvolvimento Sustentável, Direito Internacional do Meio
+  Ambiente, Organizações Internacionais
 aliases:
-  - Convenção sobre Diversidade Biológica
-  - CDB
-  - Convenção sobre Diversidade Biológica - CDB
+- Convenção sobre Diversidade Biológica
+- CDB
+- Convenção sobre Diversidade Biológica - CDB
+area: O Brasil e a agenda internacional
+subarea: 13.4 Meio ambiente
 ---
   # Convenção sobre Diversidade Biológica (CDB)
 

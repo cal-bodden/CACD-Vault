@@ -1,29 +1,7 @@
-# Caderno — História Mundial
-
-## TPS 2017 — Tarde
-
 ---
-## Questão 55 — TPS 2017 Tarde — História Mundial
-
-**Contexto:** Em 1830 e em 1848, a Europa foi tomada por movimentos
-revolucionários.
-
-### Item 1
-O levante liberal em Viena, em 1848, levou Metternich a comandar uma dura repressão militar na capital austríaca, que restaurou a ordem anterior.
-#### Gabarito Oficial: Errado (E)
-
-### Item 2
-Embora exprimissem demandas nacionais, as revoluções de 1848 constituíram movimentos coordenados, articulados de forma central durante as campanhas liberais de Paris.
-#### Gabarito Oficial: Errado (E)
-
-### Item 3
-Os movimentos revolucionários de 1830 resultaram da mobilização de diferentes setores sociais, com motivações e objetivos próprios, contra o sistema estabelecido pelo Congresso de Viena.
-#### Gabarito Oficial: Certo (C)
-
-### Item 4
-A primeira fissura no status territorial europeu estabelecido em 1815 ocorreu em Bruxelas, em 1830, quando protestos de origem social tomaram dimensões políticas, o que levou à expulsão das tropas holandesas e à consequente proclamação da independência da Bélgica.
-#### Gabarito Oficial: Certo (C)
-
+area: Provas Anteriores
+subarea: _Materias
+tags: []
 ---
 ## Questão 56 — TPS 2017 Tarde — História Mundial
 

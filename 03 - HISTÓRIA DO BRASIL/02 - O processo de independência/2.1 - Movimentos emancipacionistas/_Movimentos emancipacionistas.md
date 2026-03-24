@@ -1,14 +1,14 @@
 ---
 title: Movimentos emancipacionistas
-area: HISTÓRIA DO BRASIL
+area: 2. O processo de independência.
 subarea: O processo de independência
 tags:
-  - cacd-2025
-  - historia-do-brasil
-  - movimentos-emancipacionistas
-  - o-processo-de-independencia
+- cacd-2025
+- historia-do-brasil
+- movimentos-emancipacionistas
+- o-processo-de-independencia
 aliases:
-  - 2.1 Movimentos emancipacionistas.
+- 2.1 Movimentos emancipacionistas.
 ---
 # Movimentos Emancipacionistas no Brasil e Revoltas Nativistas
 

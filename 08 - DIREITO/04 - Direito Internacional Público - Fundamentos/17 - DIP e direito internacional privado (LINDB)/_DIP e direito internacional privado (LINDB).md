@@ -1,14 +1,15 @@
 ---
 title: DIP e direito internacional privado (LINDB)
-area: DIREITO
+area: 17. DIP e direito internacional privado (Lei de Introdução às Normas do Direito
+  Brasileiro).
 subarea: Direito Internacional Público - Fundamentos
 tags:
-  - cacd-2025
-  - dip-e-direito-internacional-privado
-  - direito
-  - direito-internacional-publico---fundamentos
+- cacd-2025
+- dip-e-direito-internacional-privado
+- direito
+- direito-internacional-publico---fundamentos
 aliases:
-  - DIP e direito internacional privado (Lei de Introdução às Normas do Direito Brasileiro).
+- DIP e direito internacional privado (Lei de Introdução às Normas do Direito Brasileiro).
 ---
 # Direito Internacional Público x Privado e as Normas de Conexão da LINDB para o CACD
 

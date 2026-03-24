@@ -1,14 +1,14 @@
 ---
 title: Crises Fiscais na Era Moderna
-area: ECONOMIA
-subarea: Macroeconomia
+area: Macroeconomia
+subarea: 2.3 Economia do Setor Público e Política Fiscal
 tags:
-  - cacd-2025
-  - economia
-  - economia-do-setor-publico-e-politica-fiscal
-  - macroeconomia
+- cacd-2025
+- economia
+- economia-do-setor-publico-e-politica-fiscal
+- macroeconomia
 aliases:
-  - Crises Fiscais na Era Moderna
+- Crises Fiscais na Era Moderna
 ---
 
 # Crises Fiscais na Era Moderna: Uma Análise das Perspectivas de Autores de Referência

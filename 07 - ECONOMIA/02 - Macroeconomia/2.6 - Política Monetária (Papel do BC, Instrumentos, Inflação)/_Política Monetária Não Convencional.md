@@ -1,15 +1,15 @@
 ---
 title: Política Monetária Não Convencional
-area: ECONOMIA
-subarea: Macroeconomia
+area: 2. Macroeconomia.
+subarea: 2.6.4 Política Monetária Não Convencional.
 tags:
-  - cacd-2025
-  - economia
-  - macroeconomia
-  - politica-monetaria
-  - politica-monetaria-nao-convencional
+- cacd-2025
+- economia
+- macroeconomia
+- politica-monetaria
+- politica-monetaria-nao-convencional
 aliases:
-  - Política Monetária Não Convencional.
+- Política Monetária Não Convencional.
 ---
 # Política Monetária Não Convencional 
 

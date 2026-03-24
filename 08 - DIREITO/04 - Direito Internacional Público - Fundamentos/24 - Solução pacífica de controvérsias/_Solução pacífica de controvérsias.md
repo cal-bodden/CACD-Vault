@@ -1,14 +1,16 @@
 ---
 title: Solução pacífica de controvérsias
-area: DIREITO
+area: 24. Solução pacífica de controvérsias. Prática diplomática brasileira. Bons
+  ofícios. Mediação. Investigação ou inquérito. Conciliação. Meios jurisdicionais.
+  Arbitragem. Meios judiciais. Corte Internacional de Justiça. Outros tribunais internacionais.
 subarea: Direito Internacional Público - Fundamentos
 tags:
-  - cacd-2025
-  - direito
-  - direito-internacional-publico---fundamentos
-  - solucao-pacifica-de-controversias
+- cacd-2025
+- direito
+- direito-internacional-publico---fundamentos
+- solucao-pacifica-de-controversias
 aliases:
-  - Solução pacífica de controvérsias
+- Solução pacífica de controvérsias
 ---
 # Solução Pacífica de Controvérsias no Direito Internacional
 

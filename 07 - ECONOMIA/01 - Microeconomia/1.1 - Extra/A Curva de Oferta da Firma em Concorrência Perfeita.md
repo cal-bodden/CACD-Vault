@@ -1,14 +1,14 @@
 ---
 title: Curva de Oferta da Firma em Concorrência Perfeita
-area: ECONOMIA
-subarea: Microeconomia
+area: Microeconomia
+subarea: 1.1 Extra
 tags:
-  - cacd-2025
-  - economia
-  - microeconomia
-  - oferta-do-produtor
+- cacd-2025
+- economia
+- microeconomia
+- oferta-do-produtor
 aliases:
-  - A Curva de Oferta da Firma em Concorrência Perfeita
+- A Curva de Oferta da Firma em Concorrência Perfeita
 ---
 
 

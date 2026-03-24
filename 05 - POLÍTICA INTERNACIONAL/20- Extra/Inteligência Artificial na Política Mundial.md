@@ -1,3 +1,7 @@
+---
+area: Extra
+tags: []
+---
 
 
 # Inteligência Artificial na Política Mundial: A Guerra Tecnológica, a Governança Global e a Posição do Brasil

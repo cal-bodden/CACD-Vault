@@ -1,14 +1,14 @@
 ---
 title: A Constituição de 1824
-area: HISTÓRIA DO BRASIL
+area: 3. O Primeiro Reinado (1822-1831).
 subarea: O Primeiro Reinado (1822-1831)
 tags:
-  - a-constituicao-de-1824
-  - cacd-2025
-  - historia-do-brasil
-  - o-primeiro-reinado
+- a-constituicao-de-1824
+- cacd-2025
+- historia-do-brasil
+- o-primeiro-reinado
 aliases:
-  - 3.1 A Constituição de 1824.
+- 3.1 A Constituição de 1824.
 ---
 # Constituição de 1824: Marco Fundamental do Brasil Imperial
 

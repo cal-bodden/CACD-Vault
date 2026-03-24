@@ -1,14 +1,14 @@
 ---
 title: A Geografia moderna e a questão nacional na Europa
-area: GEOGRAFIA
+area: 1. História da Geografia.
 subarea: História da Geografia
 tags:
-  - a-geografia-moderna-e-a-questao-nacional-na-europa
-  - cacd-2025
-  - geografia
-  - historia-da-geografia
+- a-geografia-moderna-e-a-questao-nacional-na-europa
+- cacd-2025
+- geografia
+- historia-da-geografia
 aliases:
-  - 1.2 A Geografia moderna e a questão nacional na Europa.
+- 1.2 A Geografia moderna e a questão nacional na Europa.
 ---
 # A Geografia Moderna e a Questão Nacional na Europa
 

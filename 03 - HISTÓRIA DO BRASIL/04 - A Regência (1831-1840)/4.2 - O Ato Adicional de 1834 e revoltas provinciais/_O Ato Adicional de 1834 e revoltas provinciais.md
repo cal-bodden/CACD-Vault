@@ -1,14 +1,14 @@
 ---
 title: O Ato Adicional de 1834 e revoltas provinciais
-area: HISTÓRIA DO BRASIL
+area: 4. A Regência (1831-1840).
 subarea: A Regência (1831-1840)
 tags:
-  - a-regencia
-  - cacd-2025
-  - historia-do-brasil
-  - o-ato-adicional-de-1834-e-revoltas-provinciais
+- a-regencia
+- cacd-2025
+- historia-do-brasil
+- o-ato-adicional-de-1834-e-revoltas-provinciais
 aliases:
-  - 4.2 O Ato Adicional de 1834 e revoltas provinciais.
+- 4.2 O Ato Adicional de 1834 e revoltas provinciais.
 ---
 # 4.2 O Ato Adicional de 1834 e revoltas provinciais
 

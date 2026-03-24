@@ -1,13 +1,14 @@
 ---
 title: Direito Internacional do Meio Ambiente.
-area: DIREITO
+area: 32. Direito Internacional do Meio Ambiente. Direito Internacional do Mar. Tribunal
+  Internacional do Direito do Mar.
 subarea: Direito Internacional Público
 tags:
-  - cacd-2025
-  - direito
-  - direito-do-meio-ambiente
+- cacd-2025
+- direito
+- direito-do-meio-ambiente
 aliases:
-  - Direito Internacional do Meio Ambiente
+- Direito Internacional do Meio Ambiente
 ---
 
 # Direito Internacional do Meio Ambiente (DIMA) – Regimes Contemporâneos, Princípios e Desenvolvimentos Recentes

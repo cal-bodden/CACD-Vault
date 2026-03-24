@@ -1,14 +1,16 @@
 ---
 title: Administração Pública no Brasil (Princípios, Estrutura)
-area: DIREITO
+area: 9. Administração Pública no Brasil. Princípios constitucionais da administração
+  pública e dos servidores públicos. Estrutura da Administração Pública Federal. Atos
+  administrativos. Processo e procedimento administrativo.
 subarea: Direito Administrativo e Servidor Público
 tags:
-  - administracao-publica-no-brasil
-  - cacd-2025
-  - direito
-  - direito-administrativo-e-servidor-publico
+- administracao-publica-no-brasil
+- cacd-2025
+- direito
+- direito-administrativo-e-servidor-publico
 aliases:
-  - Administração Pública no Brasil.
+- Administração Pública no Brasil.
 ---
 # 9. Administração Pública no Brasil
 

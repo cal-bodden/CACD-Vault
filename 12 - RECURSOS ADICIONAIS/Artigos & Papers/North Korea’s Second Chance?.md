@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 ## How Trump Could Bring Kim Back to the Negotiating Table
 
 ### Andrei Lankov

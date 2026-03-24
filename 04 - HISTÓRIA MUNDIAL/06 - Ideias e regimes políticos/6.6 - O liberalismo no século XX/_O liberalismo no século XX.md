@@ -1,14 +1,14 @@
 ---
 title: O liberalismo no século XX
-area: HISTÓRIA MUNDIAL
+area: 6. Ideias e regimes políticos.
 subarea: Ideias e regimes políticos
 tags:
-  - cacd-2025
-  - historia-mundial
-  - ideias-e-regimes-politicos
-  - o-liberalismo-no-seculo-xx
+- cacd-2025
+- historia-mundial
+- ideias-e-regimes-politicos
+- o-liberalismo-no-seculo-xx
 aliases:
-  - 6.6 O liberalismo no século XX.
+- 6.6 O liberalismo no século XX.
 ---
 # 6.6 O Liberalismo no Século XX
 

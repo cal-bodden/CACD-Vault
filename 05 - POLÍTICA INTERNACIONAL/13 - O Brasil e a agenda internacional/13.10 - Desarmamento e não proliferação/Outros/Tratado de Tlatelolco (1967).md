@@ -1,12 +1,12 @@
 ---
 title: Tratado de Tlatelolco
 aliases:
-  - Tratado de Tlatelolco (1967)
-  - Tratado de Tlatelolco
-tags: 
+- Tratado de Tlatelolco (1967)
+- Tratado de Tlatelolco
+tags: []
 date: 2025-04-18
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+area: O Brasil e a agenda internacional
+subarea: 13.10 Desarmamento e não proliferação
 ---
 
  ## Sumário

@@ -1,14 +1,14 @@
 ---
 title: Demanda do Consumidor (Preferências, Equilíbrio, Curva, Elasticidade)
-area: ECONOMIA
+area: 1. Microeconomia.
 subarea: Microeconomia
 tags:
-  - cacd-2025
-  - demanda-do-consumidor
-  - economia
-  - microeconomia
+- cacd-2025
+- demanda-do-consumidor
+- economia
+- microeconomia
 aliases:
-  - 1.1 Demanda do Consumidor.
+- 1.1 Demanda do Consumidor.
 ---
 # Demanda do Consumidor 
 

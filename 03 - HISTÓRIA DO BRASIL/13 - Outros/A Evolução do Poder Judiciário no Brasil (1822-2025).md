@@ -1,3 +1,7 @@
+---
+area: Outros
+tags: []
+---
 # A Evolução do Poder Judiciário no Brasil (1822-2025): Da Subordinação à Afirmação como Poder
 
 ## O Judiciário no Império (1824–1889): Um Poder Subordinado

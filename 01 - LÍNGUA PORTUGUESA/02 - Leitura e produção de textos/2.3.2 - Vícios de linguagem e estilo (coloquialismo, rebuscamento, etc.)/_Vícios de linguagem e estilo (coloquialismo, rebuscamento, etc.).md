@@ -1,14 +1,17 @@
 ---
 title: Vícios de linguagem e estilo (coloquialismo, rebuscamento, etc.)
-area: LÍNGUA PORTUGUESA
-subarea: Leitura e produção de textos
+area: 2. Leitura e produção de textos.
+subarea: 2.3 Redação de textos dissertativos dotados de fundamentação conceitual e
+  factual, consistência argumentativa, progressão temática e referencial, coerência,
+  objetividade, precisão, clareza, concisão, coesão textual e correção gramatical.
 tags:
-  - cacd-2025
-  - leitura-e-producao-de-textos
-  - lingua-portuguesa
-  - vicios-de-linguagem-e-estilo
+- cacd-2025
+- leitura-e-producao-de-textos
+- lingua-portuguesa
+- vicios-de-linguagem-e-estilo
 aliases:
-  - "2.3.2 Vícios de linguagem e estilo: ruptura de registro linguístico, coloquialismo, barbarismo, anacronismo, rebuscamento, redundância e linguagem estereotipada."
+- '2.3.2 Vícios de linguagem e estilo: ruptura de registro linguístico, coloquialismo,
+  barbarismo, anacronismo, rebuscamento, redundância e linguagem estereotipada.'
 ---
 # Vícios de Linguagem e Estilo: Guia Prático para uma Escrita Formal de Excelência no CACD
 

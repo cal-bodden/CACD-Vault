@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 ## Israel Cannot Destroy Its Way to Peace
 
 ### Marc Lynch

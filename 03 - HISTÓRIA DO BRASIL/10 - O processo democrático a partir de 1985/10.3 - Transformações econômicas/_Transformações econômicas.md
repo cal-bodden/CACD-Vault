@@ -1,14 +1,14 @@
 ---
 title: Transformações econômicas
-area: HISTÓRIA DO BRASIL
-subarea: O processo democrático a partir de 1985
+area: 10. O processo democrático a partir de 1985.
+subarea: 10.2 Partidos políticos e eleições.
 tags:
-  - cacd-2025
-  - historia-do-brasil
-  - o-processo-democratico-a-partir-de-1985
-  - transformacoes-economicas
+- cacd-2025
+- historia-do-brasil
+- o-processo-democratico-a-partir-de-1985
+- transformacoes-economicas
 aliases:
-  - 10.3 Transformações econômicas.
+- 10.3 Transformações econômicas.
 ---
 # As Transformações da Economia Brasileira na Nova República (1985-2025): Da Hiperinflação à Busca por um Novo Modelo de Desenvolvimento
 

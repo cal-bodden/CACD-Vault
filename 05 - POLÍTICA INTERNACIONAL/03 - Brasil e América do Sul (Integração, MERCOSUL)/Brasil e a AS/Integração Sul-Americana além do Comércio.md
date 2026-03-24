@@ -1,14 +1,16 @@
 ---
-title: "Integração na América do Sul +.  "
-area: POLÍTICA INTERNACIONAL
-subarea: Brasil e América do Sul (Integração, MERCOSUL)
+title: 'Integração na América do Sul +.  '
+area: 3. O Brasil e a América do Sul.
+subarea: 3.4 As iniciativas de integração física, energética, política, econômica
+  e de defesa na América do Sul.
 tags:
-  - brasil-e-america-do-sul
-  - cacd-2025
-  - politica-internacional
-  - integracao-america-do-sul
+- brasil-e-america-do-sul
+- cacd-2025
+- politica-internacional
+- integracao-america-do-sul
 aliases:
-  - As iniciativas de integração física, energética, política, econômica e de defesa na América do Sul.
+- As iniciativas de integração física, energética, política, econômica e de defesa
+  na América do Sul.
 ---
 # Integração Sul-Americana além do Comércio: o Papel do Brasil como Articulador
 

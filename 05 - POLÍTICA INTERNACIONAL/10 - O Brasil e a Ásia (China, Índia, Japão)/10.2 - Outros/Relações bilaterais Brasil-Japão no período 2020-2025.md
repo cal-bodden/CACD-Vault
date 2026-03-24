@@ -1,13 +1,13 @@
 ---
 title: Relações bilaterais Brasil-Japão no período 2020-2025
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a Ásia (China, Índia, Japão)
+area: O Brasil e a Ásia (China, Índia, Japão)
+subarea: 10.2 Outros
 tags:
-  - cacd-2025
-  - o-brasil-e-a-asia
-  - politica-internacional
+- cacd-2025
+- o-brasil-e-a-asia
+- politica-internacional
 aliases:
-  - Relações bilaterais Brasil-Japão no período 2020-2025
+- Relações bilaterais Brasil-Japão no período 2020-2025
 ---
 # Relações bilaterais Brasil-Japão no período 2020-2025
 

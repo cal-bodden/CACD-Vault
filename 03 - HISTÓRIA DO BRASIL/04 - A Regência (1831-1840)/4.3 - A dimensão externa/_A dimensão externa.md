@@ -1,14 +1,14 @@
 ---
 title: A dimensão externa
-area: HISTÓRIA DO BRASIL
+area: 4. A Regência (1831-1840).
 subarea: A Regência (1831-1840)
 tags:
-  - a-dimensao-externa
-  - a-regencia
-  - cacd-2025
-  - historia-do-brasil
+- a-dimensao-externa
+- a-regencia
+- cacd-2025
+- historia-do-brasil
 aliases:
-  - 4.3 A dimensão externa.
+- 4.3 A dimensão externa.
 ---
 # A dimensão externa do Período Regencial (1831-1840)
 

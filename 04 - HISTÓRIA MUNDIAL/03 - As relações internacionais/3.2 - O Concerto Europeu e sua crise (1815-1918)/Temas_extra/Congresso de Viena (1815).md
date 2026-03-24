@@ -1,12 +1,12 @@
 ---
-title: "Congresso de Viena (1815)"
-area: "HISTÓRIA MUNDIAL"
-subarea: "As relações internacionais"
+title: Congresso de Viena (1815)
+area: As relações internacionais
+subarea: 3.2 O Concerto Europeu e sua crise (1815-1918)
 tags:
-  - as-relacoes-internacionais
-  - cacd-2025
-  - historia-mundial
-  - o-concerto-europeu-e-sua-crise
+- as-relacoes-internacionais
+- cacd-2025
+- historia-mundial
+- o-concerto-europeu-e-sua-crise
 ---
 # Congresso de Viena (1815) e suas Consequências Diretas para o Brasil
 

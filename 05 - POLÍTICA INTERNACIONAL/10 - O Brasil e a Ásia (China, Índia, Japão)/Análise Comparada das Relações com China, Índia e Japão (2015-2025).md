@@ -1,13 +1,13 @@
 ---
 title: Análise Comparada das Relações com China, Índia e Japão (2015-2025)
-area: POLÍTICA INTERNACIONAL
+area: O Brasil e a Ásia (China, Índia, Japão)
 subarea: O Brasil e a Ásia (China, Índia, Japão)
 tags:
-  - cacd-2025
-  - o-brasil-e-a-asia
-  - politica-internacional
+- cacd-2025
+- o-brasil-e-a-asia
+- politica-internacional
 aliases:
-  - "China, Índia e Japão: políticas externas e relações com o Brasil."
+- 'China, Índia e Japão: políticas externas e relações com o Brasil.'
 ---
 # O Pêndulo Asiático do Brasil: Análise Comparada das Relações com China, Índia e Japão (2015-2025)
 

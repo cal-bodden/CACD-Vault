@@ -1,14 +1,17 @@
 ---
 title: Organizações dos Estados Americanos (OEA)
-area: DIREITO
+area: 25. Organizações internacionais. Incorporação ao direito brasileiro dos atos
+  de organizações internacionais. Organização das Nações Unidas. Agências da Organização
+  das Nações Unidas. Organização dos Estados Americanos. Carta Democrática Interamericana.
+  Outras organizações internacionais regionais. Direito comparado.
 subarea: Direito Internacional Público - Fundamentos
 tags:
-  - cacd-2025
-  - direito
-  - direito-internacional-publico---fundamentos
-  - organizacoes-internacionais
+- cacd-2025
+- direito
+- direito-internacional-publico---fundamentos
+- organizacoes-internacionais
 aliases:
-  - Organização dos Estados Americanos. Carta Democrática Interamericana.
+- Organização dos Estados Americanos. Carta Democrática Interamericana.
 ---
 # O Sistema Interamericano: A OEA e a Defesa da Democracia através da Carta Democrática
 

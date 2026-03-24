@@ -1,14 +1,14 @@
 ---
 title: A Liga das Nações
-area: HISTÓRIA MUNDIAL
-subarea: As relações internacionais
+area: 3. As relações internacionais.
+subarea: 3.5 Os 14 pontos de Wilson.
 tags:
-  - a-liga-das-nacoes
-  - as-relacoes-internacionais
-  - cacd-2025
-  - historia-mundial
+- a-liga-das-nacoes
+- as-relacoes-internacionais
+- cacd-2025
+- historia-mundial
 aliases:
-  - 3.7 A Liga das Nações.
+- 3.7 A Liga das Nações.
 ---
 # A Liga das Nações (1920-1946): A Busca pela Paz e o Fracasso da Segurança Coletiva no Entreguerras
 

@@ -1,13 +1,13 @@
 ---
 title: A dimensão da segurança na política exterior do Brasil
-area: POLÍTICA INTERNACIONAL
+area: 17. A dimensão da segurança na política exterior do Brasil.
 subarea: A dimensão da segurança na política exterior do Brasil
 tags:
-  - a-dimensao-da-seguranca-na-politica-exterior-do-brasil
-  - cacd-2025
-  - politica-internacional
+- a-dimensao-da-seguranca-na-politica-exterior-do-brasil
+- cacd-2025
+- politica-internacional
 aliases:
-  - A dimensão da segurança na política exterior do Brasil.
+- A dimensão da segurança na política exterior do Brasil.
 ---
 # A Dimensão da Segurança na Política Externa Brasileira (PEB)
 

@@ -1,15 +1,15 @@
 ---
 title: Acordos de Lomé e Cotonou - Cooperação Econômica entre a UE e os Países ACP
-area: POLÍTICA INTERNACIONAL
+area: África (política externa e relações com o Brasil)
 subarea: África (política externa e relações com o Brasil)
 tags:
-  - africa
-  - cacd-2025
-  - politica-internacional
-  - politica-externa-uniao-europeia
+- africa
+- cacd-2025
+- politica-internacional
+- politica-externa-uniao-europeia
 aliases:
-  - Acordos de Lomé
-  - Acordos de Cotonou
+- Acordos de Lomé
+- Acordos de Cotonou
 ---
 ---
 

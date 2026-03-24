@@ -1,16 +1,16 @@
 ---
 title: O Primeiro Plano Nacional de Desenvolvimento (I PND).
-area: ECONOMIA
-subarea: História econômica brasileira
+area: 4. História econômica brasileira.
+subarea: 4.6.2 O Primeiro Plano Nacional de Desenvolvimento (I PND).
 tags:
-  - a-retomada-do-crescimento-1968-1973
-  - cacd-2025
-  - economia
-  - historia-economica-brasileira
+- a-retomada-do-crescimento-1968-1973
+- cacd-2025
+- economia
+- historia-economica-brasileira
 aliases:
-  - I PND
-  - Primeiro Plano Nacional de Desenvolvimento (I PND).
-  - O Primeiro Plano Nacional de Desenvolvimento (I PND).
+- I PND
+- Primeiro Plano Nacional de Desenvolvimento (I PND).
+- O Primeiro Plano Nacional de Desenvolvimento (I PND).
 ---
 
 # O I Plano Nacional de Desenvolvimento (1972-1974): Apogeu e Colapso do "Milagre Econômico"

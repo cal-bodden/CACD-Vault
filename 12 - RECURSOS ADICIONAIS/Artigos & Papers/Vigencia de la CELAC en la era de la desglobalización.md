@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 # [Vigencia de la CELAC en la era de la desglobalización](https://revistafal.com/vigencia-de-la-celac-en-la-era-de-la-desglobalizacion/)
 
 29 abril, 2025 • [Artículos](https://revistafal.com/category/articulos/), [CESPEM](https://revistafal.com/category/cespem/), [Latinoamérica](https://revistafal.com/category/regiones/latinoamerica/), [Portada](https://revistafal.com/category/portada/) • Vistas: 1022

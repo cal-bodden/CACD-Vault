@@ -1,14 +1,14 @@
 ---
 title: As dimensões econômicas e sociais da América Portuguesa
-area: HISTÓRIA DO BRASIL
+area: 1. O período colonial.
 subarea: O período colonial
 tags:
-  - as-dimensoes-economicas-e-sociais-da-america-portuguesa
-  - cacd-2025
-  - historia-do-brasil
-  - o-periodo-colonial
+- as-dimensoes-economicas-e-sociais-da-america-portuguesa
+- cacd-2025
+- historia-do-brasil
+- o-periodo-colonial
 aliases:
-  - 1.2 As dimensões econômicas e sociais da América Portuguesa.
+- 1.2 As dimensões econômicas e sociais da América Portuguesa.
 ---
 # Dimensões Econômicas e Sociais da América Portuguesa
 

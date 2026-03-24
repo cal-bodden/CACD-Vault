@@ -1,14 +1,14 @@
 ---
 title: O processo de transição política
-area: HISTÓRIA DO BRASIL
+area: 9. O Regime Militar (1964-1985).
 subarea: O Regime Militar (1964-1985)
 tags:
-  - cacd-2025
-  - historia-do-brasil
-  - o-processo-de-transicao-politica
-  - o-regime-militar
+- cacd-2025
+- historia-do-brasil
+- o-processo-de-transicao-politica
+- o-regime-militar
 aliases:
-  - 9.5 O processo de transição política.
+- 9.5 O processo de transição política.
 ---
 # A Transição Política no Brasil (1974-1985): A Abertura "Lenta, Gradual e Segura" e a Pressão da Sociedade Civil
 

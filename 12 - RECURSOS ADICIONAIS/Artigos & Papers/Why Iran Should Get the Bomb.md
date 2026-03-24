@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 ## Nuclear Balancing Would Mean Stability
 
 ### [Kenneth N. Waltz](https://www.foreignaffairs.com/authors/kenneth-n-waltz)

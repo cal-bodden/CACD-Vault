@@ -1,14 +1,14 @@
 ---
 title: Licitações e contratos administrativos
-area: DIREITO
+area: 10. Licitações e contratos administrativos.
 subarea: Direito Administrativo e Servidor Público
 tags:
-  - cacd-2025
-  - direito
-  - direito-administrativo-e-servidor-publico
-  - licitacoes-e-contratos-administrativos
+- cacd-2025
+- direito
+- direito-administrativo-e-servidor-publico
+- licitacoes-e-contratos-administrativos
 aliases:
-  - Licitações e contratos administrativos.
+- Licitações e contratos administrativos.
 ---
 # 10. Licitações e Contratos Administrativos
 

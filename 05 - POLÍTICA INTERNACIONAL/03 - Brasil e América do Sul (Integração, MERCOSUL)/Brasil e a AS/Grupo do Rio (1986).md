@@ -1,14 +1,14 @@
 ---
 title: Grupo do Rio
-area: "POLÍTICA INTERNACIONAL"
-subarea: "Brasil e América do Sul (Integração, MERCOSUL)"
+area: Brasil e América do Sul (Integração, MERCOSUL)
+subarea: Brasil e a AS
 tags:
-  - brasil-e-america-do-sul
-  - cacd-2025
-  - politica-internacional
-  - integracao-america-do-sul
+- brasil-e-america-do-sul
+- cacd-2025
+- politica-internacional
+- integracao-america-do-sul
 aliases:
-  - Grupo do Rio
+- Grupo do Rio
 ---
 > **Síntese Didática (Técnica de Feynman):**  
 > O Grupo do Rio, criado em 1986 no Rio de Janeiro, foi um mecanismo de consulta política que reuniu países latino-americanos e caribenhos para promover democracia, estabilidade e desenvolvimento regional, começando com oito membros e expandindo para 24. Surgiu do Grupo de Contadora e do Grupo de Apoio, focando na mediação de conflitos e na busca de soluções autônomas para a região, sem interferência externa. Foi um precursor da CELAC, sendo substituído por ela em 2011, mas deixou um legado de diálogo político e cooperação na América Latina e Caribe.

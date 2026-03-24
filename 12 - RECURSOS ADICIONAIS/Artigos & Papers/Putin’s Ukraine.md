@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 # The End of War and the Price of Russian Occupation
 ![[Pasted image 20250328205822.png]]
 

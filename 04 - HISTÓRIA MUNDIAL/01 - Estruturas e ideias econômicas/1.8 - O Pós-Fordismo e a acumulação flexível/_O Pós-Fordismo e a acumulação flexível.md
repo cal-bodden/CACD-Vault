@@ -1,14 +1,14 @@
 ---
 title: O Pós-Fordismo e a acumulação flexível
-area: HISTÓRIA MUNDIAL
-subarea: Estruturas e ideias econômicas
+area: 1. Estruturas e ideias econômicas.
+subarea: 1.8 O Pós-Fordismo e a acumulação flexível.
 tags:
-  - cacd-2025
-  - estruturas-e-ideias-economicas
-  - historia-mundial
-  - o-pos-fordismo-e-a-acumulacao-flexivel
+- cacd-2025
+- estruturas-e-ideias-economicas
+- historia-mundial
+- o-pos-fordismo-e-a-acumulacao-flexivel
 aliases:
-  - O Pós-Fordismo e a acumulação flexível.
+- O Pós-Fordismo e a acumulação flexível.
 ---
 # O Pós-Fordismo e a Acumulação Flexível
 

@@ -1,3 +1,6 @@
+---
+tags: []
+---
   file:///home/cal/Downloads/mercosul_estrutura(1).html
 
 # MERCOSUL

@@ -1,15 +1,15 @@
 ---
 title: Tratado de El Pardo (1761)
-area: HISTÓRIA DO BRASIL
-subarea: O período colonial
+area: O período colonial
+subarea: 1.3 Outros
 tags:
-  - a-configuracao-territorial-da-america-portuguesa
-  - cacd-2025
-  - historia-do-brasil
-  - o-periodo-colonial
-  - formacao-territorial-brasil
+- a-configuracao-territorial-da-america-portuguesa
+- cacd-2025
+- historia-do-brasil
+- o-periodo-colonial
+- formacao-territorial-brasil
 aliases:
-  - Tratado de El Pardo de 1761
+- Tratado de El Pardo de 1761
 ---
 # O Tratado de El Pardo (1761): A Anulação de Madri e o Retorno ao Vácuo Jurídico
 

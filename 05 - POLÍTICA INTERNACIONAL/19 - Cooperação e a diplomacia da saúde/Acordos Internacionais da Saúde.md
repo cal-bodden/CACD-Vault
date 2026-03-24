@@ -1,12 +1,12 @@
 ---
 title: Acordos Internacionais da Saúde
-area: POLÍTICA INTERNACIONAL
+area: Cooperação e a diplomacia da saúde
 subarea: Cooperação e a diplomacia da saúde
 tags:
-  - cacd-2025
-  - cooperacao-e-a-diplomacia-da-saude
-  - politica-internacional
-aliases:
+- cacd-2025
+- cooperacao-e-a-diplomacia-da-saude
+- politica-internacional
+aliases: null
 ---
 # Os Acordos Internacionais da Saúde: Do Regulamento Sanitário Internacional à Reforma da Arquitetura Pós-Pandemia
 

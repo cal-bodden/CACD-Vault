@@ -1,14 +1,14 @@
 ---
 title: A prosperidade no segundo pós-guerra
-area: HISTÓRIA MUNDIAL
-subarea: Estruturas e ideias econômicas
+area: 1. Estruturas e ideias econômicas.
+subarea: 1.6 A prosperidade no segundo pós-guerra.
 tags:
-  - a-prosperidade-no-segundo-pos-guerra
-  - cacd-2025
-  - estruturas-e-ideias-economicas
-  - historia-mundial
+- a-prosperidade-no-segundo-pos-guerra
+- cacd-2025
+- estruturas-e-ideias-economicas
+- historia-mundial
 aliases:
-  - A prosperidade no segundo pós-guerra.
+- A prosperidade no segundo pós-guerra.
 ---
 # A Prosperidade no Pós-Guerra (1945–1973): Sociedade de Consumo no Centro e os Desafios do Desenvolvimento na Periferia
 

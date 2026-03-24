@@ -1,14 +1,14 @@
 ---
 title: Globalização e divisão internacional do trabalho
-area: GEOGRAFIA
+area: 3. Geografia econômica.
 subarea: Geografia econômica
 tags:
-  - cacd-2025
-  - geografia
-  - geografia-economica
-  - globalizacao-e-divisao-internacional-do-trabalho
+- cacd-2025
+- geografia
+- geografia-economica
+- globalizacao-e-divisao-internacional-do-trabalho
 aliases:
-  - 3.1 Globalização e divisão internacional do trabalho.
+- 3.1 Globalização e divisão internacional do trabalho.
 ---
 # Globalização e a Divisão Internacional do Trabalho
 

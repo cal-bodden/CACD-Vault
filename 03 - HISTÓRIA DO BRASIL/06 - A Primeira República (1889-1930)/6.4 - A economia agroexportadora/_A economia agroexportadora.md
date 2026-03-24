@@ -1,14 +1,14 @@
 ---
 title: A economia agroexportadora
-area: HISTÓRIA DO BRASIL
+area: 6. A Primeira República (1889-1930).
 subarea: A Primeira República (1889-1930)
 tags:
-  - a-economia-agroexportadora
-  - a-primeira-republica
-  - cacd-2025
-  - historia-do-brasil
+- a-economia-agroexportadora
+- a-primeira-republica
+- cacd-2025
+- historia-do-brasil
 aliases:
-  - 6.4 A economia agroexportadora.
+- 6.4 A economia agroexportadora.
 ---
 # A Economia Agroexportadora na Primeira República (1889-1930): Hegemonia, Intervenção e Crise
 

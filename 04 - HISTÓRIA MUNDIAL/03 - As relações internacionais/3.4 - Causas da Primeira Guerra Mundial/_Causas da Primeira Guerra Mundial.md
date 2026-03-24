@@ -1,14 +1,14 @@
 ---
 title: Causas da Primeira Guerra Mundial
-area: HISTÓRIA MUNDIAL
-subarea: As relações internacionais
+area: 3. As relações internacionais.
+subarea: 3.4 Causas da Primeira Guerra Mundial.
 tags:
-  - as-relacoes-internacionais
-  - cacd-2025
-  - causas-da-primeira-guerra-mundial
-  - historia-mundial
+- as-relacoes-internacionais
+- cacd-2025
+- causas-da-primeira-guerra-mundial
+- historia-mundial
 aliases:
-  - Causas da Primeira Guerra Mundial.
+- Causas da Primeira Guerra Mundial.
 ---
 # As Causas da Primeira Guerra Mundial: Da "Paz Armada" à Crise de Julho de 1914
 

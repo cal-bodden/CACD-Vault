@@ -1,13 +1,13 @@
 ---
 title: O Brasil e as coalizões internacionais (G-20, IBAS, BRICS)
-area: POLÍTICA INTERNACIONAL
+area: '18. O Brasil e as coalizões internacionais: o G-20, o IBAS e o BRICS.'
 subarea: O Brasil e as coalizões internacionais (G-20, IBAS, BRICS)
 tags:
-  - cacd-2025
-  - o-brasil-e-as-coalizoes-internacionais
-  - politica-internacional
+- cacd-2025
+- o-brasil-e-as-coalizoes-internacionais
+- politica-internacional
 aliases:
-  - "O Brasil e as coalizões internacionais: o G-20, o IBAS e o BRICS."
+- 'O Brasil e as coalizões internacionais: o G-20, o IBAS e o BRICS.'
 ---
 # Brasil no G-20, IBAS e BRICS: Estratégias e Desafios
 

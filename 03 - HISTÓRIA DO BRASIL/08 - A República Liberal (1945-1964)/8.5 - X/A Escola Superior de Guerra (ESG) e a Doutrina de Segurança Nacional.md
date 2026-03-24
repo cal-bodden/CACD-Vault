@@ -1,14 +1,14 @@
 ---
 title: A Escola Superior de Guerra (ESG) e a Doutrina de Segurança Nacional
-area: HISTÓRIA DO BRASIL
-subarea: A República Liberal (1945-1964)
+area: A República Liberal (1945-1964)
+subarea: 8.5 X
 tags:
-  - a-republica-liberal
-  - cacd-2025
-  - historia-do-brasil
+- a-republica-liberal
+- cacd-2025
+- historia-do-brasil
 aliases:
-  - A Escola Superior de Guerra (ESG) e a Doutrina de Segurança Nacional
-  - Escola Superior de Guerra (ESG)
+- A Escola Superior de Guerra (ESG) e a Doutrina de Segurança Nacional
+- Escola Superior de Guerra (ESG)
 ---
 # A Escola Superior de Guerra (ESG) e a Doutrina de Segurança Nacional: A Matriz do Pensamento Estratégico do Regime Militar
 

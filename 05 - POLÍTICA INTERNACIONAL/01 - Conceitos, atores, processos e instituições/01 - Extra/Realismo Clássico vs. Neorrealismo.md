@@ -1,13 +1,13 @@
 ---
 title: Realismo Clássico vs. Neorrealismo
-area: POLÍTICA INTERNACIONAL
-subarea: Conceitos, atores, processos e instituições
+area: Conceitos, atores, processos e instituições
+subarea: 01 Extra
 tags:
-  - cacd-2025
-  - conceitos-atores-processos-e-instituicoes
-  - politica-internacional
+- cacd-2025
+- conceitos-atores-processos-e-instituicoes
+- politica-internacional
 aliases:
-  - "Realismo Clássico vs. Neorrealismo"
+- Realismo Clássico vs. Neorrealismo
 ---
 # Realismo Clássico vs. Neorrealismo: A Evolução da Teoria Realista e a Natureza do Poder
 

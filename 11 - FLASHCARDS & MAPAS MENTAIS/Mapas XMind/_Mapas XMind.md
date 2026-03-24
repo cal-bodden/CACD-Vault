@@ -1,10 +1,10 @@
 ---
-title: "Mapas XMind"
-area: "FLASHCARDS & MAPAS MENTAIS"
-subarea: "FLASHCARDS & MAPAS MENTAIS"
+title: Mapas XMind
+area: Mapas XMind
+subarea: FLASHCARDS & MAPAS MENTAIS
 tags:
-  - cacd-2025
-  - flashcards--mapas-mentais
-  - mapas-xmind
+- cacd-2025
+- flashcards--mapas-mentais
+- mapas-xmind
 ---
 

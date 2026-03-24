@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 # 50 Essential Python Concepts for AI Development: A Comprehensive Study Guide
 
 ## Core Python Fundamentals Crucial for AI Development

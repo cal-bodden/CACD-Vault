@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 ## And Why America Risks Losing It
 ### Heather A. Conley
 

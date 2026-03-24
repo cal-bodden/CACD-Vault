@@ -1,14 +1,14 @@
 ---
-title: "Sociedade e cultura: o Modernismo."  
-area: HISTÓRIA DO BRASIL
+title: 'Sociedade e cultura: o Modernismo.'
+area: 6. A Primeira República (1889-1930).
 subarea: A Primeira República (1889-1930)
 tags:
-  - a-crise-dos-anos-20-do-seculo-xx
-  - a-primeira-republica
-  - cacd-2025
-  - historia-do-brasil
+- a-crise-dos-anos-20-do-seculo-xx
+- a-primeira-republica
+- cacd-2025
+- historia-do-brasil
 aliases:
-  - "6.6 Sociedade e cultura: o Modernismo."
+- '6.6 Sociedade e cultura: o Modernismo.'
 ---
 # O Modernismo de 1922: Ruptura Cultural e a Busca por uma Identidade Brasileira na Crise da Primeira República
 

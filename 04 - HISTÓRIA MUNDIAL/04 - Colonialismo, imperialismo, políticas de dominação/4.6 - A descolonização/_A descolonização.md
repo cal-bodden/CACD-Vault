@@ -1,14 +1,14 @@
 ---
 title: A descolonização
-area: HISTÓRIA MUNDIAL
+area: 4. Colonialismo, imperialismo, políticas de dominação.
 subarea: Colonialismo, imperialismo, políticas de dominação
 tags:
-  - a-descolonizacao
-  - cacd-2025
-  - colonialismo-imperialismo-politicas-de-dominacao
-  - historia-mundial
+- a-descolonizacao
+- cacd-2025
+- colonialismo-imperialismo-politicas-de-dominacao
+- historia-mundial
 aliases:
-  - 4.6 A descolonização.
+- 4.6 A descolonização.
 ---
 # .6 A descolonização
 

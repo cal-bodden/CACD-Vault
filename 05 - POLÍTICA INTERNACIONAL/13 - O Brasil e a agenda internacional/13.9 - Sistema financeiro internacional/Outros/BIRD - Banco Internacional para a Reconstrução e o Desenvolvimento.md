@@ -1,12 +1,13 @@
 ---
 title: Banco Internacional para a Reconstrução e o Desenvolvimento (BIRD)
 aliases:
-  - BIRD
+- BIRD
 date: 2025-04-18
 tags:
-  - SistemaFinanceiroInternacional
-  - sistema-de-bretton-woods
-area: POLÍTICA INTERNACIONAL
+- SistemaFinanceiroInternacional
+- sistema-de-bretton-woods
+area: O Brasil e a agenda internacional
+subarea: 13.9 Sistema financeiro internacional
 ---
 # Banco Internacional para a Reconstrução e o Desenvolvimento (BIRD)
 

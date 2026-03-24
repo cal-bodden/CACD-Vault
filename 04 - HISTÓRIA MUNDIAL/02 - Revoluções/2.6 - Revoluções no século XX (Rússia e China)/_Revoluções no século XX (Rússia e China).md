@@ -1,14 +1,14 @@
 ---
 title: Revoluções no século XX (Rússia e China)
-area: HISTÓRIA MUNDIAL
+area: 2. Revoluções.
 subarea: Revoluções
 tags:
-  - cacd-2025
-  - historia-mundial
-  - revolucoes
-  - revolucoes-no-seculo-xx
+- cacd-2025
+- historia-mundial
+- revolucoes
+- revolucoes-no-seculo-xx
 aliases:
-  - "2.6 Revoluções no século XX: Rússia e China."
+- '2.6 Revoluções no século XX: Rússia e China.'
 ---
 # Revoluções Socialistas no Século XX: Rússia (1917) e China (1949) – Nota de Estudo Estratégica
 

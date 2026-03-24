@@ -1,15 +1,15 @@
 ---
-title: " Pactos Globais e Governança Migratória"
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+title: ' Pactos Globais e Governança Migratória'
+area: O Brasil e a agenda internacional
+subarea: 13.7 Migrações internacionais, refugiados e apátridas
 tags:
-  - cacd-2025
-  - migracoes-internacionais-refugiados-e-apatridas
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
+- cacd-2025
+- migracoes-internacionais-refugiados-e-apatridas
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
 aliases:
-  - Pacto Global para a Migração
-  - Pacto Global sobre Refugiados
+- Pacto Global para a Migração
+- Pacto Global sobre Refugiados
 ---
 # Os Pactos Globais da ONU e a Governança das Migrações e do Refúgio
 

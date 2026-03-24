@@ -1,15 +1,15 @@
 ---
 title: A Organização das Nações Unidas
-area: HISTÓRIA MUNDIAL
-subarea: As relações internacionais
+area: 3. As relações internacionais.
+subarea: 3.5 Os 14 pontos de Wilson.
 tags:
-  - a-organizacao-das-nacoes-unidas
-  - as-relacoes-internacionais
-  - cacd-2025
-  - historia-mundial
-  - guerra-fria
+- a-organizacao-das-nacoes-unidas
+- as-relacoes-internacionais
+- cacd-2025
+- historia-mundial
+- guerra-fria
 aliases:
-  - "3.13 A Guerra Fria: a noção de bipolaridade (de Truman a Nixon)."
+- '3.13 A Guerra Fria: a noção de bipolaridade (de Truman a Nixon).'
 ---
 # A Ordem Bipolar da Guerra Fria: Da Doutrina Truman à _Détente_ de Nixon (1947-1974)
 

@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 ## The Global Fight Over a Powerful Idea
 
 When he reentered the White House in January, President Donald Trump insisted that protecting free speech was one of his key missions. On his first day back in office, he signed an executive order called “Restoring Freedom of Speech and Ending Federal Censorship,” which condemned the Biden administration for “trampl(ing) free speech rights” and instructed federal agencies to uphold the U.S. Constitution’s First Amendment. But in truth, Trump has likely done more to undermine free speech than any U.S. president since the McCarthy era. In his second term, he has launched spurious personal lawsuits against media outlets, sought to pull funding from universities whose curricula do not meet his preferences, and tried to deport foreign students and academics for political speech.

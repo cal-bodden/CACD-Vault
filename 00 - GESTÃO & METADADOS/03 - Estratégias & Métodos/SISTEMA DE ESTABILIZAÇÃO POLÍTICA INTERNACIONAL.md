@@ -1,25 +1,6 @@
-# 🌍 SISTEMA DE ESTABILIZAÇÃO POLÍTICA INTERNACIONAL
-
-## 🎯 OBJETIVO: Sair de 38-62% → Estabilizar em 65%+
-
 ---
-
-## 📊 DIAGNÓSTICO DO PROBLEMA
-
-### Por que PI é tão instável no CACD?
-
-1. **Amplitude temática** - De Tucídides a Trump
-2. **Teoria vs. Prática** - CESPE mistura conceitos com casos
-3. **Atualização constante** - Mundo muda, provas mudam
-4. **Interdisciplinaridade** - Cruza com História, Economia, Direito
-
-### Seus padrões de erro em PI:
-
-- [ ] Confusão entre escolas teóricas similares
-- [ ] Desatualização em temas contemporâneos
-- [ ] Extrapolação de conceitos teóricos
-- [ ] Cronologia imprecisa de eventos
-
+area: Estratégias & Métodos
+tags: []
 ---
 
 ## 🗺️ MAPA MESTRE DE PI PARA CACD

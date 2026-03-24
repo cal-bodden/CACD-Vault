@@ -1,15 +1,15 @@
 ---
 title: Grupo de Apoio ao Contadora (1985)
-area: POLÍTICA INTERNACIONAL
-subarea: Brasil e América do Sul (Integração, MERCOSUL)
+area: Brasil e América do Sul (Integração, MERCOSUL)
+subarea: Brasil e a AS
 tags:
-  - brasil-e-america-do-sul
-  - cacd-2025
-  - politica-internacional
-  - integracao-america-do-sul
+- brasil-e-america-do-sul
+- cacd-2025
+- politica-internacional
+- integracao-america-do-sul
 aliases:
-  - Grupo de Apoio ao Contadora
-  - Grupo de Lima
+- Grupo de Apoio ao Contadora
+- Grupo de Lima
 ---
 > **Síntese Didática (Técnica de Feynman):**  
 > O Grupo de Apoio ao Contadora, formado em 1985 por Argentina, Brasil, Peru e Uruguai, foi uma iniciativa diplomática para reforçar os esforços do Grupo de Contadora (México, Panamá, Colômbia, Venezuela) na mediação de conflitos na América Central, como os de Nicarágua, El Salvador e Guatemala, durante a Guerra Fria. Seu objetivo era ampliar o peso político e a representatividade regional para promover paz e soluções autônomas, sem intervenção dos EUA. Junto com o Contadora, evoluiu para o Grupo do Rio em 1986, marcando um passo importante na integração latino-americana e na busca por autonomia regional.

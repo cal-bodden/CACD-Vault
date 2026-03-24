@@ -1,17 +1,19 @@
 ---
 title: Convenção sobre Certas Armas Convencionais (CCW)
-area: POLÍTICA INTERNACIONAL
+area: O Brasil e a agenda internacional
 tags:
-  - cacd-2025
-  - desarmamento-e-nao-proliferacao
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
-  - ONU
+- cacd-2025
+- desarmamento-e-nao-proliferacao
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
+- ONU
 aliases:
-  - CCW
-  - Convenção sobre Certas Armas Convencionais (CCW)
+- CCW
+- Convenção sobre Certas Armas Convencionais (CCW)
 date: 2025-05-04
-conexões: Convenções de Genebra, Direito Internacional Humanitário, Desarmamento, Armas Autônomas Letais
+conexões: Convenções de Genebra, Direito Internacional Humanitário, Desarmamento,
+  Armas Autônomas Letais
+subarea: 13.10 Desarmamento e não proliferação
 ---
 # Convenção sobre Certas Armas Convencionais (CCW)
 

@@ -1,14 +1,16 @@
 ---
 title: Temas clássicos (fronteiras, apropriação do espaço)
-area: GEOGRAFIA
-subarea: Geografia política
+area: 6. Geografia política.
+subarea: '6.2 Temas clássicos da geografia política: as fronteiras e as formas de
+  apropriação política do espaço.'
 tags:
-  - cacd-2025
-  - geografia
-  - geografia-politica
-  - temas-classicos
+- cacd-2025
+- geografia
+- geografia-politica
+- temas-classicos
 aliases:
-  - "Temas clássicos da geografia política: as fronteiras e as formas de apropriação política do espaço."
+- 'Temas clássicos da geografia política: as fronteiras e as formas de apropriação
+  política do espaço.'
 ---
 # Temas Clássicos da Geografia Política: Fronteiras e Território no Pensamento de Autores de Referência
 

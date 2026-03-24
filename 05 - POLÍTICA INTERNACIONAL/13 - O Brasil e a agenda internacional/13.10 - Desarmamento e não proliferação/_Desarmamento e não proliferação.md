@@ -1,14 +1,14 @@
 ---
 title: Desarmamento e não proliferação
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+area: '13. O Brasil e a agenda internacional:'
+subarea: 13.9 Sistema financeiro internacional.
 tags:
-  - cacd-2025
-  - desarmamento-e-nao-proliferacao
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
+- cacd-2025
+- desarmamento-e-nao-proliferacao
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
 aliases:
-  - 13.10 Desarmamento e não proliferação.
+- 13.10 Desarmamento e não proliferação.
 ---
 # 13.10 Desarmamento e não proliferação
 

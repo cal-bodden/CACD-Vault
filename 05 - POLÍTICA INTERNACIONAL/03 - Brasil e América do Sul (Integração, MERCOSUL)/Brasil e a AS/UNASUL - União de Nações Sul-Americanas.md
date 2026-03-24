@@ -1,15 +1,15 @@
 ---
-title: "UNASUL: O Auge, a Crise e o Legado do Projeto de Integração Sul-Americana"
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e o sistema interamericano (OEA)
+title: 'UNASUL: O Auge, a Crise e o Legado do Projeto de Integração Sul-Americana'
+area: Brasil e América do Sul (Integração, MERCOSUL)
+subarea: Brasil e a AS
 tags:
-  - cacd-2025
-  - o-brasil-e-o-sistema-interamericano
-  - politica-internacional
-  - brasil-e-america-do-sul
+- cacd-2025
+- o-brasil-e-o-sistema-interamericano
+- politica-internacional
+- brasil-e-america-do-sul
 aliases:
-  - UNASUL
-  - União de Nações Sul-Americanas (UNASUL)
+- UNASUL
+- União de Nações Sul-Americanas (UNASUL)
 ---
 # A UNASUL: O Auge, a Crise e o Legado do Projeto de Integração Sul-Americana
 

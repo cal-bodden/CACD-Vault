@@ -1,18 +1,21 @@
 ---
 tema: Agência Internacional de Energia Atômica (AIEA)
-area: POLÍTICA INTERNACIONAL
+area: O Brasil e a agenda internacional
 data: 04/05/2025
 tags:
-  - cacd-2025
-  - desarmamento-e-nao-proliferacao
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
-  - ONU
-conexões: Organização das Nações Unidas (ONU), Direito Internacional, Segurança Internacional, EnergiaNuclear, NaoProliferacaoNuclear, UsoPacificoEnergiaNuclear, SalvaguardasNucleares, TNP, SegurancaNuclear, TecnologiaNuclear
+- cacd-2025
+- desarmamento-e-nao-proliferacao
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
+- ONU
+conexões: Organização das Nações Unidas (ONU), Direito Internacional, Segurança Internacional,
+  EnergiaNuclear, NaoProliferacaoNuclear, UsoPacificoEnergiaNuclear, SalvaguardasNucleares,
+  TNP, SegurancaNuclear, TecnologiaNuclear
 aliases:
-  - AIEA - Agência Internacional de Energia Atômica
-  - AIEA
-  - Agência Internacional de Energia Atômica (AIEA)
+- AIEA - Agência Internacional de Energia Atômica
+- AIEA
+- Agência Internacional de Energia Atômica (AIEA)
+subarea: 13.10 Desarmamento e não proliferação
 ---
 
 # Agência Internacional de Energia Atômica (AIEA)

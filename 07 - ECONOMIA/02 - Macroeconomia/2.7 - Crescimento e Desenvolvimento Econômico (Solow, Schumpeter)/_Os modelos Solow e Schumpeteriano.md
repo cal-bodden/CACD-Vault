@@ -1,14 +1,14 @@
 ---
 title: Os modelos Solow e Schumpeteriano
-area: ECONOMIA
-subarea: Macroeconomia
+area: 2. Macroeconomia.
+subarea: '2.7.2 O papel da inovação no crescimento econômico: Os modelos Solow e Schumpeteriano.'
 tags:
-  - cacd-2025
-  - crescimento-e-desenvolvimento-economico
-  - economia
-  - macroeconomia
+- cacd-2025
+- crescimento-e-desenvolvimento-economico
+- economia
+- macroeconomia
 aliases:
-  - Os modelos Solow e Schumpeteriano
+- Os modelos Solow e Schumpeteriano
 ---
 # O Papel da Inovação no Crescimento Econômico: Uma Análise dos Modelos de Solow e Schumpeteriano
 

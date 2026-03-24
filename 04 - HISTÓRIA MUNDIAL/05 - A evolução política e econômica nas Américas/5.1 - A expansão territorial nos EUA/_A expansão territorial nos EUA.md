@@ -1,14 +1,14 @@
 ---
 title: A expansão territorial nos EUA
-area: HISTÓRIA MUNDIAL
+area: 5. A evolução política e econômica nas Américas.
 subarea: A evolução política e econômica nas Américas
 tags:
-  - a-evolucao-politica-e-economica-nas-americas
-  - a-expansao-territorial-nos-eua
-  - cacd-2025
-  - historia-mundial
+- a-evolucao-politica-e-economica-nas-americas
+- a-expansao-territorial-nos-eua
+- cacd-2025
+- historia-mundial
 aliases:
-  - 5.1 A expansão territorial nos EUA.
+- 5.1 A expansão territorial nos EUA.
 ---
 # A Expansão Territorial dos EUA no Século XIX: Destino Manifesto, Conquistas e Consequências
 

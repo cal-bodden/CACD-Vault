@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 ## Private contracting is in the DNA of the modern state.
 
 > By [**Priya Satia**](https://foreignpolicy.com/author/priya-satia/), the Raymond A. Spruance professor of international history at Stanford University.

@@ -1,14 +1,14 @@
 ---
 title: O meio ambiente nas relações internacionais
-area: GEOGRAFIA
+area: 7. Geografia e gestão ambiental.
 subarea: Geografia e gestão ambiental
 tags:
-  - cacd-2025
-  - geografia
-  - geografia-e-gestao-ambiental
-  - o-meio-ambiente-nas-relacoes-internacionais
+- cacd-2025
+- geografia
+- geografia-e-gestao-ambiental
+- o-meio-ambiente-nas-relacoes-internacionais
 aliases:
-  - "7.1 O meio ambiente nas relações internacionais: questões conceituais e institucionais."
+- '7.1 O meio ambiente nas relações internacionais: questões conceituais e institucionais.'
 ---
 # Nota de Estudo: 7.1 O Meio Ambiente nas Relações Internacionais: Questões Conceituais e Institucionais
 

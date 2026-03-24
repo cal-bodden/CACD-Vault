@@ -1,16 +1,16 @@
 ---
 title: Conferência das Nações Unidas sobre Comércio e Desenvolvimento (UNCTAD)
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+area: O Brasil e a agenda internacional
+subarea: 13.2 Desenvolvimento e desenvolvimento sustentável
 tags:
-  - cacd-2025
-  - o-brasil-e-a-agenda-internacional
-  - pobreza-inseguranca-alimentar-e-fome
-  - politica-internacional
-  - desenvolvimento-e-desenvolvimento-sustentavel
+- cacd-2025
+- o-brasil-e-a-agenda-internacional
+- pobreza-inseguranca-alimentar-e-fome
+- politica-internacional
+- desenvolvimento-e-desenvolvimento-sustentavel
 aliases:
-  - UNCTAD
-  - Conferência das Nações Unidas sobre Comércio e Desenvolvimento (UNCTAD)
+- UNCTAD
+- Conferência das Nações Unidas sobre Comércio e Desenvolvimento (UNCTAD)
 ---
 
 # A UNCTAD na Governança Global: A Voz do Sul no Debate sobre Comércio e Desenvolvimento

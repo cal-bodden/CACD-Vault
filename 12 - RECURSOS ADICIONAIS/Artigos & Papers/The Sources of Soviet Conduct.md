@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 ### “X” ([George F. Kennan](https://www.foreignaffairs.com/authors/george-f-kennan))
 
 [July 1947](https://www.foreignaffairs.com/issues/1947/25/4) Published on July 1, 1947

@@ -1,14 +1,14 @@
 ---
 title: Operações de paz das Nações Unidas
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+area: 2. Crimes Cibernéticos e lavagem de dinheiro
+subarea: 13.14 Reforma das Nações Unidas.
 tags:
-  - cacd-2025
-  - o-brasil-e-a-agenda-internacional
-  - operacoes-de-paz-das-nacoes-unidas
-  - politica-internacional
+- cacd-2025
+- o-brasil-e-a-agenda-internacional
+- operacoes-de-paz-das-nacoes-unidas
+- politica-internacional
 aliases:
-  - 13.15 Operações de paz das Nações Unidas.
+- 13.15 Operações de paz das Nações Unidas.
 ---
 # Operações de Paz da ONU: Evolução, Princípios, Desafios e a Atuação do Brasil
 

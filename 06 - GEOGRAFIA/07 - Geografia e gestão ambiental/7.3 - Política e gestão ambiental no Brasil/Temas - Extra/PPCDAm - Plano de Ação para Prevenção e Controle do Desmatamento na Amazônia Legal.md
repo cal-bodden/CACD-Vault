@@ -1,17 +1,19 @@
 ---
 title: Plano de Ação para Prevenção e Controle do Desmatamento na Amazônia Legal (PPCDAm)
-area: GEOGRAFIA
-subarea: Geografia e gestão ambiental
+area: Geografia e gestão ambiental
+subarea: 7.3 Política e gestão ambiental no Brasil
 tags:
-  - cacd-2025
-  - geografia
-  - geografia-e-gestao-ambiental
-  - politica-e-gestao-ambiental-no-brasil
-  - amazônia-legal
+- cacd-2025
+- geografia
+- geografia-e-gestao-ambiental
+- politica-e-gestao-ambiental-no-brasil
+- amazônia-legal
 aliases:
-  - PPCDAm
-  - Plano de Ação para Prevenção e Controle do Desmatamento na Amazônia Legal
-conexões: Amazônia, Desmatamento, Política Ambiental, Desenvolvimento Sustentável, Direito Ambiental, MonitoramentoAmbiental, FiscalizacaoAmbiental, OrdenamentoTerritorial, RegularizacaoFundiaria, ZEE, PSA
+- PPCDAm
+- Plano de Ação para Prevenção e Controle do Desmatamento na Amazônia Legal
+conexões: Amazônia, Desmatamento, Política Ambiental, Desenvolvimento Sustentável,
+  Direito Ambiental, MonitoramentoAmbiental, FiscalizacaoAmbiental, OrdenamentoTerritorial,
+  RegularizacaoFundiaria, ZEE, PSA
 ---
 # Plano de Ação para Prevenção e Controle do Desmatamento na Amazônia Legal (PPCDAm)
 

@@ -1,28 +1,7 @@
-Aqui está uma explicação clara e detalhada sobre a **Função de Produção Cobb-Douglas**, seu significado econômico, interpretação e como se relaciona à Teoria da Firma:
-
 ---
-
-## 📌 **O que é a Função de Produção Cobb-Douglas?**
-
-A **função Cobb-Douglas** é uma forma matemática muito utilizada em economia para representar a relação entre os fatores de produção (geralmente **capital KK** e **trabalho LL**) e o produto final (produção total, $Q$). Sua forma geral é dada por:
-
-$Q=A⋅K^α⋅L^ β$
-
-Onde:
-
-- $Q$: produção total da firma.
-    
-- $K$: capital utilizado.
-    
-- $L$: trabalho utilizado.
-    
-- $A$: tecnologia ou eficiência total dos fatores (Produtividade Total dos Fatores, PTF).
-    
-- $α$: elasticidade-produto do capital.
-    
-- $β$: elasticidade-produto do trabalho.
-    
-
+area: Microeconomia
+subarea: 1.1 Extra
+tags: []
 ---
 
 ## 📊 **Interpretação econômica da Cobb-Douglas**

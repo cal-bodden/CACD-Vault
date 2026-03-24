@@ -1,14 +1,14 @@
 ---
 title: Reforma das Nações Unidas
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+area: 2. Crimes Cibernéticos e lavagem de dinheiro
+subarea: 13.14 Reforma das Nações Unidas.
 tags:
-  - cacd-2025
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
-  - reforma-das-nacoes-unidas
+- cacd-2025
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
+- reforma-das-nacoes-unidas
 aliases:
-  - Reforma das Nações Unidas.
+- Reforma das Nações Unidas.
 ---
 # Reforma das Nações Unidas
 

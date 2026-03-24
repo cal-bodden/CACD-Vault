@@ -1,14 +1,14 @@
 ---
 title: A década de 1950 (Plano SALTE, Plano de Metas)
-area: ECONOMIA
-subarea: História econômica brasileira
+area: 4. História econômica brasileira.
+subarea: 4.3.2 Falhas e Críticas ao Modelo de ISI.
 tags:
-  - a-decada-de-1950
-  - cacd-2025
-  - economia
-  - historia-economica-brasileira
+- a-decada-de-1950
+- cacd-2025
+- economia
+- historia-economica-brasileira
 aliases:
-  - 4.4 A década de 1950.
+- 4.4 A década de 1950.
 ---
 # Economia Brasileira na Década de 1950: Desenvolvimento, Planos e Planejamento
 

@@ -1,14 +1,14 @@
 ---
 title: A crise e a desagregação do bloco soviético
-area: HISTÓRIA MUNDIAL
-subarea: As relações internacionais
+area: 3. As relações internacionais.
+subarea: 3.14 Os conflitos localizados.
 tags:
-  - a-crise-e-a-desagregacao-do-bloco-sovietico
-  - as-relacoes-internacionais
-  - cacd-2025
-  - historia-mundial
+- a-crise-e-a-desagregacao-do-bloco-sovietico
+- as-relacoes-internacionais
+- cacd-2025
+- historia-mundial
 aliases:
-  - 3.17 A crise e a desagregação do bloco soviético.
+- 3.17 A crise e a desagregação do bloco soviético.
 ---
 # A Crise e o Fim da União Soviética: De Gorbachev ao Colapso Final (1985-1991)
 

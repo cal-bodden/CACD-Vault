@@ -1,14 +1,14 @@
 ---
 title: Política e gestão ambiental no Brasil
-area: GEOGRAFIA
+area: 7. Geografia e gestão ambiental.
 subarea: Geografia e gestão ambiental
 tags:
-  - cacd-2025
-  - geografia
-  - geografia-e-gestao-ambiental
-  - politica-e-gestao-ambiental-no-brasil
+- cacd-2025
+- geografia
+- geografia-e-gestao-ambiental
+- politica-e-gestao-ambiental-no-brasil
 aliases:
-  - 7.3 Política e gestão ambiental no Brasil.
+- 7.3 Política e gestão ambiental no Brasil.
 ---
 # Política e Gestão Ambiental no Brasil: Evolução, Arcabouço Legal-Institucional, Instrumentos e Desafios Contemporâneos
 

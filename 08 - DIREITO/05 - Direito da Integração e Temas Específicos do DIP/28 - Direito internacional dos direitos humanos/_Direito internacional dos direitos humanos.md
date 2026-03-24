@@ -1,14 +1,17 @@
 ---
 title: Direito internacional dos direitos humanos
-area: DIREITO
+area: 28. Direito internacional dos direitos humanos. Exigibilidade. Tratados de direitos
+  humanos ratificados pelo Brasil. Incorporação no direito brasileiro. Sistemas convencionais
+  de petições. Conselho de Direitos Humanos. Órgãos de tratados. Sistema Interamericano
+  de Direitos Humanos.
 subarea: Direito da Integração e Temas Específicos do DIP
 tags:
-  - cacd-2025
-  - direito
-  - direito-da-integracao-e-temas-especificos-do-dip
-  - direito-internacional-dos-direitos-humanos
+- cacd-2025
+- direito
+- direito-da-integracao-e-temas-especificos-do-dip
+- direito-internacional-dos-direitos-humanos
 aliases:
-  - Direito internacional dos direitos humanos.
+- Direito internacional dos direitos humanos.
 ---
 # Direito Internacional dos Direitos Humanos – Nota de Estudo
 

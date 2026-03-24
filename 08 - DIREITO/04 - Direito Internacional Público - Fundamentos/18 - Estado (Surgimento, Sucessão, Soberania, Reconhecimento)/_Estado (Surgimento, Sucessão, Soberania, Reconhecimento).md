@@ -1,14 +1,16 @@
 ---
 title: Estado (Surgimento, Sucessão, Soberania, Reconhecimento)
-area: DIREITO
+area: 18. Estado. Surgimento e extinção de Estados. Sucessão de Estados. Direitos
+  e Deveres. Soberania. Reconhecimento de Estado e Governo.
 subarea: Direito Internacional Público - Fundamentos
 tags:
-  - cacd-2025
-  - direito
-  - direito-internacional-publico---fundamentos
-  - estado
+- cacd-2025
+- direito
+- direito-internacional-publico---fundamentos
+- estado
 aliases:
-  - Estado. Surgimento e extinção de Estados. Sucessão de Estados. Direitos e Deveres. Soberania. Reconhecimento de Estado e Governo.
+- Estado. Surgimento e extinção de Estados. Sucessão de Estados. Direitos e Deveres.
+  Soberania. Reconhecimento de Estado e Governo.
 ---
 # O Estado no Direito Internacional: Soberania, Reconhecimento, Sucessão e Deveres Fundamentais
 

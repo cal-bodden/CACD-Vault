@@ -1,14 +1,14 @@
 ---
 title: A 'segunda Guerra Fria' (Reagan-Bush)
-area: HISTÓRIA MUNDIAL
-subarea: As relações internacionais
+area: 3. As relações internacionais.
+subarea: 3.14 Os conflitos localizados.
 tags:
-  - a-segunda-guerra-fria
-  - as-relacoes-internacionais
-  - cacd-2025
-  - historia-mundial
+- a-segunda-guerra-fria
+- as-relacoes-internacionais
+- cacd-2025
+- historia-mundial
 aliases:
-  - 3.16 A “segunda Guerra Fria” (Reagan-Bush).
+- 3.16 A “segunda Guerra Fria” (Reagan-Bush).
 ---
 
 

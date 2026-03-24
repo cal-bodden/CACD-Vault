@@ -1,14 +1,17 @@
 ---
 title: Defeitos de conteúdo (descontextualização, simplismo, etc.)
-area: LÍNGUA PORTUGUESA
-subarea: Leitura e produção de textos
+area: 2. Leitura e produção de textos.
+subarea: 2.3 Redação de textos dissertativos dotados de fundamentação conceitual e
+  factual, consistência argumentativa, progressão temática e referencial, coerência,
+  objetividade, precisão, clareza, concisão, coesão textual e correção gramatical.
 tags:
-  - cacd-2025
-  - defeitos-de-conteudo
-  - leitura-e-producao-de-textos
-  - lingua-portuguesa
+- cacd-2025
+- defeitos-de-conteudo
+- leitura-e-producao-de-textos
+- lingua-portuguesa
 aliases:
-  - "2.3.1 Defeitos de conteúdo: descontextualização, generalização, simplismo, obviedade, paráfrase, cópia, tautologia, contradição."
+- '2.3.1 Defeitos de conteúdo: descontextualização, generalização, simplismo, obviedade,
+  paráfrase, cópia, tautologia, contradição.'
 ---
 # Defeitos de Conteúdo na Escrita Argumentativa: Como Identificar e Evitar Falhas Lógicas e Analíticas
 

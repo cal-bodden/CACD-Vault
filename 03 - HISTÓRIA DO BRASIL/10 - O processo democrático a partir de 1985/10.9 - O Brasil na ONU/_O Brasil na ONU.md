@@ -1,14 +1,14 @@
 ---
 title: O Brasil na ONU
-area: HISTÓRIA DO BRASIL
-subarea: O processo democrático a partir de 1985
+area: 10. O processo democrático a partir de 1985.
+subarea: 10.6 Manifestações culturais.
 tags:
-  - cacd-2025
-  - historia-do-brasil
-  - o-brasil-na-onu
-  - o-processo-democratico-a-partir-de-1985
+- cacd-2025
+- historia-do-brasil
+- o-brasil-na-onu
+- o-processo-democratico-a-partir-de-1985
 aliases:
-  - 10.9 O Brasil na ONU.
+- 10.9 O Brasil na ONU.
 ---
 # A Atuação do Brasil na ONU (1985-2025): A Busca por Protagonismo e a Defesa do Multilateralismo
 

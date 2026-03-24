@@ -1,14 +1,15 @@
 ---
 title: Questão de Gênero na Política Mundial
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+area: '13. O Brasil e a agenda internacional:'
+subarea: '13.6 Direitos humanos e políticas de identidade: gênero, raça e religião
+  como vetores da política mundial.'
 tags:
-  - cacd-2025
-  - direitos-humanos-e-politicas-de-identidade
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
+- cacd-2025
+- direitos-humanos-e-politicas-de-identidade
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
 aliases:
-  - Questão das mulheres
+- Questão das mulheres
 ---
 # A Questão de Gênero na Política Mundial: Direitos das Mulheres e a Agenda Mulheres, Paz e Segurança
 

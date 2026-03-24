@@ -1,18 +1,14 @@
-
-
-# Origem: _Revoluções na América Latina (México e Cuba)
-
 ---
 title: Revoluções na América Latina (México e Cuba)
 area: HISTÓRIA MUNDIAL
 subarea: Revoluções
 tags:
-  - cacd-2025
-  - historia-mundial
-  - revolucoes
-  - revolucoes-na-america-latina
+- cacd-2025
+- historia-mundial
+- revolucoes
+- revolucoes-na-america-latina
 aliases:
-  - "2.7 Revoluções na América Latina: os casos do México e de Cuba."
+- '2.7 Revoluções na América Latina: os casos do México e de Cuba.'
 ---
 # As Revoluções na América Latina: Uma Análise Comparativa dos Casos do México (1910) e de Cuba (1959)
 

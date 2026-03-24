@@ -1,14 +1,14 @@
 ---
 title: As experiências de integração nas Américas
-area: HISTÓRIA MUNDIAL
+area: 5. A evolução política e econômica nas Américas.
 subarea: A evolução política e econômica nas Américas
 tags:
-  - a-evolucao-politica-e-economica-nas-americas
-  - as-experiencias-de-integracao-nas-americas
-  - cacd-2025
-  - historia-mundial
+- a-evolucao-politica-e-economica-nas-americas
+- as-experiencias-de-integracao-nas-americas
+- cacd-2025
+- historia-mundial
 aliases:
-  - 5.7 As experiências de integração nas Américas.
+- 5.7 As experiências de integração nas Américas.
 ---
 # As Experiências de Integração nas Américas: Do Ideal Bolivariano aos Desafios Contemporâneos
 

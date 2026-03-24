@@ -1,19 +1,19 @@
 ---
 title: Emprego e renda (Desemprego, Lei de Okun)
-area: ECONOMIA
-subarea: Macroeconomia
+area: 2. Macroeconomia.
+subarea: 2.8.5 Lei de Okun.
 tags:
-  - cacd-2025
-  - economia
-  - emprego-e-renda
-  - macroeconomia
+- cacd-2025
+- economia
+- emprego-e-renda
+- macroeconomia
 aliases:
-  - Emprego e renda
-  - Conceito de Desemprego.
-  - Tipos de Desemprego.
-  - Determinação do nível de emprego.
-  - Indicadores do mercado de trabalho.
-  - Lei de Okun.
+- Emprego e renda
+- Conceito de Desemprego.
+- Tipos de Desemprego.
+- Determinação do nível de emprego.
+- Indicadores do mercado de trabalho.
+- Lei de Okun.
 ---
 # Emprego, Renda e Mercado de Trabalho
 

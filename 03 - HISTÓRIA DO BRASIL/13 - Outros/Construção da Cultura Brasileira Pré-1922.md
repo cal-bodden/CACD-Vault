@@ -1,12 +1,12 @@
 ---
 title: Cultura Brasileira Pré-1922
-area: HISTÓRIA DO BRASIL
+area: Outros
 subarea: A Era Vargas (1930-1945)
 tags:
-  - cacd-2025
-  - historia-do-brasil
-  - sociedade-e-cultura
-aliases:
+- cacd-2025
+- historia-do-brasil
+- sociedade-e-cultura
+aliases: null
 ---
 # A Construção da Cultura Brasileira Pré-1922: Do Romantismo ao Pré-Modernismo
 

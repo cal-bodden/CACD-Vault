@@ -1,14 +1,15 @@
 ---
 title: Jurisdição (Relações diplomáticas, Imunidades, Proteção diplomática)
-area: DIREITO
+area: 21. Jurisdição. Relações diplomáticas e consulares. Imunidades. Responsabilidade
+  internacional do Estado. Proteção diplomática.
 subarea: Direito Internacional Público - Fundamentos
 tags:
-  - cacd-2025
-  - direito
-  - direito-internacional-publico---fundamentos
-  - jurisdicao
+- cacd-2025
+- direito
+- direito-internacional-publico---fundamentos
+- jurisdicao
 aliases:
-  - Jurisdição.
+- Jurisdição.
 ---
 # Jurisdição no Direito Internacional: Relações Diplomáticas, Imunidades, Responsabilidade Estatal e Proteção Diplomática – Perspectivas de Tratados, da CIJ e do STF
 

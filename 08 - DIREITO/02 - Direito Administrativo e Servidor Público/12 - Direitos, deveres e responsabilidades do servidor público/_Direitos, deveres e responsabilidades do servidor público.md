@@ -1,14 +1,16 @@
 ---
 title: Direitos, deveres e responsabilidades do servidor público
-area: DIREITO
+area: 12. Direitos, deveres e responsabilidades do servidor público. Improbidade administrativa.
+  Regime disciplinar e processo administrativo disciplinar.
 subarea: Direito Administrativo e Servidor Público
 tags:
-  - cacd-2025
-  - direito
-  - direito-administrativo-e-servidor-publico
-  - direitos-deveres-e-responsabilidades-do-servidor-publico
+- cacd-2025
+- direito
+- direito-administrativo-e-servidor-publico
+- direitos-deveres-e-responsabilidades-do-servidor-publico
 aliases:
-  - Direitos, deveres e responsabilidades do servidor público. Improbidade administrativa. Regime disciplinar e processo administrativo disciplinar.
+- Direitos, deveres e responsabilidades do servidor público. Improbidade administrativa.
+  Regime disciplinar e processo administrativo disciplinar.
 ---
 # 12. Direitos, Deveres e Responsabilidades do Servidor Público
 

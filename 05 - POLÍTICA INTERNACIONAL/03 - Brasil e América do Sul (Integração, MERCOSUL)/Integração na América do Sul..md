@@ -1,13 +1,13 @@
 ---
 title: Integração na América do Sul.
-area: POLÍTICA INTERNACIONAL
-subarea: Brasil e América do Sul (Integração, MERCOSUL)
+area: 3. O Brasil e a América do Sul.
+subarea: 3.1 Integração na América do Sul.
 tags:
-  - brasil-e-america-do-sul
-  - cacd-2025
-  - politica-internacional
+- brasil-e-america-do-sul
+- cacd-2025
+- politica-internacional
 aliases:
-  - Integração na América do Sul.
+- Integração na América do Sul.
 ---
 # A Integração na América do Sul para Além do Eixo Brasileiro: Uma Análise Estratégica dos Projetos Regionais
 

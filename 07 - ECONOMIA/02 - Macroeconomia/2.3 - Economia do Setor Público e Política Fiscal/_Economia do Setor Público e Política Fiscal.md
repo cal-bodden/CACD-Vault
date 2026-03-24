@@ -1,14 +1,14 @@
 ---
 title: Economia do Setor Público e Política Fiscal
-area: ECONOMIA
-subarea: Macroeconomia
+area: 2. Macroeconomia.
+subarea: 2.3 Economia do Setor Público e Política Fiscal.
 tags:
-  - cacd-2025
-  - economia
-  - economia-do-setor-publico-e-politica-fiscal
-  - macroeconomia
+- cacd-2025
+- economia
+- economia-do-setor-publico-e-politica-fiscal
+- macroeconomia
 aliases:
-  - Economia do Setor Público e Política Fiscal.
+- Economia do Setor Público e Política Fiscal.
 ---
 # 2.3 Economia do Setor Público e Política Fiscal
 

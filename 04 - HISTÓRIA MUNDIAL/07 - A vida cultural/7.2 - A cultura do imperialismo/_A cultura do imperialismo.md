@@ -1,14 +1,14 @@
 ---
 title: A cultura do imperialismo
-area: HISTÓRIA MUNDIAL
+area: 7. A vida cultural.
 subarea: A vida cultural
 tags:
-  - a-cultura-do-imperialismo
-  - a-vida-cultural
-  - cacd-2025
-  - historia-mundial
+- a-cultura-do-imperialismo
+- a-vida-cultural
+- cacd-2025
+- historia-mundial
 aliases:
-  - 7.2 A cultura do imperialismo.
+- 7.2 A cultura do imperialismo.
 ---
 # A Cultura do Imperialismo
 

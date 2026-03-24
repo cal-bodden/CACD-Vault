@@ -1,14 +1,18 @@
 ---
 title: Relação entre Direito Internacional e Direito Interno
-area: DIREITO
+area: 15. Direito Internacional. Desenvolvimento. Direito internacional Público (DIP)
+  e o Direito Interno. Constituição e Direito Internacional. Estados federados e entes
+  federados.
 subarea: Direito Internacional Público - Fundamentos
 tags:
-  - cacd-2025
-  - direito
-  - direito-internacional-publico---fundamentos
-  - relacao-entre-direito-internacional-e-direito-interno
+- cacd-2025
+- direito
+- direito-internacional-publico---fundamentos
+- relacao-entre-direito-internacional-e-direito-interno
 aliases:
-  - Direito Internacional. Desenvolvimento. Direito internacional Público (DIP) e o Direito Interno. Constituição e Direito Internacional. Estados federados e entes federados.
+- Direito Internacional. Desenvolvimento. Direito internacional Público (DIP) e o
+  Direito Interno. Constituição e Direito Internacional. Estados federados e entes
+  federados.
 ---
 # 15. Direito Internacional. Desenvolvimento. Direito Internacional Público (DIP) e o Direito Interno. Constituição e Direito Internacional. Estados federados e entes federados.
 

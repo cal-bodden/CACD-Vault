@@ -1,14 +1,14 @@
 ---
 title: Conurbação, metropolização e cidades-mundiais
-area: GEOGRAFIA
+area: 5. Geografia Urbana.
 subarea: Geografia Urbana
 tags:
-  - cacd-2025
-  - conurbacao-metropolizacao-e-cidades-mundiais
-  - geografia
-  - geografia-urbana
+- cacd-2025
+- conurbacao-metropolizacao-e-cidades-mundiais
+- geografia
+- geografia-urbana
 aliases:
-  - 5.2 Conurbação, metropolização e cidades-mundiais.
+- 5.2 Conurbação, metropolização e cidades-mundiais.
 ---
 # Da Conurbação às Cidades Globais: A Dinâmica da Metropolização no Brasil e no Mundo
 

@@ -1,14 +1,14 @@
 ---
 title: A construção dos Estados nacionais (Alemanha e Itália)
-area: HISTÓRIA MUNDIAL
+area: 6. Ideias e regimes políticos.
 subarea: Ideias e regimes políticos
 tags:
-  - a-construcao-dos-estados-nacionais
-  - cacd-2025
-  - historia-mundial
-  - ideias-e-regimes-politicos
+- a-construcao-dos-estados-nacionais
+- cacd-2025
+- historia-mundial
+- ideias-e-regimes-politicos
 aliases:
-  - "6.2 A construção dos Estados nacionais: os casos da Alemanha e da Itália."
+- '6.2 A construção dos Estados nacionais: os casos da Alemanha e da Itália.'
 ---
 # 6.2 A Construção dos Estados Nacionais: Os Casos da Alemanha e da Itália
 

@@ -1,3 +1,7 @@
+---
+area: Provas Anteriores
+tags: []
+---
 # Relatório de Extração — TPS CACD
 
 **Gerado em:** 14/03/2026 19:21:00

@@ -1,14 +1,14 @@
 ---
-title: "Liga dos Três Imperadores (1873)"
-area: "HISTÓRIA MUNDIAL"
-subarea: "As relações internacionais"
+title: Liga dos Três Imperadores (1873)
+area: As relações internacionais
+subarea: 3.2 O Concerto Europeu e sua crise (1815-1918)
 tags:
-  - as-relacoes-internacionais
-  - cacd-2025
-  - historia-mundial
-  - o-concerto-europeu-e-sua-crise
-  - unificaçao-alemanha
-  - sistema-de-alianças
+- as-relacoes-internacionais
+- cacd-2025
+- historia-mundial
+- o-concerto-europeu-e-sua-crise
+- unificaçao-alemanha
+- sistema-de-alianças
 aliases:
 - Liga dos Três Imperadores
 ---

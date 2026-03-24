@@ -1,14 +1,14 @@
 ---
 title: Direito Internacional do Meio Ambiente e do Mar
-area: DIREITO
-subarea: Direito da Integração e Temas Específicos do DIP
+area: Direito da Integração e Temas Específicos do DIP
+subarea: 32 Direito Internacional do Meio Ambiente e do Mar
 tags:
-  - cacd-2025
-  - direito
-  - direito-da-integracao-e-temas-especificos-do-dip
-  - direito-internacional-do-meio-ambiente-e-do-mar
+- cacd-2025
+- direito
+- direito-da-integracao-e-temas-especificos-do-dip
+- direito-internacional-do-meio-ambiente-e-do-mar
 aliases:
-  - UNCLOS
+- UNCLOS
 ---
 # A Convenção da ONU sobre o Direito do Mar (UNCLOS): A "Constituição dos Oceanos" e seus Desafios
 

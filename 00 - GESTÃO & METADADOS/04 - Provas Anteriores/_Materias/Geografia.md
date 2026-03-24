@@ -1,26 +1,7 @@
-# Caderno — Geografia
-
-## TPS 2017 — Manhã
-
 ---
-## Questão 23 — TPS 2017 Manhã — Geografia
-
-### Item 1
-Desde a geografia clássica até o presente, pensamento e prática geográfica conformam métodos e metodologias bem definidos, não havendo antagonismos dos tipos forma/conteúdo, objetividade/subjetividade, explicativa/compreensiva, matemática/descritiva.
-#### Gabarito Oficial: Errado (E)
-
-### Item 2
-A adoção da teoria geral dos sistemas pela geografia do século XX levou à crença de que fenômenos, como, por exemplo, dos movimentos migratórios à dinâmica da natureza, podem ser entendidos utilizando-se o cálculo de probabilidades, que permite prever ou antecipar fatos.
-#### Gabarito Oficial: Certo (C)
-
-### Item 3
-Atribuir o surgimento da geografia científica — moderna — a Carl Ritter e a Alexander Humboldt é fundamental, mas sem renegar o conhecimento geográfico produzido antes desses autores.
-#### Gabarito Oficial: Certo (C)
-
-### Item 4
-Carl Ritter e Alexander Humboldt ofereceram, em suas obras, um discurso que criou a nova ciência geográfica, simultaneamente cosmológica e regional, o que fez do geógrafo um observador da natureza capaz de somar prazer estético e prazer intelectual para compreender as leis naturais; tais princípios estavam presentes no pensamento e na prática nacionalista europeia do final do século XIX, dependentes de análises sistemáticas e particulares sobre o território.
-#### Gabarito Oficial: Certo (C)
-
+area: Provas Anteriores
+subarea: _Materias
+tags: []
 ---
 ## Questão 24 — TPS 2017 Manhã — Geografia
 

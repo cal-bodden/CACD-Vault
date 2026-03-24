@@ -1,13 +1,13 @@
 ---
 title: Direito Internacional do Mar.
-area: DIREITO
-subarea: Direito Internacional Público
+area: Direito Internacional Público - Fundamentos
+subarea: 32 Direito Internacional do Meio Ambiente
 tags:
-  - cacd-2025
-  - direito
-  - direito-do-mar
+- cacd-2025
+- direito
+- direito-do-mar
 aliases:
-  - Conflitos armados e o direito internacional
+- Conflitos armados e o direito internacional
 ---
 # Regimes Jurídicos Internacionais do Mar, Espaço Exterior e Antártida: Princípios, Normas e Desafios Atuais
 

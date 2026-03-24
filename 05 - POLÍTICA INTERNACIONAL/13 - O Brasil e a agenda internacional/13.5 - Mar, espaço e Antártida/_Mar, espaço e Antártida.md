@@ -1,14 +1,14 @@
 ---
 title: Mar, espaço e Antártida
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+area: '13. O Brasil e a agenda internacional:'
+subarea: 13.5 Mar, espaço e Antártida.
 tags:
-  - cacd-2025
-  - mar-espaco-e-antartida
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
+- cacd-2025
+- mar-espaco-e-antartida
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
 aliases:
-  - Mar, espaço e Antártida.
+- Mar, espaço e Antártida.
 ---
 # Regimes Jurídicos Internacionais do Mar, Espaço Exterior e Antártida: Princípios, Normas e Desafios Atuais
 

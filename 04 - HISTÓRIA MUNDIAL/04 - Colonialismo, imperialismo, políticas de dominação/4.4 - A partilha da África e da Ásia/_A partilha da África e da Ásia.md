@@ -1,14 +1,14 @@
 ---
 title: A partilha da África e da Ásia
-area: HISTÓRIA MUNDIAL
+area: 4. Colonialismo, imperialismo, políticas de dominação.
 subarea: Colonialismo, imperialismo, políticas de dominação
 tags:
-  - a-partilha-da-africa-e-da-asia
-  - cacd-2025
-  - colonialismo-imperialismo-politicas-de-dominacao
-  - historia-mundial
+- a-partilha-da-africa-e-da-asia
+- cacd-2025
+- colonialismo-imperialismo-politicas-de-dominacao
+- historia-mundial
 aliases:
-  - 4.4 A partilha da África e da Ásia.
+- 4.4 A partilha da África e da Ásia.
 ---
 # 4.4 A partilha da África e da Ásia
 

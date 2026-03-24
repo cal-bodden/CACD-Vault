@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 ## America Needs a New Strategy of Deterrence
 
 ### Anne Neuberger

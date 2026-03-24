@@ -1,14 +1,14 @@
 ---
 title: Disparidades regionais e planejamento no Brasil
-area: GEOGRAFIA
+area: 3. Geografia econômica.
 subarea: Geografia econômica
 tags:
-  - cacd-2025
-  - disparidades-regionais-e-planejamento-no-brasil
-  - geografia
-  - geografia-economica
+- cacd-2025
+- disparidades-regionais-e-planejamento-no-brasil
+- geografia
+- geografia-economica
 aliases:
-  - 3.4 Disparidades regionais e planejamento no Brasil.
+- 3.4 Disparidades regionais e planejamento no Brasil.
 ---
 # Disparidades Regionais e Planejamento no Brasil: Uma Análise Histórica e Geográfica
 

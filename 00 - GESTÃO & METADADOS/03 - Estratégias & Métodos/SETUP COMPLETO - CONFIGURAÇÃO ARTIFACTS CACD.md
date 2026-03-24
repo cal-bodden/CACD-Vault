@@ -1,3 +1,7 @@
+---
+area: Estratégias & Métodos
+tags: []
+---
 # SETUP COMPLETO - CONFIGURAÇÃO ARTIFACTS CACD
 
 ## PASSO 1: ESCOLHER O MODELO CORRETO

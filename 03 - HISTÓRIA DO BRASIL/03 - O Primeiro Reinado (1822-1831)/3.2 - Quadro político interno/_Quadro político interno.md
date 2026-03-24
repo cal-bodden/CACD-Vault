@@ -1,14 +1,14 @@
 ---
 title: Quadro político interno
-area: HISTÓRIA DO BRASIL
+area: 3. O Primeiro Reinado (1822-1831).
 subarea: O Primeiro Reinado (1822-1831)
 tags:
-  - cacd-2025
-  - historia-do-brasil
-  - o-primeiro-reinado
-  - quadro-politico-interno
+- cacd-2025
+- historia-do-brasil
+- o-primeiro-reinado
+- quadro-politico-interno
 aliases:
-  - 3.2 Quadro político interno.
+- 3.2 Quadro político interno.
 ---
 # O Primeiro Reinado (1822-1831): Quadro Político Interno
 

@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 ## The Fate of Legal Protections Is Tied to the Fate of Democracy
 
 ### Ari Shaw

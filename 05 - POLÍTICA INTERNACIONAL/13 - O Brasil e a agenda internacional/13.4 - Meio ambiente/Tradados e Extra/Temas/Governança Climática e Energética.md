@@ -2,11 +2,13 @@
 tema: Governança Climática e Energética
 área: Política Internacional
 tags:
-  - meio-ambiente
-  - ONU
-  - o-brasil-e-a-agenda-internacional
-conexões: Acordo de Paris e NDCs, Transição Energética Justa Segurança Energética Global
-
+- meio-ambiente
+- ONU
+- o-brasil-e-a-agenda-internacional
+conexões: Acordo de Paris e NDCs, Transição Energética Justa Segurança Energética
+  Global
+area: O Brasil e a agenda internacional
+subarea: 13.4 Meio ambiente
 ---
 # Energia, Clima e Governança Internacional: Interseções, Geopolítica e Desafios Contemporâneos
 

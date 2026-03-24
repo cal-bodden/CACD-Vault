@@ -1,12 +1,12 @@
 ---
 title: Questão Militar no Império do Brasil
-area: HISTÓRIA DO BRASIL
-subarea: O Segundo Reinado (1840-1889)
+area: O Segundo Reinado (1840-1889)
+subarea: 5.7 Extra
 tags:
-  - cacd-2025
-  - historia-do-brasil
-  - o-estado-centralizado-mudancas-institucionais-partidos-e-sistema-eleitoral
-  - o-segundo-reinado
+- cacd-2025
+- historia-do-brasil
+- o-estado-centralizado-mudancas-institucionais-partidos-e-sistema-eleitoral
+- o-segundo-reinado
 ---
 # A Questão Militar no Império do Brasil: Estrutura, Conflitos e Tensões (1822-1889)
 

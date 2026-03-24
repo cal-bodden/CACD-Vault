@@ -2,14 +2,17 @@
 tema: Conferência das Nações Unidas sobre o Meio Ambiente Humano (CNUMAH)
 área: Política Internacional
 tags:
-  - meio-ambiente
-  - ONU
-  - o-brasil-e-a-agenda-internacional
-conexões: Meio Ambiente, Desenvolvimento Sustentável, Direito Internacional do Meio Ambiente, Organizações Internacionais
+- meio-ambiente
+- ONU
+- o-brasil-e-a-agenda-internacional
+conexões: Meio Ambiente, Desenvolvimento Sustentável, Direito Internacional do Meio
+  Ambiente, Organizações Internacionais
 aliases:
-  - Conferência de Estocolmo
-  - CNUMAH
-  - Conferência das Nações Unidas sobre o Meio Ambiente Humano (CNUMAH)
+- Conferência de Estocolmo
+- CNUMAH
+- Conferência das Nações Unidas sobre o Meio Ambiente Humano (CNUMAH)
+area: O Brasil e a agenda internacional
+subarea: 13.4 Meio ambiente
 ---
 # Conferência das Nações Unidas sobre o Meio Ambiente Humano (CNUMAH) - Conferência de Estocolmo (1972)
 

@@ -1,15 +1,15 @@
 ---
 title: Fascismo Italiano — Política Interna, Economia, Cultura e Religião (1922–1943)
-area: HISTÓRIA MUNDIAL
-subarea: Ideias e regimes políticos
+area: Ideias e regimes políticos
+subarea: 6.4 Ditaduras e regimes fascistas
 tags:
-  - cacd-2025
-  - ditaduras-e-regimes-fascistas
-  - historia-mundial
-  - ideias-e-regimes-politicos
-  - Fascismo Italiano
+- cacd-2025
+- ditaduras-e-regimes-fascistas
+- historia-mundial
+- ideias-e-regimes-politicos
+- Fascismo Italiano
 aliases:
-  - 6.4 Ditaduras e regimes fascistas.
+- 6.4 Ditaduras e regimes fascistas.
 ---
 # Fascismo Italiano — Política Interna, Economia, Cultura e Religião (1922–1943)
 

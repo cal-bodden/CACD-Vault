@@ -1,12 +1,12 @@
 ---
 title: Questões de Fronteira
-area: HISTÓRIA DO BRASIL
+area: Formação Territorial
 subarea: Formação Territorial do Brasil
 tags:
-  - a-configuracao-territorial-da-america-portuguesa
-  - cacd-2025
-  - historia-do-brasil
-  - formacao-territorial-brasil
+- a-configuracao-territorial-da-america-portuguesa
+- cacd-2025
+- historia-do-brasil
+- formacao-territorial-brasil
 ---
 
 # Grandes Questões de Fronteira do Brasil

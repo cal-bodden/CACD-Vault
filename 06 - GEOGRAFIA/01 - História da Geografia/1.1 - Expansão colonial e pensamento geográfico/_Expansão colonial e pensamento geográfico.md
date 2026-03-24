@@ -1,14 +1,14 @@
 ---
 title: Expansão colonial e pensamento geográfico
-area: GEOGRAFIA
+area: 1. História da Geografia.
 subarea: História da Geografia
 tags:
-  - cacd-2025
-  - expansao-colonial-e-pensamento-geografico
-  - geografia
-  - historia-da-geografia
+- cacd-2025
+- expansao-colonial-e-pensamento-geografico
+- geografia
+- historia-da-geografia
 aliases:
-  - 1.1 Expansão colonial e pensamento geográfico.
+- 1.1 Expansão colonial e pensamento geográfico.
 ---
 # Expansão Colonial e Pensamento Geográfico
 

@@ -1,14 +1,14 @@
 ---
 title: Estado de bem-estar social (Welfare State) e sua crise
-area: HISTÓRIA MUNDIAL
-subarea: Estruturas e ideias econômicas
+area: 1. Estruturas e ideias econômicas.
+subarea: 1.7 Estado de bem-estar social (Welfare State) e sua crise.
 tags:
-  - cacd-2025
-  - estado-de-bem-estar-social-e-sua-crise
-  - estruturas-e-ideias-economicas
-  - historia-mundial
+- cacd-2025
+- estado-de-bem-estar-social-e-sua-crise
+- estruturas-e-ideias-economicas
+- historia-mundial
 aliases:
-  - Estado de bem-estar social (Welfare State) e sua crise.
+- Estado de bem-estar social (Welfare State) e sua crise.
 ---
 # O Estado de Bem-Estar Social: Ascensão, Era de Ouro e Crise (1945-1980s)
 

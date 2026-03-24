@@ -1,14 +1,14 @@
 ---
 title: Macrodivisão natural do espaço brasileiro (biomas, domínios)
-area: GEOGRAFIA
+area: 7. Geografia e gestão ambiental.
 subarea: Geografia e gestão ambiental
 tags:
-  - cacd-2025
-  - geografia
-  - geografia-e-gestao-ambiental
-  - macrodivisao-natural-do-espaco-brasileiro
+- cacd-2025
+- geografia
+- geografia-e-gestao-ambiental
+- macrodivisao-natural-do-espaco-brasileiro
 aliases:
-  - "7.2 Macrodivisão natural do espaço brasileiro: biomas, domínios e ecossistemas."
+- '7.2 Macrodivisão natural do espaço brasileiro: biomas, domínios e ecossistemas.'
 ---
 # Macrodivisão Natural do Espaço Brasileiro: Biomas, Domínios Morfoclimáticos e Ecossistemas – Uma Análise Integrada
 

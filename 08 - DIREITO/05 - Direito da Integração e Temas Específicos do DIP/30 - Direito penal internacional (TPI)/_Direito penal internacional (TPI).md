@@ -1,14 +1,15 @@
 ---
 title: Direito penal internacional (TPI)
-area: DIREITO
+area: 30. Direito penal internacional. Tribunais internacionais penais. Tribunal Penal
+  Internacional.
 subarea: Direito da Integração e Temas Específicos do DIP
 tags:
-  - cacd-2025
-  - direito
-  - direito-da-integracao-e-temas-especificos-do-dip
-  - direito-penal-internacional
+- cacd-2025
+- direito
+- direito-da-integracao-e-temas-especificos-do-dip
+- direito-penal-internacional
 aliases:
-  - Direito penal internacional. Tribunais internacionais penais. Tribunal Penal Internacional.
+- Direito penal internacional. Tribunais internacionais penais. Tribunal Penal Internacional.
 ---
 # O Direito Penal Internacional: Dos Tribunais Ad Hoc ao Tribunal Penal Internacional Permanente
 

@@ -1,14 +1,14 @@
 ---
 title: O novo nacionalismo e o fundamentalismo contemporâneo
-area: HISTÓRIA MUNDIAL
+area: 6. Ideias e regimes políticos.
 subarea: Ideias e regimes políticos
 tags:
-  - cacd-2025
-  - historia-mundial
-  - ideias-e-regimes-politicos
-  - o-novo-nacionalismo-e-o-fundamentalismo-contemporaneo
+- cacd-2025
+- historia-mundial
+- ideias-e-regimes-politicos
+- o-novo-nacionalismo-e-o-fundamentalismo-contemporaneo
 aliases:
-  - 6.5 O novo nacionalismo e a questão do fundamentalismo contemporâneo.
+- 6.5 O novo nacionalismo e a questão do fundamentalismo contemporâneo.
 ---
 # 6.5 O Novo Nacionalismo e a Questão do Fundamentalismo Contemporâneo
 

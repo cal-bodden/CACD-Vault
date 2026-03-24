@@ -1,13 +1,13 @@
 ---
 title: EUA (política externa e relações com o Brasil)
-area: POLÍTICA INTERNACIONAL
+area: '6. Estados Unidos da América: política externa e relações com o Brasil.'
 subarea: EUA (política externa e relações com o Brasil)
 tags:
-  - cacd-2025
-  - eua
-  - politica-internacional
+- cacd-2025
+- eua
+- politica-internacional
 aliases:
-  - "Estados Unidos da América: política externa e relações com o Brasil."
+- 'Estados Unidos da América: política externa e relações com o Brasil.'
 ---
 # Política Externa dos EUA (1945–2015) e Relações com o Brasil
 

@@ -1,16 +1,17 @@
 ---
 title: Tratado sobre a Proibição de Armas Nucleares (TPAN)
 aliases:
-  - TPAN
-  - TPAN - Tratado sobre a Proibição de Armas Nucleares
-  - Tratado sobre a Proibição de Armas Nucleares (TPAN)
-area: POLÍTICA INTERNACIONAL
+- TPAN
+- TPAN - Tratado sobre a Proibição de Armas Nucleares
+- Tratado sobre a Proibição de Armas Nucleares (TPAN)
+area: O Brasil e a agenda internacional
 tags:
-  - cacd-2025
-  - desarmamento-e-nao-proliferacao
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
-  - ONU
+- cacd-2025
+- desarmamento-e-nao-proliferacao
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
+- ONU
+subarea: 13.10 Desarmamento e não proliferação
 ---
 
  # TPAN - Tratado sobre a Proibição de Armas Nucleares

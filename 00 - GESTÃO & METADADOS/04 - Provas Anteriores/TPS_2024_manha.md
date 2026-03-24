@@ -1,35 +1,6 @@
-# TPS 2024 — Manhã
-
 ---
-## Questão 1 — TPS 2024 Manhã — Língua Portuguesa
-
-**Contexto:** -- PROVA OBJETIVA – PRIMEIRA FASE – MANHÃ -- 
-
-LÍNGUA PORTUGUESA
-(...) as nações latinas do Novo Mundo não se podem queixar de deslembradas. Cada incidente, ainda sem grande relevo, 
-encontra repercussão na imprensa europeia. Não aparecem, é verdade, nenhuns desses longos estudos, circunstanciados e sábios, onde 
-os mestres em assuntos internacionais dizem o que sabem sobre a história política, social e econômica do país de que se ocupam, para 
-daí deduzirem os seus juízos. Não; como de costume, sempre que se trata das repúblicas latino-americanas, os doutores e publicistas 
-da política mundial se limitam a lavrar sentenças — invariáveis e condenatórias. Como variantes dessas sentenças, eles se limitam a 
-ditar, de tempos em tempos, uns tantos conselhos axiomáticos. 
-Manoel Bomfim. América Latina: males de origem. Brasília: Editora Universidade de Brasília, p. 24 (com adaptações).
-
-### Item 1
-No terceiro período do texto, o termo “circunstanciados” se refere às condicionantes da produção do conhecimento científico da época, ou às circunstâncias da epistemologia vigente.
-#### Gabarito Oficial: Errado (E)
-
-### Item 2
-Na construção argumentativa do texto, o autor faz uma pausa retórica mediante o emprego do “Não” (quarto período), para relativizar sua oposição ao conteúdo do período imediatamente anterior, e repete, nos dois últimos períodos, a expressão “se limitam” com o propósito de reforçar sua crítica à visão eurocêntrica, por ele considerada superficial e pretensamente superior.
-#### Gabarito Oficial: Errado (E)
-
-### Item 3
-Infere-se do texto que as nações latino-americanas não são lembradas pela imprensa europeia, ou, quando o são, servem, no máximo, como objeto de críticas, de “sentenças condenatórias”.
-#### Gabarito Oficial: Errado (E)
-
-### Item 4
-Segundo o autor do texto, cada incidente ocorrido na América Latina é objeto de estudos aprofundados destinados a lavrar sentenças condenatórias.
-#### Gabarito Oficial: Errado (E)
-
+area: Provas Anteriores
+tags: []
 ---
 ## Questão 2 — TPS 2024 Manhã — Língua Portuguesa
 

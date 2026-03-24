@@ -1,12 +1,12 @@
 ---
 title: Belle Époque
-area: HISTÓRIA MUNDIAL
-subarea: A vida cultural
+area: A vida cultural
+subarea: 7.6 Outros
 tags:
-  - a-cultura-do-imperialismo
-  - a-vida-cultural
-  - cacd-2025
-  - historia-mundial
+- a-cultura-do-imperialismo
+- a-vida-cultural
+- cacd-2025
+- historia-mundial
 ---
 # A Belle Époque (c. 1871/1880 – 1914): Otimismo, Inovação e Contradições Culturais
 

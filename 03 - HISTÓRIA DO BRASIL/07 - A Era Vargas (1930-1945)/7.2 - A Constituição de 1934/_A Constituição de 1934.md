@@ -1,14 +1,14 @@
 ---
 title: A Constituição de 1934
-area: HISTÓRIA DO BRASIL
+area: 7. A Era Vargas (1930-1945).
 subarea: A Era Vargas (1930-1945)
 tags:
-  - a-constituicao-de-1934
-  - a-era-vargas
-  - cacd-2025
-  - historia-do-brasil
+- a-constituicao-de-1934
+- a-era-vargas
+- cacd-2025
+- historia-do-brasil
 aliases:
-  - 7.2 A Constituição de 1934.
+- 7.2 A Constituição de 1934.
 ---
 # A Constituição de 1934: A Breve e Contraditória Experiência Democrática da Era Vargas
 

@@ -1,3 +1,7 @@
+---
+area: Estratégias & Métodos
+tags: []
+---
 # Análise Estratégica da Prova de Política Internacional do CACD: Recorrência Temática (2018-2024) e Cenários Prospectivos para 2025
 
 ## Parte I: Desconstrução dos Exames Recentes (2018-2024)

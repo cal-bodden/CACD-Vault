@@ -1,14 +1,14 @@
 ---
 title: O Período 1962-1967 (Plano Trienal, PAEG)
-area: ECONOMIA
-subarea: História econômica brasileira
+area: 4. História econômica brasileira.
+subarea: 4.4.3 O pós-guerra e a Nova Fase de Industrialização.
 tags:
-  - cacd-2025
-  - economia
-  - historia-economica-brasileira
-  - o-periodo-1962-1967
+- cacd-2025
+- economia
+- historia-economica-brasileira
+- o-periodo-1962-1967
 aliases:
-  - 4.5 O Período 1962-1967.
+- 4.5 O Período 1962-1967.
 ---
 # Economia Brasileira (1962–1967): Crise do Desenvolvimentismo, Plano Trienal e PAEG
 

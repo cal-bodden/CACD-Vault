@@ -1,12 +1,12 @@
 ---
 title: Modernismo no Brasil
-area: HISTÓRIA DO BRASIL
+area: Outros
 subarea: A Era Vargas (1930-1945)
 tags:
-  - cacd-2025
-  - historia-do-brasil
-  - sociedade-e-cultura
-aliases:
+- cacd-2025
+- historia-do-brasil
+- sociedade-e-cultura
+aliases: null
 ---
 
 # A Trajetória do Modernismo no Brasil: Evolução, Gerações e Desdobramentos (1922-1960s)

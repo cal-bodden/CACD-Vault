@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 ## The Real Lessons of the Strikes on Iran
 
 ### David A. Deptula

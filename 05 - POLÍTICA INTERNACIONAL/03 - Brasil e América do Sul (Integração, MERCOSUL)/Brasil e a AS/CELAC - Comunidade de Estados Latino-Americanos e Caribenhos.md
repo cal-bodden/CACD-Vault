@@ -1,14 +1,14 @@
 ---
 title: Comunidade de Estados Latino-Americanos e Caribenhos (CELAC)
-area: POLÍTICA INTERNACIONAL
-subarea: Relações do Brasil com os demais países do hemisfério
+area: Brasil e América do Sul (Integração, MERCOSUL)
+subarea: Brasil e a AS
 tags:
-  - cacd-2025
-  - politica-internacional
-  - relacoes-do-brasil-com-os-demais-paises-do-hemisferio
-  - integração-america-do-sul
+- cacd-2025
+- politica-internacional
+- relacoes-do-brasil-com-os-demais-paises-do-hemisferio
+- integração-america-do-sul
 aliases:
-  - CELAC
+- CELAC
 ---
 ---
 

@@ -1,16 +1,17 @@
 ---
 title: Rerum Novarum 1891
-area: HISTÓRIA MUNDIAL
-subarea: A vida cultural
+area: A vida cultural
+subarea: 7.6 Outros
 tags:
-  - a-cultura-do-imperialismo
-  - a-vida-cultural
-  - cacd-2025
-  - historia-mundial
+- a-cultura-do-imperialismo
+- a-vida-cultural
+- cacd-2025
+- historia-mundial
 aliases:
-  - Rerum Novarum de 1891
-  - Rerum Novarum
-conexões: Revolução Industrial, Doutrina Social Católica, Questão Social no Século XIX
+- Rerum Novarum de 1891
+- Rerum Novarum
+conexões: Revolução Industrial, Doutrina Social Católica, Questão Social no Século
+  XIX
 ---
 # Rerum Novarum (1891)
 

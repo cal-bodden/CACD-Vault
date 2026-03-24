@@ -1,14 +1,14 @@
 ---
 title: Debates sobre a natureza do Imperialismo
-area: HISTÓRIA MUNDIAL
+area: 4. Colonialismo, imperialismo, políticas de dominação.
 subarea: Colonialismo, imperialismo, políticas de dominação
 tags:
-  - cacd-2025
-  - colonialismo-imperialismo-politicas-de-dominacao
-  - debates-sobre-a-natureza-do-imperialismo
-  - historia-mundial
+- cacd-2025
+- colonialismo-imperialismo-politicas-de-dominacao
+- debates-sobre-a-natureza-do-imperialismo
+- historia-mundial
 aliases:
-  - 4.3 Os debates acerca da natureza do Imperialismo.
+- 4.3 Os debates acerca da natureza do Imperialismo.
 ---
 # 4.3 Os debates acerca da natureza do Imperialismo
 

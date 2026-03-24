@@ -1,26 +1,7 @@
-# Caderno — Direito
-
-## TPS 2017 — Manhã
-
 ---
-## Questão 29 — TPS 2017 Manhã — Direito
-
-### Item 1
-Como a Constituição não faz referência à iniciativa popular de lei ao dispor sobre o processo legislativo no âmbito estadual, o Supremo Tribunal Federal não reconhece esse instrumento como modalidade explícita de democracia direta.
-#### Gabarito Oficial: Errado (E)
-
-### Item 2
-Compete à União explorar, diretamente ou mediante autorização, concessão ou permissão, os serviços de transporte ferroviário e aquaviário entre portos brasileiros e fronteiras nacionais, ou que transponham os limites de estado ou território.
-#### Gabarito Oficial: Certo (C)
-
-### Item 3
-No âmbito da competência concorrente, seria inconstitucional lei estadual que ampliasse, a critério do legislador estadual, definição estabelecida por lei federal sobre determinada matéria.
-#### Gabarito Oficial: Certo (C)
-
-### Item 4
-Os projetos de lei de iniciativa do presidente da República, em particular os que versem sobre questões orçamentárias, não podem receber emendas parlamentares que ensejem aumento de despesa pública.
-#### Gabarito Oficial: Errado (E)
-
+area: Provas Anteriores
+subarea: _Materias
+tags: []
 ---
 ## Questão 30 — TPS 2017 Manhã — Direito
 

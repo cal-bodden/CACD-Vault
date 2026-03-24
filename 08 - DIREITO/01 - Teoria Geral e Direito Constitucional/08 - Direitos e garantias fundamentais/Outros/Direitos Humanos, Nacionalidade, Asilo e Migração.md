@@ -1,12 +1,12 @@
 ---
-title: "Direitos Humanos, Nacionalidade, Asilo e Migração"
-area: "DIREITO"
-subarea: "Teoria Geral e Direito Constitucional"
+title: Direitos Humanos, Nacionalidade, Asilo e Migração
+area: Teoria Geral e Direito Constitucional
+subarea: 08 Direitos e garantias fundamentais
 tags:
-  - cacd-2025
-  - direito
-  - direitos-e-garantias-fundamentais
-  - teoria-geral-e-direito-constitucional
+- cacd-2025
+- direito
+- direitos-e-garantias-fundamentais
+- teoria-geral-e-direito-constitucional
 conexões: Direito Internacional, Direito Constitucional, Direitos Fundamentais
 ---
 # Direitos Humanos, Nacionalidade, Asilo e Migração

@@ -1,13 +1,15 @@
 ---
 title: União Europeia (origens, evolução, relações com o Brasil)
-area: POLÍTICA INTERNACIONAL
+area: '7. União Europeia: origens, evolução histórica, estrutura e funcionamento,
+  situação atual, política externa e relações com o Brasil.'
 subarea: União Europeia (origens, evolução, relações com o Brasil)
 tags:
-  - cacd-2025
-  - politica-internacional
-  - uniao-europeia
+- cacd-2025
+- politica-internacional
+- uniao-europeia
 aliases:
-  - "União Europeia: origens, evolução histórica, estrutura e funcionamento, situação atual, política externa e relações com o Brasil."
+- 'União Europeia: origens, evolução histórica, estrutura e funcionamento, situação
+  atual, política externa e relações com o Brasil.'
 ---
 # A União Europeia: Trajetória, Instituições, Desafios Atuais e Relações com o Brasil
 

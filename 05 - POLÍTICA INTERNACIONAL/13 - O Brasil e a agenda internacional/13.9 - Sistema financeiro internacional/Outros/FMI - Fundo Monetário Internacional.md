@@ -1,13 +1,13 @@
 ---
 title: Fundo Monetário Internacional (FMI)
 aliases:
-  - FMI
+- FMI
 date: 2025-04-18
 tags:
-  - SistemaFinanceiroInternacional
-  - sistema-de-bretton-woods
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+- SistemaFinanceiroInternacional
+- sistema-de-bretton-woods
+area: O Brasil e a agenda internacional
+subarea: 13.9 Sistema financeiro internacional
 ---
 # Fundo Monetário Internacional (FMI)
 

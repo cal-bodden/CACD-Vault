@@ -1,14 +1,14 @@
 ---
 title: Da Revolução Industrial ao capitalismo organizado
-area: HISTÓRIA MUNDIAL
-subarea: Estruturas e ideias econômicas
+area: 1. Estruturas e ideias econômicas.
+subarea: '1.1 Da Revolução Industrial ao capitalismo organizado: séculos XVIII a XX.'
 tags:
-  - cacd-2025
-  - da-revolucao-industrial-ao-capitalismo-organizado
-  - estruturas-e-ideias-economicas
-  - historia-mundial
+- cacd-2025
+- da-revolucao-industrial-ao-capitalismo-organizado
+- estruturas-e-ideias-economicas
+- historia-mundial
 aliases:
-  - Da Revolução Industrial ao capitalismo organizado
+- Da Revolução Industrial ao capitalismo organizado
 ---
 # Nota de Estudo para o CACD: A Evolução do Sistema Capitalista da Revolução Industrial ao 'Capitalismo Organizado' (Séculos XVIII-XX)
 

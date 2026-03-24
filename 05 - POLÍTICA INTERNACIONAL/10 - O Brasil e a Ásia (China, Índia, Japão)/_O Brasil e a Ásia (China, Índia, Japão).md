@@ -1,13 +1,13 @@
 ---
 title: O Brasil e a Ásia (China, Índia, Japão)
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a Ásia (China, Índia, Japão)
+area: 10. O Brasil e a Ásia.
+subarea: '10.1 China, Índia e Japão: políticas externas e relações com o Brasil..'
 tags:
-  - cacd-2025
-  - o-brasil-e-a-asia
-  - politica-internacional
+- cacd-2025
+- o-brasil-e-a-asia
+- politica-internacional
 aliases:
-  - "China, Índia e Japão: políticas externas e relações com o Brasil."
+- 'China, Índia e Japão: políticas externas e relações com o Brasil.'
 ---
 # As Relações do Brasil com as Potências Asiáticas: Uma Análise Estrutural Comparada
 

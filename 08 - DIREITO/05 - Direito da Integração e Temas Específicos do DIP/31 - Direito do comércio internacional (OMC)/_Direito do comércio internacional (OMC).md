@@ -1,14 +1,15 @@
 ---
 title: Direito do comércio internacional (OMC)
-area: DIREITO
+area: 31. Direito do comércio internacional. Organização Mundial do Comércio. Acordos.
+  Órgão de Solução de Controvérsias. Jurisprudência.
 subarea: Direito da Integração e Temas Específicos do DIP
 tags:
-  - cacd-2025
-  - direito
-  - direito-da-integracao-e-temas-especificos-do-dip
-  - direito-do-comercio-internacional
+- cacd-2025
+- direito
+- direito-da-integracao-e-temas-especificos-do-dip
+- direito-do-comercio-internacional
 aliases:
-  - Direito do comércio internacional.
+- Direito do comércio internacional.
 ---
 # O Direito do Comércio Internacional: A OMC, seus Acordos e o Sistema de Solução de Controvérsias
 

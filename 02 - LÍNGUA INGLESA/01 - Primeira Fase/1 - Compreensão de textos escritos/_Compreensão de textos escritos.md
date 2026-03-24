@@ -1,11 +1,11 @@
 ---
-title: "Compreensão de textos escritos"
-area: "LÍNGUA INGLESA"
-subarea: "Primeira Fase"
+title: Compreensão de textos escritos
+area: Primeira Fase
+subarea: 1 Compreensão de textos escritos
 tags:
-  - cacd-2025
-  - compreensao-de-textos-escritos
-  - lingua-inglesa
-  - primeira-fase
+- cacd-2025
+- compreensao-de-textos-escritos
+- lingua-inglesa
+- primeira-fase
 ---
 

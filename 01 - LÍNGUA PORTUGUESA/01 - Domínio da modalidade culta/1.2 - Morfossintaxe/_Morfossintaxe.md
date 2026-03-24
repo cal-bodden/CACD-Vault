@@ -1,14 +1,14 @@
 ---
 title: Morfossintaxe
-area: LÍNGUA PORTUGUESA
-subarea: Domínio da modalidade culta
+area: '1. Língua portuguesa: modalidade culta usada contemporaneamente no Brasil.'
+subarea: 1.2 Morfossintaxe.
 tags:
-  - cacd-2025
-  - dominio-da-modalidade-culta
-  - lingua-portuguesa
-  - morfossintaxe
+- cacd-2025
+- dominio-da-modalidade-culta
+- lingua-portuguesa
+- morfossintaxe
 aliases:
-  - Morfossintaxe.
+- Morfossintaxe.
 ---
 
 # 📚 **Tópicos de Sintaxe Essenciais 

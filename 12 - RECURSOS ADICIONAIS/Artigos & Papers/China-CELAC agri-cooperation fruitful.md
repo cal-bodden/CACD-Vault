@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 By Gloria Ann Thomas
 
 Chinese President Xi Jinping has once again stressed the importance of agriculture and food cooperation in his speech delivered at the fourth ministerial meeting of the China-Community of Latin American and Caribbean States Forum on Tuesday.

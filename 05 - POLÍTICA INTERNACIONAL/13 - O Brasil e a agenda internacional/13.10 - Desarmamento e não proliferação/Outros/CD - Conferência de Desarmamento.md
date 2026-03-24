@@ -1,18 +1,18 @@
 ---
 title: Conferência de Desarmamento (CD)
-area: POLÍTICA INTERNACIONAL
+area: O Brasil e a agenda internacional
 conexões: Tratado de Não Proliferação de Armas Nucleares (TNP)
 aliases:
-  - Conferência de Desarmamento (CD)
-  - CD - Conferência de Desarmamento
-  - Conferência de Desarmamento
+- Conferência de Desarmamento (CD)
+- CD - Conferência de Desarmamento
+- Conferência de Desarmamento
 tags:
-  - cacd-2025
-  - desarmamento-e-nao-proliferacao
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
-  - ONU
-
+- cacd-2025
+- desarmamento-e-nao-proliferacao
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
+- ONU
+subarea: 13.10 Desarmamento e não proliferação
 ---
 # Conferência de Desarmamento (CD)
  

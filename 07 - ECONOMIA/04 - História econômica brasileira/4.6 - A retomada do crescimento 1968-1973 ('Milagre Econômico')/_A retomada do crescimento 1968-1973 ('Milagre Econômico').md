@@ -1,14 +1,15 @@
 ---
 title: A retomada do crescimento 1968-1973 ('Milagre Econômico')
-area: ECONOMIA
-subarea: História econômica brasileira
+area: 4. História econômica brasileira.
+subarea: 4.5.4 A Importância das reformas do PAEG para a retomada do crescimento em
+  1968.
 tags:
-  - a-retomada-do-crescimento-1968-1973
-  - cacd-2025
-  - economia
-  - historia-economica-brasileira
+- a-retomada-do-crescimento-1968-1973
+- cacd-2025
+- economia
+- historia-economica-brasileira
 aliases:
-  - 4.6 A retomada do crescimento 1968-1973.
+- 4.6 A retomada do crescimento 1968-1973.
 ---
 # O “Milagre Econômico” Brasileiro (1968–1973) – Panorama e Análise Histórica
 

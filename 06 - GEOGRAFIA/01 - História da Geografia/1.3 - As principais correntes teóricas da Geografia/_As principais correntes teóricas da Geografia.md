@@ -1,14 +1,14 @@
 ---
 title: As principais correntes teóricas da Geografia
-area: GEOGRAFIA
+area: 1. História da Geografia.
 subarea: História da Geografia
 tags:
-  - as-principais-correntes-teoricas-da-geografia
-  - cacd-2025
-  - geografia
-  - historia-da-geografia
+- as-principais-correntes-teoricas-da-geografia
+- cacd-2025
+- geografia
+- historia-da-geografia
 aliases:
-  - 1.3 As principais correntes teóricas da Geografia.
+- 1.3 As principais correntes teóricas da Geografia.
 ---
 # As Principais Correntes Teóricas da Geografia
 

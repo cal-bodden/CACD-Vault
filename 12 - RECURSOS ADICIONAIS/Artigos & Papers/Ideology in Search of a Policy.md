@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 Raymond Aron
 
 [America and the World 1981](https://www.foreignaffairs.com/issues/1981/60/3) Published on February 1, 1982

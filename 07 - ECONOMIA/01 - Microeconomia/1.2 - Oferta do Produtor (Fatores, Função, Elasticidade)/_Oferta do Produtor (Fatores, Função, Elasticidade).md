@@ -1,14 +1,14 @@
 ---
 title: Oferta do Produtor (Fatores, Função, Elasticidade)
-area: ECONOMIA
-subarea: Microeconomia
+area: 1. Microeconomia.
+subarea: 1.1.4 Elasticidade-preço e elasticidade-renda.
 tags:
-  - cacd-2025
-  - economia
-  - microeconomia
-  - oferta-do-produtor
+- cacd-2025
+- economia
+- microeconomia
+- oferta-do-produtor
 aliases:
-  - 1.2 Oferta do Produtor.
+- 1.2 Oferta do Produtor.
 ---
 # Teoria da Oferta do Produtor: Fatores, Função de Produção e Elasticidade
 

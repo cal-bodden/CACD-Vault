@@ -1,3 +1,7 @@
+---
+area: Extra
+tags: []
+---
 
 # O Comércio Internacional Contemporâneo: Fluxos Globais e a Inserção do Brasil na Última Década
 

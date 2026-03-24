@@ -1,14 +1,14 @@
 ---
 title: Os 14 pontos de Wilson
-area: HISTÓRIA MUNDIAL
-subarea: As relações internacionais
+area: 3. As relações internacionais.
+subarea: 3.5 Os 14 pontos de Wilson.
 tags:
-  - as-relacoes-internacionais
-  - cacd-2025
-  - historia-mundial
-  - os-14-pontos-de-wilson
+- as-relacoes-internacionais
+- cacd-2025
+- historia-mundial
+- os-14-pontos-de-wilson
 aliases:
-  - Os 14 pontos de Wilson.
+- Os 14 pontos de Wilson.
 ---
 # Os "14 Pontos" de Wilson e o Idealismo Liberal: A Tentativa de Construir uma Nova Ordem Mundial (1918)
 

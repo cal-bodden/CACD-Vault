@@ -1,13 +1,13 @@
 ---
 title: Brasil e América do Sul (Integração, MERCOSUL)
-area: POLÍTICA INTERNACIONAL
+area: 3. O Brasil e a América do Sul.
 subarea: Brasil e América do Sul (Integração, MERCOSUL)
 tags:
-  - brasil-e-america-do-sul
-  - cacd-2025
-  - politica-internacional
+- brasil-e-america-do-sul
+- cacd-2025
+- politica-internacional
 aliases:
-  - O Brasil e a América do Sul.
+- O Brasil e a América do Sul.
 ---
 # Integração Sul-Americana: Dimensão Histórica da Política Externa Brasileira
 

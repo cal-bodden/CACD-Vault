@@ -1,15 +1,15 @@
 ---
-title: "A Constituição de 1937: o Estado Novo."
-area: HISTÓRIA DO BRASIL
+title: 'A Constituição de 1937: o Estado Novo.'
+area: 7. A Era Vargas (1930-1945).
 subarea: A Era Vargas (1930-1945)
 tags:
-  - a-constituicao-de-1934
-  - a-era-vargas
-  - cacd-2025
-  - historia-do-brasil
-  - estado-novo
+- a-constituicao-de-1934
+- a-era-vargas
+- cacd-2025
+- historia-do-brasil
+- estado-novo
 aliases:
-  - "7.3 A Constituição de 1937: o Estado Novo."
+- '7.3 A Constituição de 1937: o Estado Novo.'
 ---
 # Estado Novo (1937–1945) 
 

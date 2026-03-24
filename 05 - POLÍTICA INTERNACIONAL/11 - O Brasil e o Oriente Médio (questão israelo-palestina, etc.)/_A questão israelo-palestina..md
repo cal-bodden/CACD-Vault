@@ -1,14 +1,14 @@
 ---
 title: A questão israelo-palestina.
-area: POLÍTICA INTERNACIONAL
+area: 11. O Brasil e o Oriente Médio.
 subarea: O Brasil e o Oriente Médio (questão israelo-palestina, etc.)
 tags:
-  - cacd-2025
-  - o-brasil-e-o-oriente-medio
-  - politica-internacional
-  - israel-palestina
+- cacd-2025
+- o-brasil-e-o-oriente-medio
+- politica-internacional
+- israel-palestina
 aliases:
-  - 11.1 A questão israelo-palestina.
+- 11.1 A questão israelo-palestina.
 ---
 # O Conflito Israelo-Palestino e a Posição do Brasil
 

@@ -1,14 +1,15 @@
 ---
 title: As vanguardas europeias
-area: HISTÓRIA MUNDIAL
-subarea: A vida cultural
+area: A vida cultural
+subarea: 7.6 Outros
 tags:
-  - a-vida-cultural
-  - cacd-2025
-  - historia-mundial
+- a-vida-cultural
+- cacd-2025
+- historia-mundial
 aliases:
-  - 7.3 As vanguardas europeias.
-conexões: Belle Époque, Modernismo (primórdios), Industrialização, Urbanização, Freud, Nietzsche
+- 7.3 As vanguardas europeias.
+conexões: Belle Époque, Modernismo (primórdios), Industrialização, Urbanização, Freud,
+  Nietzsche
 ---
 # Movimentos Culturais Globais na Década de 1890: Transição, Inovação e Contradições do *Fin de Siècle*
 

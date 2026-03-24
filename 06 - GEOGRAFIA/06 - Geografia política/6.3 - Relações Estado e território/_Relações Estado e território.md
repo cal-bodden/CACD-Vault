@@ -1,15 +1,15 @@
 ---
 title: Relações Estado e território
-area: GEOGRAFIA
-subarea: Geografia política
+area: Geografia política
+subarea: 6.3 Relações Estado e território
 tags:
-  - cacd-2025
-  - geografia
-  - geografia-politica
-  - relacoes-estado-e-territorio
+- cacd-2025
+- geografia
+- geografia-politica
+- relacoes-estado-e-territorio
 aliases:
-  - 6.3 Relações Estado e território
-  - Relações Estado e território.
+- 6.3 Relações Estado e território
+- Relações Estado e território.
 ---
 # As Relações Estado-Território: A Construção e o Controle do Espaço Político no Brasil
 

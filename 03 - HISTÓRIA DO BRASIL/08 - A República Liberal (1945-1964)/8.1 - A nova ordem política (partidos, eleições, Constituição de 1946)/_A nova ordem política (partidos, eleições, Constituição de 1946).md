@@ -1,14 +1,15 @@
 ---
 title: A nova ordem política (partidos, eleições, Constituição de 1946)
-area: HISTÓRIA DO BRASIL
+area: 8. A República Liberal (1945-1964).
 subarea: A República Liberal (1945-1964)
 tags:
-  - a-nova-ordem-politica
-  - a-republica-liberal
-  - cacd-2025
-  - historia-do-brasil
+- a-nova-ordem-politica
+- a-republica-liberal
+- cacd-2025
+- historia-do-brasil
 aliases:
-  - "8.1 A nova ordem política: os partidos políticos e eleições; a Constituição de 1946."
+- '8.1 A nova ordem política: os partidos políticos e eleições; a Constituição de
+  1946.'
 ---
 # Reestruturação Política do Brasil no Início da Quarta República (1945-1946)
 

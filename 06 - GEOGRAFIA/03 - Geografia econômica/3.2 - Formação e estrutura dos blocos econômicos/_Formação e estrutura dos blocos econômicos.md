@@ -1,14 +1,14 @@
 ---
 title: Formação e estrutura dos blocos econômicos
-area: GEOGRAFIA
+area: 3. Geografia econômica.
 subarea: Geografia econômica
 tags:
-  - cacd-2025
-  - formacao-e-estrutura-dos-blocos-economicos
-  - geografia
-  - geografia-economica
+- cacd-2025
+- formacao-e-estrutura-dos-blocos-economicos
+- geografia
+- geografia-economica
 aliases:
-  - 3.2 Formação e estrutura dos blocos econômicos internacionais.
+- 3.2 Formação e estrutura dos blocos econômicos internacionais.
 ---
 # 3.2 Formação e estrutura dos blocos econômicos internacionais
 

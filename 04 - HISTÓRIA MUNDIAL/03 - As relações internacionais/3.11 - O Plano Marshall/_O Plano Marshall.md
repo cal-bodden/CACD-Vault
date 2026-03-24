@@ -1,15 +1,15 @@
 ---
 title: O Plano Marshall
-area: HISTÓRIA MUNDIAL
-subarea: As relações internacionais
+area: 3. As relações internacionais.
+subarea: 3.5 Os 14 pontos de Wilson.
 tags:
-  - as-relacoes-internacionais
-  - cacd-2025
-  - historia-mundial
-  - o-plano-marshall
+- as-relacoes-internacionais
+- cacd-2025
+- historia-mundial
+- o-plano-marshall
 aliases:
-  - 3.11 O Plano Marshall.
-  - Plano Marshall
+- 3.11 O Plano Marshall.
+- Plano Marshall
 ---
 # O Plano Marshall (1948-1952): A Reconstrução da Europa e a Contenção na Guerra Fria
 

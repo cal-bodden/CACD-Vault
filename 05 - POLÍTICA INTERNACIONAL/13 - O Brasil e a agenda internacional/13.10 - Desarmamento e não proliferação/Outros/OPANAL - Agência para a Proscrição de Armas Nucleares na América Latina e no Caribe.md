@@ -1,15 +1,17 @@
 ---
-title: Agência para a Proscrição de Armas Nucleares na América Latina e no Caribe (OPANAL)
-area: POLÍTICA INTERNACIONAL
+title: Agência para a Proscrição de Armas Nucleares na América Latina e no Caribe
+  (OPANAL)
+area: O Brasil e a agenda internacional
 aliases:
-  - OPANAL
-  - OPANAL - Agência para a Proscrição de Armas Nucleares na América Latina e no Caribe
-  - Agência para a Proscrição de Armas Nucleares na América Latina e no Caribe (OPANAL)
+- OPANAL
+- OPANAL - Agência para a Proscrição de Armas Nucleares na América Latina e no Caribe
+- Agência para a Proscrição de Armas Nucleares na América Latina e no Caribe (OPANAL)
 tags:
-  - cacd-2025
-  - desarmamento-e-nao-proliferacao
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
+- cacd-2025
+- desarmamento-e-nao-proliferacao
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
+subarea: 13.10 Desarmamento e não proliferação
 ---
 # Agência para a Proscrição de Armas Nucleares na América Latina e no Caribe (OPANAL)
 

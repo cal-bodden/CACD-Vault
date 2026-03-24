@@ -1,14 +1,14 @@
 ---
 title: A Revolução de 1930
-area: HISTÓRIA DO BRASIL
+area: 6. A Primeira República (1889-1930).
 subarea: A Primeira República (1889-1930)
 tags:
-  - a-primeira-republica
-  - a-revolucao-de-1930
-  - cacd-2025
-  - historia-do-brasil
+- a-primeira-republica
+- a-revolucao-de-1930
+- cacd-2025
+- historia-do-brasil
 aliases:
-  - 6.8 A Revolução de 1930.
+- 6.8 A Revolução de 1930.
 ---
 # A Revolução de 1930: A Ruptura com a Ordem Oligárquica e a Ascensão de Vargas
 

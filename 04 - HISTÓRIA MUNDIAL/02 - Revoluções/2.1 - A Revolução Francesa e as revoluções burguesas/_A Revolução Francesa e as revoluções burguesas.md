@@ -1,14 +1,14 @@
 ---
 title: A Revolução Francesa e as revoluções burguesas
-area: HISTÓRIA MUNDIAL
+area: 2. Revoluções.
 subarea: Revoluções
 tags:
-  - a-revolucao-francesa-e-as-revolucoes-burguesas
-  - cacd-2025
-  - historia-mundial
-  - revolucoes
+- a-revolucao-francesa-e-as-revolucoes-burguesas
+- cacd-2025
+- historia-mundial
+- revolucoes
 aliases:
-  - 2.1 A Revolução Francesa e as revoluções burguesas.
+- 2.1 A Revolução Francesa e as revoluções burguesas.
 ---
 # A Revolução Francesa e o Ciclo das Revoluções Burguesas: Uma Análise Estratégica para o CACD
 

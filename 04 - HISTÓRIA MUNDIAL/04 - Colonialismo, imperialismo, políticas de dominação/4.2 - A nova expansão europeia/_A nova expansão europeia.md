@@ -1,14 +1,14 @@
 ---
 title: A nova expansão europeia
-area: HISTÓRIA MUNDIAL
+area: 4. Colonialismo, imperialismo, políticas de dominação.
 subarea: Colonialismo, imperialismo, políticas de dominação
 tags:
-  - a-nova-expansao-europeia
-  - cacd-2025
-  - colonialismo-imperialismo-politicas-de-dominacao
-  - historia-mundial
+- a-nova-expansao-europeia
+- cacd-2025
+- colonialismo-imperialismo-politicas-de-dominacao
+- historia-mundial
 aliases:
-  - 4.2 A nova expansão europeia.
+- 4.2 A nova expansão europeia.
 ---
 # 4.2 A nova expansão europeia
 

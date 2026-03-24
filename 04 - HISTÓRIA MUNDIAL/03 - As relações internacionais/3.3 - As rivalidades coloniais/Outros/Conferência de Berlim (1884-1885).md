@@ -1,12 +1,12 @@
 ---
-title: "Conferência de Berlim (1884-1885)"
-area: "HISTÓRIA MUNDIAL"
-subarea: "As relações internacionais"
+title: Conferência de Berlim (1884-1885)
+area: As relações internacionais
+subarea: 3.3 As rivalidades coloniais
 tags:
-  - as-relacoes-internacionais
-  - as-rivalidades-coloniais
-  - cacd-2025
-  - historia-mundial
+- as-relacoes-internacionais
+- as-rivalidades-coloniais
+- cacd-2025
+- historia-mundial
 ---
 # A Conferência de Berlim (1884-1885): Partilha Europeia do Continente Africano
 

@@ -1,14 +1,14 @@
 ---
 title: Crescimento e Desenvolvimento Econômico (Solow, Schumpeter)
-area: ECONOMIA
-subarea: Macroeconomia
+area: 2. Macroeconomia.
+subarea: 2.7 Crescimento e Desenvolvimento Econômico.
 tags:
-  - cacd-2025
-  - crescimento-e-desenvolvimento-economico
-  - economia
-  - macroeconomia
+- cacd-2025
+- crescimento-e-desenvolvimento-economico
+- economia
+- macroeconomia
 aliases:
-  - Crescimento e Desenvolvimento Econômico.
+- Crescimento e Desenvolvimento Econômico.
 ---
 # Teorias de Crescimento Econômico: De Harrod-Domar ao Crescimento Endógeno
 

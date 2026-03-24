@@ -1,14 +1,15 @@
 ---
 title: Cooperação Jurídica internacional
-area: DIREITO
+area: 35. Cooperação Jurídica internacional. Matéria penal e cível. Regimes vigentes
+  no direito brasileiro.
 subarea: Direito da Integração e Temas Específicos do DIP
 tags:
-  - cacd-2025
-  - cooperacao-juridica-internacional
-  - direito
-  - direito-da-integracao-e-temas-especificos-do-dip
+- cacd-2025
+- cooperacao-juridica-internacional
+- direito
+- direito-da-integracao-e-temas-especificos-do-dip
 aliases:
-  - Cooperação Jurídica internacional.
+- Cooperação Jurídica internacional.
 ---
 # Cooperação Jurídica Internacional: Mecanismos em Matéria Penal e Cível e o Regime Brasileiro Aplicável
 

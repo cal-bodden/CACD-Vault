@@ -1,14 +1,13 @@
 ---
 title: Marxismo
-area: HISTÓRIA MUNDIAL
-subarea: Estruturas e ideias econômicas
+area: Estruturas e ideias econômicas
+subarea: 1.4 Marxismo
 tags:
-  - cacd-2025
-  - estruturas-e-ideias-economicas
-  - historia-mundial
-  - marxismo
-  - anarquismo
-
+- cacd-2025
+- estruturas-e-ideias-economicas
+- historia-mundial
+- marxismo
+- anarquismo
 ---
 # A Primeira Internacional (1864-1876): O Crisol do Socialismo Moderno e o Embate Fundamental entre Marxismo e Anarquismo
 

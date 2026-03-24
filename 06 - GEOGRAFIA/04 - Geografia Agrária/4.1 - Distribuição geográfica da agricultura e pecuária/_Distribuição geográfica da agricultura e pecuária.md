@@ -1,14 +1,14 @@
 ---
 title: Distribuição geográfica da agricultura e pecuária
-area: GEOGRAFIA
+area: 4. Geografia Agrária.
 subarea: Geografia Agrária
 tags:
-  - cacd-2025
-  - distribuicao-geografica-da-agricultura-e-pecuaria
-  - geografia
-  - geografia-agraria
+- cacd-2025
+- distribuicao-geografica-da-agricultura-e-pecuaria
+- geografia
+- geografia-agraria
 aliases:
-  - 4.1 Distribuição geográfica da agricultura e pecuária mundiais.
+- 4.1 Distribuição geográfica da agricultura e pecuária mundiais.
 ---
 # Geografia Agrária Mundial: Uma Análise Detalhada
 

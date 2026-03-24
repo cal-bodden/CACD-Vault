@@ -1,11 +1,11 @@
 ---
-title: "Relatórios de Desempenho"
-area: "GESTÃO & METADADOS"
-subarea: "GESTÃO & METADADOS"
+title: Relatórios de Desempenho
+area: Relatórios de Desempenho
+subarea: GESTÃO & METADADOS
 tags:
-  - cacd-2025
-  - gestao--metadados
-  - relatorios-de-desempenho
+- cacd-2025
+- gestao--metadados
+- relatorios-de-desempenho
 ---
 2025
 

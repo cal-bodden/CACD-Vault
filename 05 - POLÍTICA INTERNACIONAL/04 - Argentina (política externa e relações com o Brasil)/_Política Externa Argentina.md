@@ -1,13 +1,13 @@
 ---
 title: Argentina (política externa e relações com o Brasil)
-area: POLÍTICA INTERNACIONAL
+area: Argentina (política externa e relações com o Brasil)
 subarea: Argentina (política externa e relações com o Brasil)
 tags:
-  - argentina
-  - cacd-2025
-  - politica-internacional
+- argentina
+- cacd-2025
+- politica-internacional
 aliases:
-  - "Argentina: política externa e relações com o Brasil."
+- 'Argentina: política externa e relações com o Brasil.'
 ---
 # A Política Externa Argentina: Entre a Autonomia e o Alinhamento 
 ## Introdução: As Constantes da Política Externa Argentina

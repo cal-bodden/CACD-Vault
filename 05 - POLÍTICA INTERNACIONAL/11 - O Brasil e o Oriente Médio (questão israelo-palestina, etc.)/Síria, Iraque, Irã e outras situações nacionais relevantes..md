@@ -1,13 +1,13 @@
 ---
 title: Síria, Iraque, Irã e outras situações nacionais relevantes.
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e o Oriente Médio (questão israelo-palestina, etc.)
+area: 11. O Brasil e o Oriente Médio.
+subarea: 11.2 Síria, Iraque, Irã e outras situações nacionais relevantes.
 tags:
-  - cacd-2025
-  - o-brasil-e-o-oriente-medio
-  - politica-internacional
+- cacd-2025
+- o-brasil-e-o-oriente-medio
+- politica-internacional
 aliases:
-  - 11.2 Síria, Iraque, Irã e outras situações nacionais relevantes.
+- 11.2 Síria, Iraque, Irã e outras situações nacionais relevantes.
 ---
 # Geopolítica Contemporânea: Síria, Iraque e Irã 
 

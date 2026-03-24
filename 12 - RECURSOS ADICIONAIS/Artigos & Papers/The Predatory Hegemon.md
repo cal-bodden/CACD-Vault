@@ -1,3 +1,8 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
 ## How Trump Wields American Power
 
 ### Stephen M. Walt

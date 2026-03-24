@@ -1,3 +1,8 @@
+---
+area: O Brasil e a agenda internacional
+subarea: 13.2 Desenvolvimento e desenvolvimento sustentável
+tags: []
+---
 # A Aliança Global contra a Fome e a Pobreza: A Iniciativa Brasileira na Presidência do G-20
 
 ## Introdução

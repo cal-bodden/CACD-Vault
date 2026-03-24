@@ -1,3 +1,8 @@
+---
+area: As relações internacionais
+subarea: 3.2 O Concerto Europeu e sua crise (1815-1918)
+tags: []
+---
 ## 1. Contexto e Objetivos do Congresso de Viena
 
 Ao final das Guerras Napoleônicas, a Europa encontrava-se devastada e politicamente instável. A derrota de Napoleão Bonaparte em 1814 abriu caminho para que as potências vitoriosas – Reino Unido, Áustria, Prússia e Rússia – se reunissem para redefinir a ordem europeia. Esse encontro, conhecido como **Congresso de Viena** (1814-1815), tinha objetivos claros: restabelecer a estabilidade após duas décadas de revoluções e guerras, conter definitivamente a França revolucionária/imperial e suprimir a disseminação de ideias liberais e nacionalistas consideradas subversivas pelos monarcas tradicionais. A _Quádrupla Aliança_ firmada em 1814 (Tratado de Chaumont) uniu as quatro grandes potências em um compromisso de segurança coletiva contra novas ameaças francesas, garantindo que as decisões tomadas em Viena seriam respaldadas pela força conjunta dos aliados.

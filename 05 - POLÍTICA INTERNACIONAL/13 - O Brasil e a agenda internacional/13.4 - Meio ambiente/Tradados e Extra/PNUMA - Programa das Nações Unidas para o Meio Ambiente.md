@@ -2,13 +2,16 @@
 tema: Programa das Nações Unidas para o Meio Ambiente (PNUMA)
 área: Política Internacional
 tags:
-  - meio-ambiente
-  - ONU
-  - o-brasil-e-a-agenda-internacional
-conexões: Meio Ambiente, Desenvolvimento Sustentável, Direito Internacional do Meio Ambiente, Organizações Internacionais
+- meio-ambiente
+- ONU
+- o-brasil-e-a-agenda-internacional
+conexões: Meio Ambiente, Desenvolvimento Sustentável, Direito Internacional do Meio
+  Ambiente, Organizações Internacionais
 aliases:
-  - Programa das Nações Unidas para o Meio Ambiente (PNUMA)
-  - PNUMA
+- Programa das Nações Unidas para o Meio Ambiente (PNUMA)
+- PNUMA
+area: O Brasil e a agenda internacional
+subarea: 13.4 Meio ambiente
 ---
 
 # Programa das Nações Unidas para o Meio Ambiente (PNUMA)

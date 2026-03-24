@@ -1,13 +1,13 @@
 ---
 title: BRICS
-area: POLÍTICA INTERNACIONAL
+area: 3. BRICS
 subarea: O Brasil e as coalizões internacionais (G-20, IBAS, BRICS)
 tags:
-  - cacd-2025
-  - o-brasil-e-as-coalizoes-internacionais
-  - politica-internacional
+- cacd-2025
+- o-brasil-e-as-coalizoes-internacionais
+- politica-internacional
 aliases:
-  - BRICS
+- BRICS
 ---
 # O BRICS no Cenário Global Contemporâneo: Expansão, Desafios e a Busca por uma Nova Ordem
 

@@ -1,14 +1,14 @@
 ---
 title: A economia
-area: HISTÓRIA DO BRASIL
+area: 9. O Regime Militar (1964-1985).
 subarea: O Regime Militar (1964-1985)
 tags:
-  - a-economia
-  - cacd-2025
-  - historia-do-brasil
-  - o-regime-militar
+- a-economia
+- cacd-2025
+- historia-do-brasil
+- o-regime-militar
 aliases:
-  - 9.2 A economia.
+- 9.2 A economia.
 ---
 # A Economia no Regime Militar (1964-1985): Do "Milagre" à Crise da Dívida
 

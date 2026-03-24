@@ -1,14 +1,14 @@
 ---
 title: O conceito de Terceiro Mundo
-area: HISTÓRIA MUNDIAL
+area: 4. Colonialismo, imperialismo, políticas de dominação.
 subarea: Colonialismo, imperialismo, políticas de dominação
 tags:
-  - cacd-2025
-  - colonialismo-imperialismo-politicas-de-dominacao
-  - historia-mundial
-  - o-conceito-de-terceiro-mundo
+- cacd-2025
+- colonialismo-imperialismo-politicas-de-dominacao
+- historia-mundial
+- o-conceito-de-terceiro-mundo
 aliases:
-  - 4.9 O conceito de Terceiro Mundo.
+- 4.9 O conceito de Terceiro Mundo.
 ---
 # 4.9 O conceito de Terceiro Mundo
 

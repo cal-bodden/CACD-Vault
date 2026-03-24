@@ -1,14 +1,14 @@
 ---
-title: " As Convenções de Genebra de 1949 e seus Protocolos Adicionais"
-area: "POLÍTICA INTERNACIONAL"
-subarea: "O Brasil e a agenda internacional"
+title: ' As Convenções de Genebra de 1949 e seus Protocolos Adicionais'
+area: O Brasil e a agenda internacional
+subarea: 13.6 Direitos humanos e políticas de identidade
 tags:
-  - cacd-2025
-  - direitos-humanos
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
-  - direito-internacional-humanitario
-aliases: 
+- cacd-2025
+- direitos-humanos
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
+- direito-internacional-humanitario
+aliases:
 - Convenções de Genebra de 1949
 ---
 

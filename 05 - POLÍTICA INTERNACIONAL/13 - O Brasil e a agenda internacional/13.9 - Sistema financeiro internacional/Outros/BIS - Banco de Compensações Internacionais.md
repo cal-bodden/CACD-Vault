@@ -1,12 +1,12 @@
 ---
 title: Banco de Compensações Internacionais (BIS)
 aliases:
-  - BIS
+- BIS
 tags:
-  - SistemaFinanceiroInternacional
-  - sistema-de-bretton-woods
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+- SistemaFinanceiroInternacional
+- sistema-de-bretton-woods
+area: O Brasil e a agenda internacional
+subarea: 13.9 Sistema financeiro internacional
 ---
 
 # Banco de Compensações Internacionais (BIS): História , Funções e Relevância

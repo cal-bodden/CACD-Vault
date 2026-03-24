@@ -1,14 +1,19 @@
 ---
 title: Povo (Nacionalidade, Proteção, Estrangeiro, Extradição, Asilo)
-area: DIREITO
+area: 20. Povo. Nacionalidade. Formas de aquisição, perda e reaquisição. Proteção
+  a brasileiros no exterior. Direitos e deveres de nacionais no exterior. Dupla e/ou
+  múltipla nacionalidade. Situação jurídica do estrangeiro. Extradição. Apatridia
+  e polipatria. Asilo.
 subarea: Direito Internacional Público - Fundamentos
 tags:
-  - cacd-2025
-  - direito
-  - direito-internacional-publico---fundamentos
-  - povo
+- cacd-2025
+- direito
+- direito-internacional-publico---fundamentos
+- povo
 aliases:
-  - Povo. Nacionalidade. Formas de aquisição, perda e reaquisição. Proteção a brasileiros no exterior. Direitos e deveres de nacionais no exterior. Dupla e/ou múltipla nacionalidade. Situação jurídica do estrangeiro. Extradição. Apatridia e polipatria. Asilo.
+- Povo. Nacionalidade. Formas de aquisição, perda e reaquisição. Proteção a brasileiros
+  no exterior. Direitos e deveres de nacionais no exterior. Dupla e/ou múltipla nacionalidade.
+  Situação jurídica do estrangeiro. Extradição. Apatridia e polipatria. Asilo.
 ---
 # O Elemento Povo no Direito: Nacionalidade, Estrangeiros, Asilo e Extradição no Brasil
 

@@ -1,14 +1,14 @@
 ---
 title: A economia brasileira no Século XIX
-area: ECONOMIA
-subarea: História econômica brasileira
+area: 4. História econômica brasileira.
+subarea: 4.1 A economia brasileira no Século XIX.
 tags:
-  - a-economia-brasileira-no-seculo-xix
-  - cacd-2025
-  - economia
-  - historia-economica-brasileira
+- a-economia-brasileira-no-seculo-xix
+- cacd-2025
+- economia
+- historia-economica-brasileira
 aliases:
-  - A economia brasileira no Século XIX.
+- A economia brasileira no Século XIX.
 ---
 ## A economia cafeeira no Segundo Reinado (século XIX)
 

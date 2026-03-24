@@ -1,14 +1,14 @@
 ---
 title: Desenvolvimento e desenvolvimento sustentável
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+area: '13. O Brasil e a agenda internacional:'
+subarea: 13.2 Desenvolvimento e desenvolvimento sustentável.
 tags:
-  - cacd-2025
-  - desenvolvimento-e-desenvolvimento-sustentavel
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
+- cacd-2025
+- desenvolvimento-e-desenvolvimento-sustentavel
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
 aliases:
-  - Desenvolvimento e desenvolvimento sustentável.
+- Desenvolvimento e desenvolvimento sustentável.
 ---
 # A Evolução do Conceito de Desenvolvimento: Do Crescimento Econômico ao Desenvolvimento Sustentável na Agenda Internacional
 

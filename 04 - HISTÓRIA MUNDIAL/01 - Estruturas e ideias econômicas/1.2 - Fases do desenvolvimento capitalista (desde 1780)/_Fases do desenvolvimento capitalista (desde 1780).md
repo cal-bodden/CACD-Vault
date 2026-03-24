@@ -1,14 +1,16 @@
 ---
 title: Fases do desenvolvimento capitalista (desde 1780)
-area: HISTÓRIA MUNDIAL
-subarea: Estruturas e ideias econômicas
+area: 1. Estruturas e ideias econômicas.
+subarea: 1.2 Características gerais e principais fases do desenvolvimento capitalista
+  (desde aproximadamente 1780).
 tags:
-  - cacd-2025
-  - estruturas-e-ideias-economicas
-  - fases-do-desenvolvimento-capitalista
-  - historia-mundial
+- cacd-2025
+- estruturas-e-ideias-economicas
+- fases-do-desenvolvimento-capitalista
+- historia-mundial
 aliases:
-  - Características gerais e principais fases do desenvolvimento capitalista (desde aproximadamente 1780).
+- Características gerais e principais fases do desenvolvimento capitalista (desde
+  aproximadamente 1780).
 ---
 # As Fases do Desenvolvimento Capitalista: Da Revolução Industrial à Globalização Neoliberal (1780–2025)
 

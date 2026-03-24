@@ -1,14 +1,14 @@
 ---
 title: Bretton Woods
-area: HISTÓRIA MUNDIAL
-subarea: As relações internacionais
+area: 3. As relações internacionais.
+subarea: 3.5 Os 14 pontos de Wilson.
 tags:
-  - as-relacoes-internacionais
-  - bretton-woods
-  - cacd-2025
-  - historia-mundial
+- as-relacoes-internacionais
+- bretton-woods
+- cacd-2025
+- historia-mundial
 aliases:
-  - 3.10 Bretton Woods.
+- 3.10 Bretton Woods.
 ---
 # O Sistema de Bretton Woods (1944): A Construção e o Colapso da Ordem Econômica do Pós-Guerra
 

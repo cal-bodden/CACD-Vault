@@ -1,12 +1,12 @@
 ---
 title: A Vida Cultural - Índice Geral
-area: HISTÓRIA MUNDIAL
-subarea: A vida cultural
+area: A vida cultural
+subarea: 7.6 Outros
 tags:
-  - a-cultura-do-imperialismo
-  - a-vida-cultural
-  - cacd-2025
-  - historia-mundial
+- a-cultura-do-imperialismo
+- a-vida-cultural
+- cacd-2025
+- historia-mundial
 ---
 
 # A Vida Cultural - Notas Abrangentes 

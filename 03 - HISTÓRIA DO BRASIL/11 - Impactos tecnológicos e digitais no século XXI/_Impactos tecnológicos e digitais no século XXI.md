@@ -1,13 +1,15 @@
 ---
 title: Impactos tecnológicos e digitais no século XXI
-area: HISTÓRIA DO BRASIL
+area: 11. Os impactos tecnológicos e digitais nas transformações políticas e sociais
+  do Brasil no século XXI.
 subarea: Impactos tecnológicos e digitais no século XXI
 tags:
-  - cacd-2025
-  - historia-do-brasil
-  - impactos-tecnologicos-e-digitais-no-seculo-xxi
+- cacd-2025
+- historia-do-brasil
+- impactos-tecnologicos-e-digitais-no-seculo-xxi
 aliases:
-  - Os impactos tecnológicos e digitais nas transformações políticas e sociais do Brasil no século XXI.
+- Os impactos tecnológicos e digitais nas transformações políticas e sociais do Brasil
+  no século XXI.
 ---
 # O Brasil Digital: Transformações Políticas e Sociais no Século XXI sob o Impacto da Tecnologia
 

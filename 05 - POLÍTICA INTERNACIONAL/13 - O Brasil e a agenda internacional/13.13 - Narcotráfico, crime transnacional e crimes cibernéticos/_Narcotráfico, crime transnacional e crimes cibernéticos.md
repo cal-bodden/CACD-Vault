@@ -1,14 +1,15 @@
 ---
 title: Narcotráfico, crime transnacional e crimes cibernéticos
-area: POLÍTICA INTERNACIONAL
-subarea: O Brasil e a agenda internacional
+area: '13. O Brasil e a agenda internacional:'
+subarea: 13.13 Narcotráfico, crime transnacional e crimes cibernéticos de alcance
+  global.
 tags:
-  - cacd-2025
-  - narcotrafico-crime-transnacional-e-crimes-ciberneticos
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
+- cacd-2025
+- narcotrafico-crime-transnacional-e-crimes-ciberneticos
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
 aliases:
-  - Narcotráfico, crime transnacional e crimes cibernéticos de alcance global.
+- Narcotráfico, crime transnacional e crimes cibernéticos de alcance global.
 ---
 # Ameaças Transnacionais na Segurança Internacional no Século XXI
 

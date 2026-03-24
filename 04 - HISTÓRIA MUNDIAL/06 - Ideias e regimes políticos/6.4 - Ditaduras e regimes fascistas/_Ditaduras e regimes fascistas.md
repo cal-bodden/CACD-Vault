@@ -1,14 +1,14 @@
 ---
 title: Ditaduras e regimes fascistas
-area: HISTÓRIA MUNDIAL
+area: 6. Ideias e regimes políticos.
 subarea: Ideias e regimes políticos
 tags:
-  - cacd-2025
-  - ditaduras-e-regimes-fascistas
-  - historia-mundial
-  - ideias-e-regimes-politicos
+- cacd-2025
+- ditaduras-e-regimes-fascistas
+- historia-mundial
+- ideias-e-regimes-politicos
 aliases:
-  - 6.4 Ditaduras e regimes fascistas.
+- 6.4 Ditaduras e regimes fascistas.
 ---
 # 6.3 Grandes Correntes Ideológicas da Política no Século XX: Democracia, Fascismo, Comunismo
 

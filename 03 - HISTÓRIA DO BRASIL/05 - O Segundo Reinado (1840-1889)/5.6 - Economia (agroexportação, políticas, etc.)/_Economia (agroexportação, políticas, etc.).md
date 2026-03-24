@@ -1,14 +1,15 @@
 ---
 title: Economia (agroexportação, políticas, etc.)
-area: HISTÓRIA DO BRASIL
+area: 5. O Segundo Reinado (1840-1889).
 subarea: O Segundo Reinado (1840-1889)
 tags:
-  - cacd-2025
-  - economia
-  - historia-do-brasil
-  - o-segundo-reinado
+- cacd-2025
+- economia
+- historia-do-brasil
+- o-segundo-reinado
 aliases:
-  - "5.6 Economia: a agroexportação; a expansão econômica e o trabalho assalariado; as políticas econômico-financeiras; a política alfandegária e suas consequências."
+- '5.6 Economia: a agroexportação; a expansão econômica e o trabalho assalariado;
+  as políticas econômico-financeiras; a política alfandegária e suas consequências.'
 ---
 # Economia Brasileira no Segundo Reinado (1840–1889)
 

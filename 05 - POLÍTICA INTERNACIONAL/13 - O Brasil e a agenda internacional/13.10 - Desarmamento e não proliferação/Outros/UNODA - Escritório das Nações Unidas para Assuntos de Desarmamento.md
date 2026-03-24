@@ -1,16 +1,18 @@
 ---
 tema: Escritório das Nações Unidas para Assuntos de Desarmamento (UNODA)
-area: POLÍTICA INTERNACIONAL
+area: O Brasil e a agenda internacional
 data: 07/05/2025
 tags:
-  - cacd-2025
-  - desarmamento-e-nao-proliferacao
-  - o-brasil-e-a-agenda-internacional
-  - politica-internacional
-  - ONU
-conexões: Organização das Nações Unidas (ONU), Desarmamento, NaoProliferacao, SegurancaInternacional, ControleDeArmas, RelaçõesInternacionais, DireitoInternacional
+- cacd-2025
+- desarmamento-e-nao-proliferacao
+- o-brasil-e-a-agenda-internacional
+- politica-internacional
+- ONU
+conexões: Organização das Nações Unidas (ONU), Desarmamento, NaoProliferacao, SegurancaInternacional,
+  ControleDeArmas, RelaçõesInternacionais, DireitoInternacional
 aliases:
-  - UNODA
+- UNODA
+subarea: 13.10 Desarmamento e não proliferação
 ---
 # Escritório das Nações Unidas para Assuntos de Desarmamento (UNODA)
 

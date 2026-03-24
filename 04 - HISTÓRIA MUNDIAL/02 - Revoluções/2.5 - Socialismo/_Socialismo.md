@@ -1,14 +1,14 @@
 ---
 title: Socialismo
-area: HISTÓRIA MUNDIAL
+area: 2. Revoluções.
 subarea: Revoluções
 tags:
-  - cacd-2025
-  - historia-mundial
-  - revolucoes
-  - socialismo
+- cacd-2025
+- historia-mundial
+- revolucoes
+- socialismo
 aliases:
-  - 2.5 Socialismo.
+- 2.5 Socialismo.
 ---
 # O Socialismo na História Mundial: Das Utopias do Século XIX ao "Socialismo Real" e seu Legado
 

@@ -1,14 +1,14 @@
 ---
 title: Principais ideias econômicas (Fisiocracia ao Liberalismo)
-area: HISTÓRIA MUNDIAL
-subarea: Estruturas e ideias econômicas
+area: 1. Estruturas e ideias econômicas.
+subarea: '1.3 Principais ideias econômicas: da Fisiocracia ao Liberalismo.'
 tags:
-  - cacd-2025
-  - estruturas-e-ideias-economicas
-  - historia-mundial
-  - principais-ideias-economicas
+- cacd-2025
+- estruturas-e-ideias-economicas
+- historia-mundial
+- principais-ideias-economicas
 aliases:
-  - "Principais ideias econômicas: da Fisiocracia ao Liberalismo."
+- 'Principais ideias econômicas: da Fisiocracia ao Liberalismo.'
 ---
 # A Gênese do Pensamento Econômico Moderno: Fisiocracia e a Escola Liberal Clássica
 
