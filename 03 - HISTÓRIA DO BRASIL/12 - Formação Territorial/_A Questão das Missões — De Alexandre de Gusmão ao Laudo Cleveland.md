@@ -90,8 +90,6 @@ A argumentação de Rio Branco, um compêndio exaustivo de cartografia, históri
 
 ## Bloco 2 — Vocabulário Técnico e Diplomático
 
-O domínio absoluto do jargão técnico é imperativo para a resolução precisa das questões objetivas do CACD. Os termos abaixo são cobrados de forma incisiva e repetitiva.
-
 ### Uti Possidetis, Ita Possideatis
 **Definição Histórico-Diplomática:** Expressão latina ("como possuís, assim possuais") que consagra o direito de soberania fundamentado na ocupação efetiva e pacífica do território. Transferido do direito romano privado para o direito internacional por Alexandre de Gusmão.
 **Contexto de Formulação:** Foi o esteio jurídico do Tratado de Madri (1750), invocado para justificar a superação do Tratado de Tordesilhas e legitimar a expansão luso-brasileira para a Amazônia, Mato Grosso e o Sul.
