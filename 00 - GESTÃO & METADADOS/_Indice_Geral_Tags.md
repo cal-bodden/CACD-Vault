@@ -45,7 +45,7 @@
 - [[_A Conferência de Bandung]]
 
 ### #a-configuracao-territorial-da-america-portuguesa
-- [[Grandes Questões de Fronteira do Brasil]]
+- [[_1. Grandes Questões de Fronteira do Brasil]]
 - [[Tratado de El Pardo (1761)]]
 - [[Tratado de Madri (1750)]]
 - [[Tratado de Santo Ildefonso (1777)]]
@@ -458,7 +458,7 @@
 - [[GATT - Acordo Geral sobre Tarifas e Comércio]]
 - [[Geopolítica da Transição Energética]]
 - [[Governança Global do Ciberespaço e do Sistema Financeiro]]
-- [[Grandes Questões de Fronteira do Brasil]]
+- [[_1. Grandes Questões de Fronteira do Brasil]]
 - [[Grupo de Apoio ao Contadora (1985)]]
 - [[Grupo de Contadora (1983)]]
 - [[Grupo do Rio (1986)]]
@@ -1320,7 +1320,7 @@
 - [[_Formação e estrutura dos blocos econômicos]]
 
 ### #formacao-territorial-brasil
-- [[Grandes Questões de Fronteira do Brasil]]
+- [[_1. Grandes Questões de Fronteira do Brasil]]
 - [[Tratado de El Pardo (1761)]]
 - [[Tratado de Madri (1750)]]
 - [[Tratado de Santo Ildefonso (1777)]]
@@ -1421,7 +1421,7 @@
 - [[CACD_Parte_02]]
 - [[Construção da Cultura Brasileira Pré-1922]]
 - [[Cultura Brasileira Pós-Modernismo]]
-- [[Grandes Questões de Fronteira do Brasil]]
+- [[_1. Grandes Questões de Fronteira do Brasil]]
 - [[Invasões Estrangeiras no Brasil Colônia e a Dinâmica Geopolítica do Atlântico]]
 - [[Questão Militar no Império do Brasil]]
 - [[Questão Religiosa (1872 - 1875)]]
@@ -2608,7 +2608,7 @@
 - [[Governança Climática e Energética]]
 - [[Governança Global do Ciberespaço e do Sistema Financeiro]]
 - [[Governança da Internet na Política Internacional]]
-- [[Grandes Questões de Fronteira do Brasil]]
+- [[_1. Grandes Questões de Fronteira do Brasil]]
 - [[Grupo de Apoio ao Contadora (1985)]]
 - [[Grupo de Contadora (1983)]]
 - [[Grupo do Rio (1986)]]
